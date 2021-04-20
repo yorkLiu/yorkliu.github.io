@@ -1,26 +1,34 @@
 ---
 title: 2021-04-20 IT News
 copyright: true
-date: 2021-04-20 10:01:00
+date: 2021-04-20 12:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [线上线下“双管齐下”让老年人共享便捷](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=tzbXJws4fm2ko3BS6bpzRZ*HB9DvKD1VtzOm7CLO0k3hhHHMC4L5Rk7jiBXTcC2ou*AKrb1fFF9d9wYPFDEsGfMQVQGQC4OpH47wMNIhVJI=&new=1)
- > 本报讯 记者4月19日从贵州省政务服务中心获悉，日前发布的《贵州省便利老年人办事服务工作实施方案》明确，通过设置必要的线下办事渠道和优化“互联网+政务服务”应用，“双管齐下”优化政务服务，进一步推...
- ## [韩国采用网络共享来促进农村5G部署](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=bwUL1mG2TPTMKOcmdM*iexlTBX4DZPdBgV418v3L*T1428PtE-6IBapeAeABvKIuHhZdvV0caTT6mE-rjq1t0TnEhgjuCodQD-uMlNVf9QAYn1W*VgagUWRmTEhWdEka&new=1)
- > 新闻导读韩国科学和信息通信技术部(MSIT)上周宣布，三家移动网络运营商LG Uplus、韩国电信(KT)和SK电信(SK Telecom)将在偏远的沿海和农村城镇共享他们的5G网络，以加快部署速度。ICC讯 据外媒报道称，最近韩国移...
- ## [特斯拉回应上海车展事件；GameStop CEO将于7月底辞职；Microsoft Edge 加入儿童模式|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=0FEB5xZ09ipHIHUPcqehiYTJD1-dgssVm*IJATK7NxxGofWp-yAwVQxo9ViZAJGqhHt2UrHG4gEGQ3Lu2eQsDWzej7o8iExYHwuGimaRpbEcJ3dY0s8Q8vFyTXtbeOIO&new=1)
+ ## [特斯拉回应「车闹」：决不妥协；NASA火星直升机完成首飞；「肥宅快乐水」或将涨价|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=t6BqlaKg2ySiHLCcwkktBhnqm5zp1OV8KfHUyHYS76dYnkhGgoDzN38WUTtQc6U5ZH0SEJleuOeLUjRX-7YqcZFABjNFY9TPg6A9zdfxOQoly75klysy*mi6wzuVniMW&new=1)
+ > 亚马逊计划发射首批卫星 与马斯克的「星链」争高下北京时间 4 月 20 日凌晨消息，据报道，亚马逊正准备将该公司的第一颗 Project Kuiper 互联网卫星送入轨道。亚马逊周一宣布，该公司与「联合发射联盟」（United...
+ ## [信息泄露黑灰产业链滋生巨大非法获利空间](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=A3Sgci4m2O72gnOZE-Eb-QGe732-7ndt1KOg6BuXdU2pFnAurfSBg7o12lNY9a8TtoXsxRJeQRefOWVaQby4ng4Gqscw9rSgHKR8mVrSulA=&new=1)
+ > “李女士，您所购买的小区最近正在交房，您家装修公司选好了吗？”　　“您好，我们银行最近有装修贷产品做活动，利率很优惠，您有需求吗？”　　“您家房本快下来了，您有考虑卖房吗？”　　……　　自从李...
+ ## [特斯拉回应上海车展事件；GameStop CEO将于7月底辞职；Microsoft Edge 加入儿童模式|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=0FEB5xZ09ipHIHUPcqehiYTJD1-dgssVm*IJATK7NxxVD4zVZnBhgnqAyDSfPmywZdhMidMji8Urn80VgogWmIoHuyvmpDT19mllBpUEVODvswevPdLdplZe7V6UXVur&new=1)
  > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【特斯拉回应上海车展事件】特斯拉微博回应上海车展上关于特斯拉产品安全问题的疑问和关注：如果是特斯拉产品的问题，特斯拉一定坚...
- ## [百度：打造最强量产自动驾驶引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=t-bl9D*vj9PGK8A6p73bOKVmXKyS1cMcqancxJXZUpz*xGaBW6fEyKPCrEQmG*EJut6QQwrybNirf1kEAqx2lotYdP8h9dorvCeQjJehTNIRhlCf9qG76XUIgsV8bp81&new=1)
+ ## [全球网络安全服务市场迎来黄金十年](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=sfATmfV1Ql06x9ssvQXerhIFJtJI6ZMRXn0CvdyapcoxPvdkujnjk1nLD8kDn2S3sLUaxaEusbCS8bFXEI97gsrx0Dfp0Aaug7JcTJWVCvl*9BOAcwHynIfv6DRojCNA&new=1)
+ > 根据Grand View Research，Inc.的最新报告，全球网络安全服务市场规模将在未来7年内增长到1927亿美元。 根据该报告，2020年全球网络安全服务市场的规模为911.5亿美元，2021至2028年的复合年增长率（CAGR）
+ ## [创造历史!NASA 机智号火星直升机首飞成功；字节跳动申请注册“狗头大作战”商标；阿里达摩院发布语言模型 PLUG|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=tCo0Zp5myXcAuBUMVnzp1K7NtplestdLk8kbjr0eJi2umNHMSIlUT3EHcIMNm9*uYWtYMNbxMsdbVp-LKziQ8rV20T2jQERZZRiQOIh3k9IHmcUxSgs4-uLCNUhr6ZSH&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！360 回应...
+ ## [线上线下“双管齐下”让老年人共享便捷](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=tzbXJws4fm2ko3BS6bpzRZ*HB9DvKD1VtzOm7CLO0k25b7gP2V9j2Jl8CMuTb3HGjK2lb*yZ591FhPkoiZcLiEvL2Hoo9ods8iiqGLKgGE8=&new=1)
+ > 本报讯 记者4月19日从贵州省政务服务中心获悉，日前发布的《贵州省便利老年人办事服务工作实施方案》明确，通过设置必要的线下办事渠道和优化“互联网+政务服务”应用，“双管齐下”优化政务服务，进一步推...
+ ## [韩国采用网络共享来促进农村5G部署](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=bwUL1mG2TPTMKOcmdM*iexlTBX4DZPdBgV418v3L*T3jlwSwTZVUitiG6H*3V2WMTLi3boPGqLu0xoLm7JZBmRLFCF*RART89fOk1xW23rKKyHmevVA*IJKqgV1oZcsO&new=1)
+ > 新闻导读韩国科学和信息通信技术部(MSIT)上周宣布，三家移动网络运营商LG Uplus、韩国电信(KT)和SK电信(SK Telecom)将在偏远的沿海和农村城镇共享他们的5G网络，以加快部署速度。ICC讯 据外媒报道称，最近韩国移...
+ ## [百度：打造最强量产自动驾驶引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=t-bl9D*vj9PGK8A6p73bOKVmXKyS1cMcqancxJXZUpxKHdrEPSjo9DLiLQQ6rB0zMkYbywEo*ae0fed6Yd2Jyo-B6WIxqYiAteUjWrNC*xl3NlmHzhTSTvEDEa37Na-I&new=1)
  > 2021年上海车展，自动驾驶巨头百度誓言要捍卫自己在该市场的领导者地位，并开始在多条战线上主动出击。 汽车产业，正在跑步进入自动驾驶时代，与此同时，自动驾驶巨头之间的激烈战斗已经打响。 在燃油车自动驾驶...
- ## [日本厚劳省出示用数字货币支付工资的制度方案|悦读全球](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=tCKugSIIvhXmbb7D2ZsseN30AGBMSU6psuvU6mx3z56iaHfGkgxj5MQyzhAjtwK74R0zcRqdw7l*AyK*ES8LIZlswfr8*hypL*8rILhmPGA=&new=1)
+ ## [日本厚劳省出示用数字货币支付工资的制度方案|悦读全球](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=tCKugSIIvhXmbb7D2ZsseN30AGBMSU6psuvU6mx3z54i1pBeJvfOST9Cr6lS8kxFR1bKDB7jFTjWjqfpDRBUeUMqzWySsOLlQ*e*1b6BPoo=&new=1)
  > 悦读全球（2021.04.19）日本厚劳省出示用数字货币支付工资的制度方案日本厚生劳动省19日，围绕利用通过电子信息进行交易的“数字货币”支付工资，向劳动政策审议会小组会出示了一项大致方案，内容是在保证安全性...
- ## [十年锐变，焕然升级 中国联通APP全新出发](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=uIF4s8TNy6n-ctoOz3GPht0unHOpGMVRzafdN4qET02kC*TYdwGjqsBQLIDxihrlETrFnnnHP38Z0E8vxTYRrSs6fQZLvFnwmsrAJ1cMeJQP7LSGjljaw9IY36TaX7Ut&new=1)
+ ## [十年锐变，焕然升级 中国联通APP全新出发](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=uIF4s8TNy6n-ctoOz3GPht0unHOpGMVRzafdN4qET01*wQans7FF8VZh86gOyA*1YbuWEctF3JYJ8HsJf1SPAOjPbqvmFtvAztkKJgwQfSY71lfVAv1ZIeWiAzwMOwgI&new=1)
  > 2021年4月6日，中国联通手机营业厅APP正式更名为“中国联通APP”，并从服务、生活、娱乐、财富等方面进行全面升级，致力于为客户提供更温暖的智慧体验，创造更便捷、更个性化的美好生活。在服务用户十年之际，中...
- ## [专访华为全球网络安全与用户隐私保护官：华为没有什么最高机密](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=uKET3hd90KzI4s48rgYvbdcldxxzX7X2GhQIFaUbjsY5vZgvlTSdk902C-I7Bo83NuKKeA6IVX4KYe2M9ETMO1Q86ttvm3FobkIdqvfeIn7fuvv8BoX6ptY9WbS1Xc6X&new=1)
+ ## [专访华为全球网络安全与用户隐私保护官：华为没有什么最高机密](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=uKET3hd90KzI4s48rgYvbdcldxxzX7X2GhQIFaUbjsYmNlNJFdliGizkthfTFw058wOAq7XQswifhbZ8D-BX2eP6PxhzZYt*uMIW39sIKHsNQmLJXx-c5M98VBHeT9QC&new=1)
  > 华为公司顾问田涛在2013年至2019年6年时间内，对华为上至高层下至普通员工共几百人进行了访谈，集结成了一部《华为访谈录》。本文节选自《华为访谈录》中，田涛于2014年4月24日对话华为全球网络安全与用户隐私保...
- ## [华为彭红华：推进头部行业尽快实现5GtoB规模复制](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=*EED-8lq-2tgOE5LKDvz9Z8lNOOl-3UTKd5ZwBahW9ev2O*wOZuLJEK29-iqh57O4ACUK6gBDECy4vFmowA5Bp9ug2nPjGOhZt0LK8D6TFXkRrMi0jSbxSEU354pQILn&new=1)
+ ## [华为彭红华：推进头部行业尽快实现5GtoB规模复制](http://mp.weixin.qq.com/s?src=11&timestamp=1618891204&ver=3019&signature=*EED-8lq-2tgOE5LKDvz9Z8lNOOl-3UTKd5ZwBahW9cetyq2Egi7Vc0su1Wi9A*hVqkzwIPXCfGxYgYpjUGLXf6zecC5a7S-Vh-JdvPZjPVSCZJdCuoz7JvrWk83-HJR&new=1)
  > 在华为第18届全球分析师大会期间，华为5G产品线总裁彭红华在媒体圆桌会议上表示，5G产业发展早期人们会关注合同数，随着商用进程不断推进，现在5G竞争力要看网络的实际表现，以及为运营商和客户带来的价值。彭红...
 # IT 技术 
  ## [聊一聊我在 B 站上自学编程的经历吧！](https://blog.csdn.net/qq_36894974/article/details/115861554)
@@ -29,8 +37,8 @@ categories: IT NEWS
  > 【全网首发】言简意赅的Python全套语法，内附详细知识点和思维导图！【强烈建议收藏！】
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [6年Java老鸟聊聊新人到底要不要学Java，从事互联网《打工人的那些事》](https://blog.csdn.net/qq_26525215/article/details/115870774)
- > 6年Java老鸟聊聊新人到底要不要学Java，从事互联网《打工人的那些事》
+ ## [报文如何丢弃 如何处理](https://blog.csdn.net/HYD696/article/details/115769807)
+ > 报文如何丢弃 如何处理
  ## [C语言实现自动出题、单词拼写等功能，附带管理员模式](https://blog.csdn.net/linZinan_/article/details/115712808)
  > C语言实现自动出题、单词拼写等功能，附带管理员模式
  ## [JVM——（1）为什么学习虚拟机](https://blog.csdn.net/zhouhengzhe/article/details/115840007)
@@ -51,42 +59,17 @@ categories: IT NEWS
  > 【Python】 Python小游戏-贪吃蛇大冒险
  ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
  > MySQL详细学习教程（建议收藏）
- ## [Day43.Python数据可视化（1）](https://blog.csdn.net/Tomandjava/article/details/115748886)
- > Day43.Python数据可视化（1）
-# 人工智能 
- ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
- > 技术转管理，就要丢掉技术吗？
- ## [无侵入性的在日志中打印对象的关键字段](https://blog.csdn.net/hollis_chuang/article/details/115680754)
- > 无侵入性的在日志中打印对象的关键字段
- ## [支持超过4000字节的varchar2类型](https://blog.csdn.net/bisal/article/details/115683157)
- > 支持超过4000字节的varchar2类型
- ## [我国首个 JS 语言提案在 ECMA 进入 Stage 3](https://blog.csdn.net/Taobaojishu/article/details/115683219)
- > 我国首个 JS 语言提案在 ECMA 进入 Stage 3
- ## [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://blog.csdn.net/EDDYCJY/article/details/115683313)
- > 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [13个你一定要知道的PyTorch特性](https://blog.csdn.net/u011984148/article/details/115683325)
- > 13个你一定要知道的PyTorch特性
- ## [【Python深度学习前传】用NumPy获取数组的值、分片以及改变数组的维度](https://blog.csdn.net/nokiaguy/article/details/115689176)
- > 【Python深度学习前传】用NumPy获取数组的值、分片以及改变数组的维度
- ## [TensorFlow2简单入门- Keras 模型: Sequential 顺序模型和 Model 模型](https://blog.csdn.net/qq_38251616/article/details/115690530)
- > TensorFlow2简单入门- Keras 模型: Sequential 顺序模型和 Model 模型
- ## [腾讯云TDSQL数据库核心技术理论取得进展 ，同时发布数据异常检测工具](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/115700177)
- > 腾讯云TDSQL数据库核心技术理论取得进展 ，同时发布数据异常检测工具
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [叫板英特尔，英伟达发布首个 CPU，集齐“三芯”！](https://blog.csdn.net/csdnnews/article/details/115713575)
- > 叫板英特尔，英伟达发布首个 CPU，集齐“三芯”！
- ## [用Python通过摄像头进行视频录制](https://blog.csdn.net/LaoYuanPython/article/details/115716366)
- > 
- ## [你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了](https://blog.csdn.net/devcloud/article/details/115720138)
- > 你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了
- ## [直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪](https://blog.csdn.net/programmer_editor/article/details/115725618)
- > 直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪
+ ## [第十二届蓝桥杯 2021年4月 省赛 第一场 C/C++ B组 题解](https://blog.csdn.net/qq_45799024/article/details/115838048)
+ > 第十二届蓝桥杯 2021年4月 省赛 第一场 C/C++ B组 题解
 # PM 
- ## [教你用项目管理思维做产品 打造核心竞争力！](http://www.chanpin100.com/article/114686)
- > 现在的人才市场竞争愈发激烈，为了能够应对各种风险，提高自己的价值，你要找到项目管理的核心，并且学会用项目管理的思维来做产品，这样才能创造核心竞争力，成为一个高级的产品经理！
+ ## [B端产品经理的核心能力有哪些？你了解吗？](http://www.chanpin100.com/article/114726)
+ > 想要了解B端产品经理需要学习什么，怎样学习之前，我们首先要弄清楚：B端产品经理的核心能力有哪些？只有了解了这个问题，你才能去快速的进行学习！
+ ## [互联网产品经理到底有什么出路？35岁就被劝退了？](http://www.chanpin100.com/article/114727)
+ > 今天我们来探讨一下互联网产品经理的出路，大家都知道，其实每个行业都有一个年龄的分界线，很多公司设置的年龄槛是35岁，也就是说35岁你就有可能找不到一份满意的工作了。那么互联网产品经理到底有什么出路呢？真的35岁就被劝退了？
+ ## [互联网产品经理与传统产品经理有什么区别？要掌握哪些技能？](http://www.chanpin100.com/article/114724)
+ > 今天我们来聊一聊互联网产品经理这个职业，产品经理这个行业相信大家都不陌生，那么互联网产品经理与传统产品经理有什么区别呢？它需要掌握哪些技能呢？今天我们一起来看看！
+ ## [B端产品相关学习资料非常少是什么原因导致的呢？](http://www.chanpin100.com/article/114723)
+ > 经常会有朋友问小编：作为一个B端产品经理，应该学习些什么？怎样去学？是否有相关书籍或资料推荐？没错，B端产品领域的学习资料很少，需要学习哪些内容？如何学习？在实践的道路上，小编也因为这些问题而感到痛苦。那么，B端产品相关学习资料非常少是什么原因导致的呢？请看下文的具体介绍。
  ## [产品经理的私房菜：腾讯产品能力模型（序章）](http://www.chanpin100.com/article/114671)
  > 编辑导语：为了解决”产品经理“职业成长中，不自信的问题。本系列就围绕”腾讯产品的能力模型“，一起从头梳理，每一个能力项的提升思路。希望大家从梳理过程中，找到提升的方向！
  ## [产品经理怎样做功能与原型设计？](http://www.chanpin100.com/article/114718)
@@ -117,11 +100,5 @@ categories: IT NEWS
  > 作为全国规模最大的文本信息处理领域的提供商之一，达观数据在智能文本审核领域有着无与伦比的优势，在国内推出自有知识产权的财务报表机器人、合同信息采集机器人、监管报送机器人、运营报告报表机器人、财税机器人等，应用场景涵盖智能审核招股书、智能分析财务报表、智能比对银行流水账单信息。
  ## [减少产品背锅的思维神器——灵活化设计](http://www.chanpin100.com/article/114706)
  > 我记得刚做产品那会，有一个很搞笑的事，那就是开发问我，“直接写死还是做成可配置”，我傻傻的回答说：“直接写死”。然后就看着开发呵呵偷笑着走开了。
- ## [腾讯到底有没有客服？](http://www.chanpin100.com/article/114705)
- > 先问个问题，你有没有联系到过腾讯的人工客服？客服作为产品和服务的标配，在整体用户体验中占据了比较大的权重。但是，为什么很多人都觉得腾讯没有人工客服？不管通过什么渠道联系，要么电话不通、要么机器人回复，始终无法像其他产品一样联系到人工客服。那么，腾讯到底有没有客服？
- ## [产品人如何用更少的成本推动业务高速增长？](http://www.chanpin100.com/article/114647)
- > 产品经理应聚焦四大阶段：市场、测试、体验和业务表现，还应借助第三方数据统计SDK，如友盟+U-App快速集成采集数据，节省采集成本高。另一个是解决标准问题，同时拥有标准化统计逻辑，可以有效解决指标不统一的问题，并分析流量来源、行为分析、留存及漏斗，以及整个分析过程。
- ## [“限制广告”之后 教育机构要如何寻找新的流量洼地？](http://www.chanpin100.com/article/114641)
- > 在存量运营时代，教育企业要想在激烈的市场竞争中拔得头筹，不仅要搭建好线上教育平台，还需要做好私域用户的运营。
 
     
