@@ -1,20 +1,20 @@
 ---
 title: 2021-04-20 IT News
 copyright: true
-date: 2021-04-20 08:01:02
+date: 2021-04-20 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [专访华为全球网络安全与用户隐私保护官：华为没有什么最高机密](http://mp.weixin.qq.com/s?src=11&timestamp=1618875003&ver=3019&signature=uKET3hd90KzI4s48rgYvbdcldxxzX7X2GhQIFaUbjsaPAY-fXhRgJIKRI*VOchl-GOAmCpcQGBiyCXZuZN0iCane0oJbZ6aULuMPyzl4U9HTVF6ELykrle3xFtuFG4Xt&new=1)
- > 华为公司顾问田涛在2013年至2019年6年时间内，对华为上至高层下至普通员工共几百人进行了访谈，集结成了一部《华为访谈录》。本文节选自《华为访谈录》中，田涛于2014年4月24日对话华为全球网络安全与用户隐私保...
- ## [十年锐变，焕然升级 中国联通APP全新出发](http://mp.weixin.qq.com/s?src=11&timestamp=1618875003&ver=3019&signature=uIF4s8TNy6n-ctoOz3GPht0unHOpGMVRzafdN4qET029PUTXdVcpbst7LlddBJeKgZSWinUDb7roFOvguurs9f8ziPIZw2xhR3XoGIORnDNznlj42spEFgft5DQEG63-&new=1)
- > 2021年4月6日，中国联通手机营业厅APP正式更名为“中国联通APP”，并从服务、生活、娱乐、财富等方面进行全面升级，致力于为客户提供更温暖的智慧体验，创造更便捷、更个性化的美好生活。在服务用户十年之际，中...
- ## [百度：打造最强量产自动驾驶引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1618875003&ver=3019&signature=t-bl9D*vj9PGK8A6p73bOKVmXKyS1cMcqancxJXZUpy2S8z-M8kLbahwEmQHwlzXg2sGaE5zdK2imV8iOB1q4OuCaB2UOeJFFPL0beqlQta-Ky6S4vmbfzxwoE6f9ME6&new=1)
+ ## [百度：打造最强量产自动驾驶引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=t-bl9D*vj9PGK8A6p73bOKVmXKyS1cMcqancxJXZUpy2S8z-M8kLbahwEmQHwlzXhqVzWD22MSjGsZ0h1zEfkvQkacKDmTBS6cgD-2RV0-57sNYMEFT9xpuELFhKpARd&new=1)
  > 2021年上海车展，自动驾驶巨头百度誓言要捍卫自己在该市场的领导者地位，并开始在多条战线上主动出击。 汽车产业，正在跑步进入自动驾驶时代，与此同时，自动驾驶巨头之间的激烈战斗已经打响。 在燃油车自动驾驶...
- ## [日本厚劳省出示用数字货币支付工资的制度方案|悦读全球](http://mp.weixin.qq.com/s?src=11&timestamp=1618875003&ver=3019&signature=tCKugSIIvhXmbb7D2ZsseN30AGBMSU6psuvU6mx3z57vN5zmky2W6tPHHzmQ5Vp2mbqRpe8YGM8XZzlZY59LySI1xK76LPKAcSlUFsRhv44=&new=1)
+ ## [日本厚劳省出示用数字货币支付工资的制度方案|悦读全球](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=tCKugSIIvhXmbb7D2ZsseN30AGBMSU6psuvU6mx3z54wjv5bnu38uHm8ECwMAd6lw9Svm5hHAws8S*2y1S8sFoU1eD87zCXu1GfOdeB8otU=&new=1)
  > 悦读全球（2021.04.19）日本厚劳省出示用数字货币支付工资的制度方案日本厚生劳动省19日，围绕利用通过电子信息进行交易的“数字货币”支付工资，向劳动政策审议会小组会出示了一项大致方案，内容是在保证安全性...
- ## [华为彭红华：推进头部行业尽快实现5GtoB规模复制](http://mp.weixin.qq.com/s?src=11&timestamp=1618875003&ver=3019&signature=*EED-8lq-2tgOE5LKDvz9Z8lNOOl-3UTKd5ZwBahW9cVNs2gv2JOLFnCQUFDk3e7poUYVtnltsGsE03B45ho-9R1AyZQ32fuEFH8AYc7VYTrObAfWJ5wb8OJVmP351Ck&new=1)
+ ## [十年锐变，焕然升级 中国联通APP全新出发](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=uIF4s8TNy6n-ctoOz3GPht0unHOpGMVRzafdN4qET029PUTXdVcpbst7LlddBJeKDIR7lfw9kB0FR2*Xv-KvJJQtTV4wvr4QCRGZTc9PyID*UO*tLfps1qUFxdQVhJzr&new=1)
+ > 2021年4月6日，中国联通手机营业厅APP正式更名为“中国联通APP”，并从服务、生活、娱乐、财富等方面进行全面升级，致力于为客户提供更温暖的智慧体验，创造更便捷、更个性化的美好生活。在服务用户十年之际，中...
+ ## [专访华为全球网络安全与用户隐私保护官：华为没有什么最高机密](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=uKET3hd90KzI4s48rgYvbdcldxxzX7X2GhQIFaUbjsaPAY-fXhRgJIKRI*VOchl-HCUHMq31vNuXpDm1bnIsARmr3wTGTwdrFrWZ6HEBrdG8DPYGUVX9AnHj1NTJqUPB&new=1)
+ > 华为公司顾问田涛在2013年至2019年6年时间内，对华为上至高层下至普通员工共几百人进行了访谈，集结成了一部《华为访谈录》。本文节选自《华为访谈录》中，田涛于2014年4月24日对话华为全球网络安全与用户隐私保...
+ ## [华为彭红华：推进头部行业尽快实现5GtoB规模复制](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=*EED-8lq-2tgOE5LKDvz9Z8lNOOl-3UTKd5ZwBahW9cVNs2gv2JOLFnCQUFDk3e7Ddh-HxoMnWe9FgtX0*8W9B1jypp9FpKiy-7LnE2DLs6dru4YasKiz9VZLNyVAR1o&new=1)
  > 在华为第18届全球分析师大会期间，华为5G产品线总裁彭红华在媒体圆桌会议上表示，5G产业发展早期人们会关注合同数，随着商用进程不断推进，现在5G竞争力要看网络的实际表现，以及为运营商和客户带来的价值。彭红...
 # IT 技术 
  ## [聊一聊我在 B 站上自学编程的经历吧！](https://blog.csdn.net/qq_36894974/article/details/115861554)
@@ -41,12 +41,43 @@ categories: IT NEWS
  > Python颜值打分小工具，给你的自拍美照打个分吧
  ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
  > 这11款chrome神器，用起来爽到爆
- ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
- > MySQL详细学习教程（建议收藏）
  ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
  > 【Python】 Python小游戏-贪吃蛇大冒险
- ## [Linux——（1）基本命令](https://blog.csdn.net/zhouhengzhe/article/details/115841074)
- > Linux——（1）基本命令
+ ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
+ > MySQL详细学习教程（建议收藏）
+ ## [Day43.Python数据可视化（1）](https://blog.csdn.net/Tomandjava/article/details/115748886)
+ > Day43.Python数据可视化（1）
+# 人工智能 
+ ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
+ > 技术转管理，就要丢掉技术吗？
+ ## [无侵入性的在日志中打印对象的关键字段](https://blog.csdn.net/hollis_chuang/article/details/115680754)
+ > 无侵入性的在日志中打印对象的关键字段
+ ## [支持超过4000字节的varchar2类型](https://blog.csdn.net/bisal/article/details/115683157)
+ > 支持超过4000字节的varchar2类型
+ ## [我国首个 JS 语言提案在 ECMA 进入 Stage 3](https://blog.csdn.net/Taobaojishu/article/details/115683219)
+ > 我国首个 JS 语言提案在 ECMA 进入 Stage 3
+ ## [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://blog.csdn.net/EDDYCJY/article/details/115683313)
+ > 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [13个你一定要知道的PyTorch特性](https://blog.csdn.net/u011984148/article/details/115683325)
+ > 13个你一定要知道的PyTorch特性
+ ## [【Python深度学习前传】用NumPy获取数组的值、分片以及改变数组的维度](https://blog.csdn.net/nokiaguy/article/details/115689176)
+ > 【Python深度学习前传】用NumPy获取数组的值、分片以及改变数组的维度
+ ## [TensorFlow2简单入门- Keras 模型: Sequential 顺序模型和 Model 模型](https://blog.csdn.net/qq_38251616/article/details/115690530)
+ > TensorFlow2简单入门- Keras 模型: Sequential 顺序模型和 Model 模型
+ ## [腾讯云TDSQL数据库核心技术理论取得进展 ，同时发布数据异常检测工具](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/115700177)
+ > 腾讯云TDSQL数据库核心技术理论取得进展 ，同时发布数据异常检测工具
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [叫板英特尔，英伟达发布首个 CPU，集齐“三芯”！](https://blog.csdn.net/csdnnews/article/details/115713575)
+ > 叫板英特尔，英伟达发布首个 CPU，集齐“三芯”！
+ ## [用Python通过摄像头进行视频录制](https://blog.csdn.net/LaoYuanPython/article/details/115716366)
+ > 
+ ## [你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了](https://blog.csdn.net/devcloud/article/details/115720138)
+ > 你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了
+ ## [直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪](https://blog.csdn.net/programmer_editor/article/details/115725618)
+ > 直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪
 # PM 
  ## [教你用项目管理思维做产品 打造核心竞争力！](http://www.chanpin100.com/article/114686)
  > 现在的人才市场竞争愈发激烈，为了能够应对各种风险，提高自己的价值，你要找到项目管理的核心，并且学会用项目管理的思维来做产品，这样才能创造核心竞争力，成为一个高级的产品经理！
