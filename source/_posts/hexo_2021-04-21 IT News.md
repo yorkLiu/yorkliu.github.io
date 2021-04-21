@@ -1,64 +1,70 @@
 ---
 title: 2021-04-21 IT News
 copyright: true
-date: 2021-04-21 12:00:59
+date: 2021-04-21 17:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为智能汽车驾到，汽车行业或将引发腥风血雨](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=FgteTHQGAMWMWG3vh9dd4us-9BgaRnJG7drfYxUa*n9nZGGG5Jv637IHfE2NlFnrSq4DrfBPzu*21QRC1*zRMHIBf0PHhQKeiVScrJuLwY5qQ4AnAe5DN*rkkt2jRvYw&new=1)
+ ## [华为智能汽车驾到，汽车行业或将引发腥风血雨](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=FgteTHQGAMWMWG3vh9dd4us-9BgaRnJG7drfYxUa*n9SLWSts592kSCgNUNH2cCSetrpUD8KwA6RJ-KQF078EKLat-Qj5AhaTrEdZmLGelRHQrEsLQes-dE7oQLrLfvy&new=1)
  > 在上海车展，华为正式发布了与重庆小康合作推出的赛力斯SF5，起售价为21.68万元，媒体指已有三辆赛力斯SF5开进华为上海南京东路的全球最大旗舰店，这意味着华为将正式进入汽车行业。华为具有迅速改变行业格局的...
- ## [COVID-19让光纤成为大多数运营商未来首选接入技术](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=ff389hD2rl0WglB-NBOWw6U0V9w8k3cdsd2eMHKbrOsTRopDBYYeo1Lzw6q8zmt4d*wOg-wd2ZViV1tndEw4NM0UD640gKaizDPjLvVAgllyJiRBrCMIbrhy4uqIaxs*&new=1)
- > 新闻导读Dell&x27;Oro预测，全球FTTH用户将继续在全球范围内扩张，其中增长最快的(以百分比来说)将是欧洲、北美和CALA(加勒比海和拉美)等大多数国家光纤普及率仍低于50%的市场。ICC讯 对于通信和网络领域来说，2020...
- ## [通知：TCT 3D打印展会现场直播事项](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=keNpcv4UjjToHtSsp-BP1sHLSqgwVF9oRP879MS28R-Jbrw8ermjOY3nHFtVHF8aZx8fNeKAPp0d5KA8X-uQ1MAuIq3uANbIBdKehy3Ud1GNJEezzJaAirKq5J7emBES&new=1)
- > 一年一度的2021年TCT 亚洲3D打印展即将于5月26日开幕。上一届展会上，有几十家参展企业与南极熊合作开展线上直播，取得了不错的效果，方便了数万不能到现场观看展会的用户。2021年，南极熊3D打印直播平台将更多...
- ## [勒索软件攻击水平加速，全球驻留时间缩短](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=EHgJWx6-1npmi0ivHi1N3HrAxzX9-mRQenw1GUQRD8N-lKRnDhQSNoa6044btEGYAbBE1uoR1XL5ygKMTEVgEvouNHH-69SxqEsi1hUdjvF-OGVuZTBi5nwCkQtRcCHa&new=1)
+ ## [硬盘告急!没想到矿工开始用硬盘挖币，电商库存几乎被一扫而空](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=MjHq6DbDP0T5z86gmYxNgV6y255mpWwqV5R8VAavWB5KEzfEJreO*t9IcwIhgA7WyeUmpc0uME*EprFkazq8Fw61lTdw3Nobr63ryFdUxbMu3rwphY6xgfsfhvCNgZPn&new=1)
+ > 梦晨 萧箫 发自 凹非寺 量子位 报道 | 公众号 QbitAI矿工们的热情，让不少显卡厂商断了货。正常7000元左右一张的显卡，现在翻一番都不一定能买到，更别提二手收购了。△土豪挖矿现场然而，当我看了一眼我的购物...
+ ## [2021年值得关注的5种物联网威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=PEBJ9mC4xLRIzYXkl-dXoLeI9n2qKoFPWVxuQk-wzwf*NnFEOWHFETw6j5H7cIUr12b9wlW1Q3ta5kIM--M6Kgc6sKhPBwRYFl-2-OeUZMsP9QtiD3RerPEUuN3Domz6&new=1)
+ > 关键讯息，D1时间送达！物联网设备通常缺乏诸如加密等基本的防护能力，并且其成本越来越低，使用户可以轻松地部署大量物联网设备，为物联网威胁带来了更多的机会。根据统计，到2021年底，全球可能有350亿个物联...
+ ## [7纳米制程、2.6万亿晶体管、比ipad还大，初创公司推「巨无霸」芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=JvDwlL8gKtakeomeLW-embtqcwBLoRY7aer8OA3Pdsz8dZb2EzZLMkQPDqoHmkYdkQnOh*aRG5L*elGM3JPD2k0MtvK3Lvq6CxCzp0EkwscG7mJDtAf4jVFNqG3SzZUI&new=1)
+ > 机器之心报道作者：小舟、陈萍全球最大芯片出第二代了！WSE 2 将于今年第三季度上市。WSE 2 采用 7 纳米制程工艺，晶体管数达 2.6 万亿个。近年来大量芯片进入市场，旨在加速人工智能和机器学习工作负载。基于不...
+ ## [勒索软件攻击水平加速，全球驻留时间缩短](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=EHgJWx6-1npmi0ivHi1N3HrAxzX9-mRQenw1GUQRD8OYRgE27QZBvkF*d9Am9g4*kqZ7jxgJe61Rf6EM2yBHdPR5bzSN9hV5sV8V2LzOM6Eh3ODP-tnVtdBEWgSqi3D*&new=1)
  > E安全4月18日讯   研究人员报告说，攻击者在目标网络中未被发现的时间已降至24天，但勒索软件发挥了作用。研究人员报告说，攻击者在目标网络中花费的时间更少，但是看似积极的趋势隐藏了一个令人担忧的发展趋势...
- ## [全球规模最大!国家未来互联网试验设施FITI高性能主干网开通](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=GVPvp4vYbd0rbc*1qFGDsi*7cMude0jCHtm-B8SXbs4mzsQEOwshnYqmh0Hc0FnyP2jiqsTJ7pxBsPufX5vu4X8DcjIC0TGDG3bODxZoLa8=&new=1)
+ ## [通知：TCT 3D打印展会现场直播事项](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=keNpcv4UjjToHtSsp-BP1sHLSqgwVF9oRP879MS28R9GdqMaxhTcFNB786xJWkqv8KJDKglhJPHote0Ja3sVv77hmUY9psOSySv*NiHYWJYzOXm8zdTrilmwWI0ImXQy&new=1)
+ > 一年一度的2021年TCT 亚洲3D打印展即将于5月26日开幕。上一届展会上，有几十家参展企业与南极熊合作开展线上直播，取得了不错的效果，方便了数万不能到现场观看展会的用户。2021年，南极熊3D打印直播平台将更多...
+ ## [全球规模最大!国家未来互联网试验设施FITI高性能主干网开通](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=GVPvp4vYbd0rbc*1qFGDsi*7cMude0jCHtm-B8SXbs6MXFdqHgoBsxx2WgXQwTEUCZPFs9qPe1YALeu42oz4Jc9jOIgO9HlsktW8OE8Crc4=&new=1)
  > 4月20日，“未来网络试验设施国家重大科技基础设施：未来互联网试验设施FITI（Future Internet Technology Infrastructure）”高性能主干网开通仪式在清华大学举行。　　FITI是我国信息领域第一个国
- ## [5G芯片出货将破千万!展锐5G/AR/汽车电子/工业物联网布局深度揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=p3-4fis02VU2BGFk6qDVdGSi9YX27k3WyClkqymkSB1lQ-BQze0Q-zHeYO3Sa-roBh2qESMFlEMIkKizA*vi1wzViz-poSvyoW1GARo1frx1MNKLde1I86Sk3XkiZDbG&new=1)
+ ## [COVID-19让光纤成为大多数运营商未来首选接入技术](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=ff389hD2rl0WglB-NBOWw6U0V9w8k3cdsd2eMHKbrOsYdMYbr6CZlFhyel3FptZoqcy6swkIUWDOT8lyYIr3frOaeSNrEC-5WwW-3pK1OygyldaBoFk7bLJVIioXVtsm&new=1)
+ > 新闻导读Dell&x27;Oro预测，全球FTTH用户将继续在全球范围内扩张，其中增长最快的(以百分比来说)将是欧洲、北美和CALA(加勒比海和拉美)等大多数国家光纤普及率仍低于50%的市场。ICC讯 对于通信和网络领域来说，2020...
+ ## [5G芯片出货将破千万!展锐5G/AR/汽车电子/工业物联网布局深度揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=p3-4fis02VU2BGFk6qDVdGSi9YX27k3WyClkqymkSB1Gf9SiMpM58bhKxyxi7RfdK*9loy0AzJM79QBOHUu094qVRadM4A4FXMs*J-MrUmEwJ5fYGzg1Uu4-XjGYb3kQ&new=1)
  > 4月20日，国产5G芯片厂商紫光展锐在线上召开了主题为“构GO”的2021创见未来大会。在此次发布会上，展锐回顾了近几年的公司内部的变革，明确了成为“数字世界的生态承载者”的定位。同时展锐还推出了全新的5G品...
- ## [“不造车”的华为要卖车了!赛力斯华为智选SF5今起预订，余承东现身门店卖吆喝](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=7taJNoint9*MlP7neQ7Ffn0mnrp6TKJKTzH1qQg*39u8OREHXofwHTqpi-R0hfTHLJKtEX9MHnoclYAMCBhJNFmevBuoApXuSeaFKLTdVZ-Jv-Zsd89hMzdDVQWO1izQ&new=1)
+ ## [“不造车”的华为要卖车了!赛力斯华为智选SF5今起预订，余承东现身门店卖吆喝](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=7taJNoint9*MlP7neQ7Ffn0mnrp6TKJKTzH1qQg*39unpr2xh4Dzgw0gtOLxdO32883D5D65vfwW2vCwYHv8tMW30f9EJG3bTR2jCFKcQYagjfQWKLQ2SI219QtlUVvd&new=1)
  > “不造车”的华为开始卖车了！4月20日晚间，华为常务董事、消费者业务CEO余承东现身华为位于上海南京东路的全球旗舰店，宣布正式开卖赛力斯华为智选SF5，其表示这款车型会进入华为的门店和旗舰店，以华为智选的...
- ## [“华为们”车展练兵，“造车”真能解千愁?](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=gE3bzloTLAFtWTOaneINxzMMGv7svHNUofjzaXIgWuSpcYcAsE*N4YxNt-yXNG0RSPfiFiEdxJcMQdjo6SIQKLhA01eomyhrH4X-Tl8klFrfbU65DnKYRvpc6zc6PtqB&new=1)
+ ## [“华为们”车展练兵，“造车”真能解千愁?](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=gE3bzloTLAFtWTOaneINxzMMGv7svHNUofjzaXIgWuQ-bA-qA*TcLNee0PiuhtoM8w9OxpCs8GeruiAcvI*zRY79hf2ur48T8nlTyybQF2A1lg2t62nIgc5W1kRp5COP&new=1)
  > 华夏时报记者 卢晓 北京报道智能汽车是巨头们眼下的集体选择，上一次让他们下场打得头破血流的还是至今还未分出胜负的社区卖菜。但智能汽车看起来显然更有科技感。4月19日，华为终端的官方微博连发四条微博宣布...
- ## [刘鹏教授应邀在金陵科技学院作精彩报告](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=gLhEqKvZJ2IET3IenWYjzyYbqoaqcZGHcf7QRKSMGV6Svma-kr8CAq9OhFZZT4nmDy3h1W-76iMr8hQgeeQRssL64vYPW-XJa738cNge7SKA2OF9eLZoy4WM-ByMGRSN&new=1)
+ ## [刘鹏教授应邀在金陵科技学院作精彩报告](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=gLhEqKvZJ2IET3IenWYjzyYbqoaqcZGHcf7QRKSMGV7Xmx5TLETxgbNCaasjIkpujOTGbzhep5wBEE55lGT8fkYKOnnwstiqkfvTPPjtl*CM3ss-unxjtj*l5*ApwJNI&new=1)
  > 4月19日，应金陵科技学院的邀请，刘鹏教授为该校270名软件工程专业本科生作主题为《大数据理论框架与应用实践》的报告。本次报告加深了同学们对大数据、人工智能技术的了解，对其今后的学习、深造，乃至就业十分...
- ## [紫光展锐：大破大立 做数字世界的生态承载者](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=4O2bwwHOI40EgcwYVcpE081YkOqZML9iIfh3cIH4O173vvXGV0NEgtgEmSugwntAGDu*UyGcskzcwslbTUA4HWXhqMg-h9xjMN5YSdxnej2-ajSxzT7VuqlWVT1RchQY&new=1)
+ ## [紫光展锐：大破大立 做数字世界的生态承载者](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=4O2bwwHOI40EgcwYVcpE081YkOqZML9iIfh3cIH4O14w*AJYM8vkgqWtcgQZZNJCm33FatIR63IR9otlvLVlfWtbM*8QgDBSGtN3ouwUZMJyBzlEKeWXZclVKHs8*iY5&new=1)
  > 4月20日，以“构go”为主题的2021紫光展锐创见未来大会在线上举行。会上，展锐重磅发布了5G业务新品牌——唐古拉系列，推出了Cat.1bis新技术特性，并分享了创新业务AR领域的最新商用进展。此外，展锐重申了公司...
- ## [提前布局!未来大赚的板块~](http://mp.weixin.qq.com/s?src=11&timestamp=1618975804&ver=3021&signature=4lGCQKa8d3vqNi7tmE0Jvj9SRWnSr4-ZRuHyR1RreXl*UqrBGftsVKYFTIyHmoK3CJGX*wM0pUlHfQRTB58o4iaDNA57YqyN0Bx2vgnvCmK3seOzgInyS1cG*VtNqU86&new=1)
+ ## [提前布局!未来大赚的板块~](http://mp.weixin.qq.com/s?src=11&timestamp=1618995603&ver=3021&signature=4lGCQKa8d3vqNi7tmE0Jvj9SRWnSr4-ZRuHyR1RreXlraeW-C5nS1GCd0vX1dZ2OwyyTVl3ZGObwEiXj8wJuowUrJ*09YUZ9bCp1O3e8JAvZUpvUm0UQzwAZztd*GosX&new=1)
  > 01大家好，我是落英，也是你们的人间唢呐笑笑子～ 这几天一直忙着线下见面会的事儿，这不终于忙完了，我们可以愉快的通过公众号交流了～（我和老孟的第一张合照） 今天和宝宝们唠唠自动驾驶这个话题。 没有选择...
 # IT 技术 
  ## [聊聊自学，那些让你事半功倍的自学资源！](https://blog.csdn.net/c406495762/article/details/115862550)
  > 聊聊自学，那些让你事半功倍的自学资源！
- ## [聊一聊我在 B 站上自学编程的经历吧！](https://blog.csdn.net/qq_36894974/article/details/115861554)
- > 聊一聊我在 B 站上自学编程的经历吧！
+ ## [奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115923034)
+ > 奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [阿里华为等大厂的Redis分布式锁是如何设计的?](https://blog.csdn.net/qq_33589510/article/details/115936792)
- > 阿里华为等大厂的Redis分布式锁是如何设计的?
- ## [蓝桥杯软件类竞赛---手算题攻略](https://blog.csdn.net/weixin_43914593/article/details/115795620)
- > 蓝桥杯软件类竞赛---手算题攻略
- ## [机器学习笔记2-单变量线性回归](https://blog.csdn.net/sc9018181134/article/details/115841739)
- > 机器学习笔记2-单变量线性回归
- ## [熊海CMS1.0 代码审计](https://blog.csdn.net/rfrder/article/details/115793445)
- > 熊海CMS1.0 代码审计
- ## [Vue-node.js，Webpack](https://blog.csdn.net/m0_37642480/article/details/115915191)
- > Vue-node.js，Webpack
- ## [(C) 精简 C 入门（三）](https://blog.csdn.net/weixin_43728138/article/details/115840788)
- > (C) 精简 C 入门（三）
- ## [sklearn预测pima糖尿病](https://blog.csdn.net/qq_43402639/article/details/115841530)
- > sklearn预测pima糖尿病
- ## [Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？](https://blog.csdn.net/m0_52883898/article/details/115877405)
- > Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？
- ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
- > 这11款chrome神器，用起来爽到爆
- ## [MySQL 运维 - 高阶SQL语句](https://blog.csdn.net/qq_42427971/article/details/115755632)
- > MySQL 运维 - 高阶SQL语句
+ ## [还不懂 TCP/IP 是啥？看这一篇就够了！！！](https://blog.csdn.net/qq_36894974/article/details/115943330)
+ > 还不懂 TCP/IP 是啥？看这一篇就够了！！！
+ ## [分布式医疗挂号系统(五) | 搭建后台管理系统页面](https://blog.csdn.net/weixin_43691058/article/details/115565644)
+ > 分布式医疗挂号系统(五) | 搭建后台管理系统页面
+ ## [基于 Golang 的 K8s 二次开发细节汇总](https://blog.csdn.net/weixin_36532747/article/details/115770289)
+ > 基于 Golang 的 K8s 二次开发细节汇总
+ ## [C方法的定义 调用 调试  class 8-1](https://blog.csdn.net/qq_40417070/article/details/115695432)
+ > C方法的定义 调用 调试  class 8-1
+ ## [C简单学生信息管理系统（C课程设计）](https://blog.csdn.net/robot_sh/article/details/110942448)
+ > C简单学生信息管理系统（C课程设计）
+ ## [浅显易懂的vue-router源码解析(一)](https://blog.csdn.net/brokenkay/article/details/115773964)
+ > 浅显易懂的vue-router源码解析(一)
+ ## [3.2.1 类加载机制](https://blog.csdn.net/Larry_zhu_123/article/details/115841827)
+ > 3.2.1 类加载机制
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
- ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
- > 【Python】 Python小游戏-贪吃蛇大冒险
+ ## [Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？](https://blog.csdn.net/m0_52883898/article/details/115877405)
+ > Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？
+ ## [Python128道面试题及答案详解，爆肝熬夜整理，助你吊打面试官上岸成功](https://blog.csdn.net/weixin_56957149/article/details/115767536)
+ > Python128道面试题及答案详解，爆肝熬夜整理，助你吊打面试官上岸成功
+ ## [MySQL 运维 - 高阶SQL语句](https://blog.csdn.net/qq_42427971/article/details/115755632)
+ > MySQL 运维 - 高阶SQL语句
+ ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
+ > 这11款chrome神器，用起来爽到爆
 # 人工智能 
  ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
  > 两行Python代码实现视频负片特效
@@ -93,6 +99,28 @@ categories: IT NEWS
 # PM 
  ## [AI产品经理到底是怎么火的？深度剖析AI产品！](http://www.chanpin100.com/article/114768)
  > 在这个互联网时代，AI技术越来越成熟，已经完全融入到我们的生活中了。近些年，AI产品经理这个词非常火热，今天我们就来聊一下AI产品经理到底是怎么火的？来深度剖析一些AI产品！
+ ## [Keep走向美图](http://www.chanpin100.com/article/114721)
+ > 4月中旬，运动社交平台keep传闻计划在月底向SEC（美国证券交易委员会）递交招股书，或在今年7月上市。
+ ## [模拟黑马创业活动](http://www.chanpin100.com/article/114720)
+ > 产品黑客马拉松的意思是将所有的产品设计师、 视觉设计师甚至工程师聚在一起，在一定的时间内，以头脑风暴的方式， 最大范围地搜集产品的各种可能性，然后抽象地整理出这些想法背后所隐藏的核心概念和产品需求，快速梳理出正确的产品设计方向，之后将想法转化成可视的手稿和线框图，最终变成产品雏形。
+ ## [真伪需求分析（附分析案例）](http://www.chanpin100.com/article/114719)
+ > 在产品的需求收集过程中，常会出现关于“真伪需求”的讨论。伪需求的干扰似乎总是难以避免，最大化使产品所追求的需求贴近用户的渴求，也就成为产品团队们所追逐的目标。
+ ## [产品经理可以直接截图 不画原型吗？](http://www.chanpin100.com/article/114778)
+ > 近期带着团队在进入项目的快速启动。我们在早起采用了蓝湖、禅道、teambtion的方式管理开发任务、UI设计任务、测试问题、需求管理。
+ ## [国资委：近60家央企设立数字产业公司](http://www.chanpin100.com/article/114708)
+ > 近日，国务院国资委科技创新和社会责任局局长苟坪在“2021数字化转型发展高峰论坛”上透露，已有近60家中央企业设立数字产业公司（以“航天云网”、“中电互联”为代表的60多个工业互联网平台）。下一步，将组织实施国有企业数字化转型专项行动计划。
+ ## [2021年最新：4款免费商用Logo字体下载](http://www.chanpin100.com/article/114701)
+ > 今天给大家推荐2021年最新发布的，四款免费可商用Logo字体，并附上字体文件下载链接，一起看看吧！
+ ## [在线教育迎来规范发展 教培机构转向口碑获客](http://www.chanpin100.com/article/114699)
+ > 2020年疫情期间，受“停课不停学”正常影响，教育与互联网深度融合，当“慢”教育遭遇“快”互联网，在线教育这种新模式展现出了强劲的发展势能。
+ ## [B端产品经理必须要会的财务知识有哪些](http://www.chanpin100.com/article/114775)
+ > 身为一名B端产品经理，在与客户接触的过程中，掌握一些财务知识将对我们的工作有很大帮助。那么，B端产品经理必须要会的财务知识有哪些呢？请看下文的具体介绍吧！
+ ## [B端产品经理需要懂的技术有哪些（下）](http://www.chanpin100.com/article/114774)
+ > 在上一篇文章当中，我们为大家介绍了B端产品经理需要懂的技术当中的四种，本文将继续为大家介绍B端产品经理需要懂的技术有哪些这个问题的其他内容。
+ ## [B端产品经理需要懂的技术有哪些（上）](http://www.chanpin100.com/article/114773)
+ > B端产品经理需要懂技术，这在互联网行业已是共识。那么，B端产品经理需要懂的技术有哪些呢？请看本文的具体分享内容吧！
+ ## [AI产品经理的必修课 什么是语音识别ASR？](http://www.chanpin100.com/article/114772)
+ > 语音识别是人工智能的一项重要技术，今天我们就来聊一聊到底什么是语音识别ASR？它是如何影响我们的生活？相信大部分的AI产品经理们都了解过这方面的知识，感兴趣的同学可以看看哦！
  ## [干货分享 AI硬件产品经理的必备技能](http://www.chanpin100.com/article/114771)
  > AI产品经理这个行业还是很火的，那么AI硬件产品经理是干什么的呢？必备的技能有哪些呢？今天全是干货知识，想学习的小伙伴们就继续往下看吧！
  ## [B端产品注重的点是什么？](http://www.chanpin100.com/article/114770)
@@ -109,27 +137,5 @@ categories: IT NEWS
  > 随着互联网的迅速发展，产品经理已经变成一个炙手可热的岗位了，对于产品经理来说，产品设计是必须要掌握的一项技能，那么产品设计原则你了解多少呢？下面请看本文的介绍。
  ## [产品经理这行到底应该怎样努力才不会被淘汰？（下）](http://www.chanpin100.com/article/114760)
  > 本文是产品经理这行到底应该怎样努力才不会被淘汰的下篇文章，在上一篇文章中，给大家列举了两个应对35岁天花板的方法，今天小编再给大家讲两个经验方法， 希望能帮助到大家。
- ## [腾讯阿里这些大公司面试AI产品经理 都会问什么？](http://www.chanpin100.com/article/114759)
- > 大家有没有考虑去面试大厂商的AI产品经理？这个问题就像是问“你有没有去清华北大的打算？”哈哈，好像有点多余。废话不多说，今天我们要分享的内容是腾讯阿里这些大公司面试AI产品经理 都会问什么？
- ## [产品经理这行到底应该怎样努力才不会被淘汰？（上）](http://www.chanpin100.com/article/114758)
- > 不管哪个行业，都面临着35岁的分水岭，35岁仿佛是一道魔障一样影响着我们每一个人，对于产品经理来说同样也是如此，那么产品经理这行到底应该怎样努力才不会被淘汰呢？我会分两篇文章给大家解答这个问题，本文是上篇，下面请看具体内容。
- ## [AI产品经理职业发展遇到瓶颈怎么办？如何突破自我？](http://www.chanpin100.com/article/114757)
- > 工作中你有遇到瓶颈吗？是如何解决的？今天我们就来聊聊“AI产品经理职业发展遇到瓶颈怎么办？如何突破自我？”，希望AI产品经理们能不断成长！
- ## [作为一个产品经理 要如何形成自己的知识体系？](http://www.chanpin100.com/article/114756)
- > 作为一个产品经理，要如何形成自己的知识体系？这可能是对于刚刚入行产品经理这一行的新同学来说的一个疑问，那么到底应该如何形成自己的知识体系呢？下面，请看本文小编的内容。
- ## [产品路上最大的坑是忙到没时间成长](http://www.chanpin100.com/article/114750)
- > 产品经理不一定是工作量最大的，但一定是最忙的。白天的时间基本被各种会议占据：需求评审会、竞品调研会、产品方向讨论会、用户访谈会…偶尔还要客串其他部门的会，直到晚上才有时间画画原型。
- ## [拆解知乎、脉脉等产品交互设计 深挖背后的“赞同”思维](http://www.chanpin100.com/article/114683)
- > 心理学有一条定律叫转向攻击，说的是，人不幸福，对别人不可能友善的道理。作为伟光正的产品汪，钱不是我们的驱动力，让用户幸福才是我们永恒不变的KPI和唯一的北极星指标，因此，我们在设计产品时可以低保真，但洞察人性的思考必须得是高保真。
- ## [产品经理这一行会不会落寞？以后还会吃香吗？](http://www.chanpin100.com/article/114754)
- > 产品经理这个行业从目前来看，是一个非常热门的行业，选择这一行的朋友也越来越多，那么随之而来的大家就有一个疑问：产品经理这一行会不会落寞？以后还会吃香吗？关于这个问题，小编会给大家好好地分析一下产品经理这一行业的现状，希望有疑问的同学能通过小编的分析打消疑虑。下面请看本文的内容。
- ## [AI产品经理到底在优化什么？如何找到解决方案？](http://www.chanpin100.com/article/114755)
- > 你有没有想过这个问题“AI产品经理到底在优化什么？如何找到解决方案？”可能很多人会觉得，这么简单的问题有必要问吗？但是这就是我们今天要讨论的内容，感兴趣的同学可以看看！
- ## [山顶Talk第二十五期：从小米进军汽车赛道看下一个十年风口](http://www.chanpin100.com/article/114748)
- > 随着互联网应用多场景化的发展，电动化和智能化已经成为不少硬件设备企业从传统行业转向新兴行业的必经之路。
- ## [AI产品经理必修课 你不知道的那些算法](http://www.chanpin100.com/article/114751)
- > 说到AI，许多程序员们可能脑子里就会浮现出各种各样的算法。那么作为一个AI产品经理，需要了解哪些有效的算法呢？今天分享的是AI产品经理必修课—你不知道的那些算法，一起看看吧！
- ## [码农转产品 大厂来神策……4个合肥技术人的勇敢求变之路](http://www.chanpin100.com/article/114682)
- > 在来神策之前，我是一名 iOS 程序员，老老实实写了四年的代码。在那段时间内，产品始终没变，但是陆续换了 6 个产品经理。
 
     
