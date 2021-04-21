@@ -1,21 +1,56 @@
 ---
 title: 2021-04-21 IT News
 copyright: true
-date: 2021-04-21 09:01:52
+date: 2021-04-21 10:05:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [紫光展锐：大破大立 做数字世界的生态承载者](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=4O2bwwHOI40EgcwYVcpE081YkOqZML9iIfh3cIH4O16wTy1ltGAeMVlIxx4urJV77LANJey*NslNKFvwLQ-l2ySxDRgsuMQZsM-PROC7YYhF*dOUXX5jv0N9PYQudfrW&new=1)
- > 4月20日，以“构go”为主题的2021紫光展锐创见未来大会在线上举行。会上，展锐重磅发布了5G业务新品牌——唐古拉系列，推出了Cat.1bis新技术特性，并分享了创新业务AR领域的最新商用进展。此外，展锐重申了公司...
- ## [5G芯片出货将破千万!展锐5G/AR/汽车电子/工业物联网布局深度揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=p3-4fis02VU2BGFk6qDVdGSi9YX27k3WyClkqymkSB3fNUhDI-*rH8gp6sP5YYnPM-EcP*w*8OYVxeFNmr0wwlBSTYKdsGZ9Iz9rlcgk0PbPpIT5Ro6q8Mh1Z4Q1XhQx&new=1)
- > 4月20日，国产5G芯片厂商紫光展锐在线上召开了主题为“构GO”的2021创见未来大会。在此次发布会上，展锐回顾了近几年的公司内部的变革，明确了成为“数字世界的生态承载者”的定位。同时展锐还推出了全新的5G品...
- ## [“华为们”车展练兵，“造车”真能解千愁?](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=gE3bzloTLAFtWTOaneINxzMMGv7svHNUofjzaXIgWuTMwjGgwFdegDl5UGvYjbuff*rnijbOAyEwDsYbe8ImSXcjGDcVto66zpyS79UtvlCNz3uSHEdOpgSLVmIchezO&new=1)
+ ## [COVID-19让光纤成为大多数运营商未来首选接入技术](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=ff389hD2rl0WglB-NBOWw6U0V9w8k3cdsd2eMHKbrOsTRopDBYYeo1Lzw6q8zmt4dtgHYysFeYePD0P*tC3tXIMMWOJD*LBkaXSqoR38fGxtDWPZQaXJ3HwbyI-ahPFm&new=1)
+ > 新闻导读Dell&x27;Oro预测，全球FTTH用户将继续在全球范围内扩张，其中增长最快的(以百分比来说)将是欧洲、北美和CALA(加勒比海和拉美)等大多数国家光纤普及率仍低于50%的市场。ICC讯 对于通信和网络领域来说，2020...
+ ## [“华为们”车展练兵，“造车”真能解千愁?](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=gE3bzloTLAFtWTOaneINxzMMGv7svHNUofjzaXIgWuSpcYcAsE*N4YxNt-yXNG0RYGXq7v0quM0G53DCV6IIkyvAcWPV4u3cKuHR1VllGDUoW4S7bNsh3aCsDN*5OCs6&new=1)
  > 华夏时报记者 卢晓 北京报道智能汽车是巨头们眼下的集体选择，上一次让他们下场打得头破血流的还是至今还未分出胜负的社区卖菜。但智能汽车看起来显然更有科技感。4月19日，华为终端的官方微博连发四条微博宣布...
- ## [提前布局!未来大赚的板块~](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=4lGCQKa8d3vqNi7tmE0Jvj9SRWnSr4-ZRuHyR1RreXlpFQ4VzOVWD7V94cQ-6fhKKmop2G15yuzpgri2Wc7ml0mV04vw0gH0DYvgzzhpk*29aK*lymLB7Ce1Yz1syMNp&new=1)
- > 01大家好，我是落英，也是你们的人间唢呐笑笑子～ 这几天一直忙着线下见面会的事儿，这不终于忙完了，我们可以愉快的通过公众号交流了～（我和老孟的第一张合照） 今天和宝宝们唠唠自动驾驶这个话题。 没有选择...
- ## [刘鹏教授应邀在金陵科技学院作精彩报告](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=gLhEqKvZJ2IET3IenWYjzyYbqoaqcZGHcf7QRKSMGV5FxB9RRquhFK5GaPpxj6U0l0jCA29VVGmM7a4YQ1ndhAZ9j0No1BHCuRArcTF9mIlUVLlVfRddc4Szd66SC4P8&new=1)
+ ## [“不造车”的华为要卖车了!赛力斯华为智选SF5今起预订，余承东现身门店卖吆喝](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=7taJNoint9*MlP7neQ7Ffn0mnrp6TKJKTzH1qQg*39u8OREHXofwHTqpi-R0hfTHhaEwzJPkcNRfFrnjzEJhwWd1qetshZ6J2SsX9GeuEl21O53itIHkaKGG9jZjYKfc&new=1)
+ > “不造车”的华为开始卖车了！4月20日晚间，华为常务董事、消费者业务CEO余承东现身华为位于上海南京东路的全球旗舰店，宣布正式开卖赛力斯华为智选SF5，其表示这款车型会进入华为的门店和旗舰店，以华为智选的...
+ ## [刘鹏教授应邀在金陵科技学院作精彩报告](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=gLhEqKvZJ2IET3IenWYjzyYbqoaqcZGHcf7QRKSMGV6Svma-kr8CAq9OhFZZT4nmji-5GXAslGgs1orn5IQIQis4yYqg1jUV9uK6GjqPzwDACc-9vZ0HkXWPUEQoViKs&new=1)
  > 4月19日，应金陵科技学院的邀请，刘鹏教授为该校270名软件工程专业本科生作主题为《大数据理论框架与应用实践》的报告。本次报告加深了同学们对大数据、人工智能技术的了解，对其今后的学习、深造，乃至就业十分...
+ ## [5G芯片出货将破千万!展锐5G/AR/汽车电子/工业物联网布局深度揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=p3-4fis02VU2BGFk6qDVdGSi9YX27k3WyClkqymkSB1lQ-BQze0Q-zHeYO3Sa-room2yBGfqEzJu34kIogpXXRW7yXJ--ymiETHlHkbpx7RvBV2zgt2M3sS7cwKOyy4X&new=1)
+ > 4月20日，国产5G芯片厂商紫光展锐在线上召开了主题为“构GO”的2021创见未来大会。在此次发布会上，展锐回顾了近几年的公司内部的变革，明确了成为“数字世界的生态承载者”的定位。同时展锐还推出了全新的5G品...
+ ## [紫光展锐：大破大立 做数字世界的生态承载者](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=4O2bwwHOI40EgcwYVcpE081YkOqZML9iIfh3cIH4O173vvXGV0NEgtgEmSugwntAnsEeIkFr28-K0cSnY*nF*Br0SCj-NCl3*5dCcCstyaxf1jj9gyUhWUWf7J94Dre7&new=1)
+ > 4月20日，以“构go”为主题的2021紫光展锐创见未来大会在线上举行。会上，展锐重磅发布了5G业务新品牌——唐古拉系列，推出了Cat.1bis新技术特性，并分享了创新业务AR领域的最新商用进展。此外，展锐重申了公司...
+ ## [提前布局!未来大赚的板块~](http://mp.weixin.qq.com/s?src=11&timestamp=1618970404&ver=3021&signature=4lGCQKa8d3vqNi7tmE0Jvj9SRWnSr4-ZRuHyR1RreXl*UqrBGftsVKYFTIyHmoK3z6RFLA-n0rlH2ih11Bqa4wAnoYVBj-k1eSTFOUH7QxZ8NmqCBheOZOkl7KiGe8Pz&new=1)
+ > 01大家好，我是落英，也是你们的人间唢呐笑笑子～ 这几天一直忙着线下见面会的事儿，这不终于忙完了，我们可以愉快的通过公众号交流了～（我和老孟的第一张合照） 今天和宝宝们唠唠自动驾驶这个话题。 没有选择...
+# IT 技术 
+ ## [聊聊自学，那些让你事半功倍的自学资源！](https://blog.csdn.net/c406495762/article/details/115862550)
+ > 聊聊自学，那些让你事半功倍的自学资源！
+ ## [聊一聊我在 B 站上自学编程的经历吧！](https://blog.csdn.net/qq_36894974/article/details/115861554)
+ > 聊一聊我在 B 站上自学编程的经历吧！
+ ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
+ > 
+ ## [和阿里P8大佬面试互怼了半小时的Fork/Join的原理!](https://blog.csdn.net/qq_33589510/article/details/115913283)
+ > 和阿里P8大佬面试互怼了半小时的Fork/Join的原理!
+ ## [蓝桥杯软件类竞赛---手算题攻略](https://blog.csdn.net/weixin_43914593/article/details/115795620)
+ > 蓝桥杯软件类竞赛---手算题攻略
+ ## [机器学习笔记2-单变量线性回归](https://blog.csdn.net/sc9018181134/article/details/115841739)
+ > 机器学习笔记2-单变量线性回归
+ ## [熊海CMS1.0 代码审计](https://blog.csdn.net/rfrder/article/details/115793445)
+ > 熊海CMS1.0 代码审计
+ ## [Vue-node.js，Webpack](https://blog.csdn.net/m0_37642480/article/details/115915191)
+ > Vue-node.js，Webpack
+ ## [(C) 精简 C 入门（三）](https://blog.csdn.net/weixin_43728138/article/details/115840788)
+ > (C) 精简 C 入门（三）
+ ## [sklearn预测pima糖尿病](https://blog.csdn.net/qq_43402639/article/details/115841530)
+ > sklearn预测pima糖尿病
+ ## [Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？](https://blog.csdn.net/m0_52883898/article/details/115877405)
+ > Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？
+ ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
+ > 这11款chrome神器，用起来爽到爆
+ ## [MySQL 运维 - 高阶SQL语句](https://blog.csdn.net/qq_42427971/article/details/115755632)
+ > MySQL 运维 - 高阶SQL语句
+ ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
+ > 【Python】 Python小游戏-贪吃蛇大冒险
+ ## [Python128道面试题及答案详解，爆肝熬夜整理，助你吊打面试官上岸成功](https://blog.csdn.net/weixin_56957149/article/details/115767536)
+ > Python128道面试题及答案详解，爆肝熬夜整理，助你吊打面试官上岸成功
 # 人工智能 
  ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
  > 技术转管理，就要丢掉技术吗？
@@ -48,6 +83,8 @@ categories: IT NEWS
  ## [实践和原则，哪个更重要？tcp syncookie的问题和解法](https://blog.csdn.net/dog250/article/details/115783320)
  > 实践和原则，哪个更重要？tcp syncookie的问题和解法
 # PM 
+ ## [6000字方法论：如何做好私域运营？](http://www.chanpin100.com/article/114687)
+ > 如果公域流量是大海，那么用户就是鱼，想要钓鱼就要有鱼饵。起初，钓鱼的人少，鱼饵不用太好，就能钓起一大堆鱼。但随着钓鱼的人越来越多，鱼的选择多了，嘴巴被养刁了，你只有花更多的钱，买更好的鱼饵，鱼才会上钩。
  ## [关于产品设计技巧的简要分析与介绍](http://www.chanpin100.com/article/114762)
  > 关于产品设计的技巧和方法，你都了解多少呢？作为一名产品经理，产品设计是必须要掌握的一个课题，下面小编就给大家简要分析和介绍一下产品设计的几个技巧吧。
  ## [这些产品设计原则你都了解多少？](http://www.chanpin100.com/article/114761)
@@ -84,7 +121,5 @@ categories: IT NEWS
  > 你是一个合格的AI产品经理吗？你有问过自己这个问题吗？在回答这个问题之前，你要知道自己掌握了哪些核心技能？下面我们来了解一下AI产品经理的必备技能吧！
  ## [9大效率工具！产品经理必备](http://www.chanpin100.com/article/114679)
  > 产品经理作为产品整条生命线的总指挥，需要负责需求分析、业务建模、产品管理、数据监控等各个环节，要做的事十分繁杂。因此对产品经理来说，掌握一些可以提升工作效率的工具，是非常必要的。
- ## [二手电商迎来“新风口”？](http://www.chanpin100.com/article/114678)
- > 近日转转获得国内二手电商领域最大的单笔现金融资，拍拍联合快手二手直播带货，闲鱼提交微信小程序申请，闲鱼重启“闲鱼优品”，抖音二手奢侈品直播带货，爱回收（万物新生）计划6月赴美上市。
 
     
