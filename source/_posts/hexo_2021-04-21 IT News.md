@@ -1,52 +1,21 @@
 ---
 title: 2021-04-21 IT News
 copyright: true
-date: 2021-04-21 08:01:06
+date: 2021-04-21 09:01:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [紫光展锐：大破大立 做数字世界的生态承载者](http://mp.weixin.qq.com/s?src=11&timestamp=1618963204&ver=3021&signature=4O2bwwHOI40EgcwYVcpE081YkOqZML9iIfh3cIH4O16wTy1ltGAeMVlIxx4urJV7zArNRQv346Nbx5mLVN9MfKcImp3bOLvqY4KIcWpGr5htPZvhI-95LOY2uFd0Rcmb&new=1)
+ ## [紫光展锐：大破大立 做数字世界的生态承载者](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=4O2bwwHOI40EgcwYVcpE081YkOqZML9iIfh3cIH4O16wTy1ltGAeMVlIxx4urJV77LANJey*NslNKFvwLQ-l2ySxDRgsuMQZsM-PROC7YYhF*dOUXX5jv0N9PYQudfrW&new=1)
  > 4月20日，以“构go”为主题的2021紫光展锐创见未来大会在线上举行。会上，展锐重磅发布了5G业务新品牌——唐古拉系列，推出了Cat.1bis新技术特性，并分享了创新业务AR领域的最新商用进展。此外，展锐重申了公司...
- ## [提前布局!未来大赚的板块~](http://mp.weixin.qq.com/s?src=11&timestamp=1618963204&ver=3021&signature=4lGCQKa8d3vqNi7tmE0Jvj9SRWnSr4-ZRuHyR1RreXlpFQ4VzOVWD7V94cQ-6fhKo*jv9szyzWmTEzrKKW6TZIpqDTffcqQfJ9asXW5gqbt07k*U56xL9epvUnDxphZq&new=1)
- > 01大家好，我是落英，也是你们的人间唢呐笑笑子～ 这几天一直忙着线下见面会的事儿，这不终于忙完了，我们可以愉快的通过公众号交流了～（我和老孟的第一张合照） 今天和宝宝们唠唠自动驾驶这个话题。 没有选择...
- ## [“华为们”车展练兵，“造车”真能解千愁?](http://mp.weixin.qq.com/s?src=11&timestamp=1618963204&ver=3021&signature=gE3bzloTLAFtWTOaneINxzMMGv7svHNUofjzaXIgWuTMwjGgwFdegDl5UGvYjbufzCh44QQd0ZH10Fu7*y0JiZpjOdeoeF1pCR*RBstTZU7Pf3TKpAbY3QByNRclM29Y&new=1)
- > 华夏时报记者 卢晓 北京报道智能汽车是巨头们眼下的集体选择，上一次让他们下场打得头破血流的还是至今还未分出胜负的社区卖菜。但智能汽车看起来显然更有科技感。4月19日，华为终端的官方微博连发四条微博宣布...
- ## [刘鹏教授应邀在金陵科技学院作精彩报告](http://mp.weixin.qq.com/s?src=11&timestamp=1618963204&ver=3021&signature=gLhEqKvZJ2IET3IenWYjzyYbqoaqcZGHcf7QRKSMGV5FxB9RRquhFK5GaPpxj6U0vPsIbBt7eaousLjvVyBcDKaqQesycnkEw02crxzQ7w79nEbImM0Upe3lXbnyZjbD&new=1)
- > 4月19日，应金陵科技学院的邀请，刘鹏教授为该校270名软件工程专业本科生作主题为《大数据理论框架与应用实践》的报告。本次报告加深了同学们对大数据、人工智能技术的了解，对其今后的学习、深造，乃至就业十分...
- ## [5G芯片出货将破千万!展锐5G/AR/汽车电子/工业物联网布局深度揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1618963204&ver=3021&signature=p3-4fis02VU2BGFk6qDVdGSi9YX27k3WyClkqymkSB3fNUhDI-*rH8gp6sP5YYnPq2zzevzV2RXdRdJt4PRZ7CK1SSCl*IClu4pZm0J*VJjM3Wt47UoSnMk1bX4TY1Hk&new=1)
+ ## [5G芯片出货将破千万!展锐5G/AR/汽车电子/工业物联网布局深度揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=p3-4fis02VU2BGFk6qDVdGSi9YX27k3WyClkqymkSB3fNUhDI-*rH8gp6sP5YYnPM-EcP*w*8OYVxeFNmr0wwlBSTYKdsGZ9Iz9rlcgk0PbPpIT5Ro6q8Mh1Z4Q1XhQx&new=1)
  > 4月20日，国产5G芯片厂商紫光展锐在线上召开了主题为“构GO”的2021创见未来大会。在此次发布会上，展锐回顾了近几年的公司内部的变革，明确了成为“数字世界的生态承载者”的定位。同时展锐还推出了全新的5G品...
-# IT 技术 
- ## [聊一聊我在 B 站上自学编程的经历吧！](https://blog.csdn.net/qq_36894974/article/details/115861554)
- > 聊一聊我在 B 站上自学编程的经历吧！
- ## [超硬核十万字！全网最全 数据结构 代码，随便秒杀老师/面试官，我说的](https://blog.csdn.net/hebtu666/article/details/115587600)
- > 超硬核十万字！全网最全 数据结构 代码，随便秒杀老师/面试官，我说的
- ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
- > 
- ## [和阿里P8大佬面试互怼了半小时的Fork/Join的原理!](https://blog.csdn.net/qq_33589510/article/details/115913283)
- > 和阿里P8大佬面试互怼了半小时的Fork/Join的原理!
- ## [蓝桥杯软件类竞赛---手算题攻略](https://blog.csdn.net/weixin_43914593/article/details/115795620)
- > 蓝桥杯软件类竞赛---手算题攻略
- ## [机器学习笔记2-单变量线性回归](https://blog.csdn.net/sc9018181134/article/details/115841739)
- > 机器学习笔记2-单变量线性回归
- ## [熊海CMS1.0 代码审计](https://blog.csdn.net/rfrder/article/details/115793445)
- > 熊海CMS1.0 代码审计
- ## [Vue-node.js，Webpack](https://blog.csdn.net/m0_37642480/article/details/115915191)
- > Vue-node.js，Webpack
- ## [(C) 精简 C 入门（三）](https://blog.csdn.net/weixin_43728138/article/details/115840788)
- > (C) 精简 C 入门（三）
- ## [sklearn预测pima糖尿病](https://blog.csdn.net/qq_43402639/article/details/115841530)
- > sklearn预测pima糖尿病
- ## [Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？](https://blog.csdn.net/m0_52883898/article/details/115877405)
- > Java基础语法（十一）类？对象？我能不能写个妹子类给自己造个（一个够吗？）对象？
- ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
- > 这11款chrome神器，用起来爽到爆
- ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
- > 【Python】 Python小游戏-贪吃蛇大冒险
- ## [Python128道面试题及答案详解，爆肝熬夜整理，助你吊打面试官上岸成功](https://blog.csdn.net/weixin_56957149/article/details/115767536)
- > Python128道面试题及答案详解，爆肝熬夜整理，助你吊打面试官上岸成功
- ## [MySQL 运维 - 高阶SQL语句](https://blog.csdn.net/qq_42427971/article/details/115755632)
- > MySQL 运维 - 高阶SQL语句
+ ## [“华为们”车展练兵，“造车”真能解千愁?](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=gE3bzloTLAFtWTOaneINxzMMGv7svHNUofjzaXIgWuTMwjGgwFdegDl5UGvYjbuff*rnijbOAyEwDsYbe8ImSXcjGDcVto66zpyS79UtvlCNz3uSHEdOpgSLVmIchezO&new=1)
+ > 华夏时报记者 卢晓 北京报道智能汽车是巨头们眼下的集体选择，上一次让他们下场打得头破血流的还是至今还未分出胜负的社区卖菜。但智能汽车看起来显然更有科技感。4月19日，华为终端的官方微博连发四条微博宣布...
+ ## [提前布局!未来大赚的板块~](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=4lGCQKa8d3vqNi7tmE0Jvj9SRWnSr4-ZRuHyR1RreXlpFQ4VzOVWD7V94cQ-6fhKKmop2G15yuzpgri2Wc7ml0mV04vw0gH0DYvgzzhpk*29aK*lymLB7Ce1Yz1syMNp&new=1)
+ > 01大家好，我是落英，也是你们的人间唢呐笑笑子～ 这几天一直忙着线下见面会的事儿，这不终于忙完了，我们可以愉快的通过公众号交流了～（我和老孟的第一张合照） 今天和宝宝们唠唠自动驾驶这个话题。 没有选择...
+ ## [刘鹏教授应邀在金陵科技学院作精彩报告](http://mp.weixin.qq.com/s?src=11&timestamp=1618966803&ver=3021&signature=gLhEqKvZJ2IET3IenWYjzyYbqoaqcZGHcf7QRKSMGV5FxB9RRquhFK5GaPpxj6U0l0jCA29VVGmM7a4YQ1ndhAZ9j0No1BHCuRArcTF9mIlUVLlVfRddc4Szd66SC4P8&new=1)
+ > 4月19日，应金陵科技学院的邀请，刘鹏教授为该校270名软件工程专业本科生作主题为《大数据理论框架与应用实践》的报告。本次报告加深了同学们对大数据、人工智能技术的了解，对其今后的学习、深造，乃至就业十分...
 # 人工智能 
  ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
  > 技术转管理，就要丢掉技术吗？
