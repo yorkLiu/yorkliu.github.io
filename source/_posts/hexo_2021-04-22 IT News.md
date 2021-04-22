@@ -1,20 +1,22 @@
 ---
 title: 2021-04-22 IT News
 copyright: true
-date: 2021-04-22 08:01:06
+date: 2021-04-22 09:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [打破超短焦投影技术垄断，昇暘光学让国产品牌拥有更多议价权](http://mp.weixin.qq.com/s?src=11&timestamp=1619049604&ver=3023&signature=yYmqtz6-1xgR8u7ixa8TBkJrzRyKYj3Vi9xdz0i8I1c32jSjWTUti1q6i51e3jXijMmhB92PqW6BHLacLpsI8lhBQtOskLcO5VM145Gxr9ZwUnWIx5ci14bl4Ag-1Pmt&new=1)
+ ## [打破超短焦投影技术垄断，昇暘光学让国产品牌拥有更多议价权](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=yYmqtz6-1xgR8u7ixa8TBkJrzRyKYj3Vi9xdz0i8I1fQGdZRBxeB00pGScGw53CxenEoBEGXe-fy6ifAi2bbgzZtNH9FqP5Ds5RGx2z7Z9ufgRZMiIyByj1GjXGkN35H&new=1)
  > 作者｜沉舟来源｜创头条“全球所有超短焦投影公司，在镜头选择上有了第二个选择。”昇暘光学创始人李文宗博士告诉创头条。 何为超短焦投影？资料显示，超短焦投影作为一种新型显示技术，具有能够在短距离内（几...
- ## [人事：中国电信重要子公司高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1619049604&ver=3023&signature=qfo75pxNQsHgDWYU7RTgCqqDMvCqhXEdKeJm0x2uWQtpHP-ARJHbabehwmviCoDAT*ZAKSmx5*KiVdoEHWsP14zGYGxAI14BFQilo478bcSGcQhx9d2-yxhgpxVOtrzR&new=1)
- > 运营商情报获悉，原中国电信集团共享服务中心黄旭丹任天翼融资租赁有限公司董事长。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [工信部：一季度电信业务收入累计完成3601亿元 同比增长6.5%](http://mp.weixin.qq.com/s?src=11&timestamp=1619049604&ver=3023&signature=juabqVXaGCQIXvGMRGyBjjm8GjD26PtDxbBrRwp4mZK850kEE*cfVtp2SqPpVPA4dy1WL-ma6bXUlHY0Okg-esWliXUcVA0C-fRhFSHTGUQ=&new=1)
- > 上证报中国证券网讯 据工信部4月21日消息，工信部今日发布的2021年一季度通信业经济运行情况显示，一季度电信业务收入增速持续提升，电信业务收入累计完成3601亿元，同比增长6.5%，增速同比提高4.7个百分点...
- ## [无惧全球芯片短缺影响，联发科在美国市场挑战高通!](http://mp.weixin.qq.com/s?src=11&timestamp=1619049604&ver=3023&signature=AYdTfZT12sNbs21gSfRRQ-VsYth8ITBDPcJr4OPQpguzEf5xtHQipQJ4nS3vJtUfK8olw1g-rMefB-Cqxp-Cm4CrmQrqHL*BSOnBdmAjqVzc3DrSvpLR*jUxsAbm4VBm&new=1)
+ ## [无惧全球芯片短缺影响，联发科在美国市场挑战高通!](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=AYdTfZT12sNbs21gSfRRQ-VsYth8ITBDPcJr4OPQpgvVRGxjTTRvXoaJLsWAgK0USAL9cDFZGbnDBo-XUuqDCu9Q9glkQDtX9WcbZbd41XehqRwFISlKaXjMNCMv8WbT&new=1)
  > 近日，在接受外媒 Light Reading 采访中，联发科美国政府关系副总裁 Patrick Wilson 回答了关于智能手机行业的总体状况、5G 的一些问题，并谈论一些关于全球芯片短缺的话题。在 2020 年，联发科被评为智能手机市...
- ## [独家对话朱慧敏：5GtoC蓄势待发，超级上行成直播利器](http://mp.weixin.qq.com/s?src=11&timestamp=1619049604&ver=3023&signature=NMpfPMZ887yTZO50mpZ15yHMOD*GRoooPS5YQL603l8QNANhOV9whfMyKWcc-Qd*QOqdNPK75z4pi3uq8lkClNv1qGr9zhs0DuRBlP*QUv20Ctpr59l1btQpLHURZuzt&new=1)
+ ## [工信部：一季度电信业务收入累计完成3601亿元 同比增长6.5%](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=juabqVXaGCQIXvGMRGyBjjm8GjD26PtDxbBrRwp4mZL830mLDZMvHXEWrvoN9IJRDkeJ5Prs4GVUZaMWTu8MrZuZlWRdeGLVePzCY26c38o=&new=1)
+ > 上证报中国证券网讯 据工信部4月21日消息，工信部今日发布的2021年一季度通信业经济运行情况显示，一季度电信业务收入增速持续提升，电信业务收入累计完成3601亿元，同比增长6.5%，增速同比提高4.7个百分点...
+ ## [人事：中国电信重要子公司高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=qfo75pxNQsHgDWYU7RTgCqqDMvCqhXEdKeJm0x2uWQukMv7OHIMYgeGlmnyoHRpCSD4IoHMe77HsFXFZjx0saMKQ9J9dpbLRyU5NKT8Ozo*XI5wVIdP0Cz2h65LyXuqr&new=1)
+ > 运营商情报获悉，原中国电信集团共享服务中心黄旭丹任天翼融资租赁有限公司董事长。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
+ ## [李鸿忠廖国勋与小米集团董事长雷军座谈](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=OAD4qIKVt*d1dj89MlBPNqQHUiE1btr3Ggzb2poJAzR4CsH-D3ZtDe1DLOSn8MGpIF3-O6ZgJ21YAe7obX63cFG3EsL0Jp*jGqMzpewwb0gpwbX1tikQTa4N4YwX2KVC&new=1)
+ > 本报讯（记者 魏彧 于春沣）21日下午，市委书记李鸿忠，市委副书记、市长廖国勋在迎宾馆与小米集团董事长兼首席执行官雷军、小米集团总裁王翔、金山集团首席执行官邹涛、九安医疗负责人一行座谈。李鸿忠说，小米...
+ ## [独家对话朱慧敏：5GtoC蓄势待发，超级上行成直播利器](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=NMpfPMZ887yTZO50mpZ15yHMOD*GRoooPS5YQL603l8OyzNWDPbZ9eJwqa00cCsWTtnrXIR7OoJwYL2B2GxDB3U8CJOal-lwroDOwhE3KYA79hJgdpoP2xopowtYTduX&new=1)
  > 4月20日，工信部表示，截至2月底，中国累计建成5G基站79.2万个，独立组网模式（SA）的5G网络覆盖所有地级市，5G终端连接数已达2.6亿，5G套餐用户超过3.6亿户，5G套餐的单价目前下降到每个G为4.4元。而且，今年3...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115923034)
@@ -23,8 +25,8 @@ categories: IT NEWS
  > 面试官：为什么 0.1 + 0.2 == 0.300000004 ？
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [计算机网络学习：网络层IP数据报、ICMP协议 看一篇就够了！（含具体实验演示）](https://blog.csdn.net/Charzous/article/details/115956836)
- > 计算机网络学习：网络层IP数据报、ICMP协议 看一篇就够了！（含具体实验演示）
+ ## [（8）小白又如何？3分钟搞定一个 C 知识点](https://blog.csdn.net/A757291228/article/details/115966284)
+ > （8）小白又如何？3分钟搞定一个 C 知识点
  ## [Postman：常用的Pre-request Script方法【MD5+时间戳+获取当前时间】](https://blog.csdn.net/J_____Q/article/details/115721237)
  > Postman：常用的Pre-request Script方法【MD5+时间戳+获取当前时间】
  ## [谷歌内部流出Jetpack Compose最全上手指南，含项目实战演练！](https://blog.csdn.net/Android23333/article/details/115909964)
@@ -45,8 +47,8 @@ categories: IT NEWS
  > 这11款chrome神器，用起来爽到爆
  ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
  > 【Python】 Python小游戏-贪吃蛇大冒险
- ## [请你不要在这样使用 int 和 Integer 了 ！！](https://blog.csdn.net/w903328615/article/details/115874626)
- > 请你不要在这样使用 int 和 Integer 了 ！！
+ ## [Python爬取笔趣阁小说，有趣又实用](https://blog.csdn.net/zhiguigu/article/details/115915722)
+ > Python爬取笔趣阁小说，有趣又实用
 # 人工智能 
  ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
  > 两行Python代码实现视频负片特效
