@@ -1,22 +1,30 @@
 ---
 title: 2021-04-22 IT News
 copyright: true
-date: 2021-04-22 09:01:01
+date: 2021-04-22 10:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [打破超短焦投影技术垄断，昇暘光学让国产品牌拥有更多议价权](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=yYmqtz6-1xgR8u7ixa8TBkJrzRyKYj3Vi9xdz0i8I1fQGdZRBxeB00pGScGw53CxenEoBEGXe-fy6ifAi2bbgzZtNH9FqP5Ds5RGx2z7Z9ufgRZMiIyByj1GjXGkN35H&new=1)
- > 作者｜沉舟来源｜创头条“全球所有超短焦投影公司，在镜头选择上有了第二个选择。”昇暘光学创始人李文宗博士告诉创头条。 何为超短焦投影？资料显示，超短焦投影作为一种新型显示技术，具有能够在短距离内（几...
- ## [无惧全球芯片短缺影响，联发科在美国市场挑战高通!](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=AYdTfZT12sNbs21gSfRRQ-VsYth8ITBDPcJr4OPQpgvVRGxjTTRvXoaJLsWAgK0USAL9cDFZGbnDBo-XUuqDCu9Q9glkQDtX9WcbZbd41XehqRwFISlKaXjMNCMv8WbT&new=1)
- > 近日，在接受外媒 Light Reading 采访中，联发科美国政府关系副总裁 Patrick Wilson 回答了关于智能手机行业的总体状况、5G 的一些问题，并谈论一些关于全球芯片短缺的话题。在 2020 年，联发科被评为智能手机市...
- ## [工信部：一季度电信业务收入累计完成3601亿元 同比增长6.5%](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=juabqVXaGCQIXvGMRGyBjjm8GjD26PtDxbBrRwp4mZL830mLDZMvHXEWrvoN9IJRDkeJ5Prs4GVUZaMWTu8MrZuZlWRdeGLVePzCY26c38o=&new=1)
- > 上证报中国证券网讯 据工信部4月21日消息，工信部今日发布的2021年一季度通信业经济运行情况显示，一季度电信业务收入增速持续提升，电信业务收入累计完成3601亿元，同比增长6.5%，增速同比提高4.7个百分点...
- ## [人事：中国电信重要子公司高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=qfo75pxNQsHgDWYU7RTgCqqDMvCqhXEdKeJm0x2uWQukMv7OHIMYgeGlmnyoHRpCSD4IoHMe77HsFXFZjx0saMKQ9J9dpbLRyU5NKT8Ozo*XI5wVIdP0Cz2h65LyXuqr&new=1)
- > 运营商情报获悉，原中国电信集团共享服务中心黄旭丹任天翼融资租赁有限公司董事长。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [李鸿忠廖国勋与小米集团董事长雷军座谈](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=OAD4qIKVt*d1dj89MlBPNqQHUiE1btr3Ggzb2poJAzR4CsH-D3ZtDe1DLOSn8MGpIF3-O6ZgJ21YAe7obX63cFG3EsL0Jp*jGqMzpewwb0gpwbX1tikQTa4N4YwX2KVC&new=1)
+ ## [7点见|特斯拉再发声：全力配合提供车辆原始数据；狗狗币10天上涨约450%](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=uAYPBJ8wHtqDtSfVlA1zKF-58UkOGKyIUnFvl2gPRtu3p1vyBvyTv8WtmfVuHgXkUwVcCgeCetizaflN0XUTWTZJh0sfLQaRKywhffl3l8EBWUl9jXNvjtlQuAVcjMYB&new=1)
+ > 各位小伙伴早上好呀！以下是今天的早报！特斯拉深夜再发声：全力配合提供车辆原始数据，承担全部鉴定费用4月21日，特斯拉连续第三日深夜发布公告，特斯拉称，愿意全力配合，提供事发前半小时的车辆原始数据给第...
+ ## [李鸿忠廖国勋与小米集团董事长雷军座谈](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=OAD4qIKVt*d1dj89MlBPNqQHUiE1btr3Ggzb2poJAzR4CsH-D3ZtDe1DLOSn8MGpgk3E1O5R0lAGpQNICKCcLv9DY4m32uBjkfZ158iYxjuDdhccV6b2Br0ySkjuUSby&new=1)
  > 本报讯（记者 魏彧 于春沣）21日下午，市委书记李鸿忠，市委副书记、市长廖国勋在迎宾馆与小米集团董事长兼首席执行官雷军、小米集团总裁王翔、金山集团首席执行官邹涛、九安医疗负责人一行座谈。李鸿忠说，小米...
- ## [独家对话朱慧敏：5GtoC蓄势待发，超级上行成直播利器](http://mp.weixin.qq.com/s?src=11&timestamp=1619051403&ver=3023&signature=NMpfPMZ887yTZO50mpZ15yHMOD*GRoooPS5YQL603l8OyzNWDPbZ9eJwqa00cCsWTtnrXIR7OoJwYL2B2GxDB3U8CJOal-lwroDOwhE3KYA79hJgdpoP2xopowtYTduX&new=1)
+ ## [工信部回应经参系列报道：酝酿个人信息保护新规，App相关问题整治打出“组合拳”](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=GtR6*j5WFR4jzr-ISZ94OetcJJS8lcJNEWpMwCn7y2sRc0oikqz73vRWPWTwnjr35TrT5V1fAw*3pSJshIlzTAQ0uHacBCON4QsIerPOXuuQVCSeIRf*e9R0qvo6xN76&new=1)
+ > 近日，《经济参考报》刊发的“三问信息泄露”系列报道引发社会广泛关注和强烈反响。就报道中涉及的App过度索权导致信息泄露等相关问题，工业和信息化部信息通信管理局在接受《经济参考报》记者专访时回应称，工...
+ ## [专访|海拓仪器：以高效检测和节能省电 助力光通讯可靠性发展](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=4veSdCIBluy1*ihRJu0G2vvoOQLRk*NnZQlcr3B8T4ZQL3z-wrSuxmEpZSA*9a-jBGa*DZkk28ysgAcLv9Pq-z2zs1JKyi3chfk-ElwJcgpnuFR0TnxQs12doCXtbAAe&new=1)
+ > 新闻导读海拓仪器(江苏)有限公司致力于为光通讯产业提供可靠性试验设备，检测设备大量应用于光模块、光组件和光芯片等研发和产线上，助力光通讯企业提升产品检测效能，减少能源消耗。ICC讯 2021年，国家“十四五...
+ ## [\[报告\]2021汽车直播行业深度研究(附69页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=2ekKhL4uIx*XG9Kco3*K7PdSYKL5nPChpTbgFftu9*u8LnEGewsvBDODrz5shDHjzug3aYhXmSb5z4LbOSuU-apCt5wb*TZxutd0rWKMNIZ7xXOWobSmrSZRIeWkz7hS&new=1)
+ > 2020年疫情给线上营销带来新增长机会，直播入局更加丰富了内容阵地的生态繁荣。无论抖音还是懂车帝平台，主播数、开播场次、看播次数均呈现上扬态势，且红利期爆发过后，直播营销已演变为常态化。以下为报告节选...
+ ## [打破超短焦投影技术垄断，昇暘光学让国产品牌拥有更多议价权](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=yYmqtz6-1xgR8u7ixa8TBkJrzRyKYj3Vi9xdz0i8I1fQGdZRBxeB00pGScGw53Cx4ZDxNBFghrmJAWo1bWFr3R1O7itdDSelZMNGJRgc9gQCJKYOXJvgTvDi-OaBTkss&new=1)
+ > 作者｜沉舟来源｜创头条“全球所有超短焦投影公司，在镜头选择上有了第二个选择。”昇暘光学创始人李文宗博士告诉创头条。 何为超短焦投影？资料显示，超短焦投影作为一种新型显示技术，具有能够在短距离内（几...
+ ## [无惧全球芯片短缺影响，联发科在美国市场挑战高通!](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=AYdTfZT12sNbs21gSfRRQ-VsYth8ITBDPcJr4OPQpgvVRGxjTTRvXoaJLsWAgK0UkXHrB8dHDk4sti5kNXLVfS3ziIMxDksBzFzER4Ahhl-WA4ARMEdWW5Y4pDinQS6q&new=1)
+ > 近日，在接受外媒 Light Reading 采访中，联发科美国政府关系副总裁 Patrick Wilson 回答了关于智能手机行业的总体状况、5G 的一些问题，并谈论一些关于全球芯片短缺的话题。在 2020 年，联发科被评为智能手机市...
+ ## [工信部：一季度电信业务收入累计完成3601亿元 同比增长6.5%](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=juabqVXaGCQIXvGMRGyBjjm8GjD26PtDxbBrRwp4mZIUsuW4YRVxiMcUCSyONWATkb*pz*73jh9WdPAf4tQmFXY1XI8TDlRdxmTsQD7i55E=&new=1)
+ > 上证报中国证券网讯 据工信部4月21日消息，工信部今日发布的2021年一季度通信业经济运行情况显示，一季度电信业务收入增速持续提升，电信业务收入累计完成3601亿元，同比增长6.5%，增速同比提高4.7个百分点...
+ ## [人事：中国电信重要子公司高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=qfo75pxNQsHgDWYU7RTgCqqDMvCqhXEdKeJm0x2uWQukMv7OHIMYgeGlmnyoHRpCZuKaxqCpHSMg3*BEvfcctj21Za0BtKV9oSQYmAhNGD2eYmkMEXXgQufh7Li2UVdC&new=1)
+ > 运营商情报获悉，原中国电信集团共享服务中心黄旭丹任天翼融资租赁有限公司董事长。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
+ ## [独家对话朱慧敏：5GtoC蓄势待发，超级上行成直播利器](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=NMpfPMZ887yTZO50mpZ15yHMOD*GRoooPS5YQL603l8OyzNWDPbZ9eJwqa00cCsWye4k8kx*ZmMy8cd2BlOzyAi*iY9nyESMzzLdPiPSyOAQX7rTljPaiyon*jG4iEH4&new=1)
  > 4月20日，工信部表示，截至2月底，中国累计建成5G基站79.2万个，独立组网模式（SA）的5G网络覆盖所有地级市，5G终端连接数已达2.6亿，5G套餐用户超过3.6亿户，5G套餐的单价目前下降到每个G为4.4元。而且，今年3...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115923034)
@@ -25,30 +33,30 @@ categories: IT NEWS
  > 面试官：为什么 0.1 + 0.2 == 0.300000004 ？
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [（8）小白又如何？3分钟搞定一个 C 知识点](https://blog.csdn.net/A757291228/article/details/115966284)
- > （8）小白又如何？3分钟搞定一个 C 知识点
- ## [Postman：常用的Pre-request Script方法【MD5+时间戳+获取当前时间】](https://blog.csdn.net/J_____Q/article/details/115721237)
- > Postman：常用的Pre-request Script方法【MD5+时间戳+获取当前时间】
- ## [谷歌内部流出Jetpack Compose最全上手指南，含项目实战演练！](https://blog.csdn.net/Android23333/article/details/115909964)
- > 谷歌内部流出Jetpack Compose最全上手指南，含项目实战演练！
- ## [Java设计模式-适配器模式（二）](https://blog.csdn.net/xyajia/article/details/115877169)
- > Java设计模式-适配器模式（二）
- ## [(C) 精简 C 入门（一）](https://blog.csdn.net/weixin_43728138/article/details/115771081)
- > (C) 精简 C 入门（一）
- ## [【基于python实现UI自动化】4.1 selenium发送163邮箱邮件](https://blog.csdn.net/lht3347/article/details/115767323)
- > 【基于python实现UI自动化】4.1 selenium发送163邮箱邮件
- ## [WEB UI自动化测试框架搭建(一)](https://blog.csdn.net/qq_38175040/article/details/115673920)
- > WEB UI自动化测试框架搭建(一)
+ ## [一个Bug，让我发现了 Java 界的.AJ(锥)！](https://blog.csdn.net/Yao__Shun__Yu/article/details/115997674)
+ > 
+ ## [三本毕业？专科？低学历？拜托！自学编程进大厂真难，但是有机会](https://blog.csdn.net/sinat_33921105/article/details/115741157)
+ > 三本毕业？专科？低学历？拜托！自学编程进大厂真难，但是有机会
+ ## [B站疯传的Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！](https://blog.csdn.net/A_7878520/article/details/115548648)
+ > B站疯传的Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！
+ ## [cookie和session](https://blog.csdn.net/weixin_47124571/article/details/115767122)
+ > cookie和session
+ ## [MQ 入门实践](https://blog.csdn.net/qq_15002323/article/details/115876335)
+ > MQ 入门实践
+ ## [Spring面试](https://blog.csdn.net/m0_38057941/article/details/115875392)
+ > Spring面试
+ ## [使用VS Code进行Qt开发](https://blog.csdn.net/weixin_43669941/article/details/108921714)
+ > 使用VS Code进行Qt开发
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
  ## [我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固](https://blog.csdn.net/m0_52883898/article/details/115921957)
  > 我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固
  ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
  > 这11款chrome神器，用起来爽到爆
- ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
- > 【Python】 Python小游戏-贪吃蛇大冒险
  ## [Python爬取笔趣阁小说，有趣又实用](https://blog.csdn.net/zhiguigu/article/details/115915722)
  > Python爬取笔趣阁小说，有趣又实用
+ ## [手把手带你爬取小姐姐私房照，准备好你的纸！](https://blog.csdn.net/zhiguigu/article/details/115917010)
+ > 手把手带你爬取小姐姐私房照，准备好你的纸！
 # 人工智能 
  ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
  > 两行Python代码实现视频负片特效
@@ -83,6 +91,8 @@ categories: IT NEWS
 # PM 
  ## [AI产品经理到底是怎么火的？深度剖析AI产品！](http://www.chanpin100.com/article/114768)
  > 在这个互联网时代，AI技术越来越成熟，已经完全融入到我们的生活中了。近些年，AI产品经理这个词非常火热，今天我们就来聊一下AI产品经理到底是怎么火的？来深度剖析一些AI产品！
+ ## [当金融行业遇上情感分析会产生怎样的化学反应？](http://www.chanpin100.com/article/114728)
+ > 非结构化数据就像一座未开发的“数据金矿”，其蕴藏着大量有价值的客户洞察信息，大部分企业没有找到一种行之有效的方法对这些数据加以利用
  ## [产品经理方法论 教你快速提升能力！](http://www.chanpin100.com/article/114802)
  > 很多人说，产品经理是一个门槛相对较低，但是工资很可观的一个职业，其实这个说法也不是完全没有道路，毕竟不是所有的产品都是有的能力的，这样行业鱼龙混杂。今天给大家介绍的是产品经理方法论，教你快速提升能力，成为合格的产品人！
  ## [策略产品经理工作中的难点是什么？该如何解决？](http://www.chanpin100.com/article/114801)
@@ -119,7 +129,5 @@ categories: IT NEWS
  > 大家有听过商业产品经理和用户产品经理这两个词吗？最近几年，产品经理职业划分越来越细，今天我们就来了解一下商业产品经理和用户产品经理究竟有什么不同？
  ## [简单聊聊 创业公司和大公司的产品经理有什么区别？](http://www.chanpin100.com/article/114784)
  > 你是在大公司工作还是在创业型公司工作？作为一个产品经理，到底是大公司好还是小公司好呢？今天我们就来聊聊，大家也可以自由发表观点哦！
- ## [2021年3月车主服务类APP用户洞察](http://www.chanpin100.com/article/114725)
- > 最新车主服务类APP用户洞察新鲜出炉啦！随着以用户为中心的造车理念的逐渐加强，能否持续为用户创造价值，挖掘用户的潜在需求以及解决用户现有痛点将成为当下车企的核心竞争力。
 
     
