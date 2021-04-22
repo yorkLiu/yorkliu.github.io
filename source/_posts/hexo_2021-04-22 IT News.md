@@ -1,30 +1,38 @@
 ---
 title: 2021-04-22 IT News
 copyright: true
-date: 2021-04-22 10:01:02
+date: 2021-04-22 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [7点见|特斯拉再发声：全力配合提供车辆原始数据；狗狗币10天上涨约450%](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=uAYPBJ8wHtqDtSfVlA1zKF-58UkOGKyIUnFvl2gPRtu3p1vyBvyTv8WtmfVuHgXkUwVcCgeCetizaflN0XUTWTZJh0sfLQaRKywhffl3l8EBWUl9jXNvjtlQuAVcjMYB&new=1)
+ ## [极光大数据2020年续亏2.2亿，上市以来亏损持续扩大，称退出精准营销业务曾服务卡牛省呗爱钱进](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=0gdbC8ajrmhmKVtpUetm4fULscIAyPiFIdNl83bMwt9dWxy-IDr7Rrf3vxLftnYiHarhp5XMDXYyfX8vrGv9ItvAghsAkTe78BbNRlwCtmKdp8HhVL0II7Gq5VAOT6M0&new=1)
+ > 蓝鲸财经旗下，专注互联网金融领域独家报道，大大集团、中晋、快鹿、链家金融、海通布局互金等独家线索均已10万+并引起大量媒体跟进。蓝鲸是重要财经资讯门户+财经记者工作平台，拥有150家媒体传播资源，每天有...
+ ## [百度回应特斯拉副总裁陶琳简历连夜被改；女子5年前打赌锤子手机破产赢一部iPhone；安卓32位时代落幕|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=Azd9PN3M*0MPMw-PeWf2ELQY*V3tqyIWkchxuapkhrJjwC6vBZa3RifkZCOYS2-L3APfDCqVO5U*BJXhYrTy74NUf4Cn31GOtWV2T8FNe2fCR0u8z9CCEbnpZ-O0r1AW&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！安卓 32 ...
+ ## [5家3D打印概念公司总估值110亿美元，增长潜力远高于其他制造技术](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=G-fWrQqyr9Ft4B1BaQVB0oQllr2Jjk*Zp5XySFFZrxN6qD2dqfiW6LuHW2ue3eje9XBcVNhZqfUPy7xbdWK1oRjZy8JbyVVgOpekqUQg9ejgn7JH38dVwOH4us1YoORp&new=1)
+ > 南极熊导读：3D打印作为制造工艺的一种，最近几年的发展远超其他制造技术，同时也获得了大量资本的青睐。2021年4月22日，南极熊获悉，在过去的一年里，通过与特殊目的收购公司（SPAC）合并上市的案例数量成倍增...
+ ## [7点见|特斯拉再发声：全力配合提供车辆原始数据；狗狗币10天上涨约450%](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=uAYPBJ8wHtqDtSfVlA1zKF-58UkOGKyIUnFvl2gPRtspJm1WQycIR7wogMsOvMKbQPVPpip18-n4NCT-ZMyk2n4ivotZkdTs773qqm*yvgBSqFGX1QngP-*8A0gGwTlf&new=1)
  > 各位小伙伴早上好呀！以下是今天的早报！特斯拉深夜再发声：全力配合提供车辆原始数据，承担全部鉴定费用4月21日，特斯拉连续第三日深夜发布公告，特斯拉称，愿意全力配合，提供事发前半小时的车辆原始数据给第...
- ## [李鸿忠廖国勋与小米集团董事长雷军座谈](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=OAD4qIKVt*d1dj89MlBPNqQHUiE1btr3Ggzb2poJAzR4CsH-D3ZtDe1DLOSn8MGpgk3E1O5R0lAGpQNICKCcLv9DY4m32uBjkfZ158iYxjuDdhccV6b2Br0ySkjuUSby&new=1)
+ ## [市场监管总局督促指导地方依法处理特斯拉车主维权事件；全新法拉利V12限量版车型将于5月5日全球发布|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=1NrWiewadUiHa*mH9HqQC602RBAnOOEOvpE0aOPlVRtQQXOEGMcUbr8kuzIIWwr16tFComiQVxaC-05kd8YS--dNOOd9XTu-8*5P8uwkEnxMY9B7DPPUhAAtlawQl6dP&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【市场监管总局督促指导地方依法处理特斯拉车主维权事件】近日，上海车展上特斯拉车主维权引发广泛关注，市场监管总局高度重视，已...
+ ## [李鸿忠廖国勋与小米集团董事长雷军座谈](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=OAD4qIKVt*d1dj89MlBPNqQHUiE1btr3Ggzb2poJAzSkTF4a7DnkB8Vm4JQKyvsPwyucnPawZE3Vk3a2eedNcjn7mREPxXPGPx94O9SOx-JlSbo*XiBdjE2KvyWBr8Mw&new=1)
  > 本报讯（记者 魏彧 于春沣）21日下午，市委书记李鸿忠，市委副书记、市长廖国勋在迎宾馆与小米集团董事长兼首席执行官雷军、小米集团总裁王翔、金山集团首席执行官邹涛、九安医疗负责人一行座谈。李鸿忠说，小米...
- ## [工信部回应经参系列报道：酝酿个人信息保护新规，App相关问题整治打出“组合拳”](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=GtR6*j5WFR4jzr-ISZ94OetcJJS8lcJNEWpMwCn7y2sRc0oikqz73vRWPWTwnjr35TrT5V1fAw*3pSJshIlzTAQ0uHacBCON4QsIerPOXuuQVCSeIRf*e9R0qvo6xN76&new=1)
+ ## [工信部回应经参系列报道：酝酿个人信息保护新规，App相关问题整治打出“组合拳”](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=GtR6*j5WFR4jzr-ISZ94OetcJJS8lcJNEWpMwCn7y2t4V2oQIe3Qx01k1IdtfhYwHb6LOG6FE39aUlBsPNVfgRokTyfMhXru7Wy41dSPtEYHJkkiaO*FPxG7IqY9G*56&new=1)
  > 近日，《经济参考报》刊发的“三问信息泄露”系列报道引发社会广泛关注和强烈反响。就报道中涉及的App过度索权导致信息泄露等相关问题，工业和信息化部信息通信管理局在接受《经济参考报》记者专访时回应称，工...
- ## [专访|海拓仪器：以高效检测和节能省电 助力光通讯可靠性发展](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=4veSdCIBluy1*ihRJu0G2vvoOQLRk*NnZQlcr3B8T4ZQL3z-wrSuxmEpZSA*9a-jBGa*DZkk28ysgAcLv9Pq-z2zs1JKyi3chfk-ElwJcgpnuFR0TnxQs12doCXtbAAe&new=1)
+ ## [专访|海拓仪器：以高效检测和节能省电 助力光通讯可靠性发展](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=4veSdCIBluy1*ihRJu0G2vvoOQLRk*NnZQlcr3B8T4ZS1pdqGPYDpwSc2tNfStfd4*4gIxrxQgl4*CoArUgsVll3lqNkQAERhh3RXr5kN0rwkusbJeYnZ2AaL5ZTrVd2&new=1)
  > 新闻导读海拓仪器(江苏)有限公司致力于为光通讯产业提供可靠性试验设备，检测设备大量应用于光模块、光组件和光芯片等研发和产线上，助力光通讯企业提升产品检测效能，减少能源消耗。ICC讯 2021年，国家“十四五...
- ## [\[报告\]2021汽车直播行业深度研究(附69页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=2ekKhL4uIx*XG9Kco3*K7PdSYKL5nPChpTbgFftu9*u8LnEGewsvBDODrz5shDHjzug3aYhXmSb5z4LbOSuU-apCt5wb*TZxutd0rWKMNIZ7xXOWobSmrSZRIeWkz7hS&new=1)
+ ## [\[报告\]2021汽车直播行业深度研究(附69页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=2ekKhL4uIx*XG9Kco3*K7PdSYKL5nPChpTbgFftu9*uI5avrYRMiRTHX1xbUhx5DhoUKS1*bDeJ-3o*a7r*4Kw0LUdtfOkKKldIclW2R8c9BbFzSNimbG4Am-f5-CpDg&new=1)
  > 2020年疫情给线上营销带来新增长机会，直播入局更加丰富了内容阵地的生态繁荣。无论抖音还是懂车帝平台，主播数、开播场次、看播次数均呈现上扬态势，且红利期爆发过后，直播营销已演变为常态化。以下为报告节选...
- ## [打破超短焦投影技术垄断，昇暘光学让国产品牌拥有更多议价权](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=yYmqtz6-1xgR8u7ixa8TBkJrzRyKYj3Vi9xdz0i8I1fQGdZRBxeB00pGScGw53Cx4ZDxNBFghrmJAWo1bWFr3R1O7itdDSelZMNGJRgc9gQCJKYOXJvgTvDi-OaBTkss&new=1)
+ ## [打破超短焦投影技术垄断，昇暘光学让国产品牌拥有更多议价权](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=yYmqtz6-1xgR8u7ixa8TBkJrzRyKYj3Vi9xdz0i8I1cCgDCLxLsMFeEAZsxJlK65uRW-PmfLRTF0ojwJ3rABW4rZn7Gxmw7RWqKyzbm7yCI53gtbp-hMPI8Qisu5XwWs&new=1)
  > 作者｜沉舟来源｜创头条“全球所有超短焦投影公司，在镜头选择上有了第二个选择。”昇暘光学创始人李文宗博士告诉创头条。 何为超短焦投影？资料显示，超短焦投影作为一种新型显示技术，具有能够在短距离内（几...
- ## [无惧全球芯片短缺影响，联发科在美国市场挑战高通!](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=AYdTfZT12sNbs21gSfRRQ-VsYth8ITBDPcJr4OPQpgvVRGxjTTRvXoaJLsWAgK0UkXHrB8dHDk4sti5kNXLVfS3ziIMxDksBzFzER4Ahhl-WA4ARMEdWW5Y4pDinQS6q&new=1)
+ ## [无惧全球芯片短缺影响，联发科在美国市场挑战高通!](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=AYdTfZT12sNbs21gSfRRQ-VsYth8ITBDPcJr4OPQpgvwXQDWwFVaznC9wQ7aQXEzZWGuF1FsB1CbB5bqTtTwcnk17j*eJ91xrKWJx1IsspUZQrin46*KWgtq0eOuFEI8&new=1)
  > 近日，在接受外媒 Light Reading 采访中，联发科美国政府关系副总裁 Patrick Wilson 回答了关于智能手机行业的总体状况、5G 的一些问题，并谈论一些关于全球芯片短缺的话题。在 2020 年，联发科被评为智能手机市...
- ## [工信部：一季度电信业务收入累计完成3601亿元 同比增长6.5%](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=juabqVXaGCQIXvGMRGyBjjm8GjD26PtDxbBrRwp4mZIUsuW4YRVxiMcUCSyONWATkb*pz*73jh9WdPAf4tQmFXY1XI8TDlRdxmTsQD7i55E=&new=1)
+ ## [工信部：一季度电信业务收入累计完成3601亿元 同比增长6.5%](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=juabqVXaGCQIXvGMRGyBjjm8GjD26PtDxbBrRwp4mZIRJ8aoaBP0JAOumxYxmhWWKsiqdoRvSZwpeFeGZKzlr5KoN0KUTxFldfLlEdnSAvo=&new=1)
  > 上证报中国证券网讯 据工信部4月21日消息，工信部今日发布的2021年一季度通信业经济运行情况显示，一季度电信业务收入增速持续提升，电信业务收入累计完成3601亿元，同比增长6.5%，增速同比提高4.7个百分点...
- ## [人事：中国电信重要子公司高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=qfo75pxNQsHgDWYU7RTgCqqDMvCqhXEdKeJm0x2uWQukMv7OHIMYgeGlmnyoHRpCZuKaxqCpHSMg3*BEvfcctj21Za0BtKV9oSQYmAhNGD2eYmkMEXXgQufh7Li2UVdC&new=1)
+ ## [人事：中国电信重要子公司高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=qfo75pxNQsHgDWYU7RTgCqqDMvCqhXEdKeJm0x2uWQs48QtmHNNpG7UEy*PJgRgig-AbQaXmv4tJ7Oaeigkc9LQovYAli98PExBgfGLLJb*XAaq9EaQkeWVQIRDgBnSv&new=1)
  > 运营商情报获悉，原中国电信集团共享服务中心黄旭丹任天翼融资租赁有限公司董事长。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [独家对话朱慧敏：5GtoC蓄势待发，超级上行成直播利器](http://mp.weixin.qq.com/s?src=11&timestamp=1619055003&ver=3023&signature=NMpfPMZ887yTZO50mpZ15yHMOD*GRoooPS5YQL603l8OyzNWDPbZ9eJwqa00cCsWye4k8kx*ZmMy8cd2BlOzyAi*iY9nyESMzzLdPiPSyOAQX7rTljPaiyon*jG4iEH4&new=1)
+ ## [独家对话朱慧敏：5GtoC蓄势待发，超级上行成直播利器](http://mp.weixin.qq.com/s?src=11&timestamp=1619062203&ver=3023&signature=NMpfPMZ887yTZO50mpZ15yHMOD*GRoooPS5YQL603l-vjeFytuUIBwRINA1KXIaWWInSsdnSOCaR8XuVP*bSIX20-OtZG5UyN8jDRFbmVA0SRb8Px-dCYc0K05ltGt81&new=1)
  > 4月20日，工信部表示，截至2月底，中国累计建成5G基站79.2万个，独立组网模式（SA）的5G网络覆盖所有地级市，5G终端连接数已达2.6亿，5G套餐用户超过3.6亿户，5G套餐的单价目前下降到每个G为4.4元。而且，今年3...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115923034)
@@ -33,64 +41,47 @@ categories: IT NEWS
  > 面试官：为什么 0.1 + 0.2 == 0.300000004 ？
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [一个Bug，让我发现了 Java 界的.AJ(锥)！](https://blog.csdn.net/Yao__Shun__Yu/article/details/115997674)
- > 
- ## [三本毕业？专科？低学历？拜托！自学编程进大厂真难，但是有机会](https://blog.csdn.net/sinat_33921105/article/details/115741157)
- > 三本毕业？专科？低学历？拜托！自学编程进大厂真难，但是有机会
- ## [B站疯传的Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！](https://blog.csdn.net/A_7878520/article/details/115548648)
- > B站疯传的Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！
- ## [cookie和session](https://blog.csdn.net/weixin_47124571/article/details/115767122)
- > cookie和session
- ## [MQ 入门实践](https://blog.csdn.net/qq_15002323/article/details/115876335)
- > MQ 入门实践
- ## [Spring面试](https://blog.csdn.net/m0_38057941/article/details/115875392)
- > Spring面试
- ## [使用VS Code进行Qt开发](https://blog.csdn.net/weixin_43669941/article/details/108921714)
- > 使用VS Code进行Qt开发
+ ## [（11）python里面while到底有多少知识点](https://blog.csdn.net/A757291228/article/details/115999561)
+ > （11）python里面while到底有多少知识点
+ ## [PHP数据结构-队列的相关逻辑操](https://blog.csdn.net/zhangyue0503/article/details/115879357)
+ > PHP数据结构-队列的相关逻辑操
+ ## [webpack基础入门](https://blog.csdn.net/The_upside_of_down/article/details/115794834)
+ > webpack基础入门
+ ## [Java基础语法（十）数组？不不不，是麻袋，既能装白菜，又能装妹子](https://blog.csdn.net/m0_52883898/article/details/115797254)
+ > Java基础语法（十）数组？不不不，是麻袋，既能装白菜，又能装妹子
+ ## [【面经】2021最新的javascript的面试](https://blog.csdn.net/qq_45903009/article/details/115682710)
+ > 【面经】2021最新的javascript的面试
+ ## [WPF实例系列一：登录、注册界面设计](https://blog.csdn.net/iceberg7012/article/details/115828265)
+ > WPF实例系列一：登录、注册界面设计
+ ## [Ajax请求的使用](https://blog.csdn.net/qq_39794062/article/details/115803834)
+ > Ajax请求的使用
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
  ## [我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固](https://blog.csdn.net/m0_52883898/article/details/115921957)
  > 我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固
- ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
- > 这11款chrome神器，用起来爽到爆
  ## [Python爬取笔趣阁小说，有趣又实用](https://blog.csdn.net/zhiguigu/article/details/115915722)
  > Python爬取笔趣阁小说，有趣又实用
+ ## [Qt开发经验小技巧131-140](https://blog.csdn.net/feiyangqingyun/article/details/115934580)
+ > Qt开发经验小技巧131-140
  ## [手把手带你爬取小姐姐私房照，准备好你的纸！](https://blog.csdn.net/zhiguigu/article/details/115917010)
  > 手把手带你爬取小姐姐私房照，准备好你的纸！
-# 人工智能 
- ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
- > 两行Python代码实现视频负片特效
- ## [直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪](https://blog.csdn.net/programmer_editor/article/details/115725618)
- > 直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪
- ## [2021年必会的3个Kubernetes工具](https://blog.csdn.net/fly910905/article/details/115767020)
- > 
- ## [实践和原则，哪个更重要？tcp syncookie的问题和解法](https://blog.csdn.net/dog250/article/details/115783320)
- > 实践和原则，哪个更重要？tcp syncookie的问题和解法
- ## [大厂面试干货：面试官最喜欢pick什么样的候选人](https://blog.csdn.net/songguangfan/article/details/115792733)
- > 大厂面试干货：面试官最喜欢pick什么样的候选人
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [用 XGBoost 在 Python 中进行特征重要性分析和特征选择](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/115804411)
- > 用 XGBoost 在 Python 中进行特征重要性分析和特征选择
- ## [他15岁考进少年班，23岁成为阿里最年轻技术专家](https://blog.csdn.net/bjweimengshu/article/details/115804485)
- > 他15岁考进少年班，23岁成为阿里最年轻技术专家
- ## [龙芯的全新自主指令集到底强在何处？](https://blog.csdn.net/BEYONDMA/article/details/115829327)
- > 龙芯的全新自主指令集到底强在何处？
- ## [每个 Apache Kafka 开发者都应该知道的5件事](https://blog.csdn.net/w397090770/article/details/115843229)
- > 每个 Apache Kafka 开发者都应该知道的5件事
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [面试官：你知道Dubbo怎么做优雅上下线的吗？你：优雅上下线是啥？](https://blog.csdn.net/hollis_chuang/article/details/115858887)
- > 面试官：你知道Dubbo怎么做优雅上下线的吗？你：优雅上下线是啥？
- ## [用Python通过摄像头进行视频录制](https://blog.csdn.net/LaoYuanPython/article/details/115716366)
- > 
- ## [Android编译优化：D8和R8](https://blog.csdn.net/wwj_748/article/details/115874571)
- > Android编译优化：D8和R8
- ## [上班时间在CSDN摸鱼被女领导发现了—她问我怎么用python自动登录CSDN【2021.04.20】](https://blog.csdn.net/weixin_42350212/article/details/115898831)
- > 上班时间在CSDN摸鱼被女领导发现了—她问我怎么用python自动登录CSDN【2021.04.20】
 # PM 
- ## [AI产品经理到底是怎么火的？深度剖析AI产品！](http://www.chanpin100.com/article/114768)
- > 在这个互联网时代，AI技术越来越成熟，已经完全融入到我们的生活中了。近些年，AI产品经理这个词非常火热，今天我们就来聊一下AI产品经理到底是怎么火的？来深度剖析一些AI产品！
+ ## [B端产品经理必备技能之行业调研篇](http://www.chanpin100.com/article/114814)
+ > B端产品经理是行业解决方案赋能者，对行业快速了解，是B端产品经理必备的技能。本篇B端产品经理必备技能之行业调研篇主要为大家介绍B端产品经理从哪几个方面进行行业调研。
+ ## [AI产品经理的转变 从用户思维到数据思维](http://www.chanpin100.com/article/114813)
+ > 随着人工智能的发展，AI产品经理发挥的作用也越来越大，今天我们就来聊一下AI产品经理的转变，这个转变简单来说，就是从用户思维到数据思维的转变，这是一个必然的过程。
+ ## [你以为你以为的就是你以为的？](http://www.chanpin100.com/article/114807)
+ > 这个世界，耳听不一定为虚，眼见不一定为实。我们每个人，我们每一天，都在扮演角色，都在舞台中央。
+ ## [产品经理 你比昨天更优秀了吗？](http://www.chanpin100.com/article/114806)
+ > 当今的互联网世界，是一个快速变化的修炼场，是一个充满未知的竞技场。如今的产品经理，是一个沟通协调的中转站，是一个承上启下的对接人。面对快速变化的市场，我们内心该如何自处；面对错综复杂的人群，我们未来该何去何从！
+ ## [特斯拉事件证实了一个观点 好的口碑才是最有效的推广方法](http://www.chanpin100.com/article/114812)
+ > 特斯拉事件再次发酵，昨天特斯拉的官方号发布消息，称希望相关的检测机构进行鉴定，帮助还原真相。从最开始强硬的态度到现在不断的致歉，看来也是害怕绪论。毕竟在这个互联网时代，信息传播快，事情再发展下去，恐怕会影响它的口碑。
+ ## [金三银四 互联网打工人招聘指南](http://www.chanpin100.com/article/114805)
+ > 打工人打工魂，打工族里有英雄。一年一度跳槽季，你要说你不心动，那我是不相信的。拿了年终奖的，你没有待下去的理由。没有拿年终奖的，你更没有待下去的理由。
+ ## [产品经理「高情商话术指南」](http://www.chanpin100.com/article/114797)
+ > 程序员对需求瞎BB，低情商：你说尼玛呢？高情商：你很有想法！程序员瞎做需求，低情商：你做尼玛呢？高情商：你真的很有想法！
+ ## [为什么说B端产品经理会越来越值钱](http://www.chanpin100.com/article/114809)
+ > 为什么说B端产品经理会越来越值钱呢？这个问题我们可以从行业、政策、岗位三个方面来分析，感兴趣的小伙伴继续看下文的具体内容吧！
  ## [当金融行业遇上情感分析会产生怎样的化学反应？](http://www.chanpin100.com/article/114728)
  > 非结构化数据就像一座未开发的“数据金矿”，其蕴藏着大量有价值的客户洞察信息，大部分企业没有找到一种行之有效的方法对这些数据加以利用
  ## [产品经理方法论 教你快速提升能力！](http://www.chanpin100.com/article/114802)
@@ -113,21 +104,5 @@ categories: IT NEWS
  > 项目经理和产品经理都是两个需求量很大的行业，那么到底做项目经理好还是产品经理好呢？你选择哪一个？可能每个人的看法都不一样，下面我就来发表一下自己的观点。
  ## [初创企业如何利用产品设计规避风险？](http://www.chanpin100.com/article/114793)
  > 产品设计是作为产品经理来讲要掌握的一项技能，如果一个产能经理不会产品设计，那就不算一个合格的产品经理。对于企业来讲呢产品设计同样也很重要，本文来讨论一下初创企业如何利用产品设计规避风险，下面请看本文的内容。
- ## [产品经理分为哪几个等级？你属于哪一类？](http://www.chanpin100.com/article/114791)
- > 其实每个职业都有不同的级别，这是能力的象征，能力越强的人当然级别就越高。每个级别的工资是不一样的，如果想要更高的工资，那就努力晋升吧！那么产品经理到底分为哪几个等级呢？你又属于哪一类呢？
- ## [做竞品分析时如何选择竞品？选择竞品的标准是什么？](http://www.chanpin100.com/article/114790)
- > 对于产品经理来说，做竞品分析是必不可少的一项工作，那么做竞品分析时如何选择竞品？选择竞品的标准是什么？接下来，请看本篇小编的分析，希望今日的分享能对广大产品经理有所帮助。
- ## [产品经理需要学习项目管理吗？有实用价值吗？](http://www.chanpin100.com/article/114789)
- > 产品经理需要学习项目管理吗？有实用价值吗？今天我们来讨论这个问题。首先，我们来看看，什么是项目经理？项目经理就是将知识，还有技能，工具和各种技术进行结合，然后运用到项目中，然后满足整个项目的需求。
- ## [如何核算「产品原型」成本 可以看看这篇文章](http://www.chanpin100.com/article/114737)
- > 将新产品推向市场的第一个主要步骤就是创建「产品原型」，同时你需要了解原型制作过程将要花费多少钱。
- ## [到底为什么要做竞品分析？做竞品分析有什么好处？](http://www.chanpin100.com/article/114788)
- > 竞品分析是作为产品经理来说平时必须要做的一项工作，它的重要性不言而喻，只有了解你的竞争对手、知己知彼，才能百战百胜，本文就给大家好好介绍一下到底为什么要做竞品分析？做竞品分析有什么好处？
- ## [产品经理面试之人事都会问些什么问题？](http://www.chanpin100.com/article/114786)
- > 有些产品经理的同学在面试的时候可能最发愁的并不是本部门的面试环节，而是人事部的面试环节，有时候冷不丁地人事会问出一个比较刁钻难以回答的问题就会比较发懵，不知道该如何作答。那么今天，小编会把面试时人力资源通常会问的问题汇总整理一下，供大家参考，大家可以照着这些问题进行准备，这样面试的时候就会更顺利了。
- ## [讨论一下 商业产品经理和用户产品经理究竟有什么不同？](http://www.chanpin100.com/article/114787)
- > 大家有听过商业产品经理和用户产品经理这两个词吗？最近几年，产品经理职业划分越来越细，今天我们就来了解一下商业产品经理和用户产品经理究竟有什么不同？
- ## [简单聊聊 创业公司和大公司的产品经理有什么区别？](http://www.chanpin100.com/article/114784)
- > 你是在大公司工作还是在创业型公司工作？作为一个产品经理，到底是大公司好还是小公司好呢？今天我们就来聊聊，大家也可以自由发表观点哦！
 
     
