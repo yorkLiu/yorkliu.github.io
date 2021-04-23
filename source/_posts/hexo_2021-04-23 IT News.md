@@ -1,17 +1,23 @@
 ---
 title: 2021-04-23 IT News
 copyright: true
-date: 2021-04-23 08:00:59
+date: 2021-04-23 09:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [江苏省委党校40余位学员到访云创参观考察](http://mp.weixin.qq.com/s?src=11&timestamp=1619134204&ver=3025&signature=Pmgnn5tDbsv0XoGmvCkKlvh9eD4-xFIfA1F24OdAQsrYKbTg0aXKH*otwSXOTT47*9dvPAHk-EPvCTgrs-jYL1P*xGXk*In*P9AJWkp1TDRpEHAMeIUIAFlpTjOw-ZbV&new=1)
- > 4月21日上午，在江苏省委党校的组织下，来自苏州港集团的40余位学员到访云创参观考察。王小聪先生热情接待了来宾，并带大家进行实地参观。在介绍报告环节，王小聪先生为来宾介绍了云创的企业概况，包括企业文化...
- ## [从1到100，神州鲲泰决胜多元算力时代](http://mp.weixin.qq.com/s?src=11&timestamp=1619134204&ver=3025&signature=5DDSFQYB9CsvOlyOnK76aiULEviqFGNa60APn*dUnsNNlg6Tqxkfbz6QjTekAF999hERs4ePR90GDNHBNxX5WH44*HvEIzQoKab-MHVZ3PPgWtr5aLWsnD8sCMx45tgg&new=1)
- > 近年来随着云计算的迅猛发展，国内计算产业正在加速变革：以ARM为代表的新一代多元算力平台蓬勃发展；同时，在新基建和政企上云浪潮的推动下，对国产数据中心全栈产品的市场需求也在不断增加。2021年4月20日，“...
- ## [回顾岳麓峰会科技创新专场直播：惟楚有材，湘江有为!](http://mp.weixin.qq.com/s?src=11&timestamp=1619134204&ver=3025&signature=Vact8zLCiJ95WveDwtwKP6dgZPhUYKDQukTDh58QOzKoJH1UyKTo12MnVbjbAOJ42*CwJkp49d37Vn7ybk58ndordsxh4XAXL1t1HlamMQljexbZ3FviYrG2yWj4OIqV&new=1)
+ ## [|观点|调研显示人们质疑可穿戴设备的医疗保健获益](http://mp.weixin.qq.com/s?src=11&timestamp=1619139603&ver=3025&signature=myOmEplwY1LqGlVcha4K9hwNXSbpUhzM4fVGCTsXmfuwK21ns6mMENI9lq*XAZzbVDwf-YhAVHbStgLNbtUV7fjmfa3t571O5u8GsMD0xXHM0E9USdU5J94qw2loj8dg&new=1)
+ > 周一刚发表了一篇短文“可穿戴设备将成为人们的健康标配”(参考文章)，怎么今天又改变观点，质疑可穿戴设备为人们提供的健康获益，究竟怎么回事儿？周六晚8点，Zoom在线讲座主题“可穿戴技术新进展和未来远景：...
+ ## [助力国家梦之队夺冠，AI原来可以这么酷?](http://mp.weixin.qq.com/s?src=11&timestamp=1619139603&ver=3025&signature=qiB8JuMZ8EoF5LL*Xv5O9CurITSiVUZEo-2PHskdOa0V3T1Il5uyrJnI2lSk7micJrFozPoFzo-uJQdY5x05*XVrRfBXoP7jZETzIt*e05x*hmPTOgLNYiDWDinJEwWJ&new=1)
+ > 2021年，世界观众翘首以盼的世界级体育赛事陆续拉开帷幕。中国国家跳水队一直以来是有“梦之队”的称号。在疫情影响下，中国跳水队抗疫不停训，加紧训练备战比赛，在常规训战外今年有了一个新的尝试：利用AI技术...
+ ## [回顾岳麓峰会科技创新专场直播：惟楚有材，湘江有为!](http://mp.weixin.qq.com/s?src=11&timestamp=1619139603&ver=3025&signature=Vact8zLCiJ95WveDwtwKP6dgZPhUYKDQukTDh58QOzKoJH1UyKTo12MnVbjbAOJ4CedlNDglwe45cGoJsc6SNyc7gJ34iV7aeqr-0uD1wGwT9cJEdnLcLbHnFGkT7UD0&new=1)
  > 4月16日，2021互联网岳麓峰会在湖南长沙开幕。互联网行业的专家大咖云集长沙，共同探讨在5G、云、AI技术快速发展的时代，互联网的未来走向。当天下午，以“科技缔造产业高地，创新赋能中部崛起”为主题的岳麓峰...
+ ## [从1到100，神州鲲泰决胜多元算力时代](http://mp.weixin.qq.com/s?src=11&timestamp=1619139603&ver=3025&signature=5DDSFQYB9CsvOlyOnK76aiULEviqFGNa60APn*dUnsNNlg6Tqxkfbz6QjTekAF99MBtB6uwxBG6lREmJMO9rUiFucOR3tMSXpkjDxoGK-zEfIBx8oaMK1zrxQ2fj1Htt&new=1)
+ > 近年来随着云计算的迅猛发展，国内计算产业正在加速变革：以ARM为代表的新一代多元算力平台蓬勃发展；同时，在新基建和政企上云浪潮的推动下，对国产数据中心全栈产品的市场需求也在不断增加。2021年4月20日，“...
+ ## [探访广州雷佳：金属3D打印业务连续4年翻倍增长](http://mp.weixin.qq.com/s?src=11&timestamp=1619139603&ver=3025&signature=JWFcnukocSmMWaIXJnFXE099zdnpWrlW-Ud81WpHAkcUqmI9ydR*QVzQfLowg4jaCGHUaIKw2JY3MONK6TKdzjWZw-Bo57c8oqckoKkxQO*r3XFkEEA91VVXZPsRGOvU&new=1)
+ > 2021年4月，南极熊实地探访了广州雷佳增材科技有限公司，作为华南地区极具代表性的一家金属3D打印厂商，其团队负责人是来自华南理工大学的杨永强教授，团队拥有深厚的技术底蕴。△雷佳总部，位于华南理工大学附...
+ ## [江苏省委党校40余位学员到访云创参观考察](http://mp.weixin.qq.com/s?src=11&timestamp=1619139603&ver=3025&signature=Pmgnn5tDbsv0XoGmvCkKlvh9eD4-xFIfA1F24OdAQsrYKbTg0aXKH*otwSXOTT47eiKAFjrNdAwNbLiA7LDYlG7UYWzxsSChUJj9klWn1yHEe-8VKwPqEgTxTNxfBNVs&new=1)
+ > 4月21日上午，在江苏省委党校的组织下，来自苏州港集团的40余位学员到访云创参观考察。王小聪先生热情接待了来宾，并带大家进行实地参观。在介绍报告环节，王小聪先生为来宾介绍了云创的企业概况，包括企业文化...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115923034)
  > 奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）
@@ -23,26 +29,26 @@ categories: IT NEWS
  > 这样学编程，直接原地起飞啊！
  ## [几个快速提升工作效率的小工具（Listary等）分享一下（强烈建议收藏）](https://blog.csdn.net/u014534808/article/details/115962632)
  > 几个快速提升工作效率的小工具（Listary等）分享一下（强烈建议收藏）
- ## [Mendix UX最佳实践](https://blog.csdn.net/Mendix/article/details/115971949)
- > Mendix UX最佳实践
- ## [QT使用QtMultimedia进行音视频播放出错](https://blog.csdn.net/Ternence_zq/article/details/115709566)
- > QT使用QtMultimedia进行音视频播放出错
- ## [Azure Kinect（K4A）人体识别跟踪进阶](https://blog.csdn.net/lovely_yoshino/article/details/115799823)
- > Azure Kinect（K4A）人体识别跟踪进阶
- ## [ssm框架从controller层返回json格式数据到页面](https://blog.csdn.net/qq_41150890/article/details/108423328)
- > ssm框架从controller层返回json格式数据到页面
- ## [信号处理之目标检测](https://blog.csdn.net/wangjie36/article/details/115803932)
- > 信号处理之目标检测
- ## [OPPO ColorOS再夺冠！鲁大师发布Q1季度UI排行！](https://blog.csdn.net/qq_41909850/article/details/115864509)
- > OPPO ColorOS再夺冠！鲁大师发布Q1季度UI排行！
+ ## [Spring Aop基本流程原理](https://blog.csdn.net/github_37130188/article/details/115842643)
+ > Spring Aop基本流程原理
+ ## [分布式医疗挂号系统(七) | 开发医院设置页面](https://blog.csdn.net/weixin_43691058/article/details/115616414)
+ > 分布式医疗挂号系统(七) | 开发医院设置页面
+ ## [Linux下nginx安装和使用(超详细版)](https://blog.csdn.net/qq_45056878/article/details/115789414)
+ > Linux下nginx安装和使用(超详细版)
+ ## [设计模式-策略模式（行为型-PHP案例剖析）](https://blog.csdn.net/denglii903/article/details/115915366)
+ > 设计模式-策略模式（行为型-PHP案例剖析）
+ ## [Jenkins+Docker+GitLab自动化部署springBoot项目](https://blog.csdn.net/qq_43539962/article/details/115874827)
+ > Jenkins+Docker+GitLab自动化部署springBoot项目
+ ## [Python实现文件共享【同一局域网下】](https://blog.csdn.net/qq_38689263/article/details/115872879)
+ > Python实现文件共享【同一局域网下】
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
  ## [AutoSAR系列超详细讲解：闪烁一颗LED灯1](https://blog.csdn.net/xyfx_fhw/article/details/107795620)
  > 
+ ## [如何利用ipad随时随地开发代码](https://blog.csdn.net/huangmingleiluo/article/details/115975214)
+ > 如何利用ipad随时随地开发代码
  ## [我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固](https://blog.csdn.net/m0_52883898/article/details/115921957)
  > 我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固
- ## [手把手带你爬取小姐姐私房照，准备好你的纸！](https://blog.csdn.net/zhiguigu/article/details/115917010)
- > 手把手带你爬取小姐姐私房照，准备好你的纸！
 # 人工智能 
  ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
  > 两行Python代码实现视频负片特效
