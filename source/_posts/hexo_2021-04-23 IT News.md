@@ -1,58 +1,58 @@
 ---
 title: 2021-04-23 IT News
 copyright: true
-date: 2021-04-23 10:00:58
+date: 2021-04-23 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]造车新势力系列之一：大浪淘沙，未来可能无限(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=QI2rS0Jpj0v623hEnf22u6wFDM6zPzC3jUVIb9z4j0TMBUN260SLmCBr7yS-GR4NjmoWc2SB2lypm*YESygTrQmzonHNUNcngTSWZgLe*IaymdVbrrIQnXVjtJaYssJ9&new=1)
- > 优胜劣汰下，仅少数优质车企方能存活。巅峰时，造车新势力曾有300多家，而在经历融资-车型设计和发布-产能建设-量产交付等系列考验后，唯有蔚来、理想、小鹏、威马等少数车企存活并实现可观的销量。以下为报告节...
- ## [助力国家梦之队夺冠，AI原来可以这么酷?](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=qiB8JuMZ8EoF5LL*Xv5O9CurITSiVUZEo-2PHskdOa36UoSPMnK47OB1KTXVEbYG6kla1Hy4Qwn*oDbL9njqX3Tx9W4F9ab1jOS-Q6WHAUcMDCa92s3gdKza*SgnRfpQ&new=1)
- > 2021年，世界观众翘首以盼的世界级体育赛事陆续拉开帷幕。中国国家跳水队一直以来是有“梦之队”的称号。在疫情影响下，中国跳水队抗疫不停训，加紧训练备战比赛，在常规训战外今年有了一个新的尝试：利用AI技术...
- ## [“语音合成”二三事丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=qqimZK8oRVdfQYEGJkQ22757s*88T1y1IfKABnbCoyR7gvt0hHnTzCJyQCqA7ZOMC9sZvTTwMgmTkzaxC7A4sLzFQvetNu-W6uNz5sW9wNgsbuga2DnpZyR-4kirrWNd&new=1)
- > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
- ## [探访广州雷佳：金属3D打印业务连续4年翻倍增长](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=JWFcnukocSmMWaIXJnFXE099zdnpWrlW-Ud81WpHAkcsaXd2p9hkdrBcfVW2a3zEVsgfRHsIq13trh-zLu9WvF0ebB*QWYVoHCYBvGc16*Unrk9gY4Tp-zVTOJDUYEiy&new=1)
- > 2021年4月，南极熊实地探访了广州雷佳增材科技有限公司，作为华南地区极具代表性的一家金属3D打印厂商，其团队负责人是来自华南理工大学的杨永强教授，团队拥有深厚的技术底蕴。△雷佳总部，位于华南理工大学附...
- ## [|观点|调研显示人们质疑可穿戴设备的医疗保健获益](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=myOmEplwY1LqGlVcha4K9hwNXSbpUhzM4fVGCTsXmftOEI8dks0QhPbpXNfG46ClNKkA9l3MGWmXgX2cArXFkwVCjsF-IzXBwW5OeJfFjLt5Loh97AX9h8DPcL2yoiFT&new=1)
+ ## [|观点|调研显示人们质疑可穿戴设备的医疗保健获益](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=myOmEplwY1LqGlVcha4K9hwNXSbpUhzM4fVGCTsXmftOEI8dks0QhPbpXNfG46Cl2Ev9dN-uKtV0bdcnJ7HeIVbeMdoz3WT8TqJGNGC4z1pTAmBV3TCKbWgaafhae-zQ&new=1)
  > 周一刚发表了一篇短文“可穿戴设备将成为人们的健康标配”(参考文章)，怎么今天又改变观点，质疑可穿戴设备为人们提供的健康获益，究竟怎么回事儿？周六晚8点，Zoom在线讲座主题“可穿戴技术新进展和未来远景：...
- ## [回顾岳麓峰会科技创新专场直播：惟楚有材，湘江有为!](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=Vact8zLCiJ95WveDwtwKP6dgZPhUYKDQukTDh58QOzJc5NgWcxaCyeMnPOg*TikYKqDnpMTzZqwvTl-nZgUvu4YF4qQgzAWVuOgqTSocBNxsihv6j7XntNPLPYHpa8OD&new=1)
+ ## [助力国家梦之队夺冠，AI原来可以这么酷?](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=qiB8JuMZ8EoF5LL*Xv5O9CurITSiVUZEo-2PHskdOa36UoSPMnK47OB1KTXVEbYGs8f9jVlEzRXxHKxo19Q0HIXX0JOre4dydCjmAERZYIWwwwjnBGe8jfmjygYzQ2bz&new=1)
+ > 2021年，世界观众翘首以盼的世界级体育赛事陆续拉开帷幕。中国国家跳水队一直以来是有“梦之队”的称号。在疫情影响下，中国跳水队抗疫不停训，加紧训练备战比赛，在常规训战外今年有了一个新的尝试：利用AI技术...
+ ## [\[报告\]造车新势力系列之一：大浪淘沙，未来可能无限(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=QI2rS0Jpj0v623hEnf22u6wFDM6zPzC3jUVIb9z4j0TMBUN260SLmCBr7yS-GR4NC4Xp9B3x-GEOP2Tn0bptQ5U9*YvtRESHU9scZYfvnumrqOOkKwEV5u*Fdq9shklK&new=1)
+ > 优胜劣汰下，仅少数优质车企方能存活。巅峰时，造车新势力曾有300多家，而在经历融资-车型设计和发布-产能建设-量产交付等系列考验后，唯有蔚来、理想、小鹏、威马等少数车企存活并实现可观的销量。以下为报告节...
+ ## [探访广州雷佳：金属3D打印业务连续4年翻倍增长](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=JWFcnukocSmMWaIXJnFXE099zdnpWrlW-Ud81WpHAkcsaXd2p9hkdrBcfVW2a3zE6wXhhXzRz-xeItxnsb5WSbE*S3GCIujuju75NYcaV8jSWEsRX1-zzI*5yLxvqotw&new=1)
+ > 2021年4月，南极熊实地探访了广州雷佳增材科技有限公司，作为华南地区极具代表性的一家金属3D打印厂商，其团队负责人是来自华南理工大学的杨永强教授，团队拥有深厚的技术底蕴。△雷佳总部，位于华南理工大学附...
+ ## [“语音合成”二三事丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=qqimZK8oRVdfQYEGJkQ22757s*88T1y1IfKABnbCoyR7gvt0hHnTzCJyQCqA7ZOM-smq3AQILLZmTnxfaMQgfS1ewjoY9*RcWTYNKLsQ2C8u4fwnamPdGJv4ZCvAreDp&new=1)
+ > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
+ ## [回顾岳麓峰会科技创新专场直播：惟楚有材，湘江有为!](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=Vact8zLCiJ95WveDwtwKP6dgZPhUYKDQukTDh58QOzJc5NgWcxaCyeMnPOg*TikYtmlawwVwvH-cWYRvtpBQy*2Cs4ko1idH5K1*TdnaCITzQYjpvbF6-SNytAQvZu8k&new=1)
  > 4月16日，2021互联网岳麓峰会在湖南长沙开幕。互联网行业的专家大咖云集长沙，共同探讨在5G、云、AI技术快速发展的时代，互联网的未来走向。当天下午，以“科技缔造产业高地，创新赋能中部崛起”为主题的岳麓峰...
- ## [从1到100，神州鲲泰决胜多元算力时代](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=5DDSFQYB9CsvOlyOnK76aiULEviqFGNa60APn*dUnsNtGorFULSZO69amhM1D-lZ9WL-1ANSOSjokNS-fvbx3PYFnz6afLB*Z1o-LXobavg0EbzwANfV3V5TP61rEnRm&new=1)
+ ## [从1到100，神州鲲泰决胜多元算力时代](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=5DDSFQYB9CsvOlyOnK76aiULEviqFGNa60APn*dUnsNtGorFULSZO69amhM1D-lZGhv3R7Ft8IOhNglGg4LN3KA17XUkfzkafeCPN0hScQuhq37b*9ZkeJHtcQyNE7Dp&new=1)
  > 近年来随着云计算的迅猛发展，国内计算产业正在加速变革：以ARM为代表的新一代多元算力平台蓬勃发展；同时，在新基建和政企上云浪潮的推动下，对国产数据中心全栈产品的市场需求也在不断增加。2021年4月20日，“...
- ## [江苏省委党校40余位学员到访云创参观考察](http://mp.weixin.qq.com/s?src=11&timestamp=1619141403&ver=3025&signature=Pmgnn5tDbsv0XoGmvCkKlvh9eD4-xFIfA1F24OdAQsrEGQ2ZEo9NdXQFQLlbYzYs0z2-f6maKtnMa0Oe2FAY2zE8fezVTpFzdPlbe2fmmYaMdPjDPPOVLd2gWWDCYVSg&new=1)
+ ## [江苏省委党校40余位学员到访云创参观考察](http://mp.weixin.qq.com/s?src=11&timestamp=1619148604&ver=3025&signature=Pmgnn5tDbsv0XoGmvCkKlvh9eD4-xFIfA1F24OdAQsrEGQ2ZEo9NdXQFQLlbYzYsqi7qZR3Ti36G5oqoG208gKYghxSOpQKuhcEFE982eyXfkgPwndc-4nv5FPJovKYd&new=1)
  > 4月21日上午，在江苏省委党校的组织下，来自苏州港集团的40余位学员到访云创参观考察。王小聪先生热情接待了来宾，并带大家进行实地参观。在介绍报告环节，王小聪先生为来宾介绍了云创的企业概况，包括企业文化...
 # IT 技术 
- ## [奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115923034)
- > 奉劝那些刚参加工作的学弟学妹们：这些计算机与操作系统基础知识越早知道越好！万字长文太顶了！！（建议收藏）
+ ## [大学四年，学了这些计算机基础知识，成为了别人眼中的大神](https://blog.csdn.net/m0_37907797/article/details/116020779)
+ > 大学四年，学了这些计算机基础知识，成为了别人眼中的大神
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [这样学编程，直接原地起飞啊！](https://blog.csdn.net/qing_gee/article/details/116003799)
- > 这样学编程，直接原地起飞啊！
- ## [几个快速提升工作效率的小工具（Listary等）分享一下（强烈建议收藏）](https://blog.csdn.net/u014534808/article/details/115962632)
- > 几个快速提升工作效率的小工具（Listary等）分享一下（强烈建议收藏）
- ## [Mendix UX最佳实践](https://blog.csdn.net/Mendix/article/details/115971949)
- > Mendix UX最佳实践
- ## [QT使用QtMultimedia进行音视频播放出错](https://blog.csdn.net/Ternence_zq/article/details/115709566)
- > QT使用QtMultimedia进行音视频播放出错
- ## [Azure Kinect（K4A）人体识别跟踪进阶](https://blog.csdn.net/lovely_yoshino/article/details/115799823)
- > Azure Kinect（K4A）人体识别跟踪进阶
- ## [ssm框架从controller层返回json格式数据到页面](https://blog.csdn.net/qq_41150890/article/details/108423328)
- > ssm框架从controller层返回json格式数据到页面
- ## [信号处理之目标检测](https://blog.csdn.net/wangjie36/article/details/115803932)
- > 信号处理之目标检测
- ## [OPPO ColorOS再夺冠！鲁大师发布Q1季度UI排行！](https://blog.csdn.net/qq_41909850/article/details/115864509)
- > OPPO ColorOS再夺冠！鲁大师发布Q1季度UI排行！
+ ## [JavaScript面向对象编程浅析](https://blog.csdn.net/wuyxinu/article/details/115751332)
+ > JavaScript面向对象编程浅析
+ ## [web安全sql注入初识](https://blog.csdn.net/qq_36241198/article/details/116001409)
+ > web安全sql注入初识
+ ## [SpringBoot集成Redisson实现延迟队列](https://blog.csdn.net/qq_40087415/article/details/115940092)
+ > SpringBoot集成Redisson实现延迟队列
+ ## [Python颜值打分小工具，给你的自拍美照打个分吧](https://blog.csdn.net/MC_Kitty/article/details/115833341)
+ > Python颜值打分小工具，给你的自拍美照打个分吧
+ ## [三本毕业？专科？低学历？拜托！自学编程进大厂真难，但是有机会](https://blog.csdn.net/sinat_33921105/article/details/115741157)
+ > 三本毕业？专科？低学历？拜托！自学编程进大厂真难，但是有机会
+ ## [【Python】Python网络爬虫-电视剧《平凡的荣耀》数据爬取与分析](https://blog.csdn.net/weixin_45087775/article/details/115799655)
+ > 【Python】Python网络爬虫-电视剧《平凡的荣耀》数据爬取与分析
+ ## [EasyClick 原生UI连载二十一](https://blog.csdn.net/qq_21460781/article/details/115914440)
+ > EasyClick 原生UI连载二十一
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
- ## [AutoSAR系列超详细讲解：闪烁一颗LED灯1](https://blog.csdn.net/xyfx_fhw/article/details/107795620)
- > 
+ ## [我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固](https://blog.csdn.net/m0_52883898/article/details/115921957)
+ > 我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固
+ ## [手把手带你爬取小姐姐私房照，准备好你的纸！](https://blog.csdn.net/zhiguigu/article/details/115917010)
+ > 手把手带你爬取小姐姐私房照，准备好你的纸！
  ## [如何利用ipad随时随地开发代码](https://blog.csdn.net/huangmingleiluo/article/details/115975214)
  > 如何利用ipad随时随地开发代码
- ## [当程序员真难，又一次被编辑器坑了！](https://blog.csdn.net/weixin_41701290/article/details/115984141)
- > 当程序员真难，又一次被编辑器坑了！
+ ## [“我转行做前端的这一年多，月薪3K变成了15K”，前端的自白](https://blog.csdn.net/hugo233/article/details/115966538)
+ > “我转行做前端的这一年多，月薪3K变成了15K”，前端的自白
 # 人工智能 
  ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
  > 两行Python代码实现视频负片特效
@@ -60,31 +60,45 @@ categories: IT NEWS
  > Kafka的灵魂伴侣Logi-KafkaManger三之运维管控--集群列表
  ## [2021年必会的3个Kubernetes工具](https://blog.csdn.net/fly910905/article/details/115767020)
  > 
+ ## [前端⼤规模构建演进实践](https://blog.csdn.net/weixin_55003637/article/details/115767968)
+ > 前端⼤规模构建演进实践
  ## [实践和原则，哪个更重要？tcp syncookie的问题和解法](https://blog.csdn.net/dog250/article/details/115783320)
  > 实践和原则，哪个更重要？tcp syncookie的问题和解法
- ## [大厂面试干货：面试官最喜欢pick什么样的候选人](https://blog.csdn.net/songguangfan/article/details/115792733)
- > 大厂面试干货：面试官最喜欢pick什么样的候选人
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [大厂面试干货：面试官最喜欢pick什么样的候选人](https://blog.csdn.net/songguangfan/article/details/115792733)
+ > 大厂面试干货：面试官最喜欢pick什么样的候选人
  ## [用 XGBoost 在 Python 中进行特征重要性分析和特征选择](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/115804411)
  > 用 XGBoost 在 Python 中进行特征重要性分析和特征选择
  ## [他15岁考进少年班，23岁成为阿里最年轻技术专家](https://blog.csdn.net/bjweimengshu/article/details/115804485)
  > 他15岁考进少年班，23岁成为阿里最年轻技术专家
  ## [龙芯的全新自主指令集到底强在何处？](https://blog.csdn.net/BEYONDMA/article/details/115829327)
  > 龙芯的全新自主指令集到底强在何处？
- ## [每个 Apache Kafka 开发者都应该知道的5件事](https://blog.csdn.net/w397090770/article/details/115843229)
- > 每个 Apache Kafka 开发者都应该知道的5件事
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [每个 Apache Kafka 开发者都应该知道的5件事](https://blog.csdn.net/w397090770/article/details/115843229)
+ > 每个 Apache Kafka 开发者都应该知道的5件事
+ ## [两年千余篇原创带来146万阅读、近2万粉丝和......](https://blog.csdn.net/LaoYuanPython/article/details/115837840)
+ > 
  ## [面试官：你知道Dubbo怎么做优雅上下线的吗？你：优雅上下线是啥？](https://blog.csdn.net/hollis_chuang/article/details/115858887)
  > 面试官：你知道Dubbo怎么做优雅上下线的吗？你：优雅上下线是啥？
  ## [Android编译优化：D8和R8](https://blog.csdn.net/wwj_748/article/details/115874571)
  > Android编译优化：D8和R8
- ## [顶配售价 18499 元，用上 M1 的 iPad Pro 性能与价格“直逼”电脑，这届苹果发布会有你喜欢的吗？](https://blog.csdn.net/csdnnews/article/details/115932726)
- > 顶配售价 18499 元，用上 M1 的 iPad Pro 性能与价格“直逼”电脑，这届苹果发布会有你喜欢的吗？
- ## [一个已经存在10年，却被严重低估的 Python 库](https://blog.csdn.net/weixin_36338224/article/details/115946648)
- > 一个已经存在10年，却被严重低估的 Python 库
 # PM 
+ ## [中兴发布会 产品经理抢了新机的风头？](http://www.chanpin100.com/article/114860)
+ > 不知道从什么时候开始，新机的发布会已经不单单是发布手机这么简单了，居然还要比拼产品经理？其实也不难理解，毕竟现在手机市场竞争也是非常大的，所以在新品发布会上自然还弄出点花样，这样才能吸引目光，制造话题。
+ ## [B端产品经理面试问题集锦（二）](http://www.chanpin100.com/article/114859)
+ > 你认为做好B端产品最重要的特质是什么？或者说B端产品经理应该具备什么样的特质和能力？这个问题也是面试中经常会被问答的问题，本篇B端产品经理面试问题集锦（二）就来为大家分享相关内容。
+ ## [教你避坑 产品经理应该如何辨别真伪需求？](http://www.chanpin100.com/article/114855)
+ > 关注和解决用户需求是产品经理必须做的事情，那么所有的需求都是有效的吗？产品经理应该如何辨别真伪需求呢？今天我们来讨论一下，帮助大家避坑！
+ ## [你为什么不做产品经理了 当我知道真相后悲伤真的逆流成河](http://www.chanpin100.com/article/114850)
+ > 上个周末一个小粉丝找我聊天，他竟然去相亲了！但是那是一个令人伤心的故事……他之经历，或许与你心有戚戚焉，你看当我知道真相之后，我眼前的光不再那么明亮了
+ ## [清华大学成立芯片学院 AI产品将继续创新！](http://www.chanpin100.com/article/114853)
+ > 就在刚刚，一个振奋人心的消息传来啦！那就是清华大学成立“芯片学院”，这代表着我们的AI产品将继续创新！在周年庆之际，清华大学宣布集成电路学院正式成立，这是我国集成电路的人才培养基地，许多顶级的专家，优质的师资团队都在这里，他们将致力于破解各种技术难题。
+ ## [B端产品经理面试问题集锦（一）](http://www.chanpin100.com/article/114851)
+ > 想要成功入职公司当一名B端产品经理，第一步是什么？那必须是面试啊。面试的时候被问问题是必不可免的，本篇B端产品经理面试问题集锦（一）为大家分享的就是B端和C端产品的区别？
+ ## [AI产品经理月薪5万？我承认酸了！](http://www.chanpin100.com/article/114849)
+ > 最近在招聘网站上看到一条字节跳动的招聘信息：主要内容就是招聘AI产品经理，月薪5万！当然它的要求也很多，一看就是要能力很强的AI产品经理。AI产品经理月薪5万？我承认酸了！不知道大家的月薪是多少？
  ## [10大常见反人类设计：产品经理你的良心不会痛吗](http://www.chanpin100.com/article/114847)
  > 八宝粥：产品经理是受过多大的伤害才设计出这样反人类的产品…首先那个塑料盖子，真的很难打开！其次那个勺子，真的很短！每次吃到最后都很痛苦，在吃不到、弄脏手和变娘炮三个状态之间疯狂试探…
  ## [案例分享：如何设计一款好用的投票组件](http://www.chanpin100.com/article/114846)
@@ -111,19 +125,5 @@ categories: IT NEWS
  > SaaS 全称是 Software as a service，软件即服务，它创建的初衷是当用户用到这个产品时，只需要承担很少的开发成本和人力成本便能在网络环境下随时使用。那么SAAS产品设计的原则是哪些你都知道吗？如果不太清楚，那就快来和小编一起看看吧！
  ## [产品设计方法有哪些？关于产品设计方法的几点分享](http://www.chanpin100.com/article/114836)
  > 作为一名产品设计师，掌握一些产品设计的方法会有助于更快更顺畅地设计产品，那么对于刚入门产品设计的同学来说，都有哪些比较好的产品设计方法呢？下面，小编分享几条关于产品设计的方法给大家。
- ## [MVP:十种市场调研方法大全助你深度挖掘市场需求](http://www.chanpin100.com/article/114764)
- > 要知道客户心里想什么？这就需要进行市场调研。而市场调研是一个令很多中小企业营销管理者感到迷茫的问题：人力上，既没有专职的市调人员，更没有独立的市场部门；财力上，请不起专业的市场调研公司……
- ## [一名好的交互设计师都应该具备哪些设计意识？](http://www.chanpin100.com/article/114834)
- > 对于一名交互设计师来说，不仅要具备技术能力和专业知识，具备设计意识也是非常重要的。那么一名好的交互设计师都应该具备哪些设计意识？下面，本文小编就与大家分享几条关于设计意识的内容，希望可以帮助到大家。
- ## [做竞品分析究竟要分析什么？竞品分析的目的是什么？](http://www.chanpin100.com/article/114833)
- > 对于产品经理来说，在做每一款产品之前，都要先对市场情况进行一些了解、对竞争对手的现状做一些分析，这样才能做到胸有成竹、心里有底地去开发自己的新产品。那么做竞品分析究竟要分析什么？竞品分析的目的是什么？下面请看本文的内容。
- ## [多款多功能组件上线！](http://www.chanpin100.com/article/114763)
- > 新的一周，新的功能上线。这一次，我们新增了 6 款功能组件，都是日常制作原型中的常用款，也是大家呼声已久的组件。接下来，一起了解一下本次的更新吧。
- ## [在做竞品分析时 我们都有哪些渠道可以收集竞品？](http://www.chanpin100.com/article/114832)
- > 众所周知，竞品分析是非常重要的，各行各业都要通过定期做竞品分析、定期与自己的竞争对手进行对比分析，从而知晓自身有哪些优势和劣势。那么在做竞品分析时，我们都有哪些渠道可以收集竞品？下面，我就带大家一起来了解一下。
- ## [新政策引发行业巨震 教育培训机构将如何发展？](http://www.chanpin100.com/article/114753)
- > 2020年疫情期间，受“停课不停学”正常影响，教育与互联网深度融合，当“慢”教育遭遇“快”互联网，在线教育这种新模式展现出了强劲的发展势能。
- ## [腾讯产品经理面试必问的十个问题 你知道是什么吗？（下）](http://www.chanpin100.com/article/114830)
- > 今天我们继续来分享腾讯产品经理面试必问的十个问题，之前已经整理过五个问题了，接下来我们看看另外的五个问题，也是非常具有参考性的，大家可以思考一下，想想怎么回答才能更加完美。
 
     
