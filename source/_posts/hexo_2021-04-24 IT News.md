@@ -1,26 +1,36 @@
 ---
 title: 2021-04-24 IT News
 copyright: true
-date: 2021-04-24 12:01:11
+date: 2021-04-24 17:01:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为要卖车，为何首选赛力斯?](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=QCjR4S6j1J5ImwPWm1VdnvGGCtRSZh6yBu3H1vck1jpOvVEWam9*Lg4z2RR*rJEUZI74SoJLsgWN9bDQPkzv145chDPuCvccSp5FPTbGf6YwLulQhKqjaQIu8x4BOTT7&new=1)
- > 4月20日，华为在上海举行智慧出行华为智选品鉴会，宣布赛力斯华为智选SF5正式入驻华为旗舰店，通过华为全国的零售渠道网络进行销售。该车两驱版定价21.68万元，四驱版定价24.68万元。华为常务董事、消费者业务CE...
- ## [用软件优化3D打印制造流程很紧迫!3YOURMIND获8000万元A+轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=9CmreaI0W0RlrbtTyO7jHZKpmMxh-2qGV43poLymrSdolFuNsLpOfqgMfBFqPSH75MdmE9JtCjNyjDdxU4BfpjKxTL-4REgWVMfnpzrYiwb4jgSZ-t5hio*XQ0v6IfBK&new=1)
- > 南极熊导读：3D打印要实现高效率的制造应用，成为重要的生产手段的话，用专业强大的软件来优化流程显得越来越紧迫！不但优化零件设计打印、还可对生产流程和质量管控有重要重要。2021年4月23日，南极熊获悉，美...
- ## [进入智能汽车领域的华为，自己为何不造车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=ggmJt7nymosoUBafnU0aGvnFNQ3jTRbcS0mRiJtBwN6u2zFgUlW3JESqYSYMCASk-WDbGMP3DBJTFSLyxFhQOxMP5hUL5t4PAfVx69RbElR2ZvKdW6c*hiwsy-kLEPLI&new=1)
- > 虽说之前有过各种各样的传闻，华为官方也一直否认“造车”这件事，不过依旧有不少人站在自己的角度，对华为“指点江山”。然而，看到华为在上海国际车展的这一番动作后，相信不少人都该明白：在“不造车”这件事...
- ## [SpaceX 成功送 4 名宇航员上太空；估值 2500 亿美元，字节：无上市计划；影视公司：立即清理未授权短视频|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=NXlsGc2*9iAM9TJBMjdxkybUjnVDEZKDFIrcgeL2snKpYPTnHpw2OnyPb4KnEo7NMpmaF-DPM0zdwTfaugdttasz228*sLnun7PpwTvBrCZVrgTZz*AF7hHT3J5Wzg0w&new=1)
+ ## [II-VI高意启用全新上海技术研发中心 打造世界级先进光电创新平台](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=AkWU4Q-Pz*TdVt-vTnX8YnCF1nkkbzHMsxBYNFA2JS*tkJNwD1EhGFjOiLn4IRkG4VZk9s0OyBgSjdzLyPY7ti0OZ2NS0ZGa4pGiazGDcC81UsEZsJQAUc4nZuQiujTU&new=1)
+ > 新闻导读工程材料和光电器件全球领导者II-VI高意举办高意上海技术研发中心落成仪式，本次启用的新技术研发中心是II-VI高意全球最大的技术研发设施，覆盖各类型高端光模块、光电产品制程、超高频测试和针对高精度...
+ ## [“中国版高通”底气何在?](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=-yzerDoYrNzjtDwcOosVTs6*SP1KYl9zQVNoiLjI86KRyBBiH-0lFyLf8N5prU8jPbLz*69ohbBFt-iumdGCb844spUMerzmY1wtv787aCGD4LkqcxNiZkddnifmF78M&new=1)
+ > 作 者：敏宏来 源：正和岛（ID：zhenghedao）2020年下半年以来，全球“缺芯”成为了产业热点。从汽车芯片到手机芯片全面告急，并有持续蔓延之势。一颗小小芯片的短缺，导致全球电子信息产业陷入“兵荒马乱”。芯...
+ ## [SpaceX 成功送 4 名宇航员上太空；估值 2500 亿美元，字节：无上市计划；影视公司：立即清理未授权短视频|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=NXlsGc2*9iAM9TJBMjdxkybUjnVDEZKDFIrcgeL2snLtD0CvwMfw7juHbXtEPZK8YWlnRMenAQ2j2wyTkPkHlDTdKmK6jfZ889SBtQ*rp*FlkYndEu8PxRG-IHYpLfu-&new=1)
  > 字节跳动回应上市传闻：公司暂不具备上市条件，目前无上市计划4 月 23 日，字节跳动发布公告称，近期有不少关于公司上市的消息，在此声明：经过认真研究，认为公司暂不具备上市条件，目前无上市计划。今年 3 月...
- ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=M-DoILKOTpVS0Jd2ufhsZ6jsf8lH97tAdrmk5BgNxSsR-Cu69lyd0AGOGnQIXIYNPAUjqmqVjzvLfiSmMXD9wg5xaS*sACBhG94V9eOta8b7IX*iRdoqfRRhN4KwW8sE&new=1)
+ ## [\[观察\]戴尔科技首发Azure Stack HCI，背后的大势、胜势与升势](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=lVUkV-yyLsrDik-0PoqoJcb6qFXllLokra24syizrpH7egHKDiVxqML48K-vn-EiJ4EOLZ55p2k9D8g2Ixi-MSVOkn8gA-vxEkXzPlYDLqhwOkahxClxpJ3IQZoy8u0a&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！毫无疑问，目前混合云正在成为企业上云的主流选择，这是因为混合云的优势在于能够适应不同的部署需求，既能提供私有云的安全性，也能提供公有云的开放性，因此这也让混合云架...
+ ## [2021年最新3D打印状态报告：成本是增长最核心的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=OnYOsVYVdM1-96c88GlPZtuzoYEcT*8tYKkhsURvrNrrArit8B*u9c7gXW0Q-AAwS0JKE4HSJjDtpWN9v8O-nwj94SeOGWg2EXywLHqEMvc2VtDGKeOTc2Cs3lw2LKN2&new=1)
+ > 总部位于巴黎的3D打印服务机构Sculpteo发布了其年度国际调查的第七版“ 3D打印状态”。该报告旨在对增材制造行业进行全面概述，表明3D打印在过去的一年中作为一种严肃的制造技术获得了“广泛认可”，因为该行业...
+ ## [运营商、行业客户忙入场 5G消息千亿级市场可期](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=1ipgy0dQkfNw65kEWblpwh8-NL*81z-ncf4DEpx6caHgsJZSeLjQle2jkJqcsgjTe5xKleZxR3AuDAd4eJJHtP6dKFNKMd0v3Xdu8quiYBY=&new=1)
+ > 近日，中国移动在北京、上海、云南等地陆续启动5G消息项目招标，部分银行也通过招标的方式积极探索5G消息新应用。来自各方面的进展显示，5G消息生态日益成熟，正在孕育千亿元级行业信息市场。　　4月中旬，...
+ ## [用软件优化3D打印制造流程很紧迫!3YOURMIND获8000万元A+轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=9CmreaI0W0RlrbtTyO7jHZKpmMxh-2qGV43poLymrSf4PkLlmwxNLnihJ-r8nWllIApnAubtLt8CPJiiam670nN-CQXO5-rPMdWbhQuJKa1QUGdtKiiezAKXSzJ6TUEI&new=1)
+ > 南极熊导读：3D打印要实现高效率的制造应用，成为重要的生产手段的话，用专业强大的软件来优化流程显得越来越紧迫！不但优化零件设计打印、还可对生产流程和质量管控有重要重要。2021年4月23日，南极熊获悉，美...
+ ## [进入智能汽车领域的华为，自己为何不造车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=ggmJt7nymosoUBafnU0aGvnFNQ3jTRbcS0mRiJtBwN4bX-VkCzKUZd9tCnMuMI1DWDISOWBfheZjrt-HHWT4V93wyWuqIgplCNy3WzrY0OWiNC7z0uIO0DXylyayl2y8&new=1)
+ > 虽说之前有过各种各样的传闻，华为官方也一直否认“造车”这件事，不过依旧有不少人站在自己的角度，对华为“指点江山”。然而，看到华为在上海国际车展的这一番动作后，相信不少人都该明白：在“不造车”这件事...
+ ## [华为要卖车，为何首选赛力斯?](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=QCjR4S6j1J5ImwPWm1VdnvGGCtRSZh6yBu3H1vck1jommGxAeCTRL4jaOgoooSXnmEN6F*-5Z3QyO5ZG07mMNK8mneuhm*bo4IGowBz45bQnP6fD1rUyV6vzSrXt7-9X&new=1)
+ > 4月20日，华为在上海举行智慧出行华为智选品鉴会，宣布赛力斯华为智选SF5正式入驻华为旗舰店，通过华为全国的零售渠道网络进行销售。该车两驱版定价21.68万元，四驱版定价24.68万元。华为常务董事、消费者业务CE...
+ ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=M-DoILKOTpVS0Jd2ufhsZ6jsf8lH97tAdrmk5BgNxSvALR3KzoW8efzMFot9ZxiLOpPQfAtrMDVObJuR*U0BerM*acsm7bOsxH1r4v9ucG1t--MdigI6Stmx6LovDUPi&new=1)
  > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《股权学习资料》
- ## [这93款问题APP，你手机里有吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=EOL8J3JVFBLrLNwb81J9No62RDaKfe53rNZgY-6XK6dtBluRBFEutoJF*pwrXyU0t4W40WzPniMK8IzBxjQobi0OnxWrXW3bUUmP9SP9lL9s-hLm2ItlpOWmY-VXf8Lr&new=1)
+ ## [这93款问题APP，你手机里有吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1619254804&ver=3027&signature=EOL8J3JVFBLrLNwb81J9No62RDaKfe53rNZgY-6XK6fWqPq5b9zbx*pKLIL*a8vOP682iSz9cScTMbLh3SXStiB5Rm*MzS5w7iNh5PEyKNZ6pxy9QOD9hpEADDxESnli&new=1)
  > 尚有93款APP未完成整改主要问题：违规收集、使用个人信息近期，工信部组织第三方检测机构对手机应用软件进行检查，重点督促游戏类、工具类存在问题的企业进行整改。截至目前，尚有93款APP未完成整改。广东省通信...
 # IT 技术 
- ## [当初数据结构与算法这样学，现在也不至于这样！！！](https://blog.csdn.net/weixin_41055260/article/details/116069067)
- > 当初数据结构与算法这样学，现在也不至于这样！！！
+ ## [大学四年，学了这些计算机基础知识，成为了别人眼中的大神](https://blog.csdn.net/m0_37907797/article/details/116020779)
+ > 大学四年，学了这些计算机基础知识，成为了别人眼中的大神
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
@@ -39,12 +49,12 @@ categories: IT NEWS
  > spring boot简单实现登陆注册功能demo
  ## [350页前端校招面试题直击大厂：前端基础、前端核心、计算机基础、项目、Hr面...](https://blog.csdn.net/weixin_52546522/article/details/116021176)
  > 350页前端校招面试题直击大厂：前端基础、前端核心、计算机基础、项目、Hr面...
- ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
- > Linux学习笔记——CentOS
+ ## [java实现贪吃蛇小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116021830)
+ > java实现贪吃蛇小游戏（源码+注释）
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
- ## [JAVA实现贪吃蛇小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116021830)
- > JAVA实现贪吃蛇小游戏（源码+注释）
+ ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
+ > Linux学习笔记——CentOS
  ## [HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？](https://blog.csdn.net/Androiddddd/article/details/116017013)
  > HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？
  ## [我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固](https://blog.csdn.net/m0_52883898/article/details/115921957)
@@ -81,10 +91,6 @@ categories: IT NEWS
  ## [为什么1.01*1.01*1.01=1.030301，而1.01**3=1.0303010000000001？](https://blog.csdn.net/xufive/article/details/116000544)
  > 为什么1.01*1.01*1.01=1.030301，而1.01**3=1.0303010000000001？
 # PM 
- ## [五一出游人次达到2亿 深度剖析被压抑的旅游需求](http://www.chanpin100.com/article/114870)
- > 距离五一小长假还有一周，你计划好自己的行程了吗？根据携程发布的数据，五一期间的机票、酒店、门票等预定量大幅度增长，出游的人次将有望达到2亿！再次刷新纪录！
- ## [你觉得自己值多少钱？产品经理如何让自己更值钱？](http://www.chanpin100.com/article/114867)
- > 问大家一个严肃的问题，你觉得自己值多少钱？不要想歪了，指的是你的工作能力值多少钱。你有没有想过产品经理应该如何让自己更值钱？简单来说，能力越强工资自然越高，所谓能者多得。
  ## [从华为掀起无人驾驶小高潮来看智能产品对人们的影响](http://www.chanpin100.com/article/114890)
  > 随着现代科技的发展，一些人工智能产品逐步进入普通百姓的日常生活，与此同时，人工智能时代的到来也带来了一场效率和智力的革命。我们每一个人的生活都或多或少离不开智能产品，可以说，智能产品几乎渗透到了我们生活的方方面面。
  ## [做竞品分析时 常见的对比分析方向都有哪些？（下）](http://www.chanpin100.com/article/114889)
