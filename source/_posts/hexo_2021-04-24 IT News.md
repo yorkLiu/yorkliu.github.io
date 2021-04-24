@@ -1,40 +1,40 @@
 ---
 title: 2021-04-24 IT News
 copyright: true
-date: 2021-04-24 08:00:59
+date: 2021-04-24 09:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1619220604&ver=3027&signature=M-DoILKOTpVS0Jd2ufhsZ6jsf8lH97tAdrmk5BgNxSuhInD67uKVZkCcA7CdUfIQaMQ4BYuWxpzwrdnlbciEO8N6vY5eNcAxI1OTeftutHQ1XX48hPaNuUJ0apkEfQtx&new=1)
- > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《股权学习资料》
- ## [进入智能汽车领域的华为，自己为何不造车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619220604&ver=3027&signature=ggmJt7nymosoUBafnU0aGvnFNQ3jTRbcS0mRiJtBwN5rOngZPlvdGCaUs-0DxTq46*gcNGTRciDkFwCPJEoLEkFsoOOnWlp3ZSE89DW9OneeMYd4nb*WMpW-NbUIw9hG&new=1)
+ ## [进入智能汽车领域的华为，自己为何不造车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619224204&ver=3027&signature=ggmJt7nymosoUBafnU0aGvnFNQ3jTRbcS0mRiJtBwN5rOngZPlvdGCaUs-0DxTq4Pk0wEykKkEuIjiFa5G6xiIAUKdM7p4iZHaS*6pZqtj6DIa3fA4DVXHAyaWTTSEgb&new=1)
  > 虽说之前有过各种各样的传闻，华为官方也一直否认“造车”这件事，不过依旧有不少人站在自己的角度，对华为“指点江山”。然而，看到华为在上海国际车展的这一番动作后，相信不少人都该明白：在“不造车”这件事...
- ## [这93款问题APP，你手机里有吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1619220604&ver=3027&signature=EOL8J3JVFBLrLNwb81J9No62RDaKfe53rNZgY-6XK6ff4rEtO5Mj0zKu-NZTPUaRgAaNFw72tQp3SjYDPBM9MP4-uPxvZ*C*tu8d16yl5cWEwtokag-z-ZqIxYHCwmdS&new=1)
- > 尚有93款APP未完成整改主要问题：违规收集、使用个人信息近期，工信部组织第三方检测机构对手机应用软件进行检查，重点督促游戏类、工具类存在问题的企业进行整改。截至目前，尚有93款APP未完成整改。广东省通信...
- ## [华为要卖车，为何首选赛力斯?](http://mp.weixin.qq.com/s?src=11&timestamp=1619220604&ver=3027&signature=QCjR4S6j1J5ImwPWm1VdnvGGCtRSZh6yBu3H1vck1jqb9fIDPEPBTcxJdJZv6aZU64-WK*KBJrJc7zAGAQD4Tx-Kj*d1vqbDeMjnR-l*MRlhUGWUMP5YLC7SByTidzFf&new=1)
+ ## [华为要卖车，为何首选赛力斯?](http://mp.weixin.qq.com/s?src=11&timestamp=1619224204&ver=3027&signature=QCjR4S6j1J5ImwPWm1VdnvGGCtRSZh6yBu3H1vck1jqb9fIDPEPBTcxJdJZv6aZUEVeNTKevSlPbrBW1Zmo167KRUZg7OLnTUGASuUyQhJLopmz81mj9ywS3EWTTm*9x&new=1)
  > 4月20日，华为在上海举行智慧出行华为智选品鉴会，宣布赛力斯华为智选SF5正式入驻华为旗舰店，通过华为全国的零售渠道网络进行销售。该车两驱版定价21.68万元，四驱版定价24.68万元。华为常务董事、消费者业务CE...
+ ## [这93款问题APP，你手机里有吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1619224204&ver=3027&signature=EOL8J3JVFBLrLNwb81J9No62RDaKfe53rNZgY-6XK6ff4rEtO5Mj0zKu-NZTPUaRAsoYoBhVgS--MezprhrEWvtl7Lcj5OlvbU0pVtbPYsuJs6Kpmw1VbRJ4Z1CJ7Lua&new=1)
+ > 尚有93款APP未完成整改主要问题：违规收集、使用个人信息近期，工信部组织第三方检测机构对手机应用软件进行检查，重点督促游戏类、工具类存在问题的企业进行整改。截至目前，尚有93款APP未完成整改。广东省通信...
+ ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1619224204&ver=3027&signature=M-DoILKOTpVS0Jd2ufhsZ6jsf8lH97tAdrmk5BgNxSuhInD67uKVZkCcA7CdUfIQoyXXWDzmSZmT0*Yc7UeZG08*kngYVWlIgSRDIhCO-xHDvlVJ56C2mzJyHstd1cZd&new=1)
+ > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《股权学习资料》
 # IT 技术 
- ## [当年，学姐把这份Java总结给我，让我在22k的校招王者局乱杀](https://blog.csdn.net/hebtu666/article/details/115998048)
- > 当年，学姐把这份Java总结给我，让我在22k的校招王者局乱杀
+ ## [【用AI打击犯罪】高质量实际监控视频异常检测（免费下载：抢劫，行窃，偷窃，射击，袭击，打架，纵火，爆炸，逮捕，车祸等）](https://blog.csdn.net/qq_46098574/article/details/116048730)
+ > 【用AI打击犯罪】高质量实际监控视频异常检测（免费下载：抢劫，行窃，偷窃，射击，袭击，打架，纵火，爆炸，逮捕，车祸等）
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [React原生实现SSR](https://blog.csdn.net/qq_42308316/article/details/115967587)
- > React原生实现SSR
- ## [Android UI基础 仿闲鱼发布页](https://blog.csdn.net/weixin_44758662/article/details/108426773)
- > Android UI基础 仿闲鱼发布页
- ## [Laravel 在composer 升级后出现undefind index:name 的解决方案](https://blog.csdn.net/u012368971/article/details/115999493)
- > Laravel 在composer 升级后出现undefind index:name 的解决方案
- ## [python_制作Windows安装程序包](https://blog.csdn.net/qq_45664055/article/details/115801350)
- > python_制作Windows安装程序包
- ## [(C) 精简 C 入门（三）](https://blog.csdn.net/weixin_43728138/article/details/115840788)
- > (C) 精简 C 入门（三）
- ## [spring boot简单实现登陆注册功能demo](https://blog.csdn.net/obitosbb/article/details/116003854)
- > spring boot简单实现登陆注册功能demo
- ## [350页前端校招面试题直击大厂：前端基础、前端核心、计算机基础、项目、Hr面...](https://blog.csdn.net/weixin_52546522/article/details/116021176)
- > 350页前端校招面试题直击大厂：前端基础、前端核心、计算机基础、项目、Hr面...
+ ## [前端相关知识学习笔记Node,NPM,ES6,Webpack](https://blog.csdn.net/weixin_46684099/article/details/115955673)
+ > 前端相关知识学习笔记Node,NPM,ES6,Webpack
+ ## [laravel实战项目搭建及代码管理](https://blog.csdn.net/weixin_44103733/article/details/115943093)
+ > laravel实战项目搭建及代码管理
+ ## [UI设计要做什么，UI设计培训都要学什么](https://blog.csdn.net/qinge_Crazy/article/details/115915595)
+ > UI设计要做什么，UI设计培训都要学什么
+ ## [硬核观察 | 废弃电厂重启成为比特币矿场](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/115878101)
+ > 硬核观察 | 废弃电厂重启成为比特币矿场
+ ## [二十不惑的年纪，竟靠着这份前端面试指南，有幸拿到字节跳动实习offer，简直在起飞](https://blog.csdn.net/weixin_56134381/article/details/115771316)
+ > 二十不惑的年纪，竟靠着这份前端面试指南，有幸拿到字节跳动实习offer，简直在起飞
+ ## [java 数组详解--用最通俗的语言写出美妙的数组-](https://blog.csdn.net/qq_53711262/article/details/115952301)
+ > java 数组详解--用最通俗的语言写出美妙的数组-
+ ## [100天搞定机器学习：模型训练好了，然后呢？](https://blog.csdn.net/jpld/article/details/115842322)
+ > 100天搞定机器学习：模型训练好了，然后呢？
  ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
  > Linux学习笔记——CentOS
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
