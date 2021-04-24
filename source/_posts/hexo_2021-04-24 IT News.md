@@ -1,22 +1,57 @@
 ---
 title: 2021-04-24 IT News
 copyright: true
-date: 2021-04-24 10:01:21
+date: 2021-04-24 12:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1619229603&ver=3027&signature=M-DoILKOTpVS0Jd2ufhsZ6jsf8lH97tAdrmk5BgNxSuhInD67uKVZkCcA7CdUfIQxLyjLkt9QVNfARB9K5mq1t-JtP6WT0O*jtaIlyjXbZJWYG4wDvSLJ*b5EK8tvzZH&new=1)
- > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《股权学习资料》
- ## [进入智能汽车领域的华为，自己为何不造车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619229603&ver=3027&signature=ggmJt7nymosoUBafnU0aGvnFNQ3jTRbcS0mRiJtBwN5rOngZPlvdGCaUs-0DxTq4IWBqNFa1rxyn2v9vyipgi0hFVpnBND75J7gteXiu3tH0ySHxvF4tMeFxqujM8bXx&new=1)
- > 虽说之前有过各种各样的传闻，华为官方也一直否认“造车”这件事，不过依旧有不少人站在自己的角度，对华为“指点江山”。然而，看到华为在上海国际车展的这一番动作后，相信不少人都该明白：在“不造车”这件事...
- ## [华为要卖车，为何首选赛力斯?](http://mp.weixin.qq.com/s?src=11&timestamp=1619229603&ver=3027&signature=QCjR4S6j1J5ImwPWm1VdnvGGCtRSZh6yBu3H1vck1jqb9fIDPEPBTcxJdJZv6aZUfNtgdVrOxcJBc5SQkO8o5NaaoOEdcmxM7B2ZZI5LZk3MIM*r1nvNdva0vubugXjq&new=1)
+ ## [华为要卖车，为何首选赛力斯?](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=QCjR4S6j1J5ImwPWm1VdnvGGCtRSZh6yBu3H1vck1jpOvVEWam9*Lg4z2RR*rJEUZI74SoJLsgWN9bDQPkzv145chDPuCvccSp5FPTbGf6YwLulQhKqjaQIu8x4BOTT7&new=1)
  > 4月20日，华为在上海举行智慧出行华为智选品鉴会，宣布赛力斯华为智选SF5正式入驻华为旗舰店，通过华为全国的零售渠道网络进行销售。该车两驱版定价21.68万元，四驱版定价24.68万元。华为常务董事、消费者业务CE...
- ## [用软件优化3D打印制造流程很紧迫!3YOURMIND获8000万元A+轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1619229603&ver=3027&signature=9CmreaI0W0RlrbtTyO7jHZKpmMxh-2qGV43poLymrSd3dLejxZvUoxRi43AOY341LtrAlMc-x2DijjjJa8ZgJE77MHq6hEU2aKZylQNNMQ-t0iLsfwxvYg26kmwvTnj8&new=1)
+ ## [用软件优化3D打印制造流程很紧迫!3YOURMIND获8000万元A+轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=9CmreaI0W0RlrbtTyO7jHZKpmMxh-2qGV43poLymrSdolFuNsLpOfqgMfBFqPSH75MdmE9JtCjNyjDdxU4BfpjKxTL-4REgWVMfnpzrYiwb4jgSZ-t5hio*XQ0v6IfBK&new=1)
  > 南极熊导读：3D打印要实现高效率的制造应用，成为重要的生产手段的话，用专业强大的软件来优化流程显得越来越紧迫！不但优化零件设计打印、还可对生产流程和质量管控有重要重要。2021年4月23日，南极熊获悉，美...
- ## [这93款问题APP，你手机里有吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1619229603&ver=3027&signature=EOL8J3JVFBLrLNwb81J9No62RDaKfe53rNZgY-6XK6ff4rEtO5Mj0zKu-NZTPUaR9VV8lhtjSOWTuhbUg0dZ2lYwB*Ss5y*tcutCVIU8RKoBbDgridsP*UuI9FFHOZ4z&new=1)
+ ## [进入智能汽车领域的华为，自己为何不造车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=ggmJt7nymosoUBafnU0aGvnFNQ3jTRbcS0mRiJtBwN6u2zFgUlW3JESqYSYMCASk-WDbGMP3DBJTFSLyxFhQOxMP5hUL5t4PAfVx69RbElR2ZvKdW6c*hiwsy-kLEPLI&new=1)
+ > 虽说之前有过各种各样的传闻，华为官方也一直否认“造车”这件事，不过依旧有不少人站在自己的角度，对华为“指点江山”。然而，看到华为在上海国际车展的这一番动作后，相信不少人都该明白：在“不造车”这件事...
+ ## [SpaceX 成功送 4 名宇航员上太空；估值 2500 亿美元，字节：无上市计划；影视公司：立即清理未授权短视频|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=NXlsGc2*9iAM9TJBMjdxkybUjnVDEZKDFIrcgeL2snKpYPTnHpw2OnyPb4KnEo7NMpmaF-DPM0zdwTfaugdttasz228*sLnun7PpwTvBrCZVrgTZz*AF7hHT3J5Wzg0w&new=1)
+ > 字节跳动回应上市传闻：公司暂不具备上市条件，目前无上市计划4 月 23 日，字节跳动发布公告称，近期有不少关于公司上市的消息，在此声明：经过认真研究，认为公司暂不具备上市条件，目前无上市计划。今年 3 月...
+ ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=M-DoILKOTpVS0Jd2ufhsZ6jsf8lH97tAdrmk5BgNxSsR-Cu69lyd0AGOGnQIXIYNPAUjqmqVjzvLfiSmMXD9wg5xaS*sACBhG94V9eOta8b7IX*iRdoqfRRhN4KwW8sE&new=1)
+ > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《股权学习资料》
+ ## [这93款问题APP，你手机里有吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1619236804&ver=3027&signature=EOL8J3JVFBLrLNwb81J9No62RDaKfe53rNZgY-6XK6dtBluRBFEutoJF*pwrXyU0t4W40WzPniMK8IzBxjQobi0OnxWrXW3bUUmP9SP9lL9s-hLm2ItlpOWmY-VXf8Lr&new=1)
  > 尚有93款APP未完成整改主要问题：违规收集、使用个人信息近期，工信部组织第三方检测机构对手机应用软件进行检查，重点督促游戏类、工具类存在问题的企业进行整改。截至目前，尚有93款APP未完成整改。广东省通信...
+# IT 技术 
+ ## [当初数据结构与算法这样学，现在也不至于这样！！！](https://blog.csdn.net/weixin_41055260/article/details/116069067)
+ > 当初数据结构与算法这样学，现在也不至于这样！！！
+ ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
+ > 
+ ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
+ > 
+ ## [React原生实现SSR](https://blog.csdn.net/qq_42308316/article/details/115967587)
+ > React原生实现SSR
+ ## [Android UI基础 仿闲鱼发布页](https://blog.csdn.net/weixin_44758662/article/details/108426773)
+ > Android UI基础 仿闲鱼发布页
+ ## [Laravel 在composer 升级后出现undefind index:name 的解决方案](https://blog.csdn.net/u012368971/article/details/115999493)
+ > Laravel 在composer 升级后出现undefind index:name 的解决方案
+ ## [python_制作Windows安装程序包](https://blog.csdn.net/qq_45664055/article/details/115801350)
+ > python_制作Windows安装程序包
+ ## [(C) 精简 C 入门（三）](https://blog.csdn.net/weixin_43728138/article/details/115840788)
+ > (C) 精简 C 入门（三）
+ ## [spring boot简单实现登陆注册功能demo](https://blog.csdn.net/obitosbb/article/details/116003854)
+ > spring boot简单实现登陆注册功能demo
+ ## [350页前端校招面试题直击大厂：前端基础、前端核心、计算机基础、项目、Hr面...](https://blog.csdn.net/weixin_52546522/article/details/116021176)
+ > 350页前端校招面试题直击大厂：前端基础、前端核心、计算机基础、项目、Hr面...
+ ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
+ > Linux学习笔记——CentOS
+ ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
+ > 【C语言从青铜到王者】第二篇·详解函数
+ ## [JAVA实现贪吃蛇小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116021830)
+ > JAVA实现贪吃蛇小游戏（源码+注释）
+ ## [HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？](https://blog.csdn.net/Androiddddd/article/details/116017013)
+ > HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？
+ ## [我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固](https://blog.csdn.net/m0_52883898/article/details/115921957)
+ > 我用Java写了个女朋友，甚至还能跟我聊两句！？——类的使用和巩固
 # 人工智能 
+ ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
+ > 关于净推荐值（NPS）的理解
  ## [两行Python代码实现视频负片特效](https://blog.csdn.net/LaoYuanPython/article/details/115017714)
  > 两行Python代码实现视频负片特效
  ## [Kafka的灵魂伴侣Logi-KafkaManger三之运维管控--集群列表](https://blog.csdn.net/u010634066/article/details/115631758)
@@ -25,28 +60,26 @@ categories: IT NEWS
  > 
  ## [前端⼤规模构建演进实践](https://blog.csdn.net/weixin_55003637/article/details/115767968)
  > 前端⼤规模构建演进实践
- ## [实践和原则，哪个更重要？tcp syncookie的问题和解法](https://blog.csdn.net/dog250/article/details/115783320)
- > 实践和原则，哪个更重要？tcp syncookie的问题和解法
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [大厂面试干货：面试官最喜欢pick什么样的候选人](https://blog.csdn.net/songguangfan/article/details/115792733)
  > 大厂面试干货：面试官最喜欢pick什么样的候选人
  ## [用 XGBoost 在 Python 中进行特征重要性分析和特征选择](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/115804411)
  > 用 XGBoost 在 Python 中进行特征重要性分析和特征选择
- ## [他15岁考进少年班，23岁成为阿里最年轻技术专家](https://blog.csdn.net/bjweimengshu/article/details/115804485)
- > 他15岁考进少年班，23岁成为阿里最年轻技术专家
- ## [龙芯的全新自主指令集到底强在何处？](https://blog.csdn.net/BEYONDMA/article/details/115829327)
- > 龙芯的全新自主指令集到底强在何处？
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [每个 Apache Kafka 开发者都应该知道的5件事](https://blog.csdn.net/w397090770/article/details/115843229)
  > 每个 Apache Kafka 开发者都应该知道的5件事
- ## [两年千余篇原创带来146万阅读、近2万粉丝和......](https://blog.csdn.net/LaoYuanPython/article/details/115837840)
- > 
  ## [面试官：你知道Dubbo怎么做优雅上下线的吗？你：优雅上下线是啥？](https://blog.csdn.net/hollis_chuang/article/details/115858887)
  > 面试官：你知道Dubbo怎么做优雅上下线的吗？你：优雅上下线是啥？
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [Android编译优化：D8和R8](https://blog.csdn.net/wwj_748/article/details/115874571)
  > Android编译优化：D8和R8
+ ## [顶配售价 18499 元，用上 M1 的 iPad Pro 性能与价格“直逼”电脑，这届苹果发布会有你喜欢的吗？](https://blog.csdn.net/csdnnews/article/details/115932726)
+ > 顶配售价 18499 元，用上 M1 的 iPad Pro 性能与价格“直逼”电脑，这届苹果发布会有你喜欢的吗？
+ ## [一个已经存在10年，却被严重低估的 Python 库](https://blog.csdn.net/weixin_36338224/article/details/115946648)
+ > 一个已经存在10年，却被严重低估的 Python 库
+ ## [为什么1.01*1.01*1.01=1.030301，而1.01**3=1.0303010000000001？](https://blog.csdn.net/xufive/article/details/116000544)
+ > 为什么1.01*1.01*1.01=1.030301，而1.01**3=1.0303010000000001？
 # PM 
  ## [五一出游人次达到2亿 深度剖析被压抑的旅游需求](http://www.chanpin100.com/article/114870)
  > 距离五一小长假还有一周，你计划好自己的行程了吗？根据携程发布的数据，五一期间的机票、酒店、门票等预定量大幅度增长，出游的人次将有望达到2亿！再次刷新纪录！
