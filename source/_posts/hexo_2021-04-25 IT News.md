@@ -1,21 +1,23 @@
 ---
 title: 2021-04-25 IT News
 copyright: true
-date: 2021-04-25 08:01:15
+date: 2021-04-25 09:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [不能再给车顶维权创造机会!看看汽车厂商背后的大佬都在捣鼓什么](http://mp.weixin.qq.com/s?src=11&timestamp=1619308804&ver=3029&signature=QQjCYeB70nv97-E02cGlqEx8Rjxi*6XsFJtykx-HaL2QERNZ37Hi*mOkeoelUe3sZt5JiqS5b906Y5h4Stl6LWjaBya06GRoCCJD7jY1bFqQa31wxGyi7K3XbFMxvWBz&new=1)
- > 通常情况下，特斯拉总会自己找到闪亮的C位，但在今年的上海国际车展上，他们急速蹿红的姿态还是让人惊诧。4月19日一早，第19届上海国际车展刚刚开启新品发布的连环轰炸，此时特斯拉展台车顶上冒出的一位维权小姐...
- ## [三星软件翻新旧手机；微软WSL支持 Windows 上运行 Linux Gui](http://mp.weixin.qq.com/s?src=11&timestamp=1619308804&ver=3029&signature=OpWL5zZ7wz9TEeZofBnMyQjotYDeOKvM-d0hm0--m8E90Tty8FIsHM2FrWquf5wp*4jUQhjbYRlpEeeCCoMhKjE5O48Gesgkwnb-Pb2qxuMSLnfHEKOgUtYmqQYV0Gw1&new=1)
- > 三星：软件更新将旧的Galaxy智能手机转变为物联网设备韩国三星集团宣布已启动了一项新计划，其目标是赋予旧智能手机以新的生命。三星将更新旧手机的软件，从而让消费者将他们较旧的Galaxy智能手机变成各种物联网...
- ## [华为启动“优才、众智”双计划，为数字经济提供持续动能](http://mp.weixin.qq.com/s?src=11&timestamp=1619308804&ver=3029&signature=CJmxpuRnoOMc3*w8Uem9JZOpRWZh9FN0aZByPRf02FzvV2Oh93xg*PGdIUw5ecDFX1LiPFTcC8TDPxEGV84YnsQuodtLf9Ak2*tc0XuJAUJ6yX3kVd0mtVHiM1cvQ4gh&new=1)
- > 4月24日，华为开发者大会2021（Cloud）期间，华为、教育部、高等教育出版社、中国高校计算机教育MOOC联盟（简称CMOOC）以及各大高校代表齐聚“智能基座先锋教师论坛”，共同探讨新工科人才培养、产教融合等话题...
- ## [大手笔!投资10亿!中国电信(国家)数字青海新型大数据中心来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1619308804&ver=3029&signature=vm5KSEjNNKiaeZ-CYLMSGa2-VKLu3AH*lQCcpLZB2eIYn1Qe07ZDGQ7oOo5U165swKUSp1ZWaCv9GCTA0Tdc-q0pBfFmhFZ2AhG259coL4T571VcAqsAWPKk7ud3wfpk&new=1)
- > （特约记者 刘文明）为积极助力网络强国和数字中国建设，更好地服务青海经济社会发展和人民生活改善，共创智慧生态的美好未来，中国电信将投资10亿新建中国电信（国家）数字青海新型大数据中心。据悉，中国电信...
- ## [仍未整改!工信部通报138款侵权APP名单，涉及5款金融APP](http://mp.weixin.qq.com/s?src=11&timestamp=1619308804&ver=3029&signature=7rLiJWo6nl3VBqEiA9ga08WB5y6ODt0HBgyojesA0lMp51dmdsBPr9EGESw3fPuRZmbb8pHJMC--KqZP4Ig2IukgfWSQ7qPt3e54H-hSGHPYN0kVu95IBiPokeR6qzZH&new=1)
+ ## [仍未整改!工信部通报138款侵权APP名单，涉及5款金融APP](http://mp.weixin.qq.com/s?src=11&timestamp=1619312404&ver=3029&signature=7rLiJWo6nl3VBqEiA9ga08WB5y6ODt0HBgyojesA0lPLz0ExPybAXFMmR8nousmwYHaTw9qF9TAKnyPEZjcaQtM2HjtldAArCBAbBCJZ3uom812D9PjGxpRkP0Ty8*b7&new=1)
  > 出品｜零壹智库作者｜任万盛3·15结束不到40天时间，依然有138款APP被检查出存在违法违规收集使用个人信息的行为，截至2021年4月23日，仍未完成整改。4月23日，工业和信息化部信息通信管理局（下文简称“工信部...
+ ## [你孩子的学习内卷了吗?get它让孩子快人一步](http://mp.weixin.qq.com/s?src=11&timestamp=1619312404&ver=3029&signature=HC6-WL9yA6SZQni3h*ndC9ZkJEFI5FUAkfPv8k8S7oOYDl*BooDn1tOd1R**2kBTzYYxLlo1pe2RFKQLrd8EMRvOd46VyfNnnGTD3HoEKTrMJp6pTOEk-ySqDk4VH-Xw&new=1)
+ > “互联网炒得热火朝天的内卷，同时也发生在中学生的身上。家长都希望孩子能进入一个好学校，但一个地区能考上好学校的名额就那么多，于是各种关于学习的竞争此起彼伏，内卷也愈发严重。上到各种补习班，下到各种...
+ ## [三星软件翻新旧手机；微软WSL支持 Windows 上运行 Linux Gui](http://mp.weixin.qq.com/s?src=11&timestamp=1619312404&ver=3029&signature=OpWL5zZ7wz9TEeZofBnMyQjotYDeOKvM-d0hm0--m8EwNNcrl18HXFYK2sOz2cRtVabCpEFZmp6AYjlL7Dqpmiz3UXzzbqB2ffB9MaEP7xPWL*WOEJFAe6AN4oioCVsN&new=1)
+ > 三星：软件更新将旧的Galaxy智能手机转变为物联网设备韩国三星集团宣布已启动了一项新计划，其目标是赋予旧智能手机以新的生命。三星将更新旧手机的软件，从而让消费者将他们较旧的Galaxy智能手机变成各种物联网...
+ ## [大手笔!投资10亿!中国电信(国家)数字青海新型大数据中心来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1619312404&ver=3029&signature=vm5KSEjNNKiaeZ-CYLMSGa2-VKLu3AH*lQCcpLZB2eKo7UTFP8qVZl4sFiIzAViVHZeUDynTor2NM16P-iAew8ktwj87F5IFgT3jbUXytRTriIiFucO2RUmJfMjLQtxL&new=1)
+ > （特约记者 刘文明）为积极助力网络强国和数字中国建设，更好地服务青海经济社会发展和人民生活改善，共创智慧生态的美好未来，中国电信将投资10亿新建中国电信（国家）数字青海新型大数据中心。据悉，中国电信...
+ ## [不能再给车顶维权创造机会!看看汽车厂商背后的大佬都在捣鼓什么](http://mp.weixin.qq.com/s?src=11&timestamp=1619312404&ver=3029&signature=QQjCYeB70nv97-E02cGlqEx8Rjxi*6XsFJtykx-HaL2y9rw2iVlzkJpZumtaEz*qPKWriYQANFV7sDxmkrP8vaC*AnRvugxyqhltfAOB1ydS81QSWBzf6mH2fnN5lWIa&new=1)
+ > 通常情况下，特斯拉总会自己找到闪亮的C位，但在今年的上海国际车展上，他们急速蹿红的姿态还是让人惊诧。4月19日一早，第19届上海国际车展刚刚开启新品发布的连环轰炸，此时特斯拉展台车顶上冒出的一位维权小姐...
+ ## [华为启动“优才、众智”双计划，为数字经济提供持续动能](http://mp.weixin.qq.com/s?src=11&timestamp=1619312404&ver=3029&signature=CJmxpuRnoOMc3*w8Uem9JZOpRWZh9FN0aZByPRf02FyhLtmVq-cPN57EMmW-rBZlu9GaQajAI8fOVvhX-7lLLkhpkJOwqM06iDOVUByditVJeyo6TwUR4uBxnsn1plL8&new=1)
+ > 4月24日，华为开发者大会2021（Cloud）期间，华为、教育部、高等教育出版社、中国高校计算机教育MOOC联盟（简称CMOOC）以及各大高校代表齐聚“智能基座先锋教师论坛”，共同探讨新工科人才培养、产教融合等话题...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：要想进大厂，这些核心技能是你必须要掌握的！完整学习路线！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/116081409)
  > 奉劝那些刚参加工作的学弟学妹们：要想进大厂，这些核心技能是你必须要掌握的！完整学习路线！！（建议收藏）
@@ -41,12 +43,12 @@ categories: IT NEWS
  > java实现贪吃蛇小游戏（源码+注释）
  ## [【C语言从青铜到王者】第二篇·详解函数](https://blog.csdn.net/qq_51379868/article/details/115802088)
  > 【C语言从青铜到王者】第二篇·详解函数
- ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
- > Linux学习笔记——CentOS
  ## [Python聊天室（带界面）主要实现技术：tkinter,Mysql,Treading,socket。功能：可私聊群聊，查看聊天记录](https://blog.csdn.net/weixin_42768634/article/details/116005425)
  > Python聊天室（带界面）主要实现技术：tkinter,Mysql,Treading,socket。功能：可私聊群聊，查看聊天记录
- ## [HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？](https://blog.csdn.net/Androiddddd/article/details/116017013)
- > HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？
+ ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
+ > Linux学习笔记——CentOS
+ ## [跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程](https://blog.csdn.net/Android23333/article/details/116062678)
+ > 跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程
 # 人工智能 
  ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
  > 关于净推荐值（NPS）的理解
