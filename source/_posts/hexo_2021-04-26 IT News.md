@@ -1,21 +1,21 @@
 ---
 title: 2021-04-26 IT News
 copyright: true
-date: 2021-04-26 08:00:55
+date: 2021-04-26 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电信亚运视频彩铃来了!让每一次呼叫为2022杭州亚运会加油助威](http://mp.weixin.qq.com/s?src=11&timestamp=1619393405&ver=3031&signature=6B*Tu-AsP58XhI0HAaDibGOC1PekhxXKVoJ0dvzXtI-*H4fONgfLjtUoBjII5zPLPaTPp91x4SiAo-pT4yV14zW*Vbkv0TFTnB5tLhqOiG54cQ--VgY7RlJMtdlY*059&new=1)
+ ## [中国电信亚运视频彩铃来了!让每一次呼叫为2022杭州亚运会加油助威](http://mp.weixin.qq.com/s?src=11&timestamp=1619397004&ver=3031&signature=6B*Tu-AsP58XhI0HAaDibGOC1PekhxXKVoJ0dvzXtI-*H4fONgfLjtUoBjII5zPLRFy5C1moiII0xGPR8W83669FJepUM5DY5k6cqvOR8PQa1Z9l0h87MUZaWTFwlWpt&new=1)
  > （运营商情报 特约记者 李斌）4月25日上午，由杭州2022年第19届亚运会组委会、省委宣传部、省体育局、省农业农村厅、省体育总会主办，中国电信浙江公司协办的“庆建党百年华诞 迎杭州亚运盛会”2021年浙江省棋文...
- ## [颠覆还是疯狂?与公有云巨头合建5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1619393405&ver=3031&signature=YuQF08rnTu9uoPwrNKUFZPnOsSkglXwE5neyO8b3hl-mJWqn8CplFMU*VBwHDLF3za*lc1aSKVEOuT6EmgiNPSn2LLYZLyVzumtW555liCWJ0BcKPSUxiOdDBpOEJkEM&new=1)
- > 是疯狂还是颠覆？几天前，美国第四大移动运营商Dish与全球公有云第一巨头亚马逊宣布，双方将通过AWS公有云基础设施托管5G核心网和无线接入网（RAN），以提供5G公网和5G专网服务。双方合作的详细信息如下：Dish与...
- ## [NEWS|以人为中心 建设数字中国——新大陆亮相第四届“数字中国”成果展及首届数博会(一)](http://mp.weixin.qq.com/s?src=11&timestamp=1619393405&ver=3031&signature=zmSvbnMWdgls5NXHIM3ProJ14s2cU9TgnhwbUCwzk78*BR0T6te8vouZaHaeB*vmOIfl4Be3jivIPpS0sHIoEuxqo83wGnwtFmo4zfJm2aJRGoB4ZX6lCDJ0rG7wfpSW&new=1)
- > 本刊讯：4月25日，第四届“数字中国”建设峰会在福州开幕。本次峰会以“激发数据要素新动能，开启数字中国新征程”为主题，新大陆科技集团作为以数字技术为核心，拥有从物联网终端、系统平台到大数据应用全产业...
- ## [三坊七巷对话未来：城市智能体，擘画数字化转型新篇章](http://mp.weixin.qq.com/s?src=11&timestamp=1619393405&ver=3031&signature=N4ulvjHLRVhKZ1t60VDdAnsgtxHbYssUwuvWF1ZPAvoblEQ*9u3zy4*NVuJSMz1ot9eflSsBmJo-6f5H25f8VMGA4z-1u6sxNO8-vqE1mmZEJtZmWFmwjGgncW90uGWb&new=1)
+ ## [三坊七巷对话未来：城市智能体，擘画数字化转型新篇章](http://mp.weixin.qq.com/s?src=11&timestamp=1619397004&ver=3031&signature=N4ulvjHLRVhKZ1t60VDdAnsgtxHbYssUwuvWF1ZPAvoblEQ*9u3zy4*NVuJSMz1orfig3SB6Mkr-FpP243J1LIW69P5nHbyEICWBmYamMLoZmjrqjdGvI5K*6lAEmaVE&new=1)
  > 青瓦白墙，“数”说转型。数字中国建设的理念与实践，从这里不断赓续出新。4月24日，第四届数字中国建设峰会前夕，福州三坊七巷迎来华为举办的首场高峰对话，主题为“共筑城市智能体，共谋城市数字化”。本场对...
- ## [\[重磅资料下载\]2019中国智能制造研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1619393405&ver=3031&signature=-F7VJgeEfteymjABtL1TAjc2B3XIFWWSObKJYvLwSwlqzzCcqQlVXQBQ8ZJ7rD8bg-M3UThnBRdnUeP5jzj8iHEOUTZw*AzyLCDSYhFCbtUwou-vR7dFkiFsHLu-UZrl&new=1)
+ ## [\[重磅资料下载\]2019中国智能制造研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1619397004&ver=3031&signature=-F7VJgeEfteymjABtL1TAjc2B3XIFWWSObKJYvLwSwlqzzCcqQlVXQBQ8ZJ7rD8bdNzSr1oVaEbGrtzB5tCK39rRuhD2ryihWTj8mwokh5mpfULOtedHILJnHn8GF7QK&new=1)
  > 报告介绍:随着中国劳动力成本和工业转型需求的提升，政策和技术的支持，中国智能制造进入实质性落地阶段，亿欧智库从工业化进程和智能制造需求两个角度，结合2000+制造业上市企业数据及专家调研，衡量中国制造业...
+ ## [NEWS|以人为中心 建设数字中国——新大陆亮相第四届“数字中国”成果展及首届数博会(一)](http://mp.weixin.qq.com/s?src=11&timestamp=1619397004&ver=3031&signature=zmSvbnMWdgls5NXHIM3ProJ14s2cU9TgnhwbUCwzk78*BR0T6te8vouZaHaeB*vmHHx4XFqxxRvYJ-t0*o-3gS*-hykMf*0qDq7kwM*iJNEk8SIxVXKWHbMpoYYZWxVt&new=1)
+ > 本刊讯：4月25日，第四届“数字中国”建设峰会在福州开幕。本次峰会以“激发数据要素新动能，开启数字中国新征程”为主题，新大陆科技集团作为以数字技术为核心，拥有从物联网终端、系统平台到大数据应用全产业...
+ ## [颠覆还是疯狂?与公有云巨头合建5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1619397004&ver=3031&signature=YuQF08rnTu9uoPwrNKUFZPnOsSkglXwE5neyO8b3hl-mJWqn8CplFMU*VBwHDLF3N7qoI19KY9g30FigoPtz3W4SUF5xDG-SmmLLQwC5SBNLPiL7NIpQfI8CbsSR0VJc&new=1)
+ > 是疯狂还是颠覆？几天前，美国第四大移动运营商Dish与全球公有云第一巨头亚马逊宣布，双方将通过AWS公有云基础设施托管5G核心网和无线接入网（RAN），以提供5G公网和5G专网服务。双方合作的详细信息如下：Dish与...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：要想进大厂，这些核心技能是你必须要掌握的！完整学习路线！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/116081409)
  > 奉劝那些刚参加工作的学弟学妹们：要想进大厂，这些核心技能是你必须要掌握的！完整学习路线！！（建议收藏）
@@ -23,30 +23,30 @@ categories: IT NEWS
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [「HTML+CSS」--自定义加载动画【030】](https://blog.csdn.net/weixin_44225182/article/details/115462941)
- > 「HTML+CSS」--自定义加载动画【030】
- ## [C1 jQuery的简介和使用](https://blog.csdn.net/weixin_43541094/article/details/115982286)
- > C1 jQuery的简介和使用
- ## [【CTFHub】文件上传漏洞_00截断](https://blog.csdn.net/Mitchell_Donovan/article/details/115918878)
- > 【CTFHub】文件上传漏洞_00截断
- ## [webpack-1-使用config-css-url-babel-loader](https://blog.csdn.net/m0_37642480/article/details/115935096)
- > webpack-1-使用config-css-url-babel-loader
- ## [Matlab中的偏最小二乘法（PLS）回归模型，离群点检测和变量选择](https://blog.csdn.net/qq_19600291/article/details/116109313)
- > Matlab中的偏最小二乘法（PLS）回归模型，离群点检测和变量选择
- ## [2021.4.23最新mac11.1 big sur 关于CocoaPods安装和使用](https://blog.csdn.net/A1521315qwss/article/details/116041321)
- > 2021.4.23最新mac11.1 big sur 关于CocoaPods安装和使用
- ## [黑马程序员---三天快速入门Python机器学习（第三天）](https://blog.csdn.net/qq_39236499/article/details/115960087)
- > 黑马程序员---三天快速入门Python机器学习（第三天）
+ ## [C基础知识学习 之 ✨ 简易文字小游戏](https://blog.csdn.net/zhangay1998/article/details/115694186)
+ > C基础知识学习 之 ✨ 简易文字小游戏
+ ## [【小白学java】为什么要学java?（day01）](https://blog.csdn.net/nutony/article/details/116001105)
+ > 【小白学java】为什么要学java?（day01）
+ ## [web安全常见的加密编码进制](https://blog.csdn.net/qq_36241198/article/details/115841694)
+ > web安全常见的加密编码进制
+ ## [C++ 设计模式 构建器](https://blog.csdn.net/qq_41605114/article/details/116028511)
+ > C++ 设计模式 构建器
+ ## [知识点：Java HashMap 原理与源码分析(下)](https://blog.csdn.net/tuchangsheng801004/article/details/116074994)
+ > 知识点：Java HashMap 原理与源码分析(下)
+ ## [手把手之如何写一个抢课脚本](https://blog.csdn.net/lyc44813418/article/details/114314738)
+ > 手把手之如何写一个抢课脚本
+ ## [Webpack4.0 基本操作 小白篇](https://blog.csdn.net/qq_43098197/article/details/105674104)
+ > 
  ## [java实现贪吃蛇小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116021830)
  > java实现贪吃蛇小游戏（源码+注释）
  ## [Python代码，能玩30多款童年游戏！这些有几个是你玩过的](https://blog.csdn.net/A_7878520/article/details/116091351)
  > Python代码，能玩30多款童年游戏！这些有几个是你玩过的
+ ## [51单片机~串口通信（讲解+代码）](https://blog.csdn.net/qq_51523386/article/details/116019860)
+ > 51单片机~串口通信（讲解+代码）
+ ## [数据结构——八大排序算法（面试必备）](https://blog.csdn.net/qq_45173404/article/details/116090861)
+ > 数据结构——八大排序算法（面试必备）
  ## [Linux学习笔记——CentOS](https://blog.csdn.net/lemon6564562/article/details/115554976)
  > Linux学习笔记——CentOS
- ## [跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程](https://blog.csdn.net/Android23333/article/details/116062678)
- > 跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程
- ## [Python聊天室（带界面）主要实现技术：tkinter,Mysql,Treading,socket。功能：可私聊群聊，查看聊天记录](https://blog.csdn.net/weixin_42768634/article/details/116005425)
- > Python聊天室（带界面）主要实现技术：tkinter,Mysql,Treading,socket。功能：可私聊群聊，查看聊天记录
 # 人工智能 
  ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
  > 关于净推荐值（NPS）的理解
