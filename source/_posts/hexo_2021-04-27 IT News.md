@@ -1,20 +1,26 @@
 ---
 title: 2021-04-27 IT News
 copyright: true
-date: 2021-04-27 09:00:59
+date: 2021-04-27 10:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [「建约日报 04.26」美团融资100亿美元，发力自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=RcCpWaw9XL1pdXoFAMaCY4VBHE-yeC7OgQhIYyjBkJkdHxz52S0Tv3EdZeycDg38spgRyH3U0gvAs3-cWe9-LHLk0EMYEXxuUjsEX0SAJCwinI43gIvHcrFreQ-zBR4V&new=1)
- > 要闻摘要：自动驾驶1.美团融资100亿美元，发力自动驾驶2.小米或将投资芯片公司黑芝麻3.地平线与大陆成立智能驾驶合资公司企业·财经1.百度造车：计划未来5年投资500亿元2.360公司将领投哪吒汽车D轮融资3.长城汽...
- ## [重磅!天翼云成为全球运营商最大规模的云](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=zyd0iIrcm0JHeaWsWX2DE5cYk1TBpZL07ht7iiRCodzobOejh7JdVr6GKnMtVpRONWVOMNZQQ9K1nr9cYbWHFV*Vy1my1p9E2g1-1LZgzXg0w6FpSi513gAdjlfW51El&new=1)
+ ## [重磅!天翼云成为全球运营商最大规模的云](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=zyd0iIrcm0JHeaWsWX2DE5cYk1TBpZL07ht7iiRCodzobOejh7JdVr6GKnMtVpROr4wHH2mjtl8F7LC09hej2gLIGJxBMzwiNmR3EfMnvIk9N*-lmDci2YUXLet5x333&new=1)
  > 【环球网科技报道 记者 张阳】4月25日，第四届数字中国建设峰会在福州海峡国际会展中心开幕。以“激发数据要素新动能，开启数字中国新征程”为主题的本届峰会由国家网信办、国家发改委、工信部、国务院国资委和...
- ## [黑客 Dan Kaminsky 去世，年仅 42 岁!曾发现 DNS 漏洞，拯救了互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=ZSBnsP*Nbv*OmT2-lhJoDyoyx2tV0Qi4FBb6WVefPIPiMn2tlCb9OuWwKtd0nvljfpxaqS2ivhqRPNJSPwXpLJdZKUEHPG9p12ulhNQNn9uu6hhUDSiIhp37QQWkiZuT&new=1)
+ ## [黑客 Dan Kaminsky 去世，年仅 42 岁!曾发现 DNS 漏洞，拯救了互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=ZSBnsP*Nbv*OmT2-lhJoDyoyx2tV0Qi4FBb6WVefPIPiMn2tlCb9OuWwKtd0nvljy3LYPGgEv6MM4-HSetC5HuWaSCuzjRwtRdJ51OLCIi7xAEGfRi-M2lL-0QDHNKw5&new=1)
  > 导读：一颗黑客巨星陨落。本周六，安全研究员 Marc Rogers 在Twitter上发布一则消息，称 Dan Kaminsky 已经去世。Marc Rogers 表示：我想现在已经无法掩饰了。昨天，我们失去了丹·卡明斯基。他是信息安全领域
- ## [国产里程碑!首款预装鸿蒙系统的华为手机亮相：和安卓说拜拜](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=N8obapOfb8NGUAQNDIdy618LckWSi2vRlmzKVqrMSAEaMnqkCRuVI0QaUP5zwpDfiyLS87GS04ieYyl5nlet3CxUrhbbGUTaEbibeTgBDDQVBgkmTWMD2aXMEAnmoML-&new=1)
+ ## [2021上海车展智能汽车观展报告(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=DbGN2VgPvHgm92gXZr9KdxVL4AwUENJixYNZwo11m53t05rqyLqp16qrUVN9HozDtJ8CCmGng7ZPmhkdScVBfTMEW9947sUGaDrR1y1L4ZhvEHAYY8xhPqUO*aJOwLJ8&new=1)
+ > 4月19日-4月28日，为期10天的2021年上海车展正在如火如荼的举办着。作为今年全球首个A级车展，上海车展期间，各个车企都不遗余力的展示出其最新的创新成果。我们筛选出部分在智能化方向上，较有亮点的企业和产品...
+ ## [中际旭创2020年营收70.50亿元 高端光模块销售650万只](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=VDXBE4VTjzjzJtY0zRk7c6QMhDXo1bvpewFCwN5gW5kvxHIRGPz4Xa3rHngdkOAhO*lFB-yzlEemsXC4ZzCSCBAaPAUoeQW3rOvcQqnGu6Bvt1H9tWj-szOwZFcJsbhX&new=1)
+ > 新闻导读中际旭创2020年营收70.50亿元，同比增长48.17%，净利润8.66亿元，同比增长68.55%。面对5G和数通市场蓬勃发展，子公司苏州旭创持续推进5G基站光模块产品系列市场份额稳定增长，面向数据中心的高速100G/40...
+ ## [7点见|特斯拉第一季度净利润暴增26倍；台积电斥187亿在南京建厂](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=rAhF65oQVy2V9owsUuyz0kD4NiFYivSyseWVZNlDOWGZGym24QmySZ*D*AOCZ8vccnNvgbKoCFbXHnKxyrmjKhb0LuyADmtsDtoiNR*2GIBga-hdZtHT1aRfYqMjYpop&new=1)
+ > 各位小伙伴早上好呀！以下是今天的早报！特斯拉第一季度净利润暴增26倍！业绩超出预期，但盘后仍跌逾1％美国电动汽车制造商特斯拉（NASDAQ:TSLA）在美股市场周一收盘以后（北京时间周二凌晨）公布了该公司的2021...
+ ## [「建约日报 04.26」美团融资100亿美元，发力自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=RcCpWaw9XL1pdXoFAMaCY4VBHE-yeC7OgQhIYyjBkJkdHxz52S0Tv3EdZeycDg38IX7LZtb2hQi-P0iuNqYP3ZIn9JlVmjYBvJoXkyRnKjf-3NkGYxIoioFDOQTWlvZ9&new=1)
+ > 要闻摘要：自动驾驶1.美团融资100亿美元，发力自动驾驶2.小米或将投资芯片公司黑芝麻3.地平线与大陆成立智能驾驶合资公司企业·财经1.百度造车：计划未来5年投资500亿元2.360公司将领投哪吒汽车D轮融资3.长城汽...
+ ## [国产里程碑!首款预装鸿蒙系统的华为手机亮相：和安卓说拜拜](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=N8obapOfb8NGUAQNDIdy618LckWSi2vRlmzKVqrMSAEaMnqkCRuVI0QaUP5zwpDfKDCuyPkdb95sSBCt25bnBx0xY5F0Me9B5wc27rfrUvI1XnCyNanTgc36LdR98Q3d&new=1)
  > 从2019年的亮相到现在，华为鸿蒙系统已经走过了近2年的时间。这期间华为的命运可谓是风云变幻，一度走到了最危急的时刻。但在芯片严重缺失的情况下，华为想到了通过软件来突围的方法，利用的正是自研鸿蒙系统。...
- ## [惨!连洗衣机也缺芯了，至少持续6个月](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=l2YxSFjmTiqlay8FkA9HXl8mN8UQq4KK9NLgTrgOrmPlh8b12p*fGEGHwoQXB6qatReAhoFsIZOcnUYswmr1BRlLEIRAngnpPlbrNX33OKI6BrvI2vjDnfCF*3lB*0FK&new=1)
+ ## [惨!连洗衣机也缺芯了，至少持续6个月](http://mp.weixin.qq.com/s?src=11&timestamp=1619488804&ver=3033&signature=l2YxSFjmTiqlay8FkA9HXl8mN8UQq4KK9NLgTrgOrmPlh8b12p*fGEGHwoQXB6qarKHd0eezaanATWLJDbpMKjmGfmPfm9sE1o65No7P5NGfoHryKNrlPVcQZC5*pv6Q&new=1)
  > 金融时报报道，芯片短缺已经蔓延到家电行业。编译 | 高歌编辑 | 温淑智东西4月26日消息，据英国金融时报报道，全球芯片短缺已经从汽车、智能手机蔓延到了洗衣机和烤面包机等家电产品中。时至今日，韩国三星和LG...
 # IT 技术 
  ## [各位学弟学妹，别再看教材了，时间复杂度看这篇就好了](https://blog.csdn.net/m0_37907797/article/details/116157862)
@@ -41,12 +47,12 @@ categories: IT NEWS
  > Python代码，能玩30多款童年游戏！这些有几个是你玩过的
  ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
  > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
- ## [JavaScript设计模式浅析](https://blog.csdn.net/wuyxinu/article/details/115839575)
- > JavaScript设计模式浅析
+ ## [【C语言从青铜到王者】第三篇·详解数组](https://blog.csdn.net/qq_51379868/article/details/115936950)
+ > 【C语言从青铜到王者】第三篇·详解数组
+ ## [在中国当程序员，35岁是分水岭？这些新路你知道吗？](https://blog.csdn.net/zhiguigu/article/details/116130274)
+ > 在中国当程序员，35岁是分水岭？这些新路你知道吗？
  ## [java实现贪吃蛇小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116021830)
  > java实现贪吃蛇小游戏（源码+注释）
- ## [第一次Python接单的过程记录](https://blog.csdn.net/m0_54218263/article/details/116001249)
- > 第一次Python接单的过程记录
 # 人工智能 
  ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
  > 关于净推荐值（NPS）的理解
@@ -83,6 +89,8 @@ categories: IT NEWS
  > 作为一个产品经理，你觉得自己值多少钱？实际上你的工资又是多少？相信大家都思考过这个问题。今天我们就来聊一下，产品经理应该如何提升自己的价值？如何将自己打造成顶级的产品经理！
  ## [如何精准高效的做需求分析？从表象挖掘本质！](http://www.chanpin100.com/article/114943)
  > 如何精准高效的做需求分析？相信这个每个产品经理都头疼的事情。任何一件事，我们都要从表象挖掘本质！下面我们就来具体谈论一下，帮助大家快速做出深度的需求分析。
+ ## [产品经理怎样活着走出需求评审会？](http://www.chanpin100.com/article/114964)
+ > 没错，我最近又被diss了。。。我发现不管在哪，产品经理总是免不了被diss的命运，这可能就是这个岗位深入灵魂的属性值吧。。。
  ## [为什么产品经理不要轻易换行业？你了解背后的原因吗？](http://www.chanpin100.com/article/114977)
  > 为什么产品经理不要轻易换行业？你了解背后的原因吗？其实总结起来就是一句话：隔行如隔山。毕竟不同行业的产品经理对技能的要求是不同的，想要做得好更是难上加难。
  ## [产品岗跳槽必看 经常被问到的100道产品面试题（下）](http://www.chanpin100.com/article/114976)
@@ -117,7 +125,5 @@ categories: IT NEWS
  > 1、用户体验，指的是用户在一定环境下使用产品而产生的主观感受。关键词：主观，这意味着用户体验与用户的经验、认知、习惯等息息相关。
  ## [打造完美的电商商品主图 让业绩翻倍！](http://www.chanpin100.com/article/114961)
  > 打造完美的电商商品主图能够让业绩翻倍？这句话不是没有道理，因为客户进入页面后，首先看到的就是主图的信息，也就是对你的产品的第一印象，如果你的主图特别吸引人，就能留住客户，业绩翻倍也就不难了！
- ## [传统教培机构有没有必要数字化转型？](http://www.chanpin100.com/article/114950)
- > 随着数字化时代到来，以及用户需求升级，传统教培机构向数字化转型，转为OMO模式发展，是一种必然。
 
     
