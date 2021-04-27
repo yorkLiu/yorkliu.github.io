@@ -1,21 +1,21 @@
 ---
 title: 2021-04-27 IT News
 copyright: true
-date: 2021-04-27 08:01:00
+date: 2021-04-27 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [黑客 Dan Kaminsky 去世，年仅 42 岁!曾发现 DNS 漏洞，拯救了互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1619479805&ver=3033&signature=ZSBnsP*Nbv*OmT2-lhJoDyoyx2tV0Qi4FBb6WVefPIN785DsLZL-4PhsPl*Ig2pFv*FrygjEBvQ5NMWnG0yHys046V0e9qnz0XaBd2FL68PAU7JAqt3DnjaKVKVjp7eZ&new=1)
- > 导读：一颗黑客巨星陨落。本周六，安全研究员 Marc Rogers 在Twitter上发布一则消息，称 Dan Kaminsky 已经去世。Marc Rogers 表示：我想现在已经无法掩饰了。昨天，我们失去了丹·卡明斯基。他是信息安全领域
- ## [惨!连洗衣机也缺芯了，至少持续6个月](http://mp.weixin.qq.com/s?src=11&timestamp=1619479805&ver=3033&signature=l2YxSFjmTiqlay8FkA9HXl8mN8UQq4KK9NLgTrgOrmPZq96vynsjzXmgKIdiDwKHp5k4DfWmzoYblDe6k2eE57MAjLv2Hts3O3oew9BEO22NRH*lyAv6H37JRfl2esoB&new=1)
- > 金融时报报道，芯片短缺已经蔓延到家电行业。编译 | 高歌编辑 | 温淑智东西4月26日消息，据英国金融时报报道，全球芯片短缺已经从汽车、智能手机蔓延到了洗衣机和烤面包机等家电产品中。时至今日，韩国三星和LG...
- ## [国产里程碑!首款预装鸿蒙系统的华为手机亮相：和安卓说拜拜](http://mp.weixin.qq.com/s?src=11&timestamp=1619479805&ver=3033&signature=N8obapOfb8NGUAQNDIdy618LckWSi2vRlmzKVqrMSAGyEZK-W5W4fZvmoBkffzkrzOVk0cRZTF6NRhL8*wNCuYcozODZMFglDMpkEs3uGcTDn6VL9wC5MoAjIp00fErS&new=1)
- > 从2019年的亮相到现在，华为鸿蒙系统已经走过了近2年的时间。这期间华为的命运可谓是风云变幻，一度走到了最危急的时刻。但在芯片严重缺失的情况下，华为想到了通过软件来突围的方法，利用的正是自研鸿蒙系统。...
- ## [「建约日报 04.26」美团融资100亿美元，发力自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1619479805&ver=3033&signature=RcCpWaw9XL1pdXoFAMaCY4VBHE-yeC7OgQhIYyjBkJm*czXi3XeTjJn5FoXvI8jvnwtrX8Lhd1pS7yWjroR9XI0MnByq1ISeYgQ0YGg33LbcxLrVBVVlkv-4nCmRipU-&new=1)
+ ## [「建约日报 04.26」美团融资100亿美元，发力自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=RcCpWaw9XL1pdXoFAMaCY4VBHE-yeC7OgQhIYyjBkJkdHxz52S0Tv3EdZeycDg38spgRyH3U0gvAs3-cWe9-LHLk0EMYEXxuUjsEX0SAJCwinI43gIvHcrFreQ-zBR4V&new=1)
  > 要闻摘要：自动驾驶1.美团融资100亿美元，发力自动驾驶2.小米或将投资芯片公司黑芝麻3.地平线与大陆成立智能驾驶合资公司企业·财经1.百度造车：计划未来5年投资500亿元2.360公司将领投哪吒汽车D轮融资3.长城汽...
- ## [重磅!天翼云成为全球运营商最大规模的云](http://mp.weixin.qq.com/s?src=11&timestamp=1619479805&ver=3033&signature=zyd0iIrcm0JHeaWsWX2DE5cYk1TBpZL07ht7iiRCodxjt1dJFx2o2mEl*UXymSgaC0F7o*WbryP4yATmh8Bd16NyJLX44FrrCuU7uPBlIuXebXNQGgzJhtqqa2n3FBdD&new=1)
+ ## [重磅!天翼云成为全球运营商最大规模的云](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=zyd0iIrcm0JHeaWsWX2DE5cYk1TBpZL07ht7iiRCodzobOejh7JdVr6GKnMtVpRONWVOMNZQQ9K1nr9cYbWHFV*Vy1my1p9E2g1-1LZgzXg0w6FpSi513gAdjlfW51El&new=1)
  > 【环球网科技报道 记者 张阳】4月25日，第四届数字中国建设峰会在福州海峡国际会展中心开幕。以“激发数据要素新动能，开启数字中国新征程”为主题的本届峰会由国家网信办、国家发改委、工信部、国务院国资委和...
+ ## [黑客 Dan Kaminsky 去世，年仅 42 岁!曾发现 DNS 漏洞，拯救了互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=ZSBnsP*Nbv*OmT2-lhJoDyoyx2tV0Qi4FBb6WVefPIPiMn2tlCb9OuWwKtd0nvljfpxaqS2ivhqRPNJSPwXpLJdZKUEHPG9p12ulhNQNn9uu6hhUDSiIhp37QQWkiZuT&new=1)
+ > 导读：一颗黑客巨星陨落。本周六，安全研究员 Marc Rogers 在Twitter上发布一则消息，称 Dan Kaminsky 已经去世。Marc Rogers 表示：我想现在已经无法掩饰了。昨天，我们失去了丹·卡明斯基。他是信息安全领域
+ ## [国产里程碑!首款预装鸿蒙系统的华为手机亮相：和安卓说拜拜](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=N8obapOfb8NGUAQNDIdy618LckWSi2vRlmzKVqrMSAEaMnqkCRuVI0QaUP5zwpDfiyLS87GS04ieYyl5nlet3CxUrhbbGUTaEbibeTgBDDQVBgkmTWMD2aXMEAnmoML-&new=1)
+ > 从2019年的亮相到现在，华为鸿蒙系统已经走过了近2年的时间。这期间华为的命运可谓是风云变幻，一度走到了最危急的时刻。但在芯片严重缺失的情况下，华为想到了通过软件来突围的方法，利用的正是自研鸿蒙系统。...
+ ## [惨!连洗衣机也缺芯了，至少持续6个月](http://mp.weixin.qq.com/s?src=11&timestamp=1619483405&ver=3033&signature=l2YxSFjmTiqlay8FkA9HXl8mN8UQq4KK9NLgTrgOrmPlh8b12p*fGEGHwoQXB6qatReAhoFsIZOcnUYswmr1BRlLEIRAngnpPlbrNX33OKI6BrvI2vjDnfCF*3lB*0FK&new=1)
+ > 金融时报报道，芯片短缺已经蔓延到家电行业。编译 | 高歌编辑 | 温淑智东西4月26日消息，据英国金融时报报道，全球芯片短缺已经从汽车、智能手机蔓延到了洗衣机和烤面包机等家电产品中。时至今日，韩国三星和LG...
 # IT 技术 
  ## [各位学弟学妹，别再看教材了，时间复杂度看这篇就好了](https://blog.csdn.net/m0_37907797/article/details/116157862)
  > 各位学弟学妹，别再看教材了，时间复杂度看这篇就好了
@@ -23,30 +23,30 @@ categories: IT NEWS
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [Springboot实现网上订餐系统](https://blog.csdn.net/whirlwind526/article/details/115875447)
- > Springboot实现网上订餐系统
- ## [Axure RP 8从零开始](https://blog.csdn.net/sinat_37835865/article/details/116020864)
- > Axure RP 8从零开始
- ## [知识点：Java HashMap 原理与源码分析(下)](https://blog.csdn.net/tuchangsheng801004/article/details/116074994)
- > 知识点：Java HashMap 原理与源码分析(下)
- ## [黑马程序员---三天快速入门Python机器学习（第三天）](https://blog.csdn.net/qq_39236499/article/details/115960087)
- > 黑马程序员---三天快速入门Python机器学习（第三天）
- ## [PHP对接百度智能云之语言处理技术](https://blog.csdn.net/php_xml/article/details/116161643)
- > PHP对接百度智能云之语言处理技术
- ## [Springboot在新增和修改下上传图片并显示](https://blog.csdn.net/qq_36134376/article/details/116107651)
- > Springboot在新增和修改下上传图片并显示
- ## [FMDB Swift版使用](https://blog.csdn.net/kicinio/article/details/116157444)
- > FMDB Swift版使用
+ ## [DuiLib实现仿微信聊天界面](https://blog.csdn.net/xmcy001122/article/details/115962944)
+ > DuiLib实现仿微信聊天界面
+ ## [❀Linux系统上C语言的编译与调试你还不知道吗？❀](https://blog.csdn.net/qq_37388518/article/details/116003010)
+ > ❀Linux系统上C语言的编译与调试你还不知道吗？❀
+ ## [pytorch几种损失函数CrossEntropyLoss、NLLLoss、BCELoss、BCEWithLogitsLoss、focal_loss、heatmap_loss](https://blog.csdn.net/Brikie/article/details/116171023)
+ > pytorch几种损失函数CrossEntropyLoss、NLLLoss、BCELoss、BCEWithLogitsLoss、focal_loss、heatmap_loss
+ ## [从零开始，带你用Nanodet目标检测模型完成自动捡球机器人](https://blog.csdn.net/weixin_42754478/article/details/116087913)
+ > 从零开始，带你用Nanodet目标检测模型完成自动捡球机器人
+ ## [php基础知识5-数组](https://blog.csdn.net/rebekah_/article/details/113889239)
+ > php基础知识5-数组
+ ## [如何写出一份优质的前端简历？](https://blog.csdn.net/hugo233/article/details/115868197)
+ > 如何写出一份优质的前端简历？
+ ## [跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程](https://blog.csdn.net/Android23333/article/details/116062678)
+ > 跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程
  ## [Python代码，能玩30多款童年游戏！这些有几个是你玩过的](https://blog.csdn.net/A_7878520/article/details/116091351)
  > Python代码，能玩30多款童年游戏！这些有几个是你玩过的
  ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
  > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
+ ## [JavaScript设计模式浅析](https://blog.csdn.net/wuyxinu/article/details/115839575)
+ > JavaScript设计模式浅析
  ## [java实现贪吃蛇小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116021830)
  > java实现贪吃蛇小游戏（源码+注释）
  ## [第一次Python接单的过程记录](https://blog.csdn.net/m0_54218263/article/details/116001249)
  > 第一次Python接单的过程记录
- ## [数据结构——八大排序算法（面试必备）](https://blog.csdn.net/qq_45173404/article/details/116090861)
- > 数据结构——八大排序算法（面试必备）
 # 人工智能 
  ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
  > 关于净推荐值（NPS）的理解
