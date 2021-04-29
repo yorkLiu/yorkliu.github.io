@@ -1,24 +1,30 @@
 ---
 title: 2021-04-29 IT News
 copyright: true
-date: 2021-04-29 09:01:02
+date: 2021-04-29 10:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智能电视偷盗用户数据有多严重](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=L-hHk2otxxu7HXx8YD7Kwx7VKCu5eEz-9av5W141zU4qMMoTolm75qemRyXMiV3PAqtZ8VURLQZx8xlVsWbAlU0LpRWMzftTxr7VrHNlqeFJOb6Su4i0rpkv5KXiFO7j&new=1)
- > 如果智能电视“偷盗”用户数据这件事情处理不好，肯定会引发一轮市场上的众多年轻用户们对于智能电视的使用恐慌潮，最终透支并伤害的则是整个彩电产业的未来。华辛||撰稿最近，创维电视和勾正数据一前一后的两份...
- ## [华为业绩表现超预期，未来或强力挑战特斯拉和蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=BANtcgATNeLmnLJXeuFrimepqsq96mzUzV-aNVwZCIYVENZj0waDLDkij3-VTmZFeGPAvidQhN2k9e9NYZq6eMjDn5hKNvDfexzNmES0yOCMAymTmOC5exP-yjH6uXbe&new=1)
- > 华为公布的今年一季度业绩显示首次迎来营收下滑，不过净利润却逆势增长，显示出它的手机业务遭受重创已对它的业绩造成沉重打击。华为一季度的业绩显示，一季度营收同比下滑16.92%，看起来这个业绩表现差强人意，...
- ## [在线3D打印服务商Shapeways将在纽交所上市，估值6亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=6Ptk2vbCyEWqFLueHOmWwMfRzFU1rMYoD5YpVIp-v3ZVn21xE08OyJofPtM*dN9WJv9oW0rua2GSlXdn43pL5VNJHQUJK37XaCOWSy0Ya7xegy66ComiEZCjb44zcyCk&new=1)
+ ## [在线3D打印服务商Shapeways将在纽交所上市，估值6亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=6Ptk2vbCyEWqFLueHOmWwMfRzFU1rMYoD5YpVIp-v3ZVn21xE08OyJofPtM*dN9WtWvC33l1-KeDVv8jWPVHFqcQ6dE2w-MoGPN1QVLlChn-*IDuk0SAZ8IJ67sgY34j&new=1)
  > Shapeways已经确认，它打算与Galileo Acquisition Corp.合并，以成立一家隐含股权总价值达6.05亿美元的新企业。交易完成后，合并后的公司将更名为Shapeways Holdings Inc，并将继续在纽约证券交
- ## [张一鸣、梁汝波退出天津字节跳动科技有限公司|热点](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=GRVgjYro3VwyIidUL8wcTL91ZOK*dcNBJ5wOPl29SubdUWCrr4xwOGsqwwQddcxvyTadQgj2YJKbUgD5KDSKtnt9VHoizpVO7bsk1gCs4Z*VTqGpYu8L4PPs7J1EeqXG&new=1)
+ ## [博创科技Q121营收同比增长78.6% 10G PON市场需求旺盛](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=jYCvfN8v9cRHRImc3IGtYUjiyQfrQvpQt0P-HkGYAM*0S5dGGDBghL14h3JruFrxSGuJ*LTCFKFYTDxNHtUjN6X20Fbw8mz0KjV7qGJRyMQ1vRiI3ycr2UNcJlVL1ENO&new=1)
+ > 新闻导读博创科技Q121实现营收2.32亿元，同比增长78.60%；净利润3548.04万元，同比增长1,191.25%。报告期内，光无源器件订单需求稳定，光有源器件受10G PON旺盛需求驱动收入增长，推进数通400G硅光模块、数通200
+ ## [这些未来产业，将点亮怎样的未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=9WOw*rJGjNdDINXECZUWYrzgM257yXEsALbaApS3pIjhyzigaq9SKvcnsU2tnSA8vVl2QfqSN63LTfLR9RMKwAZxVG7cPu8jHT14wlXiq7dV9-WaCP4D6tO91-YkDE7i&new=1)
+ > 产业是推动经济发展的核心引擎，未来产业应是能够推动未来经济社会快速、持续发展的产业。未来产业不是传统产业的自我延续和升级，而是前瞻性、颠覆性科技创新重大成果所形成的新型战略性产业。以“十四五”规划...
+ ## [比特币挖矿代价有多大?中科院、清华等学者：预计2024年耗电近3000亿度、碳排放1.3亿吨](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=0cR0*k6k9V6iYH2I0*xfkVZNmOCbZ2ZZa0TLNNvRLXAzwIAMnz0VaxN9JOU7BXku9lGXJSeEAp*8*NLSp14Oi7czsh5uSCFekaKCRxYbKRzR-LsbYVPXRfnzegXhwISY&new=1)
+ > 随着比特币（BTC）在全球范围内获得广泛认可，其所代表的价值可谓水涨船高，如今 1 BTC 就能兑换成约 58154 美元的 “真金白银”。况且，这么值钱的比特币理论上最多只有 2100 万枚，数量非常有限，这就吸引了越...
+ ## [华为业绩表现超预期，未来或强力挑战特斯拉和蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=BANtcgATNeLmnLJXeuFrimepqsq96mzUzV-aNVwZCIYVENZj0waDLDkij3-VTmZF8-qnB3MOVPPWdaOO-ri3YieQw3yaAIJj7a721U9*RPTWm9dZ2yJDLWAtqFD*grMz&new=1)
+ > 华为公布的今年一季度业绩显示首次迎来营收下滑，不过净利润却逆势增长，显示出它的手机业务遭受重创已对它的业绩造成沉重打击。华为一季度的业绩显示，一季度营收同比下滑16.92%，看起来这个业绩表现差强人意，...
+ ## [智能电视偷盗用户数据有多严重](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=L-hHk2otxxu7HXx8YD7Kwx7VKCu5eEz-9av5W141zU4qMMoTolm75qemRyXMiV3PYft8hFQ5Uz1gd8PiRaNqHSRFL9*NDgfwyOwt7RsrZdjRkXno9niN1JKWYbvg3Dru&new=1)
+ > 如果智能电视“偷盗”用户数据这件事情处理不好，肯定会引发一轮市场上的众多年轻用户们对于智能电视的使用恐慌潮，最终透支并伤害的则是整个彩电产业的未来。华辛||撰稿最近，创维电视和勾正数据一前一后的两份...
+ ## [张一鸣、梁汝波退出天津字节跳动科技有限公司|热点](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=GRVgjYro3VwyIidUL8wcTL91ZOK*dcNBJ5wOPl29SubdUWCrr4xwOGsqwwQddcxvNfAf-*qVFgFR3x2xjwZtlXe75taXcJilqXyFM4k2e*A84Kuj6BTjtLuwyFieMc7e&new=1)
  > 编者按：张一鸣退出天津字节跳动国内要闻张一鸣、梁汝波退出天津字节跳动科技有限公司企查查App显示，近日天津字节跳动科技有限公司发生工商变更，法定代表人由梁汝波变更为肖金梅，总经理梁汝波、执行董事张一...
- ## [陈龙在市区调研时强调：全力推动数字经济系统建设走前列作示范](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=vS5vIdr5TY9N8sIaabSk7HHN44QxiHI7LzMEpe3pnTMvJb3ka4dAIy*H*zXN*vKnFcvQUo*WXAVbVTR5SOVZbfAuVNgWREagfz53f5p9sMK6V5C3-0VAGdKRyG5jEKMx&new=1)
+ ## [陈龙在市区调研时强调：全力推动数字经济系统建设走前列作示范](http://mp.weixin.qq.com/s?src=11&timestamp=1619659804&ver=3037&signature=vS5vIdr5TY9N8sIaabSk7HHN44QxiHI7LzMEpe3pnTMvJb3ka4dAIy*H*zXN*vKnod21KgkK5fcaht59af76AWZcyauGe4ZzCmkcskRmcs*YyzeGlfT-uRnl-Hh8c18L&new=1)
  > 4月28日，市委书记陈龙前往市区部分企业和市技师学院，从企业级、行业级、区域级工业互联网平台三个层面，了解我市数字经济系统建设工作和产业数字化、数字产业化进展情况。他强调，数字经济系统建设是数字化改...
 # IT 技术 
- ## [我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！](https://blog.csdn.net/l1028386804/article/details/116191713)
- > 我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！
+ ## [『图解Java并发编程系列』10张图告诉你Java并发多线程那些破事](https://blog.csdn.net/guoguo527/article/details/116243171)
+ > 『图解Java并发编程系列』10张图告诉你Java并发多线程那些破事
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
@@ -39,14 +45,14 @@ categories: IT NEWS
  > PHP多进程学习(三)父进程与子进程的执行顺序，进程中共享数据
  ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
  > 手把手教你爬取清纯小姐姐私房照，小孩子写学
+ ## [阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节](https://blog.csdn.net/Android23333/article/details/116203913)
+ > 阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节
  ## [技术无“学历” 从大专学校走出来的少年AI狂人](https://blog.csdn.net/alitech2017/article/details/116157817)
  > 技术无“学历” 从大专学校走出来的少年AI狂人
  ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
  > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
- ## [10个Python爬虫入门实例](https://blog.csdn.net/lh9987/article/details/116211701)
- > 10个Python爬虫入门实例
- ## [在中国当程序员，35岁是分水岭？这些新路你知道吗？](https://blog.csdn.net/zhiguigu/article/details/116130274)
- > 在中国当程序员，35岁是分水岭？这些新路你知道吗？
+ ## [unity的ugui-3.生成图片字体](https://blog.csdn.net/weixin_44453949/article/details/116175680)
+ > unity的ugui-3.生成图片字体
 # 人工智能 
  ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
  > 关于净推荐值（NPS）的理解
@@ -79,6 +85,8 @@ categories: IT NEWS
  ## [Android Window系列（一）- window与decorview](https://blog.csdn.net/Double2hao/article/details/116115775)
  > Android Window系列（一）- window与decorview
 # PM 
+ ## [MVP：七种深度洞察用户需求的方法及工具](http://www.chanpin100.com/article/115070)
+ > 需求分析是市场研究阶段的重要活动，也是新产品开发流程中的一个重要环节，是产品经理经过深入细致的调研和分析，准确理解用户对产品的功能、性能、可靠性等具体要求，将用户非形式的需求表述转化为完整的需求定义，从而确定产品必须做什么的过程。
  ## [五一催热房车租赁 这个五一假期究竟有多火爆？](http://www.chanpin100.com/article/115069)
  > 开着房车去旅游，这已经成了不少人旅游的一种新形式，因为它不仅方便、还可以节省很多的费用如车费、旅游费等。这个五一大家就像笼中之鸟被放生一样，出行需求特别旺盛，这是因为去年疫情的原因大家都没有办法出门旅游，而今年疫情得到有效控制。临近“五一”，房车租赁市场非常火爆，尽管价格比平时贵了不少，但仍然一车难
  ## [神策数据陈宁：前端国际化技术需求及模型实现](http://www.chanpin100.com/article/115014)
