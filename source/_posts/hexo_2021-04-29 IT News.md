@@ -1,38 +1,54 @@
 ---
 title: 2021-04-29 IT News
 copyright: true
-date: 2021-04-29 12:01:01
+date: 2021-04-29 17:03:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [OPPO 被传正在筹备造车；副处长送外卖一天赚 41，美团：改善体验；特斯拉在华收入暴增 238%|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=-pg7KZYLvGrm3zxFp6FaKLBq8XSen2hn0QO6wvS6C3a6d43kaNjlBTmauC1PxLZnC2RClSCGPHhLOg*O*hJ6Py5wGUvmkyyTxP3UXsO-a*02BC1Z32X2arwDkVBspwbM&new=1)
+ ## [零信任发展趋势论坛沪上落地，大咖共议网络安全发展新路径](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=C6P-nFkB*dN6lB58QA4iqhgIk4lkg7l7eb5F5Nk63DJiyliQ5JUbD64kr*JNw6cP8kobnI4fRen2N0fXSebbq5wxioK200VT*gK6XhuTWA6p9HyfbLjwqg8gbVPX-Wvz&new=1)
+ > 关键讯息，D1时间送达！国内外大咖云集，这场零信任高峰论坛等你来在产业数字化升级和业务上云的趋势下，传统基于边界的安全防护理念难以应对企业面临的各类安全风险，以“持续验证，永不信任”为核心的零信任作...
+ ## [RISC-V 能打 50 年!不必期待 RISC-VI —— 对话 RISC-V CTO Mark Himelstein](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=*fugn*s40UeT55xqM9ZdCymoJrGl8E5HRdTsKRdT35Amy7-xfKKy7uQ3iSKLvNy9p3ll5*cV0BtQV24hp8XGwTU4m1cpMJHhTJMBmwni2lRIbICOQDZ4r9yMJ0umeXsi&new=1)
+ > 《程序员》于 2000 年创刊，其理念为「技术改变世界，创新驱动中国」。2021 年，《程序员》2.0 全新起航，首期以「开发者的黄金十年」为主题，以音视频、图文专栏等丰富的多媒体形式为载体，立足当下，放眼未来...
+ ## [多面手“360”：哪吒只是众多意向之一](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=1jAwjVUP2xi0epjp0fDC3Jq6*8tPKcO4Np0G7MXSsB7T7eBOfnI62oO4MkdyiQTZd2JHTpiv9Wra60udCU6i8mhTqC1yuggKDBiVfnzxvAqjMleleJ8kuimHYthhEKf9&new=1)
+ > &quot;投资哪吒汽车仅为360布局新能源智能汽车领域的意向之一，现阶段涉及的意向书不具备法律约束力。&quot;前脚，哪吒汽车刚宣布三六零安全科技股份有限公司（以下简称&quot;360&quot;）战略领投其D轮融资，后脚360官方迅速做出以上...
+ ## [全新美团无人配送车上路：下次见面就是在你家门口了](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=ZTBy5HnNcSVIqZHfbV2Ax8onCilhh16089etne*UmZ0Q*V6VukO5v8kY4aHn0smv9YKWP9NShZXcq6G3zZ4TG6QQCGcCBhaMIsNFx201I6HasZ11VYy37*qcUZwTIAkw&new=1)
+ > 机器之心原创作者：李泽南这就是未来的收外卖方式，你准备好了吗？最近，在北京市顺义区测试运行的美团无人配送车成为了一些人「调戏」的对象。在被人们广为分享的视频中，一辆和拍摄车辆平行前进的无人配送车在...
+ ## [5G强势带动!三大运营商2021年Q1业绩全线飘红](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=cEoCNh9DhrDintTpvOjVgFt67EcM6bU0FYHTBKozWUNcRuXrvYi83q9cJAoZC-9cjvmxkwJyfTeJdx8tLLlMu5hBmTnl9brujbFV2v7p676Vimhqn*gFTfidZkT*yGqt&new=1)
+ > | 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：舒文琼本文来源：通信世界（CWW-weixin）杂谈投稿邮箱：631255063@qq.com从经营收入、通信服务收入、利润，到ARPU值、5G用户规模，三大运营商主要指标几
+ ## [美团北京，今日起无人驾驶送外卖](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=BOfM6o1DMFtkjzmH0JrBNAtFHSmeXBU6HOJnTjXPY6hjbQWd7BmrtI-PAIF0NvWSHQuVGpjIhLfX058r*JO*2SUSM5EJd1c4kLl*rYOSEP9g3CzNO6BbvQYOxGK59o6f&new=1)
+ > 杨净 发自 凹非寺 量子位 报道 | 公众号 QbitAI自动驾驶落地，载物快于载人已是共识。在这个领域，最具场景优势和最不容忽视的玩家——美团，最近就有一系列动向。比如，刚融资100亿美元，用于无人车、无人机的...
+ ## [中国联通在ITU-T成功牵头基于区块链的共享网络需求及架构的新立项](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=feg3rOJjYsaGttMyCBn9-OBpVzP6Ihp6DC7JfE7KrYqG*9fGt9tXdUxTITeEli6PaUEpkqL55ByTXhe10VE5-MOrN69xct56w3J8-5FM5OKYdJq1BmIS3RpBj0XUkPFk&new=1)
+ > 在2021年3月1日至3月12日召开的ITU-T SG13全会上，中国联通携手中国电信、中兴牵头的《Requirements and framework of mobile network sharing based on distribu
+ ## [这家初创公司利用AI谈判系统帮沃尔玛等巨头省了数百万美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=g7gBt2CNbS8pfFobJHsM2Mh5uwsc6moFfyyAG-83NyAlzoRhBfmsYROw7t43RQe*BcPZPR5GKOyhM3XP5E49byMMghG87X1K19YplpqNyu49hXxKV7W0LVO29riwvABE&new=1)
+ > 「Never split the difference.」这是著名谈判策略专家，前FBI谈判代表Chris Voss的谈判格言。这句话可以译为「千万不要各退一步」，Voss还以这句话命名另他的著作，有中文译者将其译为《强势谈判》。各退一步，
+ ## [江波龙电子与中国电信签署存储联合创新战略合作框架协议](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=v3ZL2k0Ihmj5hRUiBS8GibrpdRlB3Z8QXVG2ILdmqzCKsBNtZGYPjTQaMi2bzjrbUr3lM3RCvCN1ZKTqpLlrjidS9jqZ22ib9KMCINY5pEe7W83YySObfYiX-YCd39K9&new=1)
+ > 4月28日，2021年中国电信“融通创新”主题日活动在首都北京举行。本次活动以“融通共赢数字经济，创新发展未来生态”为主题，江波龙电子作为战略合作方受邀参加，并与各大企业联盟展开深度交流，共商数字经济产...
+ ## [理解网络安全风险，增强业务韧性](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=v5ceuS9kXx275MGVdRYL5cz5bV4FeEeOnC5WkymhRyvQl1wVTmygd7nJIp72V2*prLiCkAwEsA*0TMnm8FNb43fPXY5HnyR5yt7mjB64Ug8zuSTMQ3z7yW--ADit4ykx&new=1)
+ > （本文阅读时间：5分钟）数字时代，加快数字化转型已成为众多企业在大数据、人工智能以及数字化新兴技术背景下的必然发展之路，而数字化转型时代的企业网络安全更是企业发展的重中之重，换而言之，每个企业都需...
+ ## [一文带你提前快览2021首都网络安全日](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=6zOT0k8aHyFPcGksWsjb8tBaE7ZNtoFftVCiGoZhqVihBLwnVmaOEEeHchEwjBjA3FHKo3Qylug*l7gl79-tC06EdQ9e6zZYYUJdgGy4xFTEvDXZP00oJfiWw3zQQHdE&new=1)
+ > 4月28日，由北京市委网信办、市公安局联合举办的第八届“4.29首都网络安全日”系列活动正式召开。本次活动以“网络安全同担、网络生活共享”为口号，以迎接冬奥为年度主题，贴合时代发展蓝图、行业发展前景，围...
+ ## [OPPO 被传正在筹备造车；副处长送外卖一天赚 41，美团：改善体验；特斯拉在华收入暴增 238%|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=-pg7KZYLvGrm3zxFp6FaKLBq8XSen2hn0QO6wvS6C3Z5vSjx6FR3B5KqXfAIXtGGkTd4uU44oL77JwydCINcdNoEBqKgtUNnqa4cYJMzq*6m1rjc986lKkIAXvZFJfOV&new=1)
  > OPPO 正筹备造车，陈明永带队调研4 月 28 日消息，36 氪从多位接触到 OPPO 公司高层的知情人士处获悉，OPPO 集团也已经在筹备造车事项。         报道称，与小米一样，OPPO 造车计划的推动者也是创始人陈明永，...
- ## [个人消费品3D打印定制是伪需求?大转型的Shapeways上市估值4.1亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=BEpIaHg4YJAXEQ8qLu-aVrKZ0xkUbZqRePG*D4svX9FhIP-4cf9W8gWe8jjU71*Pdie9Eclr0sXuDbhFVoGkIAWaLpxpeHQjHLSN9MUQzvgMf-5Wq7I7SIh9x6ueeRvw&new=1)
- > 喜讯：【南极熊3D打印】手机APP来了，功能很强大，内容很专业导读：有这么一家历史悠久的个性化定制3D打印服务公司，创始人被踢出公司、传言被亚马逊收购，作为专业垂直平台的南极熊都很久没有听到过它的声音了...
- ## [\[报告\]场景先行，高级别自动驾驶商业化加速落地(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=Syttq*sP1Cq5-85UeNrQvj*uPWHRyX6D*xUyzi9kNh4kh6eq5-leHDhpsE7fGHFbdA7lRwv7mkF6XbRaGZ7DFLrDo048ZOpY95kDhxkdZfoFowgzYV3ukUvoIjCzss7F&new=1)
+ ## [\[报告\]场景先行，高级别自动驾驶商业化加速落地(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=Syttq*sP1Cq5-85UeNrQvj*uPWHRyX6D*xUyzi9kNh7l76YQAKdqECglInHTNT6j98Y7Ua1Jjs3Ot-8jSNyFyPnDCF-AvmGCVtPjQS8-xJavJIpo3R*tpUNyo0DSir71&new=1)
  > 自动驾驶汽车（Autonomous Vehicles，AV）指通过搭载先进传感器等装置，运用人工智能 等新技术，具有自动驾驶功能的新一代汽车，又称为智能网联汽车、无人驾驶汽车。本篇报告中，我们提出对高级别自动驾驶产业的...
- ## [来感受 列车内的5G网速](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=pEnSmAHdOTPMq*-nqC3Zs-gVpKTcWt9TX72g3UBJI4JY3F7jT9uWm-2jjIj86C*VkC9aB9uBY9LlFTKPs*6JJcm-7T3K8tCmPKGev6RzXkg=&new=1)
+ ## [个人消费品3D打印定制是伪需求?大转型的Shapeways上市估值4.1亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=BEpIaHg4YJAXEQ8qLu-aVrKZ0xkUbZqRePG*D4svX9Hv*XvXCfLJq267vp7QNPKxu-CYRXR4hMZbgK-xozcztW--lUyeSm4bMrZ1jaVTHs5oXqxaQlOIDKzJPsg2tc9z&new=1)
+ > 喜讯：【南极熊3D打印】手机APP来了，功能很强大，内容很专业导读：有这么一家历史悠久的个性化定制3D打印服务公司，创始人被踢出公司、传言被亚马逊收购，作为专业垂直平台的南极熊都很久没有听到过它的声音了...
+ ## [来感受 列车内的5G网速](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=pEnSmAHdOTPMq*-nqC3Zs-gVpKTcWt9TX72g3UBJI4L0xrQVNGw5CL-jqIRnVSQZynsdllY5YF1D1fiYUhXSHMMg5Bxiwt3y5BTk4O3xwmw=&new=1)
  > 无论是在2号线的各个站点还是列车内，只要你的手机开通了5G功能，哪怕你在玩游戏，也能因为5G的网速而备感震撼。据轨道公司资源开发总部负责人介绍，2号线开通前，已经完成全线隧道和32个车站5G信号全覆盖。...
- ## [博创科技Q121营收同比增长78.6% 10G PON市场需求旺盛](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=jYCvfN8v9cRHRImc3IGtYUjiyQfrQvpQt0P-HkGYAM8EDXawa-UaVrc8tFnPCehwFr0WSQRLzayFtU-41dkxtChVALuwmMcKDi*lCu6p5jFZXclXGQ2u9*uGZOuTXr3L&new=1)
+ ## [博创科技Q121营收同比增长78.6% 10G PON市场需求旺盛](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=jYCvfN8v9cRHRImc3IGtYUjiyQfrQvpQt0P-HkGYAM-2s9kF8PzfaNomAgDhuNYVe9yp5MCm61R4ZAQILN4AD0hXZh2uIQ56BQUxxTJI2NTEL*3BbjgaqIKUs3sVosmL&new=1)
  > 新闻导读博创科技Q121实现营收2.32亿元，同比增长78.60%；净利润3548.04万元，同比增长1,191.25%。报告期内，光无源器件订单需求稳定，光有源器件受10G PON旺盛需求驱动收入增长，推进数通400G硅光模块、数通200
- ## [在线3D打印服务商Shapeways将在纽交所上市，估值6亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=6Ptk2vbCyEWqFLueHOmWwMfRzFU1rMYoD5YpVIp-v3bfliet6HsXTGRwUY0CoXLCjDvbLZ7pBepisS1S2sQBqtooksuZcMPKlqyCrhqr2iqXRUaSDKh*yTQ*FnODx5MT&new=1)
+ ## [在线3D打印服务商Shapeways将在纽交所上市，估值6亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=6Ptk2vbCyEWqFLueHOmWwMfRzFU1rMYoD5YpVIp-v3bVPZI1e9siHGsZBYmtzGhjR1N5KDWLEGibargUyz2say3vcrqdZPmjxP4ngbuaKLl3jTgAtqWWQKWcETn8QxiM&new=1)
  > Shapeways已经确认，它打算与Galileo Acquisition Corp.合并，以成立一家隐含股权总价值达6.05亿美元的新企业。交易完成后，合并后的公司将更名为Shapeways Holdings Inc，并将继续在纽约证券交
- ## [这些未来产业，将点亮怎样的未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=9WOw*rJGjNdDINXECZUWYrzgM257yXEsALbaApS3pIgKOs1aiC2BFYDIlZsb9mGVhr6OJF0C5Vm7o094PE683tCLc3rwtuSPl0w71J8F8iB34lAuxF-lVAh*XOjl3WKA&new=1)
+ ## [这些未来产业，将点亮怎样的未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=9WOw*rJGjNdDINXECZUWYrzgM257yXEsALbaApS3pIiOrZJuq6ukJJhvKMO54QsLLFEOte4lihusBmLc4vL3asp-TycvERdZ77QT7pll3oxdmqeqNFBTUSFSEvWOPTo5&new=1)
  > 产业是推动经济发展的核心引擎，未来产业应是能够推动未来经济社会快速、持续发展的产业。未来产业不是传统产业的自我延续和升级，而是前瞻性、颠覆性科技创新重大成果所形成的新型战略性产业。以“十四五”规划...
- ## [比特币挖矿代价有多大?中科院、清华等学者：预计2024年耗电近3000亿度、碳排放1.3亿吨](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=0cR0*k6k9V6iYH2I0*xfkVZNmOCbZ2ZZa0TLNNvRLXC8tEWCX7KAG57oGRbzEanR0VCJWxIvCNPYnxS-rCfte9gtkjaHsKQXMQz-mFGGUM9vtf*eRXl3z918PfiW*7vE&new=1)
+ ## [比特币挖矿代价有多大?中科院、清华等学者：预计2024年耗电近3000亿度、碳排放1.3亿吨](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=0cR0*k6k9V6iYH2I0*xfkVZNmOCbZ2ZZa0TLNNvRLXAyb5OuJ2s7saXxitYbBxdzg8DuirTxUNntfD*J0qyiRFAOr0x**GkEaz5i3EuJevjjGJ-R2*pRxX3ueEKOKIhJ&new=1)
  > 随着比特币（BTC）在全球范围内获得广泛认可，其所代表的价值可谓水涨船高，如今 1 BTC 就能兑换成约 58154 美元的 “真金白银”。况且，这么值钱的比特币理论上最多只有 2100 万枚，数量非常有限，这就吸引了越...
- ## [华为业绩表现超预期，未来或强力挑战特斯拉和蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=BANtcgATNeLmnLJXeuFrimepqsq96mzUzV-aNVwZCIa-XMBk1Zy0fRSSbesJaTCniI0*nCx35JGBCEMi5p73t9eHmunPgZ46Av7WtVvQJQJclTy0hTgC-JrVxzLqWMXg&new=1)
+ ## [华为业绩表现超预期，未来或强力挑战特斯拉和蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1619686804&ver=3037&signature=BANtcgATNeLmnLJXeuFrimepqsq96mzUzV-aNVwZCIbGVej-V0eWEHGgAp5smtwb-zbULdNNoIl*S0WZOpsmzlKW3Fh68V4PnU9lBrh2BVlJrbC2AZghElwneSnoKYOh&new=1)
  > 华为公布的今年一季度业绩显示首次迎来营收下滑，不过净利润却逆势增长，显示出它的手机业务遭受重创已对它的业绩造成沉重打击。华为一季度的业绩显示，一季度营收同比下滑16.92%，看起来这个业绩表现差强人意，...
- ## [智能电视偷盗用户数据有多严重](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=L-hHk2otxxu7HXx8YD7Kwx7VKCu5eEz-9av5W141zU7wRAkHcxIcjrv1DUywRk-dJu8g890oByd*DQgZtCXSIZq6c1iBDVdzY9cCBhrPPbRvQPpYojDmVdOQwKhz1*3p&new=1)
- > 如果智能电视“偷盗”用户数据这件事情处理不好，肯定会引发一轮市场上的众多年轻用户们对于智能电视的使用恐慌潮，最终透支并伤害的则是整个彩电产业的未来。华辛||撰稿最近，创维电视和勾正数据一前一后的两份...
- ## [张一鸣、梁汝波退出天津字节跳动科技有限公司|热点](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=GRVgjYro3VwyIidUL8wcTL91ZOK*dcNBJ5wOPl29SuYaB*VfOGKW0vuyha56r3baQk9J0viorpHQwN2Jq5hJCuTJWv52at6xXx*dhQ7Hk*y6J3Ekedroj5Old2UB1o-j&new=1)
- > 编者按：张一鸣退出天津字节跳动国内要闻张一鸣、梁汝波退出天津字节跳动科技有限公司企查查App显示，近日天津字节跳动科技有限公司发生工商变更，法定代表人由梁汝波变更为肖金梅，总经理梁汝波、执行董事张一...
- ## [陈龙在市区调研时强调：全力推动数字经济系统建设走前列作示范](http://mp.weixin.qq.com/s?src=11&timestamp=1619667004&ver=3037&signature=vS5vIdr5TY9N8sIaabSk7HHN44QxiHI7LzMEpe3pnTNlva1j1dyyXSW1kffpFYU3Edu6te1FX175OxZRzHU*-km42mDwnNqyqbncA4gLa9zmB4S*6nfxMdyjS*Ll8CGg&new=1)
- > 4月28日，市委书记陈龙前往市区部分企业和市技师学院，从企业级、行业级、区域级工业互联网平台三个层面，了解我市数字经济系统建设工作和产业数字化、数字产业化进展情况。他强调，数字经济系统建设是数字化改...
 # IT 技术 
- ## [我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！](https://blog.csdn.net/l1028386804/article/details/116191713)
- > 我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！
+ ## [学弟学妹们，C为啥学不好？是因为你没真正理解面向对象的思想！](https://blog.csdn.net/lucky51222/article/details/116245218)
+ > 学弟学妹们，C为啥学不好？是因为你没真正理解面向对象的思想！
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
@@ -51,16 +67,16 @@ categories: IT NEWS
  > R语言作图：坐标轴设置
  ## [LAMP架构5-Nginx缓存加速结合php](https://blog.csdn.net/weixin_41191813/article/details/115741264)
  > LAMP架构5-Nginx缓存加速结合php
+ ## [STM32F103+ESP8266（WiFi）模块 简单应用之远程控制LED和蜂鸣器、读取温湿度](https://blog.csdn.net/Ikaros_521/article/details/116232001)
+ > STM32F103+ESP8266（WiFi）模块 简单应用之远程控制LED和蜂鸣器、读取温湿度
  ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
  > 手把手教你爬取清纯小姐姐私房照，小孩子写学
- ## [关于召开全国大学生智能车竞赛--百度智慧交通项目](https://blog.csdn.net/zhuoqingjoking97298/article/details/116237199)
- > 关于召开全国大学生智能车竞赛--百度智慧交通项目
+ ## [shell报警系统](https://blog.csdn.net/m0_51996190/article/details/115958378)
+ > shell报警系统
  ## [阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节](https://blog.csdn.net/Android23333/article/details/116203913)
  > 阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节
- ## [技术无“学历” 从大专学校走出来的少年AI狂人](https://blog.csdn.net/alitech2017/article/details/116157817)
- > 技术无“学历” 从大专学校走出来的少年AI狂人
- ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
- > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
+ ## [接口测试流程及用例设计](https://blog.csdn.net/zjtdy/article/details/116208537)
+ > 接口测试流程及用例设计
 # 人工智能 
  ## [大厂是如何设计基于Epoll的网络通信模型](https://blog.csdn.net/songguangfan/article/details/111354974)
  > 
@@ -95,43 +111,43 @@ categories: IT NEWS
 # PM 
  ## [AI产品为什么这么火？带你挖掘那些不为人知的秘密！](http://www.chanpin100.com/article/115077)
  > 这是一个互联网时代，也是一个大数据时代，我们的生活已经完全被数据化了，从早上被闹钟叫醒，到晚上刷着手机入睡，智能产品已经完全融入了我们的生活。那么AI产品为什么这么火？答案显而易见，因为我们的生活跟互联网密切相关，而这些AI产品其实就是它的衍生产物。
- ## [【产品经理免费体验课】手把手教你指标体系的构建及应用](http://www.chanpin100.com/article/115078)
- > 作为一名数据产品经理，该如何构建指标体系呢？又该如何应用指标体系呢？想知道这些问题答案的小伙伴，可以来参加小编为大家分享的产品经理免费体验课，让我们的无痕老师为大家揭晓答案。
- ## [美团饿了么两外卖平台逐步取消对骑士逐单处罚](http://www.chanpin100.com/article/115079)
- > 今天的热搜“美团饿了么两外卖平台逐步取消对骑士逐单处罚”，意思是外卖小哥不会动不动就被扣钱了？为什么两大外卖平台会突然发出这个声明呢？我们来具体了解一下。
- ## [产品经理面试前需要准备的内容分享（二）](http://www.chanpin100.com/article/115076)
- > 面试就像是一场战役，败了就得继续投简历，胜了就可以入职公司。所以战前的准备是必不可少。那么，产品经理面试前需要准备哪些内容呢？请看本文产品经理面试前需要准备的内容分享（二）中分享的内容吧！
- ## [【产品经理免费体验课】数据产品经理必备 策略设计与数据分析](http://www.chanpin100.com/article/115075)
- > 想要成为一名出色的数据产品经理需要必备哪些硬技能呢？那必须得说一说策略设计和数据分析了。那么，如何进行策略设计和数据分析呢？本次免费体验课将有无痕老师带领大家学习相关知识，并且有相关案例展示呦！心动不如行动，快快动动手指，报名学习吧！
- ## [产品经理面试前需要准备的内容分享（一）](http://www.chanpin100.com/article/115072)
- > 在去面试前，一定要做足充分的准备，这样才能有很大的几率成功通过面试。那么，产品经理面试前都需要做哪些准备呢？请看本文“产品经理面试前需要准备的内容分享（一）”中的内容吧！
- ## [MVP：七种深度洞察用户需求的方法及工具](http://www.chanpin100.com/article/115070)
- > 需求分析是市场研究阶段的重要活动，也是新产品开发流程中的一个重要环节，是产品经理经过深入细致的调研和分析，准确理解用户对产品的功能、性能、可靠性等具体要求，将用户非形式的需求表述转化为完整的需求定义，从而确定产品必须做什么的过程。
- ## [五一催热房车租赁 这个五一假期究竟有多火爆？](http://www.chanpin100.com/article/115069)
- > 开着房车去旅游，这已经成了不少人旅游的一种新形式，因为它不仅方便、还可以节省很多的费用如车费、旅游费等。这个五一大家就像笼中之鸟被放生一样，出行需求特别旺盛，这是因为去年疫情的原因大家都没有办法出门旅游，而今年疫情得到有效控制。临近“五一”，房车租赁市场非常火爆，尽管价格比平时贵了不少，但仍然一车难
- ## [神策数据陈宁：前端国际化技术需求及模型实现](http://www.chanpin100.com/article/115014)
- > 本文根据神策数据资深前端研发工程师陈宁《前端国际化》的直播整理而成，主要包含以下内容：国际化概述，国际化技术需求，国际化技术模型，国际化技术模型实现。
- ## [为什么会有策略产品经理？它是如何诞生的？](http://www.chanpin100.com/article/115067)
- > 大家应该都听过策略产品经理这个岗位，那么为什么会有这个岗位呢？它是如何诞生的？今天我们来聊一下这个话题，让你简单的了解策略产品经理这个职位。
- ## [继小米造车之后 OPPO也要造车了？](http://www.chanpin100.com/article/115068)
- > 4月28日，据36氪消息称，在小米集团CEO雷军官宣造车后，作为同行对手，知名手机制造品牌OPPO也计划进入智能电动汽车领域，也已经开始筹备造车事项。与小米一样，OPPO造车计划的推动者也是它的创始人——陈明永先生，据悉，陈明永已会见宁德时代中国乘用车事业部总裁，开始招募自动驾驶、座舱方面的人选。
- ## [智能家居有“智能”了吗？](http://www.chanpin100.com/article/115062)
- > 随着智能家居的战火蔓延到前装，市场上会出现更多易于复制的全屋智能方案，这正是7年前智能家居从业者最梦寐以求的事情。
- ## [产品经理年度生存报告 来看看这些数据！（下）](http://www.chanpin100.com/article/115066)
- > 今天我们来看看产品经理年度生存报告的最后两个方面：跳槽创业与学习成长。下面都是比较全面的数据，大家可以与自己对比一下，看看有没有差距。
- ## [产品经理面试之前 在对公司的了解方面要做哪些准备？](http://www.chanpin100.com/article/115065)
- > 在你要去参加产品经理岗位的面试之前，我们需要在对面试公司的了解方面做哪些准备呢？今天我们就来谈一谈这个问题，做什么事情都要打有准备之仗，这样才能有事半功倍的效果！
- ## [“碳中和”来了 车辆充电抢跑“减碳”第一步](http://www.chanpin100.com/article/115032)
- > 为抢占先发优势，电动车领域的技术研发、产能投资、配套设施等布局逐渐加快。而高效能的充电网络则成为这轮变革的关键。
- ## [产品经理年度生存报告 来看看这些数据！（中）](http://www.chanpin100.com/article/115064)
- > 我们继续来看看产品经理年度生存报告，以下的数据大家可以作为参考。这篇文章主要分析的是两个大方面，公司状况和薪资年终奖的情况。来看看你属于哪个水平！
- ## [你在面试产品经理时 是否遇到过开放式题目？](http://www.chanpin100.com/article/115063)
- > 你在面试产品经理这个岗位的时候，是否遇到过一些除了常规性问题之外的开放式题目？这一类的题目通常考察的是你的开放性思维和灵活思考问题的能力，接下来小编给大家讲一下这类开放式的题目应该注意什么。
- ## [阿里巴巴数字化转型的借鉴点](http://www.chanpin100.com/article/115004)
- > 阿里在探索数字化转型的过程中经历了不同的发展阶段，比如技术架构演变、组织架构演变、业务“急”、技术“疲”、人才错配、数据文化演变等。梳理这些可为企业数字化转型提供更多的借鉴意义。
- ## [产品经理年度生存报告 来看看这些数据！（上）](http://www.chanpin100.com/article/115061)
- > 今天分享一份产品经理年度生存报告，这里包含的数据非常多，看看哪些是对你有用的？这个报告总的来说分为六大方面：从业者画像、人在职场、公司状态、薪资与年终奖、跳槽与创业，以及学习与成长。下面我们来具体看看。
- ## [分享几种常见的竞品分析方法 有需要的看过来！](http://www.chanpin100.com/article/115060)
- > 我们都知道竞品分析的重要性，它对于研究市场动态和竞争对手信息有着至关重要的作用，今天小编会给大家分享几种常见的竞品分析方法，有需要的同学就看过来了，希望小编的分享可以对你有帮助。
+ ## [知识付费时代 学习是终生事业](http://www.chanpin100.com/article/115051)
+ > 知识付费，简单来说就是付钱去学习知识，而这种“知识”，是对自我提升有价值，或者能商业变现的知识技能。当知识的生产者生产了对于用户消费者来说有信息差有影响力的知识，消费者也就应该给予生产者相应的报酬去获取。
+ ## [产品经理如何跨越职业发展的鸿沟？培养策略能力！](http://www.chanpin100.com/article/115107)
+ > 作为一个产品经理，如果你已经入行三年了，却仍旧感到焦虑，那么可能是因为你没有找到自己的核心竞争力。今天我们来简单聊一下产品经理应该如何跨越职业发展的鸿沟？答案很简单，那就是培养策略能力！
+ ## [教培机构借助视频号私域引流的7大方法及变现策略](http://www.chanpin100.com/article/115025)
+ > 新的赛道，新的机遇，教培机构借助视频号进行私域引流，结合技术服务商搭建的线上知识店铺，定能运营好自己的私域流量池，并且不断裂变扩大。
+ ## [策略型产品经理和功能型产品经理到底有什么不同？](http://www.chanpin100.com/article/115105)
+ > 策略产品经理和功能产品经理，这两个词相信大家都不陌生，那么策略型产品经理和功能型产品经理到底有什么不同呢？今天我们就来简单聊聊，主要是从以下几个方面进行对比。
+ ## [点餐浪费要收费？反食品浪费法通过 这些行为要小心了！](http://www.chanpin100.com/article/115103)
+ > 小编今天打开热搜瞧了瞧，发现其中比较火的热点之一就是，反食品浪费法于4月29日十三届全国人大常委会第二十八次会议表决通过。根据反食品浪费法，公务活动用餐不得超过规定标准；可奖励“光盘行动”消费者；点餐浪费可收厨余垃圾处理费；商家诱导误导消费者超量点餐，最高罚1万；食品生产经营者严重浪费，最高罚5万；
+ ## [快递江湖群雄割据 菜鸟助攻通达系打破困局？](http://www.chanpin100.com/article/115080)
+ > 价格战的愈演愈烈正在加速着行业内的洗牌速度，在众多快递企业接连亏损的局面下，驿站共配已成为大势所趋。
+ ## [什么是策略？常见的策略手段有哪些？](http://www.chanpin100.com/article/115102)
+ > 在工作中，我们经常会跟市场部的同事沟通竞争策略，或者是讨论用户增长策略。那么作为一个策略产品经理，你知道策略是什么吗？常见的策略手段有哪些？
+ ## [策略产品经理的那些事之指标体系是如何构建的？](http://www.chanpin100.com/article/115100)
+ > 今天我们来聊聊：策略产品经理的那些事之指标体系是如何构建的？指标一词对于大家来说都不陌生，那么指标体系是什么呢？它到底是如何构建的呢？
+ ## [可喜可贺！空间站天和核心舱发射升空！](http://www.chanpin100.com/article/115098)
+ > 2021年4月29日11时许，搭载空间站天和核心舱的长征五号B遥二运载火箭，在我国海南文昌航天发射场点火升空，约494秒后进入预定轨道，此次发射任务取得圆满成功，标志着中国空间站在轨组装建造全面展开，为后续关键技术验证和空间站组装建造顺利实施奠定了坚实基础。
+ ## [用什么软件画流程图好？](http://www.chanpin100.com/article/115074)
+ > 流程图（Flow Chart）这个概念对很多人来说并不陌生，但如果让你定义或者举例说明什么是产品流程图，恐怕还是有难度的。
+ ## [策略产品经理要注意警惕那些天然的指标！](http://www.chanpin100.com/article/115097)
+ > 指标这个词对于策略产品经理来说再熟悉不过了，那么，今天小编要提醒大家：注意警惕那些天然的指标！很多策略产品经理会不断的对产品进行优化，目的就是为了完成指标，那么这个指标真的是正确的吗？
+ ## [策略产品经理如何高效精准的获取样本？（下）](http://www.chanpin100.com/article/115096)
+ > 策略产品经理如何高效精准的获取样本？上一篇文章我们分享了内部样本的获取方法，今天我们继续来分享外部样本的获取方法，赶紧拿小本本记下！
+ ## [「反诈蛋」C位出道 精准投放背后有多少搞头？](http://www.chanpin100.com/article/115087)
+ > 当前消费者的需求越来越呈现出多样化、差异化的特点，这就意味着过去那种传统的大众化的营销方式已不能满足当今消费者的需求，这就出现了广告精准投放。
+ ## [策略产品经理如何高效精准的获取样本？（上）](http://www.chanpin100.com/article/115095)
+ > 评估、样本和算法是策略产品经理必须关注的三要素，今天我们要聊的话题是：策略产品经理如何高效精准的获取样本？简单的说，样本可以分为两大类：内部样本和外部样本。下面我们来看一下怎么获取这两种样本。
+ ## [产品经理面试前需要准备的内容分享（五）](http://www.chanpin100.com/article/115091)
+ > 在正式参加面试之前，我们也可以先行进行一下模拟面试，这样一套流程下来，可以让我们做到有备无患。那么，该如何准备呢？请看本文产品经理面试前需要准备的内容分享（五）中分享的内容吧！
+ ## [策略产品经理的工作流程是什么样的？需要哪些技能？](http://www.chanpin100.com/article/115092)
+ > 策略产品经理，这个词大家都很熟悉，那么策略产品经理的工作流程是什么样的呢？需要哪些技能呢？今天我们就来聊一下。首先，我们来看看策略产品经理的工作流程，大致可以分为下面五步。
+ ## [策略产品经理与设计产品经理有什么区别？](http://www.chanpin100.com/article/115090)
+ > 策略产品经理这个职位大家都不陌生，那么设计产品经理大家有听说过吗？这两者到底有什么区别呢？下面我们来探讨一下，主要是从工作职责方面来分析它们的区别。
+ ## [面试门下看B站 年轻人的心你伤不起](http://www.chanpin100.com/article/115089)
+ > 最近B站面试门事件闹得沸沸扬扬，从这个事件中，我们可以得出一个结论：年轻人的心你伤不起！其实这不是B站第一次出来道歉了，在之前也有过类似的事情。
+ ## [产品经理面试前需要准备的内容分享（四）](http://www.chanpin100.com/article/115088)
+ > 面试前期，简历的准备是相当重要的。一份好的简历是面试成功的一半。那么，如何准备面试简历呢？请看本文产品经理面试前需要准备的内容分享（四）中的分享内容吧！
 
     
