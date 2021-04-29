@@ -1,20 +1,20 @@
 ---
 title: 2021-04-29 IT News
 copyright: true
-date: 2021-04-29 08:01:06
+date: 2021-04-29 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [张一鸣、梁汝波退出天津字节跳动科技有限公司|热点](http://mp.weixin.qq.com/s?src=11&timestamp=1619654405&ver=3037&signature=GRVgjYro3VwyIidUL8wcTL91ZOK*dcNBJ5wOPl29SubdUWCrr4xwOGsqwwQddcxvH0WhzL4WEF05KSj-GFaRvx2fQgUcFv4ZRtnGeNmIUlOD7h2YTjS-2zGfxYP9Lw7i&new=1)
- > 编者按：张一鸣退出天津字节跳动国内要闻张一鸣、梁汝波退出天津字节跳动科技有限公司企查查App显示，近日天津字节跳动科技有限公司发生工商变更，法定代表人由梁汝波变更为肖金梅，总经理梁汝波、执行董事张一...
- ## [智能电视偷盗用户数据有多严重](http://mp.weixin.qq.com/s?src=11&timestamp=1619654405&ver=3037&signature=L-hHk2otxxu7HXx8YD7Kwx7VKCu5eEz-9av5W141zU4qMMoTolm75qemRyXMiV3PfD7rliDl2xcEZ4MvsAsOp5fDLXXy6QXGJt1cRlhDe3UUE8UWBRcjrHtqdlfKixCh&new=1)
+ ## [智能电视偷盗用户数据有多严重](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=L-hHk2otxxu7HXx8YD7Kwx7VKCu5eEz-9av5W141zU4qMMoTolm75qemRyXMiV3PAqtZ8VURLQZx8xlVsWbAlU0LpRWMzftTxr7VrHNlqeFJOb6Su4i0rpkv5KXiFO7j&new=1)
  > 如果智能电视“偷盗”用户数据这件事情处理不好，肯定会引发一轮市场上的众多年轻用户们对于智能电视的使用恐慌潮，最终透支并伤害的则是整个彩电产业的未来。华辛||撰稿最近，创维电视和勾正数据一前一后的两份...
- ## [华为业绩表现超预期，未来或强力挑战特斯拉和蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1619654405&ver=3037&signature=BANtcgATNeLmnLJXeuFrimepqsq96mzUzV-aNVwZCIYVENZj0waDLDkij3-VTmZFEOOVK3CmOVkBJWZoLPUu7Nkj8oo4nuo3MuVIuJuJj9OUP5FvoYZy04e4yUHvHwn0&new=1)
+ ## [华为业绩表现超预期，未来或强力挑战特斯拉和蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=BANtcgATNeLmnLJXeuFrimepqsq96mzUzV-aNVwZCIYVENZj0waDLDkij3-VTmZFeGPAvidQhN2k9e9NYZq6eMjDn5hKNvDfexzNmES0yOCMAymTmOC5exP-yjH6uXbe&new=1)
  > 华为公布的今年一季度业绩显示首次迎来营收下滑，不过净利润却逆势增长，显示出它的手机业务遭受重创已对它的业绩造成沉重打击。华为一季度的业绩显示，一季度营收同比下滑16.92%，看起来这个业绩表现差强人意，...
- ## [在线3D打印服务商Shapeways将在纽交所上市，估值6亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619654405&ver=3037&signature=6Ptk2vbCyEWqFLueHOmWwMfRzFU1rMYoD5YpVIp-v3ZVn21xE08OyJofPtM*dN9WV5OXJIMgiWsapUsQyt3dz6X0a*9cH5NNU2DevyaP0hgCnaDp82ScpISu1y5gzzQa&new=1)
+ ## [在线3D打印服务商Shapeways将在纽交所上市，估值6亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=6Ptk2vbCyEWqFLueHOmWwMfRzFU1rMYoD5YpVIp-v3ZVn21xE08OyJofPtM*dN9WJv9oW0rua2GSlXdn43pL5VNJHQUJK37XaCOWSy0Ya7xegy66ComiEZCjb44zcyCk&new=1)
  > Shapeways已经确认，它打算与Galileo Acquisition Corp.合并，以成立一家隐含股权总价值达6.05亿美元的新企业。交易完成后，合并后的公司将更名为Shapeways Holdings Inc，并将继续在纽约证券交
- ## [陈龙在市区调研时强调：全力推动数字经济系统建设走前列作示范](http://mp.weixin.qq.com/s?src=11&timestamp=1619654405&ver=3037&signature=vS5vIdr5TY9N8sIaabSk7HHN44QxiHI7LzMEpe3pnTMvJb3ka4dAIy*H*zXN*vKnxbS6DZrEWRAF-OmpIYnQmMWtMtLlnvTamlVmCgkrj8ZURSfIKvpQ*iiEPa1EAp5s&new=1)
+ ## [张一鸣、梁汝波退出天津字节跳动科技有限公司|热点](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=GRVgjYro3VwyIidUL8wcTL91ZOK*dcNBJ5wOPl29SubdUWCrr4xwOGsqwwQddcxvyTadQgj2YJKbUgD5KDSKtnt9VHoizpVO7bsk1gCs4Z*VTqGpYu8L4PPs7J1EeqXG&new=1)
+ > 编者按：张一鸣退出天津字节跳动国内要闻张一鸣、梁汝波退出天津字节跳动科技有限公司企查查App显示，近日天津字节跳动科技有限公司发生工商变更，法定代表人由梁汝波变更为肖金梅，总经理梁汝波、执行董事张一...
+ ## [陈龙在市区调研时强调：全力推动数字经济系统建设走前列作示范](http://mp.weixin.qq.com/s?src=11&timestamp=1619656204&ver=3037&signature=vS5vIdr5TY9N8sIaabSk7HHN44QxiHI7LzMEpe3pnTMvJb3ka4dAIy*H*zXN*vKnFcvQUo*WXAVbVTR5SOVZbfAuVNgWREagfz53f5p9sMK6V5C3-0VAGdKRyG5jEKMx&new=1)
  > 4月28日，市委书记陈龙前往市区部分企业和市技师学院，从企业级、行业级、区域级工业互联网平台三个层面，了解我市数字经济系统建设工作和产业数字化、数字产业化进展情况。他强调，数字经济系统建设是数字化改...
 # IT 技术 
  ## [我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！](https://blog.csdn.net/l1028386804/article/details/116191713)
@@ -23,30 +23,30 @@ categories: IT NEWS
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [django搭建个人博客（一）](https://blog.csdn.net/qq_41961239/article/details/115736805)
- > django搭建个人博客（一）
- ## [【php基础入门】细说php的变量以及常量的知识点详解](https://blog.csdn.net/weixin_43958049/article/details/116198842)
- > 【php基础入门】细说php的变量以及常量的知识点详解
- ## [C++---模板进阶](https://blog.csdn.net/qq_47406941/article/details/116103464)
- > C++---模板进阶
- ## [pytorch RNN原理实现词性判别以及预测下一个词](https://blog.csdn.net/qq_39309652/article/details/116245606)
- > pytorch RNN原理实现词性判别以及预测下一个词
- ## [封装 element-ui 的 Form表单](https://blog.csdn.net/weixin_42863549/article/details/116167827)
- > 封装 element-ui 的 Form表单
- ## [R语言作图：坐标轴设置](https://blog.csdn.net/weixin_40628687/article/details/79254791)
- > R语言作图：坐标轴设置
- ## [LAMP架构5-Nginx缓存加速结合php](https://blog.csdn.net/weixin_41191813/article/details/115741264)
- > LAMP架构5-Nginx缓存加速结合php
+ ## [第一次使用vue-cli3搭建项目](https://blog.csdn.net/hhtSeeTheWorld/article/details/116138321)
+ > 第一次使用vue-cli3搭建项目
+ ## [使用 yo 命令行向导给 SAP UI5 应用添加一个新的视图](https://blog.csdn.net/i042416/article/details/116097237)
+ > 使用 yo 命令行向导给 SAP UI5 应用添加一个新的视图
+ ## [第一个Django项目----一小时写出账号密码管理系统](https://blog.csdn.net/weixin_38168694/article/details/116210031)
+ > 第一个Django项目----一小时写出账号密码管理系统
+ ## [Python对商店数据进行lstm和xgboost销售量时间序列建模预测分析](https://blog.csdn.net/qq_19600291/article/details/105670930)
+ > Python对商店数据进行lstm和xgboost销售量时间序列建模预测分析
+ ## [哈夫曼树(C语言)](https://blog.csdn.net/weixin_46544385/article/details/116234465)
+ > 哈夫曼树(C语言)
+ ## [Java基础语法（七）——类和对象](https://blog.csdn.net/rain67/article/details/116033687)
+ > Java基础语法（七）——类和对象
+ ## [PHP多进程学习(三)父进程与子进程的执行顺序，进程中共享数据](https://blog.csdn.net/hgb24660/article/details/116082672)
+ > PHP多进程学习(三)父进程与子进程的执行顺序，进程中共享数据
  ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
  > 手把手教你爬取清纯小姐姐私房照，小孩子写学
  ## [技术无“学历” 从大专学校走出来的少年AI狂人](https://blog.csdn.net/alitech2017/article/details/116157817)
  > 技术无“学历” 从大专学校走出来的少年AI狂人
  ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
  > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
+ ## [10个Python爬虫入门实例](https://blog.csdn.net/lh9987/article/details/116211701)
+ > 10个Python爬虫入门实例
  ## [在中国当程序员，35岁是分水岭？这些新路你知道吗？](https://blog.csdn.net/zhiguigu/article/details/116130274)
  > 在中国当程序员，35岁是分水岭？这些新路你知道吗？
- ## [Python代码，能玩30多款童年游戏！这些有几个是你玩过的](https://blog.csdn.net/A_7878520/article/details/116091351)
- > Python代码，能玩30多款童年游戏！这些有几个是你玩过的
 # 人工智能 
  ## [关于净推荐值（NPS）的理解](https://blog.csdn.net/luanxiyuan/article/details/102986807)
  > 关于净推荐值（NPS）的理解
