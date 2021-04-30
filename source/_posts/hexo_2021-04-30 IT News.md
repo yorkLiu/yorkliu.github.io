@@ -1,24 +1,28 @@
 ---
 title: 2021-04-30 IT News
 copyright: true
-date: 2021-04-30 09:02:55
+date: 2021-04-30 10:03:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [诺基亚CEO：全球正在上演芯片“争夺战”可能会持续到2023年](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=9fiDMNMp7y1hG0ZC6GbJqFrpWbZWmlmHw-ZrpJDpBfwTAGm8weKfkktO0VbwEgrVGYea2cHQHeAcUWqmSK7vUS-XUirDsP6mnQ8CiBETyEilSG*sWLRKNoC7zpWLl9Ct&new=1)
- > 诺基亚Oyj首席执行官Pekka Lundmark表示，令车企、数据中心所有人和电子设备生产商头疼不已的全球芯片短缺已演变为一场“争夺战”，可能持续到2023年。“目前正在上演一场争夺战。市场整体上的短缺可能持续一年...
- ## [印度和越南真的搞出5G了吗?|科技袁人](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=pkks4IFN8TyeiO9IZq3Ke5wlpyMnjU0wGilG0KWxymsU9mhgET4BqrFPwGvdIM-QfIB22IOkRecMU*IR8NomtZz3DyZ3ZuqllZd9wRLCThVHZK*jq5iyBdy8aTFTizoi&new=1)
- > 关注风云之声提升思维层次导读说美国早就用上了5G，甚至说越南和印度都成功研发出5G，这都是十分离谱的说法。视频链接：抖音视频：https://v.douyin.com/eBx4Qrw/ 本视频发布于2020年10月21日，点赞量1.6万精彩
- ## [乘势转型，冀往开来：懂行中国行2021·华为河北数字峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=i8f68gnrh2VaQTdzvaWs9DxmYbcUaK0*dsldyAjvO1gqNjel8nw3HqZeyj*0PXKqx*KFqRfRUXuGKnL1MKIF0jSwpZXoPDXejFKXsgy6eso31BgAkdbTlmvrCdZWAvN6&new=1)
- > 4月29日，以“转型新局 共育新机”为主题的懂行中国行2021·华为河北数字峰会在河北石家庄成功举办。2021年，数字化转型来到了潮汐交替的一年。来自河北各界的政企代表、专家学者、生态伙伴共聚一处，共话河北数...
- ## [美国干不倒，华为仍有转机!](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=rbe5LGBiaGI-dOSkHDepNF6OChjuyOAMfCPZYCiyk7JTiRimgtnUas9JMSwjeNkYcXEJIKaXFTHilaDy1BorHXXlgDi6qUFARvvnIdq4HtMpShGkQ-fQk83ZjsEEclYS&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨三明治对华为来说，2020年绝对是异常艰难的一年。美国的步步紧逼，使得华为的手机业务处处遭到限制。作为企业根基的通信基站业务，在国...
- ## [EXONE已收购“AMClad”工具制造商Freshmade 3D](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=dfGBNZg7laf2c-vFi3gNZECLqo3YkSL7JvO2rejb*T-1W60BdseuGZVxiIBPSXwsZpEZgPY*XYhpJBL-q8lv2EYYHMBva*5doXlHw4y3iEFuAG9GA0AzCpplTeL2*wZc&new=1)
+ ## [乘数字经济东风 闯高质量开放新路](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=PiPwjqyZra*7s8W5DbNq6La*2IKR3pLFn10w9SE9HQcvsYgbBj*cQw3j1flnXINPm7LwgMnhMkEaEq0goWKbGzNQ5Cq-mIk631J9dYQmcRg=&new=1)
+ > 大鹏一日同风起，扶摇直上九万里。对位于黔中腹地，地理优势并不占优的贵阳贵安来说，实现高质量对外开放，须借“东风”之势。 　　2019年8月，国家发改委发布《西部陆海新通道总体规划》，明确贵阳作为西部...
+ ## [陕西移动2021-2022年无源光纤复用设备集采 光迅、欣诺等5家上榜](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=QxaKgdieHKIxElgyaZlrALhKnNWNgE4zR8I2tDfiVjonWV7Vx-xhZyfQk0q51IPizYqKxm0mlMlLFdWTEgdzbgtGG2zLJ6FDgL3wF6iyX5yYZFnKG9JPYyEjoSWvJU4T&new=1)
+ > 新闻导读陕西移动公示2021-2022年无源光纤复用设备集采中标候选人，光迅、欣诺和通鼎等5家厂商上榜，本项目采购无源光纤复用设备11047套，预算合计4000万元。ICC讯 陕西移动公示2021-2022年无源光纤复用设备集中...
+ ## [EXONE已收购“AMClad”工具制造商Freshmade 3D](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=dfGBNZg7laf2c-vFi3gNZECLqo3YkSL7JvO2rejb*T-1W60BdseuGZVxiIBPSXwsZjz0t-KcRjcDDkIIduDeYV-DzUV23H2ItpkU7lpxVqRrjrZQ3NaPBeiBZOQrVRiX&new=1)
  > Binder jet 3D打印机制造商ExOne宣布，已收购“ AMClad”工具制造商Freshmade 3D的资产。这家初创公司使用ExOne的系统开发了一种获得专利的快速3D打印砂模的方法，该方法可提供耐用的模具，成本降低了30％至5
+ ## [诺基亚CEO：全球正在上演芯片“争夺战”可能会持续到2023年](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=9fiDMNMp7y1hG0ZC6GbJqFrpWbZWmlmHw-ZrpJDpBfwTAGm8weKfkktO0VbwEgrV-iO0ZRZKikpZAO1kuEG9jZUexGZ85nIq8HaCfgNYv1hwmfxe3W7tO3J-odarLU1e&new=1)
+ > 诺基亚Oyj首席执行官Pekka Lundmark表示，令车企、数据中心所有人和电子设备生产商头疼不已的全球芯片短缺已演变为一场“争夺战”，可能持续到2023年。“目前正在上演一场争夺战。市场整体上的短缺可能持续一年...
+ ## [印度和越南真的搞出5G了吗?|科技袁人](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=pkks4IFN8TyeiO9IZq3Ke5wlpyMnjU0wGilG0KWxymsU9mhgET4BqrFPwGvdIM-Q4MJ22aFNftuMyoJadeEWUQuaHhBQyGxYqHAC2Spgq6wVnQjYYKOQ9pMlp83ABYm1&new=1)
+ > 关注风云之声提升思维层次导读说美国早就用上了5G，甚至说越南和印度都成功研发出5G，这都是十分离谱的说法。视频链接：抖音视频：https://v.douyin.com/eBx4Qrw/ 本视频发布于2020年10月21日，点赞量1.6万精彩
+ ## [乘势转型，冀往开来：懂行中国行2021·华为河北数字峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=i8f68gnrh2VaQTdzvaWs9DxmYbcUaK0*dsldyAjvO1gqNjel8nw3HqZeyj*0PXKq4rIR4IXr1-x1R5GcD4Za7ZzWYSk56w9JNUxRdYUwcmuSKC*zLmw3Qmn9ijBpSduv&new=1)
+ > 4月29日，以“转型新局 共育新机”为主题的懂行中国行2021·华为河北数字峰会在河北石家庄成功举办。2021年，数字化转型来到了潮汐交替的一年。来自河北各界的政企代表、专家学者、生态伙伴共聚一处，共话河北数...
+ ## [美国干不倒，华为仍有转机!](http://mp.weixin.qq.com/s?src=11&timestamp=1619748004&ver=3039&signature=rbe5LGBiaGI-dOSkHDepNF6OChjuyOAMfCPZYCiyk7JTiRimgtnUas9JMSwjeNkYsF34YTGwBZcqhCKrhpo8-UeEAiC6UlGMxMLm3NNGlNJqXHKopAQbykwMoXKRpw4Z&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨三明治对华为来说，2020年绝对是异常艰难的一年。美国的步步紧逼，使得华为的手机业务处处遭到限制。作为企业根基的通信基站业务，在国...
 # IT 技术 
- ## [【高效编程】编码规范与静态代码检查插件的使用（SonarList都用起来吧）](https://blog.csdn.net/u014534808/article/details/116261662)
- > 【高效编程】编码规范与静态代码检查插件的使用（SonarList都用起来吧）
+ ## [老大让我优化数据库，我上来就分库分表，他过来就是一jio](https://blog.csdn.net/qq_39390545/article/details/116248222)
+ > 老大让我优化数据库，我上来就分库分表，他过来就是一jio
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
@@ -39,14 +43,14 @@ categories: IT NEWS
  > Swift系列七 - 汇编分析值类型
  ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
  > 手把手教你爬取清纯小姐姐私房照，小孩子写学
+ ## [漫画 | Unix/Linux 比 Windows 差远了！](https://blog.csdn.net/coderising/article/details/116246684)
+ > 漫画 | Unix/Linux 比 Windows 差远了！
  ## [阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节](https://blog.csdn.net/Android23333/article/details/116203913)
  > 阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节
+ ## [C基础知识学习之 ☀️ “大佬“——反射(Reflection) 的含义和用法](https://blog.csdn.net/zhangay1998/article/details/116148538)
+ > C基础知识学习之 ☀️ “大佬“——反射(Reflection) 的含义和用法
  ## [技术无“学历” 从大专学校走出来的少年AI狂人](https://blog.csdn.net/alitech2017/article/details/116157817)
  > 技术无“学历” 从大专学校走出来的少年AI狂人
- ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
- > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
- ## [python可视化图表生成（二）](https://blog.csdn.net/u010835747/article/details/116242167)
- > python可视化图表生成（二）
 # 人工智能 
  ## [大厂是如何设计基于Epoll的网络通信模型](https://blog.csdn.net/songguangfan/article/details/111354974)
  > 
