@@ -1,42 +1,42 @@
 ---
 title: 2021-04-30 IT News
 copyright: true
-date: 2021-04-30 08:01:06
+date: 2021-04-30 09:02:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美国干不倒，华为仍有转机!](http://mp.weixin.qq.com/s?src=11&timestamp=1619740804&ver=3039&signature=rbe5LGBiaGI-dOSkHDepNF6OChjuyOAMfCPZYCiyk7JTiRimgtnUas9JMSwjeNkYV0mq3Fi52BhjmcW9gBcFW8oz2IEeECTovPQaiKh4M3XAENHWzMwR-o1qIRLR7MCJ&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨三明治对华为来说，2020年绝对是异常艰难的一年。美国的步步紧逼，使得华为的手机业务处处遭到限制。作为企业根基的通信基站业务，在国...
- ## [印度和越南真的搞出5G了吗?|科技袁人](http://mp.weixin.qq.com/s?src=11&timestamp=1619740804&ver=3039&signature=pkks4IFN8TyeiO9IZq3Ke5wlpyMnjU0wGilG0KWxymsU9mhgET4BqrFPwGvdIM-QElz334UfndcEoW7n0PfYwUcAfJfbvwDVYQrtAWjwSXFoWFIH-Cuwb7aPcRfa1B*g&new=1)
- > 关注风云之声提升思维层次导读说美国早就用上了5G，甚至说越南和印度都成功研发出5G，这都是十分离谱的说法。视频链接：抖音视频：https://v.douyin.com/eBx4Qrw/ 本视频发布于2020年10月21日，点赞量1.6万精彩
- ## [诺基亚CEO：全球正在上演芯片“争夺战”可能会持续到2023年](http://mp.weixin.qq.com/s?src=11&timestamp=1619740804&ver=3039&signature=9fiDMNMp7y1hG0ZC6GbJqFrpWbZWmlmHw-ZrpJDpBfwTAGm8weKfkktO0VbwEgrVK7HkwbjS5f*41hhN5eqxP1CQEhJu-N-60WnDcypeOH*pRO528XKHSR77lUd4XA9H&new=1)
+ ## [诺基亚CEO：全球正在上演芯片“争夺战”可能会持续到2023年](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=9fiDMNMp7y1hG0ZC6GbJqFrpWbZWmlmHw-ZrpJDpBfwTAGm8weKfkktO0VbwEgrVGYea2cHQHeAcUWqmSK7vUS-XUirDsP6mnQ8CiBETyEilSG*sWLRKNoC7zpWLl9Ct&new=1)
  > 诺基亚Oyj首席执行官Pekka Lundmark表示，令车企、数据中心所有人和电子设备生产商头疼不已的全球芯片短缺已演变为一场“争夺战”，可能持续到2023年。“目前正在上演一场争夺战。市场整体上的短缺可能持续一年...
- ## [EXONE已收购“AMClad”工具制造商Freshmade 3D](http://mp.weixin.qq.com/s?src=11&timestamp=1619740804&ver=3039&signature=dfGBNZg7laf2c-vFi3gNZECLqo3YkSL7JvO2rejb*T-1W60BdseuGZVxiIBPSXws6MY0V*6ODOInwbVX-svim2vtGE4vw53F0Ivw4uQaLYqb7V8y4PlQ-fvW3hy4fEq0&new=1)
- > Binder jet 3D打印机制造商ExOne宣布，已收购“ AMClad”工具制造商Freshmade 3D的资产。这家初创公司使用ExOne的系统开发了一种获得专利的快速3D打印砂模的方法，该方法可提供耐用的模具，成本降低了30％至5
- ## [乘势转型，冀往开来：懂行中国行2021·华为河北数字峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1619740804&ver=3039&signature=i8f68gnrh2VaQTdzvaWs9DxmYbcUaK0*dsldyAjvO1gqNjel8nw3HqZeyj*0PXKq190IdF80y54DSrLN7iKf-kFWriMNl7EoGbAsSMzvoo1ibDCAqZ-lokFlNMXpBwcl&new=1)
+ ## [印度和越南真的搞出5G了吗?|科技袁人](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=pkks4IFN8TyeiO9IZq3Ke5wlpyMnjU0wGilG0KWxymsU9mhgET4BqrFPwGvdIM-QfIB22IOkRecMU*IR8NomtZz3DyZ3ZuqllZd9wRLCThVHZK*jq5iyBdy8aTFTizoi&new=1)
+ > 关注风云之声提升思维层次导读说美国早就用上了5G，甚至说越南和印度都成功研发出5G，这都是十分离谱的说法。视频链接：抖音视频：https://v.douyin.com/eBx4Qrw/ 本视频发布于2020年10月21日，点赞量1.6万精彩
+ ## [乘势转型，冀往开来：懂行中国行2021·华为河北数字峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=i8f68gnrh2VaQTdzvaWs9DxmYbcUaK0*dsldyAjvO1gqNjel8nw3HqZeyj*0PXKqx*KFqRfRUXuGKnL1MKIF0jSwpZXoPDXejFKXsgy6eso31BgAkdbTlmvrCdZWAvN6&new=1)
  > 4月29日，以“转型新局 共育新机”为主题的懂行中国行2021·华为河北数字峰会在河北石家庄成功举办。2021年，数字化转型来到了潮汐交替的一年。来自河北各界的政企代表、专家学者、生态伙伴共聚一处，共话河北数...
+ ## [美国干不倒，华为仍有转机!](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=rbe5LGBiaGI-dOSkHDepNF6OChjuyOAMfCPZYCiyk7JTiRimgtnUas9JMSwjeNkYcXEJIKaXFTHilaDy1BorHXXlgDi6qUFARvvnIdq4HtMpShGkQ-fQk83ZjsEEclYS&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨三明治对华为来说，2020年绝对是异常艰难的一年。美国的步步紧逼，使得华为的手机业务处处遭到限制。作为企业根基的通信基站业务，在国...
+ ## [EXONE已收购“AMClad”工具制造商Freshmade 3D](http://mp.weixin.qq.com/s?src=11&timestamp=1619744405&ver=3039&signature=dfGBNZg7laf2c-vFi3gNZECLqo3YkSL7JvO2rejb*T-1W60BdseuGZVxiIBPSXwsZpEZgPY*XYhpJBL-q8lv2EYYHMBva*5doXlHw4y3iEFuAG9GA0AzCpplTeL2*wZc&new=1)
+ > Binder jet 3D打印机制造商ExOne宣布，已收购“ AMClad”工具制造商Freshmade 3D的资产。这家初创公司使用ExOne的系统开发了一种获得专利的快速3D打印砂模的方法，该方法可提供耐用的模具，成本降低了30％至5
 # IT 技术 
- ## [我是CSDN最硬核作者，谁赞成，谁反对？](https://blog.csdn.net/hebtu666/article/details/115721080)
- > 我是CSDN最硬核作者，谁赞成，谁反对？
+ ## [【高效编程】编码规范与静态代码检查插件的使用（SonarList都用起来吧）](https://blog.csdn.net/u014534808/article/details/116261662)
+ > 【高效编程】编码规范与静态代码检查插件的使用（SonarList都用起来吧）
  ## [电脑玩CF、DNF、LOL等游戏掉帧.卡顿.黑屏怎么办？驱动人生十大游戏检测图文教程](https://blog.csdn.net/weixin_56386428/article/details/115871504)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [Unity游戏副本地图制作](https://blog.csdn.net/alayeshi/article/details/116063841)
- > Unity游戏副本地图制作
- ## [【瑕疵检测】基于matlab GUI Otsu织物疵点检测【含Matlab源码 860期】](https://blog.csdn.net/TIQCmatlab/article/details/116236873)
- > 【瑕疵检测】基于matlab GUI Otsu织物疵点检测【含Matlab源码 860期】
- ## [CTFSHOW---WEB AK赛 --  包含日志  ---sql注入 ----  xxe  ----](https://blog.csdn.net/Zero_Adam/article/details/116208838)
- > CTFSHOW---WEB AK赛 --  包含日志  ---sql注入 ----  xxe  ----
- ## [10个Python爬虫入门实例](https://blog.csdn.net/lh9987/article/details/116211701)
- > 10个Python爬虫入门实例
- ## [【图像修复】基于matlab GUI空域滤波图像复原【含Matlab源码 849期】](https://blog.csdn.net/TIQCmatlab/article/details/116207644)
- > 【图像修复】基于matlab GUI空域滤波图像复原【含Matlab源码 849期】
- ## [CNN_原理以及pytorch多分类实践](https://blog.csdn.net/qq_39309652/article/details/115978825)
- > CNN_原理以及pytorch多分类实践
- ## [Swift系列八 - 闭包](https://blog.csdn.net/yangbenben8866/article/details/116199589)
- > Swift系列八 - 闭包
+ ## [R语言-画图](https://blog.csdn.net/cclovezbf/article/details/115556315)
+ > R语言-画图
+ ## [为何要implements Serializable，反序列化是什么？](https://blog.csdn.net/lidashent/article/details/116165390)
+ > 为何要implements Serializable，反序列化是什么？
+ ## [使用 PHP 实现简单的图片上传](https://blog.csdn.net/ZhangJiWei_2019/article/details/116106051)
+ > 使用 PHP 实现简单的图片上传
+ ## [如何解决vscode格式化代码与eslint冲突（附上在vscode中webpack项目安装eslint步骤）](https://blog.csdn.net/qq_44997147/article/details/116034255)
+ > 如何解决vscode格式化代码与eslint冲突（附上在vscode中webpack项目安装eslint步骤）
+ ## [C Vs2019程序打包，使用扩展插件进行程序打包，Microsoft Visual Studio Installer Project使用](https://blog.csdn.net/g313105910/article/details/116055026)
+ > C Vs2019程序打包，使用扩展插件进行程序打包，Microsoft Visual Studio Installer Project使用
+ ## [laravel实战项目之登录和退出逻辑](https://blog.csdn.net/weixin_44103733/article/details/116205256)
+ > laravel实战项目之登录和退出逻辑
+ ## [Swift系列七 - 汇编分析值类型](https://blog.csdn.net/yangbenben8866/article/details/116199548)
+ > Swift系列七 - 汇编分析值类型
  ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
  > 手把手教你爬取清纯小姐姐私房照，小孩子写学
  ## [阿里钉钉Android实习面试也太太太太难了吧，对算法的要求堪比字节](https://blog.csdn.net/Android23333/article/details/116203913)
@@ -45,8 +45,8 @@ categories: IT NEWS
  > 技术无“学历” 从大专学校走出来的少年AI狂人
  ## [一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了](https://blog.csdn.net/xinshuzhan/article/details/116127029)
  > 一气之下，我抢过面试官电脑花10分钟搭建了MySQL主从架构，面试官蒙了
- ## [在中国当程序员，35岁是分水岭？这些新路你知道吗？](https://blog.csdn.net/zhiguigu/article/details/116130274)
- > 在中国当程序员，35岁是分水岭？这些新路你知道吗？
+ ## [python可视化图表生成（二）](https://blog.csdn.net/u010835747/article/details/116242167)
+ > python可视化图表生成（二）
 # 人工智能 
  ## [大厂是如何设计基于Epoll的网络通信模型](https://blog.csdn.net/songguangfan/article/details/111354974)
  > 
@@ -81,6 +81,8 @@ categories: IT NEWS
 # PM 
  ## [AI产品为什么这么火？带你挖掘那些不为人知的秘密！](http://www.chanpin100.com/article/115077)
  > 这是一个互联网时代，也是一个大数据时代，我们的生活已经完全被数据化了，从早上被闹钟叫醒，到晚上刷着手机入睡，智能产品已经完全融入了我们的生活。那么AI产品为什么这么火？答案显而易见，因为我们的生活跟互联网密切相关，而这些AI产品其实就是它的衍生产物。
+ ## [打工人 这份五一放假指南请收好](http://www.chanpin100.com/article/115112)
+ > 国家法定假日，对普通人来说，是休闲的时光。可对互联网人来说，是必经的可怕噩梦。多少次午夜梦回，不是那白日做梦，而是那BUG缠身。让我们魂牵梦绕的，不是那诗与远方，而是眼前的苟且。
  ## [如何构建电商产品认知体系？](http://www.chanpin100.com/article/115119)
  > 电商是互联网产品中的大分类，在电商中又有很多分类，按照行业分，会有最近比较火的这种社区电商、直播电商，像抖音快手这种。还有C端电商、B端电商等不同的这种分类。
  ## [快手不只有老铁 京东不只有3C](http://www.chanpin100.com/article/115118)
@@ -117,7 +119,5 @@ categories: IT NEWS
  > 作为一个产品经理，如果你已经入行三年了，却仍旧感到焦虑，那么可能是因为你没有找到自己的核心竞争力。今天我们来简单聊一下产品经理应该如何跨越职业发展的鸿沟？答案很简单，那就是培养策略能力！
  ## [华为鸿蒙系统公测版大规模推送 安卓可无缝升级](http://www.chanpin100.com/article/115106)
  > 根据此前华为官方公布的消息显示，鸿蒙(Harmony)OS2.0 公测版将会于四月开启推送，日前，有网友反馈，部分华为手机已经开始推送鸿蒙OS2.0系统的更新升级了。此外，近日也有曾经申请过鸿蒙OS操作系统开发版的用户透露，收到了活动短信。
- ## [教培机构借助视频号私域引流的7大方法及变现策略](http://www.chanpin100.com/article/115025)
- > 新的赛道，新的机遇，教培机构借助视频号进行私域引流，结合技术服务商搭建的线上知识店铺，定能运营好自己的私域流量池，并且不断裂变扩大。
 
     
