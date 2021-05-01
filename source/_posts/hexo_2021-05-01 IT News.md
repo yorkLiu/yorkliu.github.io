@@ -1,60 +1,70 @@
 ---
 title: 2021-05-01 IT News
 copyright: true
-date: 2021-05-01 12:01:10
+date: 2021-05-01 17:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [字节跳动任命周受资为TikTok首席执行官；喜马拉雅公开递交招股书；小电科技提交上市申请|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=7MsNlF4u8FVhQ6QudohIlzJrIv2BLW1kl*oJUMaRsxgogZAuaCNXZCpJ8mZfSW1WVk8VCSF12RPvk3kgGkZ73*ky24RMNsAiu47TcJKQpsv0q*kcKPFQSurogbiLLFqO&new=1)
- > 图 / UnsplashHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【字节跳动任命周受资为TikTok首席执行官】字节跳动 CFO 周受资被任命兼任 TikTok 的首席执行官，Vanessa Pappas 被任命为
- ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xQ*E6bQiamqg7Bavc-uswVhNCl9fyGUeHK2weuFBpNlfGqatFJzGN6Ptymmt8yGKvnVJz-N9wrSqkkkwVYCw1Y-&new=1)
- > 最近特斯拉的事情太火，以至于还有一个非常劲爆的连续剧，大家可能没关注到。6 天前， V2 上一个老哥发贴说自家的电视机正在监视所有联网设备。起因是觉得自家电视有点慢，就跑去检查后台服务，发现有个有一个很...
- ## [刚刚，中国联通签署重磅战略协议!董事长王晓初亲自出席!](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=ve34XVG3jUIkcLRvVRXBc53j*JFaXvzgW1GHMLPZ4cNaQt5HqLZNVYsk4XCzUbuptk*xxIyqfWhbTQydPDV9*L2NfVqhDeQkaZVejzgi9RdUgZ2CyioMZjS4TdUZHgDG&new=1)
+ ## [腕上手机还是电子手表?用户该如何选择智能穿戴产品](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=MlVLXPwMWcmQwu4ysscmnKDyYUOGQTN1ftYMEYuefWGUiMPvLxR6Qx9oRFqpYDCz2lDdiXvHHLeb7akweBT90OSNY6sXv5chlbUzmA204JYYs7yOYT7FluSz*MhL9CqB&new=1)
+ > 随着五一小长假的到来，很多朋友会选择利用五一假期去进行健身以改善自己的健康状态。而在健身活动中，必不可少的自然是需要对自身的各项身体指标进行实时的监测，以进行科学的健身规划。可穿戴智能设备自然是进...
+ ## [特斯拉到底颠覆了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=v3zkQQ*HZwImltd0nAHUE0Anrfrgc*oaC-nkWllr-j9bedSWrJEPCduGy4ENq3HQpNrsZ17YW52BZ*ioLbWeSVEHPG0Tq4atbPHXCXF1OVqPPJOihYhotjhiAlGRZ-AZ&new=1)
+ > 如果说哪家公司最具热搜体质，特斯拉称第二，少有人敢称第一。从炒币、车主维权到一季度营收超百亿美元，有关这家公司的新闻层出不穷。不过，在本文作者Benedict Evans 眼里，特斯拉最吸引人的地方在于，很多不...
+ ## [工信部：到2023年5G个人用户普及率将超40%](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6rnyVm7hQOfnJBthptlEjgk9TkNxjiR*4ZwBGxlG47fZfBUq9TzIkozZEea1FaaWvk=&new=1)
+ > 新华社北京5月1日电 工信部起草编制的《5G应用“扬帆”行动计划（2021-2023年）》1日公开征求意见。文中提出，到2023年，我国5G应用发展水平显著提升，综合实力持续增强，5G个人用户普及率将超40%，用户数超...
+ ## [你家的创维电视正在监控你](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=P4HCekKrBorYj2QNft-yy6870HsaSTsX9UM8npM7AMyPuVaD3knks-A4K*XDI*OBMO-LFFvaeoXNNhKqn5*Q4LvLpdcJN5w2qgIdljK-mG*1DEsfK6**FMPE66mpePE0&new=1)
+ > 作者 | 向由如果有一个监控，它全天24小时观察你、记录你，无论你在家或外出，睡觉或做饭，打扫卫生或者“葛优躺”，它都会知道，并且将信息保存起来——你，愿意安装这个监控吗？无所谓答案是什么，事实上，你...
+ ## [刚刚，中国联通签署重磅战略协议!董事长王晓初亲自出席!](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=ve34XVG3jUIkcLRvVRXBc53j*JFaXvzgW1GHMLPZ4cMFNaSO-mfoIdWGrfkAX7Ot2LT175On0T3BDng6l3XHLbhzDTGLvaumx2SUY**usD9upCsS2yktPtTnjTsqHmyu&new=1)
  > 4月28日，中国联通与陕西省人民政府在西安签署战略合作框架协议。陕西省委书记刘国中、省长赵一德与中国联通集团党组书记、董事长王晓初一行举行会见，并出席签约仪式。中国联通副总经理梁宝俊，陕西省副省长程...
- ## [硅复用器芯片将推动下一代通信的发展](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=uwYblsiR9CWzTZhsY2u828bQdhUCh2sr04fKfzSbDOloJ5ifuT6hFWbj5LTb7KSxVLTgls58zBQWVuFJyhqqQa8gDE5WM5BhgHAAdFQ0bQjbduuzwFI5zTVSq6LmfVIJ&new=1)
+ ## [喜马拉雅递交赴美IPO申请](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6prjYpQjwmeCuZsykcU9a33qLwh4bJy4wqBTTs59Y89uS1wFFtSGAZ-3bx*eN7to4w=&new=1)
+ > 上证报中国证券网讯（记者 温婷）据美国证券交易委员会（SEC）最新披露，喜马拉雅已提交IPO申请，计划在纽约证券交易所挂牌上市，高盛、摩根士丹利、美银和中金为联席承销商。　　喜马拉雅成立于2012年，定...
+ ## [硅复用器芯片将推动下一代通信的发展](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=uwYblsiR9CWzTZhsY2u828bQdhUCh2sr04fKfzSbDOlzD*sF-0JMcFVvBQ9G8HO1louKCv*IELFuiaulhTYLwRWCZCnzg8AQcYxoKjbol-zDxrLu3Fl5KBhLRX3MzAze&new=1)
  > 日本大阪大学和澳大利亚阿德莱德大学的研究人员共同合作，生产了由纯硅制成的新型多路复用器，用于300 GHz频段的太赫兹范围通信。这项研究发表在《Optica》杂志上。   硅复用器 阿德莱德大学电气与电子工程学院...
- ## [深度携手中国移动，摩托罗拉目标5G手机市场普及者](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=wkKmVsOZQ1FhntL59yaJXEGYFYp4NKDHtRpISsd6NAIG6i0et4K1TbSeJ-rFRDelc4Of4TrzxaUuP-KWaSksiQpjDmtIWY8*Mm*BORqrON9OY0uX9okEyKkpc4cQa3ju&new=1)
+ ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xRFCXTa8gjSDZEY9ICyKUuXT7jrfd0XJp4SGKtpbOJLBadPaoxIVsR0udk4c7SX2BcqTIvBgHt-MqrX-61llJtz&new=1)
+ > 最近特斯拉的事情太火，以至于还有一个非常劲爆的连续剧，大家可能没关注到。6 天前， V2 上一个老哥发贴说自家的电视机正在监视所有联网设备。起因是觉得自家电视有点慢，就跑去检查后台服务，发现有个有一个很...
+ ## [字节跳动任命周受资为TikTok首席执行官；喜马拉雅公开递交招股书；小电科技提交上市申请|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=7MsNlF4u8FVhQ6QudohIlzJrIv2BLW1kl*oJUMaRsxgc8unB2jek5cXLZ9-QDlSSHtyzgt8drqLIzirSZwFvaS7pyx-o0sbQr7gJ4id0TL1262illhBV1H141*mm1vKk&new=1)
+ > 图 / UnsplashHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【字节跳动任命周受资为TikTok首席执行官】字节跳动 CFO 周受资被任命兼任 TikTok 的首席执行官，Vanessa Pappas 被任命为
+ ## [深度携手中国移动，摩托罗拉目标5G手机市场普及者](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=wkKmVsOZQ1FhntL59yaJXEGYFYp4NKDHtRpISsd6NAISM6pPeRMIq591XEFHTEYJ-yE5GcekDyIGuFxLimn-SBm4GlXNPNG*AtcQ8fOYnNi2Oltu7nafnuN-XNumSpPG&new=1)
  > 作 者 丨 宿艺编 辑 丨 子淇2021年被认为是中国5G手机市场普及的关键之年。 以下三个数据可以清晰地看到这一点： 2021年中国智能手机市场预计出货量将达3.4亿部，同比增长4.6%（IDC数据），这也是继2016年以来中...
- ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ynZqTJX0gbvjRWnv08*utle6ci-7VmFqFcu1sZ2lf437zXBzjbb9agcfy4DfKTbsGo5CpADz*9vxo*lkwa4Ig17&new=1)
+ ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ykHzr5WtwNQt65DIFi49zfWf-jch-VPO7vLm2bmrenXXJkwhcXzkoBMpegbOyy*vI2AqtdaQwcIdkCOeCJzpna-&new=1)
  > 摘要：从此次车展这一波操作来看，华为显然收获了比亲自造车更大的影响力，而其比做“智能汽车界的博世”还要大的野心也随之曝光，只是在陌生的汽车界，想要切分产业链上最大的一块红利并不是容易的事。文 | 高...
- ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWypWhjmMpL33dZ77o27MQRzIBY2SyL0sfuEE9FQA2ynstqJL4i7nzSTiltAd9DXNVdORNi0qOfeLsrw6amScl9u&new=1)
+ ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWyEKtxcGRtpdo54dWc7GY5xzDgobdPZBv9V*1P*qGUqPbYXAVEiJZAum7L1VzTMWiJHgf9WDAEbir7DqIEiV2Vx&new=1)
  > 众所周知，当前炒得火热的Open RAN，旨在通过软硬件解耦和接口开放，来降低无线接入网的设备成本。不过，尽管目前全球已有运营商已部署或正在试点Open RAN，但其设备价格到底几何，没有任何一家运营商或供应商公...
- ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R7V2oZ0vtF1tHxaBLvZ4PxpiPRIceTHSbGMve69dIp6l580r1uXKw5fVOvvYDlASOKM8zzicqFuGmqL3EGarHkn&new=1)
+ ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R542pzLJ3LwxWs94Z2OUbyNrym7yiWwj3xRnV14W9iDI8QdIhTxtEBidNlVKqyzX0z2t-rjcz8UsaQelw1Qzsbq&new=1)
  > |造车与造手机，相似却不相同。理性评估、审慎入场。文 |《财经国家周刊》记者 李瑶又一家手机厂商跟“造车”扯上了关系。前不久，在职场社交平台“脉脉”上，有认证为“OPPO”和“realme员工”的网友发帖称，OP...
- ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6owQ0HpmXeun8FF6AxujMiOKB3BIZprZt2DI1uhet-cHNS0*KEV7K1O3wPzy4d1Pxo=&new=1)
+ ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619857804&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6qdcx6CRbbrPSzBGl74yS4r1s7LJWnYMmYA3v*8Lc15zgJgS3jvBsqQgSxT3FxfaSM=&new=1)
  > 上证报中国证券网讯 据工信部4月30日消息，工信部就《5G应用“扬帆”行动计划（2021-2023年）》公开征求意见。《5G应用“扬帆”行动计划（2021-2023年）》提出总体目标，到2023 年，5G个人用户普及率超过40%...
 # IT 技术 
  ## [游戏角色开始动起来了，真帅！【python 游戏实战 03】](https://blog.csdn.net/A757291228/article/details/116299668)
  > 游戏角色开始动起来了，真帅！【python 游戏实战 03】
- ## [C++ Lambda表达式详解](https://blog.csdn.net/afei__/article/details/116161236)
- > C++ Lambda表达式详解
+ ## [【php基础入门】PHP环境搭建与初识php代码书写及演示PHP和JS中遍历数组的区别、引入外部文件等知识点学习笔记](https://blog.csdn.net/weixin_43958049/article/details/116198812)
+ > 【php基础入门】PHP环境搭建与初识php代码书写及演示PHP和JS中遍历数组的区别、引入外部文件等知识点学习笔记
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [【想稳，必看】毕业设计写这个你就赢了《Vue+Node 项目实战：拼多多前后端商城》](https://blog.csdn.net/weixin_56134381/article/details/116104212)
- > 【想稳，必看】毕业设计写这个你就赢了《Vue+Node 项目实战：拼多多前后端商城》
- ## [Swift系列二十二 - 扩展](https://blog.csdn.net/yangbenben8866/article/details/116259808)
- > Swift系列二十二 - 扩展
- ## [你不想成长，生活总会逼着你成长，阿里P8架构师分享十年学习生涯](https://blog.csdn.net/javassb/article/details/116156890)
- > 你不想成长，生活总会逼着你成长，阿里P8架构师分享十年学习生涯
- ## [机器学习指标(Precision、Recall、mAP、F1 Score等)](https://blog.csdn.net/uiop78uiop78/article/details/116173653)
- > 机器学习指标(Precision、Recall、mAP、F1 Score等)
- ## [protobuf：protoc生成golang文件](https://blog.csdn.net/weixin_43823363/article/details/116095107)
- > protobuf：protoc生成golang文件
- ## [【npm】发布 自定义JS工具函数库 到npm中央仓库](https://blog.csdn.net/weixin_44972008/article/details/116136706)
- > 【npm】发布 自定义JS工具函数库 到npm中央仓库
+ ## [VUE 使用el-date-picker 查找时间范围以内的数据](https://blog.csdn.net/weixin_45067120/article/details/116302327)
+ > VUE 使用el-date-picker 查找时间范围以内的数据
+ ## [WinForm界面开发第三方控件——支持Office 2019 Light主题](https://blog.csdn.net/AABBbaby/article/details/116225700)
+ > WinForm界面开发第三方控件——支持Office 2019 Light主题
+ ## [C Datatable to excel NPOI导出](https://blog.csdn.net/qq_41078088/article/details/116238620)
+ > C Datatable to excel NPOI导出
+ ## [Web编程基础知识](https://blog.csdn.net/baidu_35231778/article/details/116168844)
+ > Web编程基础知识
+ ## [angular+ng-zorro+echarts入门总结（三）](https://blog.csdn.net/qq_40020447/article/details/116306116)
+ > angular+ng-zorro+echarts入门总结（三）
+ ## [使用vue脚手架创建webpack项目](https://blog.csdn.net/ChengR666/article/details/116191364)
+ > 使用vue脚手架创建webpack项目
  ## [java学生宿舍管理系统，来了就点个赞再走呗，即将毕业的兄弟有福了！](https://blog.csdn.net/dkm123456/article/details/116272578)
  > java学生宿舍管理系统，来了就点个赞再走呗，即将毕业的兄弟有福了！
+ ## [2021年3月6号我离职了，面试六轮终上岸](https://blog.csdn.net/weixin_55932383/article/details/116303114)
+ > 2021年3月6号我离职了，面试六轮终上岸
  ## [手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】](https://blog.csdn.net/weixin_57171554/article/details/116269119)
  > 手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】
- ## [\[干货\]手把手教你写一个安卓app](https://blog.csdn.net/qq_39400113/article/details/116210189)
- > \[干货\]手把手教你写一个安卓app
  ## [老婆:“给我讲讲你们程序员好笑的事情呗？”我扔给她这篇文章，她狂笑不止！](https://blog.csdn.net/zhiguigu/article/details/116233163)
  > 老婆:“给我讲讲你们程序员好笑的事情呗？”我扔给她这篇文章，她狂笑不止！
+ ## [\[干货\]手把手教你写一个安卓app](https://blog.csdn.net/qq_39400113/article/details/116210189)
+ > \[干货\]手把手教你写一个安卓app
  ## [听说：用过这几个网站的程序员，早已领先身边人一大截！](https://blog.csdn.net/qq_42366672/article/details/116269610)
  > 听说：用过这几个网站的程序员，早已领先身边人一大截！
- ## [unity的ugui-4.canvas](https://blog.csdn.net/weixin_44453949/article/details/116240273)
- > unity的ugui-4.canvas
 # 人工智能 
  ## [01、泛型是什么？——《Android打怪升级之旅》](https://blog.csdn.net/kuanggang_android/article/details/115773229)
  > 01、泛型是什么？——《Android打怪升级之旅》
@@ -87,10 +97,6 @@ categories: IT NEWS
  ## [50岁的程序员该何去何从](https://blog.csdn.net/oiio/article/details/81413825)
  > 50岁的程序员该何去何从
 # PM 
- ## [三年亏损48亿 哈啰单车IPO背后隐藏着怎样的秘密？](http://www.chanpin100.com/article/115142)
- > 最近一段时间，共享单车频频涨价，已经引起了大家的关注。收费标准从之前的30分钟1.5元，涨到了15分钟1元。那么，共享单车为什么一直在涨价呢？由哈罗单车日前发布的招股书，便可看出共享单车涨价的奥秘。
- ## [哈啰嘀嗒IPO上市 共享经济又被盘活了？](http://www.chanpin100.com/article/115139)
- > 怪兽、哈罗、嘀嗒最近都递交了上市申请，让人不禁怀疑：共享经济又被盘活了？前几年，共享出行板块非常火，竞争也相当激烈，最终哈罗打败了ofo和摩拜单车，脱颖而出。
  ## [了解这些知识 数据产品经理将更具竞争力](http://www.chanpin100.com/article/115169)
  > 产品经理这个行业竞争是相当激烈，所以小伙伴们千万不要松懈，多多的积累知识和经验，一定要提升自己的竞争力。了解以下这些知识，数据产品经理将更具竞争力，赶紧来看看吧！
  ## [数据产品经理的发展阶段 先技术后产品](http://www.chanpin100.com/article/115168)
