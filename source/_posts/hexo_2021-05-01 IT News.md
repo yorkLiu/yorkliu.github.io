@@ -1,40 +1,40 @@
 ---
 title: 2021-05-01 IT News
 copyright: true
-date: 2021-05-01 09:01:05
+date: 2021-05-01 10:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6pw1t6L8Ojaul34Z-7-IqV1jJFc4ClIIQ86BSIytbO0X1Q6L4SzTAIe9cuoKAWFYSA=&new=1)
- > 上证报中国证券网讯 据工信部4月30日消息，工信部就《5G应用“扬帆”行动计划（2021-2023年）》公开征求意见。《5G应用“扬帆”行动计划（2021-2023年）》提出总体目标，到2023 年，5G个人用户普及率超过40%...
- ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xRG5E6jqvx67QKEK9KeR589vGUZf-v7uZDg9pgyZR7*Kr0P8dDsOPA-fejx3MHTvwtTXYLknyz15tOvgfUaeHXw&new=1)
+ ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xRG5E6jqvx67QKEK9KeR589WiYpH47GDLCN2kmpbIxUYJgjYeRIEI-A8*Qc99k1-pLTRmTYAkhLd1L*zuq*xPdY&new=1)
  > 最近特斯拉的事情太火，以至于还有一个非常劲爆的连续剧，大家可能没关注到。6 天前， V2 上一个老哥发贴说自家的电视机正在监视所有联网设备。起因是觉得自家电视有点慢，就跑去检查后台服务，发现有个有一个很...
- ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWwltAaDpdj3hoyndtgE24sEDOSe*TX2f9RIsStNywvSJAjiipMAi9kr8vf1NOE-GezSgXMxrGszxUhUsGOfJUAh&new=1)
- > 众所周知，当前炒得火热的Open RAN，旨在通过软硬件解耦和接口开放，来降低无线接入网的设备成本。不过，尽管目前全球已有运营商已部署或正在试点Open RAN，但其设备价格到底几何，没有任何一家运营商或供应商公...
- ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ykSxTTvUFgqH4SZAP6KEiKjscjxpc2ZAqChvdh6VOwPzulcvOkiIw04JpapL3LRXArOE3PNcULVmFiUcrGUNJnQ&new=1)
- > 摘要：从此次车展这一波操作来看，华为显然收获了比亲自造车更大的影响力，而其比做“智能汽车界的博世”还要大的野心也随之曝光，只是在陌生的汽车界，想要切分产业链上最大的一块红利并不是容易的事。文 | 高...
- ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R7o6pPHqIY39nNvBZjL6UUaKnvHBP1RMMUvqhS-UHVd-1BUd7QoBTKX15zQEpj4R4pWZO0d8HovqExqss2ZqvVC&new=1)
+ ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R7o6pPHqIY39nNvBZjL6UUaN88T6NTavktV-1FN8Oz6GR9-bmMgE-jqImV63TL5b5nKbu5MXY0xmO*nyCth0gnv&new=1)
  > |造车与造手机，相似却不相同。理性评估、审慎入场。文 |《财经国家周刊》记者 李瑶又一家手机厂商跟“造车”扯上了关系。前不久，在职场社交平台“脉脉”上，有认证为“OPPO”和“realme员工”的网友发帖称，OP...
+ ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6oal44dW5o8JYApXoXm-y-TWnX*W4suensm*LahEjP76TE0-3IDHl2lYJk-GG5*Umc=&new=1)
+ > 上证报中国证券网讯 据工信部4月30日消息，工信部就《5G应用“扬帆”行动计划（2021-2023年）》公开征求意见。《5G应用“扬帆”行动计划（2021-2023年）》提出总体目标，到2023 年，5G个人用户普及率超过40%...
+ ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ykSxTTvUFgqH4SZAP6KEiKj9pVlvcrhq4dilp0A5VcJF36LcH82ZjWw7SRh30DmUepERKvE81wSpo5dspDOWhoI&new=1)
+ > 摘要：从此次车展这一波操作来看，华为显然收获了比亲自造车更大的影响力，而其比做“智能汽车界的博世”还要大的野心也随之曝光，只是在陌生的汽车界，想要切分产业链上最大的一块红利并不是容易的事。文 | 高...
+ ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWwltAaDpdj3hoyndtgE24sEz1NA33FzM8sQYqxtRJQZawRak28mqcUwoKmvKNIM21MevBm4rkgIsweMtqs9hf47&new=1)
+ > 众所周知，当前炒得火热的Open RAN，旨在通过软硬件解耦和接口开放，来降低无线接入网的设备成本。不过，尽管目前全球已有运营商已部署或正在试点Open RAN，但其设备价格到底几何，没有任何一家运营商或供应商公...
 # IT 技术 
  ## [游戏角色开始动起来了，真帅！【python 游戏实战 03】](https://blog.csdn.net/A757291228/article/details/116299668)
  > 游戏角色开始动起来了，真帅！【python 游戏实战 03】
- ## [【php基础入门】PHP环境搭建与初识php代码书写及演示PHP和JS中遍历数组的区别、引入外部文件等知识点学习笔记](https://blog.csdn.net/weixin_43958049/article/details/116198812)
- > 【php基础入门】PHP环境搭建与初识php代码书写及演示PHP和JS中遍历数组的区别、引入外部文件等知识点学习笔记
+ ## [C++ Lambda表达式详解](https://blog.csdn.net/afei__/article/details/116161236)
+ > C++ Lambda表达式详解
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [VUE 使用el-date-picker 查找时间范围以内的数据](https://blog.csdn.net/weixin_45067120/article/details/116302327)
- > VUE 使用el-date-picker 查找时间范围以内的数据
- ## [WinForm界面开发第三方控件——支持Office 2019 Light主题](https://blog.csdn.net/AABBbaby/article/details/116225700)
- > WinForm界面开发第三方控件——支持Office 2019 Light主题
- ## [C Datatable to excel NPOI导出](https://blog.csdn.net/qq_41078088/article/details/116238620)
- > C Datatable to excel NPOI导出
- ## [Web编程基础知识](https://blog.csdn.net/baidu_35231778/article/details/116168844)
- > Web编程基础知识
- ## [angular+ng-zorro+echarts入门总结（三）](https://blog.csdn.net/qq_40020447/article/details/116306116)
- > angular+ng-zorro+echarts入门总结（三）
- ## [使用vue脚手架创建webpack项目](https://blog.csdn.net/ChengR666/article/details/116191364)
- > 使用vue脚手架创建webpack项目
+ ## [【想稳，必看】毕业设计写这个你就赢了《Vue+Node 项目实战：拼多多前后端商城》](https://blog.csdn.net/weixin_56134381/article/details/116104212)
+ > 【想稳，必看】毕业设计写这个你就赢了《Vue+Node 项目实战：拼多多前后端商城》
+ ## [Swift系列二十二 - 扩展](https://blog.csdn.net/yangbenben8866/article/details/116259808)
+ > Swift系列二十二 - 扩展
+ ## [你不想成长，生活总会逼着你成长，阿里P8架构师分享十年学习生涯](https://blog.csdn.net/javassb/article/details/116156890)
+ > 你不想成长，生活总会逼着你成长，阿里P8架构师分享十年学习生涯
+ ## [机器学习指标(Precision、Recall、mAP、F1 Score等)](https://blog.csdn.net/uiop78uiop78/article/details/116173653)
+ > 机器学习指标(Precision、Recall、mAP、F1 Score等)
+ ## [protobuf：protoc生成golang文件](https://blog.csdn.net/weixin_43823363/article/details/116095107)
+ > protobuf：protoc生成golang文件
+ ## [【npm】发布 自定义JS工具函数库 到npm中央仓库](https://blog.csdn.net/weixin_44972008/article/details/116136706)
+ > 【npm】发布 自定义JS工具函数库 到npm中央仓库
  ## [java学生宿舍管理系统，来了就点个赞再走呗，即将毕业的兄弟有福了！](https://blog.csdn.net/dkm123456/article/details/116272578)
  > java学生宿舍管理系统，来了就点个赞再走呗，即将毕业的兄弟有福了！
  ## [手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】](https://blog.csdn.net/weixin_57171554/article/details/116269119)
@@ -45,8 +45,8 @@ categories: IT NEWS
  > \[干货\]手把手教你写一个安卓app
  ## [听说：用过这几个网站的程序员，早已领先身边人一大截！](https://blog.csdn.net/qq_42366672/article/details/116269610)
  > 听说：用过这几个网站的程序员，早已领先身边人一大截！
- ## [嵌入式硬件-读懂原理图](https://blog.csdn.net/weixin_43499780/article/details/116234901)
- > 嵌入式硬件-读懂原理图
+ ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
+ > 手把手教你爬取清纯小姐姐私房照，小孩子写学
 # 人工智能 
  ## [01、泛型是什么？——《Android打怪升级之旅》](https://blog.csdn.net/kuanggang_android/article/details/115773229)
  > 01、泛型是什么？——《Android打怪升级之旅》
