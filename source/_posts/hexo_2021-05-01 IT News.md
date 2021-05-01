@@ -1,21 +1,29 @@
 ---
 title: 2021-05-01 IT News
 copyright: true
-date: 2021-05-01 10:01:06
+date: 2021-05-01 12:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xRG5E6jqvx67QKEK9KeR589WiYpH47GDLCN2kmpbIxUYJgjYeRIEI-A8*Qc99k1-pLTRmTYAkhLd1L*zuq*xPdY&new=1)
+ ## [字节跳动任命周受资为TikTok首席执行官；喜马拉雅公开递交招股书；小电科技提交上市申请|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=7MsNlF4u8FVhQ6QudohIlzJrIv2BLW1kl*oJUMaRsxgogZAuaCNXZCpJ8mZfSW1WVk8VCSF12RPvk3kgGkZ73*ky24RMNsAiu47TcJKQpsv0q*kcKPFQSurogbiLLFqO&new=1)
+ > 图 / UnsplashHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【字节跳动任命周受资为TikTok首席执行官】字节跳动 CFO 周受资被任命兼任 TikTok 的首席执行官，Vanessa Pappas 被任命为
+ ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xQ*E6bQiamqg7Bavc-uswVhNCl9fyGUeHK2weuFBpNlfGqatFJzGN6Ptymmt8yGKvnVJz-N9wrSqkkkwVYCw1Y-&new=1)
  > 最近特斯拉的事情太火，以至于还有一个非常劲爆的连续剧，大家可能没关注到。6 天前， V2 上一个老哥发贴说自家的电视机正在监视所有联网设备。起因是觉得自家电视有点慢，就跑去检查后台服务，发现有个有一个很...
- ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R7o6pPHqIY39nNvBZjL6UUaN88T6NTavktV-1FN8Oz6GR9-bmMgE-jqImV63TL5b5nKbu5MXY0xmO*nyCth0gnv&new=1)
- > |造车与造手机，相似却不相同。理性评估、审慎入场。文 |《财经国家周刊》记者 李瑶又一家手机厂商跟“造车”扯上了关系。前不久，在职场社交平台“脉脉”上，有认证为“OPPO”和“realme员工”的网友发帖称，OP...
- ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6oal44dW5o8JYApXoXm-y-TWnX*W4suensm*LahEjP76TE0-3IDHl2lYJk-GG5*Umc=&new=1)
- > 上证报中国证券网讯 据工信部4月30日消息，工信部就《5G应用“扬帆”行动计划（2021-2023年）》公开征求意见。《5G应用“扬帆”行动计划（2021-2023年）》提出总体目标，到2023 年，5G个人用户普及率超过40%...
- ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ykSxTTvUFgqH4SZAP6KEiKj9pVlvcrhq4dilp0A5VcJF36LcH82ZjWw7SRh30DmUepERKvE81wSpo5dspDOWhoI&new=1)
+ ## [刚刚，中国联通签署重磅战略协议!董事长王晓初亲自出席!](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=ve34XVG3jUIkcLRvVRXBc53j*JFaXvzgW1GHMLPZ4cNaQt5HqLZNVYsk4XCzUbuptk*xxIyqfWhbTQydPDV9*L2NfVqhDeQkaZVejzgi9RdUgZ2CyioMZjS4TdUZHgDG&new=1)
+ > 4月28日，中国联通与陕西省人民政府在西安签署战略合作框架协议。陕西省委书记刘国中、省长赵一德与中国联通集团党组书记、董事长王晓初一行举行会见，并出席签约仪式。中国联通副总经理梁宝俊，陕西省副省长程...
+ ## [硅复用器芯片将推动下一代通信的发展](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=uwYblsiR9CWzTZhsY2u828bQdhUCh2sr04fKfzSbDOloJ5ifuT6hFWbj5LTb7KSxVLTgls58zBQWVuFJyhqqQa8gDE5WM5BhgHAAdFQ0bQjbduuzwFI5zTVSq6LmfVIJ&new=1)
+ > 日本大阪大学和澳大利亚阿德莱德大学的研究人员共同合作，生产了由纯硅制成的新型多路复用器，用于300 GHz频段的太赫兹范围通信。这项研究发表在《Optica》杂志上。   硅复用器 阿德莱德大学电气与电子工程学院...
+ ## [深度携手中国移动，摩托罗拉目标5G手机市场普及者](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=wkKmVsOZQ1FhntL59yaJXEGYFYp4NKDHtRpISsd6NAIG6i0et4K1TbSeJ-rFRDelc4Of4TrzxaUuP-KWaSksiQpjDmtIWY8*Mm*BORqrON9OY0uX9okEyKkpc4cQa3ju&new=1)
+ > 作 者 丨 宿艺编 辑 丨 子淇2021年被认为是中国5G手机市场普及的关键之年。 以下三个数据可以清晰地看到这一点： 2021年中国智能手机市场预计出货量将达3.4亿部，同比增长4.6%（IDC数据），这也是继2016年以来中...
+ ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ynZqTJX0gbvjRWnv08*utle6ci-7VmFqFcu1sZ2lf437zXBzjbb9agcfy4DfKTbsGo5CpADz*9vxo*lkwa4Ig17&new=1)
  > 摘要：从此次车展这一波操作来看，华为显然收获了比亲自造车更大的影响力，而其比做“智能汽车界的博世”还要大的野心也随之曝光，只是在陌生的汽车界，想要切分产业链上最大的一块红利并不是容易的事。文 | 高...
- ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619834404&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWwltAaDpdj3hoyndtgE24sEz1NA33FzM8sQYqxtRJQZawRak28mqcUwoKmvKNIM21MevBm4rkgIsweMtqs9hf47&new=1)
+ ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWypWhjmMpL33dZ77o27MQRzIBY2SyL0sfuEE9FQA2ynstqJL4i7nzSTiltAd9DXNVdORNi0qOfeLsrw6amScl9u&new=1)
  > 众所周知，当前炒得火热的Open RAN，旨在通过软硬件解耦和接口开放，来降低无线接入网的设备成本。不过，尽管目前全球已有运营商已部署或正在试点Open RAN，但其设备价格到底几何，没有任何一家运营商或供应商公...
+ ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R7V2oZ0vtF1tHxaBLvZ4PxpiPRIceTHSbGMve69dIp6l580r1uXKw5fVOvvYDlASOKM8zzicqFuGmqL3EGarHkn&new=1)
+ > |造车与造手机，相似却不相同。理性评估、审慎入场。文 |《财经国家周刊》记者 李瑶又一家手机厂商跟“造车”扯上了关系。前不久，在职场社交平台“脉脉”上，有认证为“OPPO”和“realme员工”的网友发帖称，OP...
+ ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619841605&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6owQ0HpmXeun8FF6AxujMiOKB3BIZprZt2DI1uhet-cHNS0*KEV7K1O3wPzy4d1Pxo=&new=1)
+ > 上证报中国证券网讯 据工信部4月30日消息，工信部就《5G应用“扬帆”行动计划（2021-2023年）》公开征求意见。《5G应用“扬帆”行动计划（2021-2023年）》提出总体目标，到2023 年，5G个人用户普及率超过40%...
 # IT 技术 
  ## [游戏角色开始动起来了，真帅！【python 游戏实战 03】](https://blog.csdn.net/A757291228/article/details/116299668)
  > 游戏角色开始动起来了，真帅！【python 游戏实战 03】
@@ -39,14 +47,14 @@ categories: IT NEWS
  > java学生宿舍管理系统，来了就点个赞再走呗，即将毕业的兄弟有福了！
  ## [手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】](https://blog.csdn.net/weixin_57171554/article/details/116269119)
  > 手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】
- ## [老婆:“给我讲讲你们程序员好笑的事情呗？”我扔给她这篇文章，她狂笑不止！](https://blog.csdn.net/zhiguigu/article/details/116233163)
- > 老婆:“给我讲讲你们程序员好笑的事情呗？”我扔给她这篇文章，她狂笑不止！
  ## [\[干货\]手把手教你写一个安卓app](https://blog.csdn.net/qq_39400113/article/details/116210189)
  > \[干货\]手把手教你写一个安卓app
+ ## [老婆:“给我讲讲你们程序员好笑的事情呗？”我扔给她这篇文章，她狂笑不止！](https://blog.csdn.net/zhiguigu/article/details/116233163)
+ > 老婆:“给我讲讲你们程序员好笑的事情呗？”我扔给她这篇文章，她狂笑不止！
  ## [听说：用过这几个网站的程序员，早已领先身边人一大截！](https://blog.csdn.net/qq_42366672/article/details/116269610)
  > 听说：用过这几个网站的程序员，早已领先身边人一大截！
- ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
- > 手把手教你爬取清纯小姐姐私房照，小孩子写学
+ ## [unity的ugui-4.canvas](https://blog.csdn.net/weixin_44453949/article/details/116240273)
+ > unity的ugui-4.canvas
 # 人工智能 
  ## [01、泛型是什么？——《Android打怪升级之旅》](https://blog.csdn.net/kuanggang_android/article/details/115773229)
  > 01、泛型是什么？——《Android打怪升级之旅》
@@ -83,8 +91,6 @@ categories: IT NEWS
  > 最近一段时间，共享单车频频涨价，已经引起了大家的关注。收费标准从之前的30分钟1.5元，涨到了15分钟1元。那么，共享单车为什么一直在涨价呢？由哈罗单车日前发布的招股书，便可看出共享单车涨价的奥秘。
  ## [哈啰嘀嗒IPO上市 共享经济又被盘活了？](http://www.chanpin100.com/article/115139)
  > 怪兽、哈罗、嘀嗒最近都递交了上市申请，让人不禁怀疑：共享经济又被盘活了？前几年，共享出行板块非常火，竞争也相当激烈，最终哈罗打败了ofo和摩拜单车，脱颖而出。
- ## [五一景区人挤人？AI产品经理教你如何避免拥堵！](http://www.chanpin100.com/article/115131)
- > 五一假期终于要来啦！一想到明天就要放假，小编的嘴角就不自觉的上扬了。不知道小伙伴们有没有出游的打算？好不容易迎来了小长假，疫情也得到了控制，可不能错过这次出行的机会，一定要尽情的浪啊！
  ## [了解这些知识 数据产品经理将更具竞争力](http://www.chanpin100.com/article/115169)
  > 产品经理这个行业竞争是相当激烈，所以小伙伴们千万不要松懈，多多的积累知识和经验，一定要提升自己的竞争力。了解以下这些知识，数据产品经理将更具竞争力，赶紧来看看吧！
  ## [数据产品经理的发展阶段 先技术后产品](http://www.chanpin100.com/article/115168)
