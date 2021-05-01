@@ -1,20 +1,20 @@
 ---
 title: 2021-05-01 IT News
 copyright: true
-date: 2021-05-01 08:01:02
+date: 2021-05-01 09:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619825404&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xT2Gy5nCAWzGS1JZRcJE8VRAzLePrjkooRWze9cIxFQ4qllkkTAAK2pVTBihPAx1AvwfjmswGEIzdsZxpUbuAer&new=1)
- > 最近特斯拉的事情太火，以至于还有一个非常劲爆的连续剧，大家可能没关注到。6 天前， V2 上一个老哥发贴说自家的电视机正在监视所有联网设备。起因是觉得自家电视有点慢，就跑去检查后台服务，发现有个有一个很...
- ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619825404&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWwQQPn6t3og694Ju5uuMein2iEGFLtAvcTX9M55QW9cHJQgxOzr5HlFP0XBXVFyjHPFHgWFlpslr11QlASHQUSF&new=1)
- > 众所周知，当前炒得火热的Open RAN，旨在通过软硬件解耦和接口开放，来降低无线接入网的设备成本。不过，尽管目前全球已有运营商已部署或正在试点Open RAN，但其设备价格到底几何，没有任何一家运营商或供应商公...
- ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619825404&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ykwIPRQ-b4wKlO49BDXa3K1N0m*GOPJNlYB7YTOe*N7akBTh-1aP*M3MvwbpLCoACt1gaqE7PcddQPrkw-pLb0b&new=1)
- > 摘要：从此次车展这一波操作来看，华为显然收获了比亲自造车更大的影响力，而其比做“智能汽车界的博世”还要大的野心也随之曝光，只是在陌生的汽车界，想要切分产业链上最大的一块红利并不是容易的事。文 | 高...
- ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619825404&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6oiuCJYFEicntMs4wK1jgwbm6WEXppU-7TMFmnnf2nsolmqNOTOzmc0yzz6kbk2hEM=&new=1)
+ ## [工信部就《5G应用“扬帆”行动计划(2021-2023年)》公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=iu2h149y6TSL-rPuHY3V58FlDnH5TpQDlREp67VBM6pw1t6L8Ojaul34Z-7-IqV1jJFc4ClIIQ86BSIytbO0X1Q6L4SzTAIe9cuoKAWFYSA=&new=1)
  > 上证报中国证券网讯 据工信部4月30日消息，工信部就《5G应用“扬帆”行动计划（2021-2023年）》公开征求意见。《5G应用“扬帆”行动计划（2021-2023年）》提出总体目标，到2023 年，5G个人用户普及率超过40%...
- ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619825404&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R4*H5LLMr*AIcfBtgi*Mvxa3kZomGTf-YktivDUBd9izyi7ceAy5R1LlxLLxYn7pVLq0kAxbrImYROkJ2K-vh5n&new=1)
+ ## [看完这个老哥的曝光，我不想再打开智能电视了..](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=p2bXrUXJibGcPeUQzKlmjafndcz60rEk021wg0jL8xRG5E6jqvx67QKEK9KeR589vGUZf-v7uZDg9pgyZR7*Kr0P8dDsOPA-fejx3MHTvwtTXYLknyz15tOvgfUaeHXw&new=1)
+ > 最近特斯拉的事情太火，以至于还有一个非常劲爆的连续剧，大家可能没关注到。6 天前， V2 上一个老哥发贴说自家的电视机正在监视所有联网设备。起因是觉得自家电视有点慢，就跑去检查后台服务，发现有个有一个很...
+ ## [一套基站价格高达12.5万美元，Open RAN并不便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=namIFNY1Rl*FCFEdTAddDKksqrLsr5Z71XMX3350rWwltAaDpdj3hoyndtgE24sEDOSe*TX2f9RIsStNywvSJAjiipMAi9kr8vf1NOE-GezSgXMxrGszxUhUsGOfJUAh&new=1)
+ > 众所周知，当前炒得火热的Open RAN，旨在通过软硬件解耦和接口开放，来降低无线接入网的设备成本。不过，尽管目前全球已有运营商已部署或正在试点Open RAN，但其设备价格到底几何，没有任何一家运营商或供应商公...
+ ## [华为的冒险之旅：多方面加持合作车企，野心不止于做智能汽车界的博世|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=Xy9yeYgZN0DAs-5oo7w9m-LD*w5B3pQxRIyoa5F54ykSxTTvUFgqH4SZAP6KEiKjscjxpc2ZAqChvdh6VOwPzulcvOkiIw04JpapL3LRXArOE3PNcULVmFiUcrGUNJnQ&new=1)
+ > 摘要：从此次车展这一波操作来看，华为显然收获了比亲自造车更大的影响力，而其比做“智能汽车界的博世”还要大的野心也随之曝光，只是在陌生的汽车界，想要切分产业链上最大的一块红利并不是容易的事。文 | 高...
+ ## [小米、华为、OPPO……手机厂商凭什么造汽车?](http://mp.weixin.qq.com/s?src=11&timestamp=1619830805&ver=3041&signature=eRAOvl-V6uEMnLaSfpHmLBDmohnHm8vytnp18sTi1R7o6pPHqIY39nNvBZjL6UUaKnvHBP1RMMUvqhS-UHVd-1BUd7QoBTKX15zQEpj4R4pWZO0d8HovqExqss2ZqvVC&new=1)
  > |造车与造手机，相似却不相同。理性评估、审慎入场。文 |《财经国家周刊》记者 李瑶又一家手机厂商跟“造车”扯上了关系。前不久，在职场社交平台“脉脉”上，有认证为“OPPO”和“realme员工”的网友发帖称，OP...
 # IT 技术 
  ## [游戏角色开始动起来了，真帅！【python 游戏实战 03】](https://blog.csdn.net/A757291228/article/details/116299668)
@@ -45,8 +45,8 @@ categories: IT NEWS
  > \[干货\]手把手教你写一个安卓app
  ## [听说：用过这几个网站的程序员，早已领先身边人一大截！](https://blog.csdn.net/qq_42366672/article/details/116269610)
  > 听说：用过这几个网站的程序员，早已领先身边人一大截！
- ## [手把手教你爬取清纯小姐姐私房照，小孩子写学](https://blog.csdn.net/weixin_57171554/article/details/116196585)
- > 手把手教你爬取清纯小姐姐私房照，小孩子写学
+ ## [嵌入式硬件-读懂原理图](https://blog.csdn.net/weixin_43499780/article/details/116234901)
+ > 嵌入式硬件-读懂原理图
 # 人工智能 
  ## [01、泛型是什么？——《Android打怪升级之旅》](https://blog.csdn.net/kuanggang_android/article/details/115773229)
  > 01、泛型是什么？——《Android打怪升级之旅》
