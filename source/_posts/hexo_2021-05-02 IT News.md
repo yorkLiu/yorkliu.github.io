@@ -1,22 +1,24 @@
 ---
 title: 2021-05-02 IT News
 copyright: true
-date: 2021-05-02 08:01:12
+date: 2021-05-02 09:02:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [一仗花掉350亿美金，她是芯片争霸战里最能打的华裔女性](http://mp.weixin.qq.com/s?src=11&timestamp=1619913604&ver=3043&signature=b08qfbWr83QqITsbP2wraPBSPQWkD2taN25Laql0gOWFQJXGT96NjoL-F21etaYs5BcPReVjYAf0Gd*4xpaGY5xYTTp*j53MNHFwJVebEmQFbq-2ZKVfJqPvlFnyMa28&new=1)
+ ## [一仗花掉350亿美金，她是芯片争霸战里最能打的华裔女性](http://mp.weixin.qq.com/s?src=11&timestamp=1619917204&ver=3043&signature=b08qfbWr83QqITsbP2wraPBSPQWkD2taN25Laql0gOWFQJXGT96NjoL-F21etaYsyYYJCX9BNlt8pUlNa2k6xPz4OzQKxZpNvLCS6vqC9fmxmZMAxVy6v9vkW0ZHNJPU&new=1)
  > “找到世界上最棘手的问题，解决它们”作 者丨杨 倩华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意中国芯片产业依然薄弱，但中国人在全球芯片产业界却一...
- ## [致敬中国“追光者”](http://mp.weixin.qq.com/s?src=11&timestamp=1619913604&ver=3043&signature=cQQJ9cwBkKsTLB1nt3q7mbxWc7YCkoxDG8MIBarLWyrqdiyIFTV9GbgsS3hZEWW7wgMmHfZbNGSOdwLeapbCvJ6snTSrTrfOuuXRGU30GC6bG9nRjLb65AEhMY0LXsdb&new=1)
- > 逐光赛跑穿梭于电光交汇之间打通现代通信的传输脉络有这样一群通信人在物理世界中不断摸索用水晶般透明的玻璃介质悉心搭建起一座恢弘的“光纤通信城堡”见证技术更迭潮起潮落，推动信息奔流永不休眠这是一场属于...
- ## [App安全合规的思考：监管的重点变化梳理](http://mp.weixin.qq.com/s?src=11&timestamp=1619913604&ver=3043&signature=chKlRp0CQ-sZNXSiCpHMMh3Jnw5QXyHSUeSxzeVd5NE2r5gnvWv6kXbXKX5kEILZjgPHZeP1IRl5D7TGoahlZxQDk3OaMgM3sEZxhIfnLUr2wZrx578w01eLCiqL3SfY&new=1)
+ ## [App安全合规的思考：监管的重点变化梳理](http://mp.weixin.qq.com/s?src=11&timestamp=1619917204&ver=3043&signature=chKlRp0CQ-sZNXSiCpHMMh3Jnw5QXyHSUeSxzeVd5NE2r5gnvWv6kXbXKX5kEILZoV6bwHiAmlsHE7tl27d-XBMXmoPPPTy7OnnRXSARpHDeJqXIirBzzRruboIwjVMh&new=1)
  > 前言关于App安全合规的监管要求很多地方都可以找到，这里就不一一赘述了。本文的重点内容是通过对监管机构发出来的通报进行统计。想要看监管走向，首先就要了解现在都有哪些监管机构：App违法违规收集使用个人信...
- ## [横空出世：中国版Starlink前景几何?](http://mp.weixin.qq.com/s?src=11&timestamp=1619913604&ver=3043&signature=BxYPK-QT69dHS1uYGVcQnRbFInXuCQmMAm95*2GFHCqhfU98OUUpd9f9HNoGjbBMkaj29UZiAVX2WIsmgNbLET-nXnALrM8fRsGEURzK7KTOndhQ0SbHhOJ9WUXkSVe3&new=1)
+ ## [致敬中国“追光者”](http://mp.weixin.qq.com/s?src=11&timestamp=1619917204&ver=3043&signature=cQQJ9cwBkKsTLB1nt3q7mbxWc7YCkoxDG8MIBarLWyrqdiyIFTV9GbgsS3hZEWW7CyH6q8pRZ6ry8Ax*7R980IfFWuRsVMy*hrm7F8Z-wdQmJ1vgdqPZYHtMpAFBUDPK&new=1)
+ > 逐光赛跑穿梭于电光交汇之间打通现代通信的传输脉络有这样一群通信人在物理世界中不断摸索用水晶般透明的玻璃介质悉心搭建起一座恢弘的“光纤通信城堡”见证技术更迭潮起潮落，推动信息奔流永不休眠这是一场属于...
+ ## [高德地图、搜狗输入法等33款App被通报!](http://mp.weixin.qq.com/s?src=11&timestamp=1619917204&ver=3043&signature=ZlvYsa8yW6th6yzFZTg7rQu3olHTqUhVUFvpnCRR05bFfmq1zliCshjtzZPfzosTLOZru0ftGbprC4DjjvsT8atzTzQwTjZXyll7FjTz88TWAzfOr0O1fOBk0y3iCnYk&new=1)
+ > 据中国网信网消息，近期，针对人民群众反映强烈的App非法获取、超范围收集、过度索权等侵害个人信息的现象，国家互联网信息办公室依据《中华人民共和国网络安全法》《App违法违规收集使用个人信息行为认定方法》...
+ ## [横空出世：中国版Starlink前景几何?](http://mp.weixin.qq.com/s?src=11&timestamp=1619917204&ver=3043&signature=BxYPK-QT69dHS1uYGVcQnRbFInXuCQmMAm95*2GFHCqhfU98OUUpd9f9HNoGjbBM6b89Vay2PT*aDqGIb52Zw7l3qnEWafr3z3Rv9O0M15otcPsfChMq-HI1TADLpB9e&new=1)
  > 日前，国资委发布公告，正式组建中国卫星网络集团有限公司，并落户雄安新区。虽然5G是当前全球移动通信领域的竞争焦点，频上热搜，但卫星通信也一直是热门话题，特别是马斯克提出的“星链计划（Starlink）”：将...
 # IT 技术 
- ## [游戏角色开始动起来了，真帅！【python 游戏实战 03】](https://blog.csdn.net/A757291228/article/details/116299668)
- > 游戏角色开始动起来了，真帅！【python 游戏实战 03】
+ ## [Fdog系列（五）：使用Qt模仿QQ实现登录界面到主界面，功能篇。](https://blog.csdn.net/Fdog_/article/details/116308548)
+ > Fdog系列（五）：使用Qt模仿QQ实现登录界面到主界面，功能篇。
  ## [C与Halcon联合编程之用PictureBox控件替代HWindowControl控件](https://blog.csdn.net/Kevin_Sun777/article/details/116143790)
  > C与Halcon联合编程之用PictureBox控件替代HWindowControl控件
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
