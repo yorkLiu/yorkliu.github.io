@@ -1,24 +1,30 @@
 ---
 title: 2021-05-07 IT News
 copyright: true
-date: 2021-05-07 09:04:29
+date: 2021-05-07 10:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [解读三大运营商2021年首季财报：千兆光网带动商业正循环](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=6aq0qryp-uvKDmbmepzNyAd2Dm3zjtfQPOSt1GgKqYBsn-HftiQ4-kEfIf17WeBR3yNbdxOGk33BSQQhsVhflS6B7*wdKE4DHWGmyvOmz9*FSafBnkCUSoBLMbeW4JiY&new=1)
- > 近日，三大运营商公布2021年第一季度财报。我们看到，得益于家庭市场、政企市场两个“增长极”的优异表现，三大运营商营收均实现强势增长。5G发展大家关注很多，但对F5G固网业务，可能有些忽略。在笔者看来，此...
- ## [中国移动国际将举办首届mCloud峰会，助企业运筹云端](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=gL6p9GXr0SBZKF6CyiJu82aQdD3k0wLWJ4PFDYsbsdou7qX4mgZe9qN9vSXAt7PwmO2tAb3B0nmOc7ti9smjnX0O2gV*5aeIed0XwA*X3ucBXZ5MU-9CSKONXKiQEGM0&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容编辑丨钟立磊中国移动国际有限公司（CMI）将于2021年5月28日举办首届mCloud峰会，助力企业把握云转型机遇，增强与客户、合作伙伴的数字互动，共同见证云网智...
- ## [Pyston 2.2发布并回归开源](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=67*qdEQPDfAIko*Nh5gl2DGj9e*XQiNDP*M8kXdmsKxdQsDUgT16*RNzvBSQk3OYBOOPqEiz-TpJuiWrLFm0gBt4wMKbc1dfYTYSdOnflLIJu4XEQ1V2m9K2BnyklRXv&new=1)
+ ## [Pyston 2.2发布并回归开源](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=67*qdEQPDfAIko*Nh5gl2DGj9e*XQiNDP*M8kXdmsKyzr0EiwLU4tIxTyH0QEKfWkNyF-goDwXk--Gkiggl9iezyVFF7mMRq*qZ7rq3OS4W2F-akRsi9NHDC8CxoHqdc&new=1)
  > 近日，Pyston 2.2稳定版正式发布。开发者声称该版本可实现比用于网络服务器基准的Python库存快30%，包括JIT和属性缓存机制的工作。Pyston 2.0时该项目闭源，但在新的Pyston 2.2稳定版中其代码已经回归开源，该开...
- ## [4月，云创大数据发生了哪些大事?](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=aAoYNs*0h0Xd1aRSa171ifPyEeRAwt0*vCf1sIDgGhYFGpIw6zzI46jHZ2PCx0U0j8kVUM8JBnmywpt5r1HVxOExjePdexC4B2kAATb6rwOChBfPonOMEfB8Bsq7npSY&new=1)
- > &gt;点击图片，即可查看对应文章
- ## [业余无线电爱好者HAM入门(理论篇)](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=Eu*CHZ9TgCYgAfDNmK6JKjkMSNy7iczTHZL5KQvT81tmGxZJtx5W0aRJe-a0bTSR4t8989up*Y6acQKXpGTy9Y701iqmjTWMS4WSTuzGnxP8rAGfpfHGYetLLmUlY0m8&new=1)
+ ## [相约漓江·与光同行!5月28日——欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=RFYcleldOktjfgg8AX6tToUg4Ig6Rph7KJGxrTE3kh8pb90r3yqhdZWbKBDSOOynnxxK5tTEAs1IOlC8Te13CvyNQGkL45Jsjm1cUwlYKUFwQMnJ2VVwwDo-nng1qHum&new=1)
+ > 新闻导读相约漓江·与光同行!5月28日，讯石信息咨询携手桂林光隆科技集团在广西桂林举办“2021讯石桂林光通信产学研论坛”，汇聚光通讯产业链及知名院校，寻求产学研融合，探讨光通信产业更大市场机遇，助力光通...
+ ## [业余无线电爱好者HAM入门(理论篇)](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=Eu*CHZ9TgCYgAfDNmK6JKjkMSNy7iczTHZL5KQvT81sPP5Z5XvlbF21nay5*gEjWx4I*60ODv*eH4uxtHYEFhlNqX0tMcKdJKAOEzjtuR97lLT7qn*slUmijopowSKRY&new=1)
  > 近期迷上了无线电通信，俗称对讲机，高深一点是发报机、基站电台之类的，业内称为HAM（业务无线电爱好者Radio Amateur），即“火腿”。从图书馆借了几本相关的书，在优酷查看了相关的视频，算是入门，这里整理一...
+ ## [7点见|维权女车主起诉特斯拉索赔5万；IBM宣布推出2纳米芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=q7fTt8-HL1bfIziSaozlb-k-VtxZt7QmCdrYERMR44ZW2yCm00Q3-0XlIS90i9GQ-huAYzeD7AQEVcTR5kw23c3E*gUe44g3wPZ9PWDX3uNhACI1Uwrb3yrtonTTg5q6&new=1)
+ > 各位小伙伴早上好呀！以下是今天的早报！车展维权女车主起诉特斯拉副总裁陶琳 要求赔偿5万元精神损失费河南安阳特斯拉车主张女士5月6日晚在腾讯新闻上发布一份声明，称已经起诉特斯拉对外事务副总裁陶琳。张女士...
+ ## [\[报告\]2021中国新能源汽车市场洞察(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=jb6w9OFzVuwCtAI*niLopbf9ydn*eWxXPrCWO1vVfbkZit5gv61irTcJI7pPhOVoC4RNh7uexxJsVQfjabRuo-IoZRP-dlgOIWzxJ8rE-s8mdIEiUPC09naO*bt2oRIn&new=1)
+ > 在中国汽车市场下行的大背景下，新能源汽车市场总体蓬勃发展，该新兴产业正由政策驱动转向市场驱动。随着新玩家不断入局，产业圈层不断拓展，市场洗牌和淘汰也愈演愈烈。在C端占比不断提升的情况下，如何把握个...
+ ## [解读三大运营商2021年首季财报：千兆光网带动商业正循环](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=6aq0qryp-uvKDmbmepzNyAd2Dm3zjtfQPOSt1GgKqYDl8IXcKRKJqddMO8M3u8jXy1E20V60pv0y53xFN3LRvSmHEMlUTLeO*QpM8e1zqkH3c*SpJbRYq4BL0QAQ3vDc&new=1)
+ > 近日，三大运营商公布2021年第一季度财报。我们看到，得益于家庭市场、政企市场两个“增长极”的优异表现，三大运营商营收均实现强势增长。5G发展大家关注很多，但对F5G固网业务，可能有些忽略。在笔者看来，此...
+ ## [中国移动国际将举办首届mCloud峰会，助企业运筹云端](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=gL6p9GXr0SBZKF6CyiJu82aQdD3k0wLWJ4PFDYsbsdqF5lc0famK5QGx5vS339ZlGJ1IUm4D*5rHjzwBHb5fmNjIbe2dDqZj1sY*hIvo9ZkjVW4G273VCT7nxKP*BN-H&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容编辑丨钟立磊中国移动国际有限公司（CMI）将于2021年5月28日举办首届mCloud峰会，助力企业把握云转型机遇，增强与客户、合作伙伴的数字互动，共同见证云网智...
+ ## [4月，云创大数据发生了哪些大事?](http://mp.weixin.qq.com/s?src=11&timestamp=1620351004&ver=3053&signature=aAoYNs*0h0Xd1aRSa171ifPyEeRAwt0*vCf1sIDgGhZwWdvHNnaF8yvIbnI*wmtQ0r8uSAA8v5RyQjDGYZGymN*eywMvfoywQcedhahrJM5emOhwJmMFNeGSN6DiVPs6&new=1)
+ > &gt;点击图片，即可查看对应文章
 # IT 技术 
- ## [一级棒！这应该是最好的 “re正则表达式” 使用教程了！](https://blog.csdn.net/weixin_41261833/article/details/114577700)
- > 一级棒！这应该是最好的 “re正则表达式” 使用教程了！
+ ## [1小时1篇文学会python再做个飞机大战游戏](https://blog.csdn.net/A757291228/article/details/116305295)
+ > 1小时1篇文学会python再做个飞机大战游戏
  ## [油猴插件/脚本还不会使用?看这篇文章就够了, 各种实用的插件/脚本使用技巧](https://blog.csdn.net/weixin_43959833/article/details/116405591)
  > 油猴插件/脚本还不会使用?看这篇文章就够了, 各种实用的插件/脚本使用技巧
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
@@ -39,14 +45,14 @@ categories: IT NEWS
  > 自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率
  ## [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337)
  > 王者荣耀中一个英雄是怎么被产生的？
- ## [北漂生活第四弹-初入公司](https://blog.csdn.net/shiliang97/article/details/116443110)
- > 北漂生活第四弹-初入公司
- ## [新手小白学JAVA 冒泡排序](https://blog.csdn.net/weixin_43884234/article/details/116290961)
- > 新手小白学JAVA 冒泡排序
  ## [“大三在读生”都四面成功拿到字节跳动Offer了，你还有什么理由去摸鱼？](https://blog.csdn.net/kxkxyzyz/article/details/116400276)
  > “大三在读生”都四面成功拿到字节跳动Offer了，你还有什么理由去摸鱼？
- ## [php 有哪些杀手级超厉害框架或库或应用？](https://blog.csdn.net/weixin_49163826/article/details/116429465)
- > php 有哪些杀手级超厉害框架或库或应用？
+ ## [网络 卧槽！牛皮了，面试官居然把TCP三次握手四次挥手问的这么详细](https://blog.csdn.net/qq_44443986/article/details/115966274)
+ > 网络 卧槽！牛皮了，面试官居然把TCP三次握手四次挥手问的这么详细
+ ## [【亲传秘籍】我这样写python代码表白，泡到了大学小师妹](https://blog.csdn.net/weixin_57171554/article/details/116381237)
+ > 【亲传秘籍】我这样写python代码表白，泡到了大学小师妹
+ ## [有位传奇大佬，自杀了...](https://blog.csdn.net/ityouknow/article/details/116408783)
+ > 有位传奇大佬，自杀了...
 # 人工智能 
  ## [华为名师揭秘编程界“网红”Python](https://blog.csdn.net/qq_43475285/article/details/116397004)
  > 华为名师揭秘编程界“网红”Python
@@ -79,8 +85,8 @@ categories: IT NEWS
  ## [使用kolla-ansible部署多节点OpenStack(T版)及对接Ceph](https://blog.csdn.net/qq_28513801/article/details/116035363)
  > 使用kolla-ansible部署多节点OpenStack(T版)及对接Ceph
 # PM 
- ## [AI产品经理必备的用户思维 教你打造出爆款产品！](http://www.chanpin100.com/article/115173)
- > 用户思维对于一个AI产品经理来说是非常重要的，今天我们就来聊一聊AI产品经理必备的用户思维，教你轻松打造出爆款产品！简单来说，用户思维通常包含以下几个方面：
+ ## [数据产品经理的前世今生](http://www.chanpin100.com/article/115216)
+ > 从2010年“第三次”信息浪潮，信息大爆炸时代以来，各行各业在完成自身数字化转型的同时也沉淀了大量的数据，但数据的价值无法量化输出，很多企业对数据没有概念，无数据意识、无分析素质，只知道什么是指标或KPI，大多数决策还是领导拍脑袋！
  ## [产品运营常见的面试问题都有哪些？](http://www.chanpin100.com/article/115214)
  > 在面试产品经理岗位的时候，我们有可能会遇到一些有关产品运营方面的问题，本文把比较常见会问到的产品运营面试题给大家整理了一下，希望能对你的面试准备有所帮助。
  ## [商用数据产品发展迅速 它的优势在哪里？](http://www.chanpin100.com/article/115215)
@@ -117,7 +123,5 @@ categories: IT NEWS
  > 产品团队对于频繁改需求这件事情，无疑是非常烦躁的。同时由于种种原因，整个团队往往会将原因归咎于产品经理。产品经理在这个时候经常会两头受气...
  ## [产品上线后 如何才能价值最大化？](http://www.chanpin100.com/article/115201)
  > 有段时间做定制化报表，做了十几张后，发现要把数据报表的计算做的没有差错很不容易，特别是涉及业务相关的数据报表。这里也总结下做数据报表字段定义的几个要素：
- ## [从一个面试官的角度谈谈产品经理怎么写简历](http://www.chanpin100.com/article/115199)
- > 老K在6年的产品经理职业生涯中，面试过近100位产品经理——从产品助理、产品经理到高级产品经理，因此，我非常清楚面试官在筛选简历时看重什么。
 
     
