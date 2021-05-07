@@ -1,52 +1,52 @@
 ---
 title: 2021-05-07 IT News
 copyright: true
-date: 2021-05-07 08:06:31
+date: 2021-05-07 09:04:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Pyston 2.2发布并回归开源](http://mp.weixin.qq.com/s?src=11&timestamp=1620345604&ver=3053&signature=67*qdEQPDfAIko*Nh5gl2DGj9e*XQiNDP*M8kXdmsKxdQsDUgT16*RNzvBSQk3OY3Jk9P*Xs-LOL0clAyV1twLvgLjE7kYWvBtoAez9LWTmJNiOzaku*VAR6dPUNILSn&new=1)
- > 近日，Pyston 2.2稳定版正式发布。开发者声称该版本可实现比用于网络服务器基准的Python库存快30%，包括JIT和属性缓存机制的工作。Pyston 2.0时该项目闭源，但在新的Pyston 2.2稳定版中其代码已经回归开源，该开...
- ## [业余无线电爱好者HAM入门(理论篇)](http://mp.weixin.qq.com/s?src=11&timestamp=1620345604&ver=3053&signature=Eu*CHZ9TgCYgAfDNmK6JKjkMSNy7iczTHZL5KQvT81tmGxZJtx5W0aRJe-a0bTSRzxFSiceKM0QMG2pA4UpbT6jDhz7wZrc*OyTu*anrP-nJvBBvWHjrZ6ZXXMpdEDzT&new=1)
- > 近期迷上了无线电通信，俗称对讲机，高深一点是发报机、基站电台之类的，业内称为HAM（业务无线电爱好者Radio Amateur），即“火腿”。从图书馆借了几本相关的书，在优酷查看了相关的视频，算是入门，这里整理一...
- ## [中国移动国际将举办首届mCloud峰会，助企业运筹云端](http://mp.weixin.qq.com/s?src=11&timestamp=1620345604&ver=3053&signature=gL6p9GXr0SBZKF6CyiJu82aQdD3k0wLWJ4PFDYsbsdou7qX4mgZe9qN9vSXAt7PwePG*fYtA3C45LwfKaMq3Zf1XbDI8dAX92yLO8DbzY74sBgKBHTlZebObrm5F1t48&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容编辑丨钟立磊中国移动国际有限公司（CMI）将于2021年5月28日举办首届mCloud峰会，助力企业把握云转型机遇，增强与客户、合作伙伴的数字互动，共同见证云网智...
- ## [4月，云创大数据发生了哪些大事?](http://mp.weixin.qq.com/s?src=11&timestamp=1620345604&ver=3053&signature=aAoYNs*0h0Xd1aRSa171ifPyEeRAwt0*vCf1sIDgGhYFGpIw6zzI46jHZ2PCx0U0RSeu7GJOB*U7ZWXntzaLKJjVgibHC*amlDA4a7XTKPcqyMmeoHyNymQ*HKLONro2&new=1)
- > &gt;点击图片，即可查看对应文章
- ## [解读三大运营商2021年首季财报：千兆光网带动商业正循环](http://mp.weixin.qq.com/s?src=11&timestamp=1620345604&ver=3053&signature=6aq0qryp-uvKDmbmepzNyAd2Dm3zjtfQPOSt1GgKqYBsn-HftiQ4-kEfIf17WeBRUR4NP0cUrww8Oep3GbnOiaapKL4t9oAh6NeH*ZvEKqRP8t79gfz2I4eVL0jQhfKM&new=1)
+ ## [解读三大运营商2021年首季财报：千兆光网带动商业正循环](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=6aq0qryp-uvKDmbmepzNyAd2Dm3zjtfQPOSt1GgKqYBsn-HftiQ4-kEfIf17WeBR3yNbdxOGk33BSQQhsVhflS6B7*wdKE4DHWGmyvOmz9*FSafBnkCUSoBLMbeW4JiY&new=1)
  > 近日，三大运营商公布2021年第一季度财报。我们看到，得益于家庭市场、政企市场两个“增长极”的优异表现，三大运营商营收均实现强势增长。5G发展大家关注很多，但对F5G固网业务，可能有些忽略。在笔者看来，此...
+ ## [中国移动国际将举办首届mCloud峰会，助企业运筹云端](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=gL6p9GXr0SBZKF6CyiJu82aQdD3k0wLWJ4PFDYsbsdou7qX4mgZe9qN9vSXAt7PwmO2tAb3B0nmOc7ti9smjnX0O2gV*5aeIed0XwA*X3ucBXZ5MU-9CSKONXKiQEGM0&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容编辑丨钟立磊中国移动国际有限公司（CMI）将于2021年5月28日举办首届mCloud峰会，助力企业把握云转型机遇，增强与客户、合作伙伴的数字互动，共同见证云网智...
+ ## [Pyston 2.2发布并回归开源](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=67*qdEQPDfAIko*Nh5gl2DGj9e*XQiNDP*M8kXdmsKxdQsDUgT16*RNzvBSQk3OYBOOPqEiz-TpJuiWrLFm0gBt4wMKbc1dfYTYSdOnflLIJu4XEQ1V2m9K2BnyklRXv&new=1)
+ > 近日，Pyston 2.2稳定版正式发布。开发者声称该版本可实现比用于网络服务器基准的Python库存快30%，包括JIT和属性缓存机制的工作。Pyston 2.0时该项目闭源，但在新的Pyston 2.2稳定版中其代码已经回归开源，该开...
+ ## [4月，云创大数据发生了哪些大事?](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=aAoYNs*0h0Xd1aRSa171ifPyEeRAwt0*vCf1sIDgGhYFGpIw6zzI46jHZ2PCx0U0j8kVUM8JBnmywpt5r1HVxOExjePdexC4B2kAATb6rwOChBfPonOMEfB8Bsq7npSY&new=1)
+ > &gt;点击图片，即可查看对应文章
+ ## [业余无线电爱好者HAM入门(理论篇)](http://mp.weixin.qq.com/s?src=11&timestamp=1620349204&ver=3053&signature=Eu*CHZ9TgCYgAfDNmK6JKjkMSNy7iczTHZL5KQvT81tmGxZJtx5W0aRJe-a0bTSR4t8989up*Y6acQKXpGTy9Y701iqmjTWMS4WSTuzGnxP8rAGfpfHGYetLLmUlY0m8&new=1)
+ > 近期迷上了无线电通信，俗称对讲机，高深一点是发报机、基站电台之类的，业内称为HAM（业务无线电爱好者Radio Amateur），即“火腿”。从图书馆借了几本相关的书，在优酷查看了相关的视频，算是入门，这里整理一...
 # IT 技术 
- ## [1小时1篇文学会python再做个飞机大战游戏](https://blog.csdn.net/A757291228/article/details/116305295)
- > 1小时1篇文学会python再做个飞机大战游戏
- ## [Flutter笔记--flutter-redux](https://blog.csdn.net/ljt2724960661/article/details/116307211)
- > Flutter笔记--flutter-redux
+ ## [一级棒！这应该是最好的 “re正则表达式” 使用教程了！](https://blog.csdn.net/weixin_41261833/article/details/114577700)
+ > 一级棒！这应该是最好的 “re正则表达式” 使用教程了！
+ ## [油猴插件/脚本还不会使用?看这篇文章就够了, 各种实用的插件/脚本使用技巧](https://blog.csdn.net/weixin_43959833/article/details/116405591)
+ > 油猴插件/脚本还不会使用?看这篇文章就够了, 各种实用的插件/脚本使用技巧
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [Servlet和Http学习](https://blog.csdn.net/XiaoFanMi/article/details/116404887)
- > Servlet和Http学习
- ## [Postman接口测试环境安装](https://blog.csdn.net/qq_41952323/article/details/116073388)
- > Postman接口测试环境安装
- ## [PHP数据结构-完全二叉树、线索二叉树及树的顺序存储结构](https://blog.csdn.net/zhangyue0503/article/details/116382893)
- > PHP数据结构-完全二叉树、线索二叉树及树的顺序存储结构
- ## [程序员的4个能力水平和8个工作陋习，肯定有你哦](https://blog.csdn.net/zhiguigu/article/details/116309817)
- > 程序员的4个能力水平和8个工作陋习，肯定有你哦
- ## [从PHP开始学渗透 -- 变量与引用](https://blog.csdn.net/weixin_41489908/article/details/116380261)
- > 从PHP开始学渗透 -- 变量与引用
- ## [使用vue-cli搭建vue程序](https://blog.csdn.net/wei198621/article/details/116431613)
- > 使用vue-cli搭建vue程序
+ ## [Unity粒子在UI界面中的裁切、蒙版、层级问题的解决（ScrollView裁切、Mask蒙版、UI粒子层级关系）](https://blog.csdn.net/linxinfa/article/details/116406591)
+ > Unity粒子在UI界面中的裁切、蒙版、层级问题的解决（ScrollView裁切、Mask蒙版、UI粒子层级关系）
+ ## [webpack使用vue组件化](https://blog.csdn.net/feiqipengcheng/article/details/116455772)
+ > webpack使用vue组件化
+ ## [Flutter笔记--flutter-redux](https://blog.csdn.net/ljt2724960661/article/details/116307211)
+ > Flutter笔记--flutter-redux
+ ## [用Python+OpenCV+PyQt开发的答题卡识别软件](https://blog.csdn.net/La_vie_est_belle/article/details/116396031)
+ > 用Python+OpenCV+PyQt开发的答题卡识别软件
+ ## [二八法则，程序员职业生涯真的很短吗?非科班出身，就不能成为大厂程序员吗？（内容过于现实）](https://blog.csdn.net/wzh19950826/article/details/116204621)
+ > 二八法则，程序员职业生涯真的很短吗?非科班出身，就不能成为大厂程序员吗？（内容过于现实）
+ ## [对C++静态绑定与动态绑定的理解](https://blog.csdn.net/qq_26501341/article/details/116264566)
+ > 对C++静态绑定与动态绑定的理解
  ## [自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率](https://blog.csdn.net/zhiguigu/article/details/116424778)
  > 自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率
  ## [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337)
  > 王者荣耀中一个英雄是怎么被产生的？
+ ## [北漂生活第四弹-初入公司](https://blog.csdn.net/shiliang97/article/details/116443110)
+ > 北漂生活第四弹-初入公司
+ ## [新手小白学JAVA 冒泡排序](https://blog.csdn.net/weixin_43884234/article/details/116290961)
+ > 新手小白学JAVA 冒泡排序
  ## [“大三在读生”都四面成功拿到字节跳动Offer了，你还有什么理由去摸鱼？](https://blog.csdn.net/kxkxyzyz/article/details/116400276)
  > “大三在读生”都四面成功拿到字节跳动Offer了，你还有什么理由去摸鱼？
- ## [网络 卧槽！牛皮了，面试官居然把TCP三次握手四次挥手问的这么详细](https://blog.csdn.net/qq_44443986/article/details/115966274)
- > 网络 卧槽！牛皮了，面试官居然把TCP三次握手四次挥手问的这么详细
- ## [【亲传秘籍】我这样写python代码表白，泡到了大学小师妹](https://blog.csdn.net/weixin_57171554/article/details/116381237)
- > 【亲传秘籍】我这样写python代码表白，泡到了大学小师妹
- ## [全网最全python爬虫系统进阶学习(附原代码)学完可就业](https://blog.csdn.net/qq_45803923/article/details/116357910)
- > 全网最全python爬虫系统进阶学习(附原代码)学完可就业
+ ## [php 有哪些杀手级超厉害框架或库或应用？](https://blog.csdn.net/weixin_49163826/article/details/116429465)
+ > php 有哪些杀手级超厉害框架或库或应用？
 # 人工智能 
  ## [华为名师揭秘编程界“网红”Python](https://blog.csdn.net/qq_43475285/article/details/116397004)
  > 华为名师揭秘编程界“网红”Python
