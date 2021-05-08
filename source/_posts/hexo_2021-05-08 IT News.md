@@ -1,20 +1,24 @@
 ---
 title: 2021-05-08 IT News
 copyright: true
-date: 2021-05-08 09:01:29
+date: 2021-05-08 10:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智能家居新战局：华为冲锋，百度呐喊!恒大碧桂园不服](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=k7YVD2Xi4Fcc9VB2ZPWPIlPGD1sGO2hX3BLk-IV5EugUHchRMq0E*ZreNzDNIueSqQQ3uIpqgXwxiOgIaUjTfnQSSBY-cBRdtJ6aLqcx09I5WpDxBxuJiazfKZgG6hRg&new=1)
- > 巨头加速布局的全屋智能，是新瓶装旧酒还是行业分水岭？作者 | 韦世玮编辑 | 心缘智能家居市场正在进入新一轮角逐时刻，火拼的焦点是全屋智能。2021年开年以来，以碧桂园、恒大高科为代表的房地产商，以海尔、格...
- ## [备份与数据保护史上最大调研，得出了怎样的结果?](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=1lsOiIEMzdzPkSHmnxy6fxaoovNtb8FdRljlAXevHL9kgbTWDUOSjhW28vh1OtYb4MwWFX91oPevhNBNvuMGE9NPfalafSzUBQRbiMavvygGnHWvl1QOt0oJj0iy5ToF&new=1)
- > 随着大数据时代的来临，数据正在成为企业最宝贵和最具价值的资产。这背后的原因其实说起来非常简单：黄金有价，而数据无价。然而随着企业的运营环境日趋复杂和多样化，特别是2020年肆虐全球的疫情带来的不确定性...
- ## [诺基亚设备被爱立信、三星替换，韩国5G基站设备市场份额生变?](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=fdffabFjgBliuqeNqoZJyGV8yRJI7qhJqT8Ue4m2aCRXpiTeSjU3Rd6fV9V6G10W4acK37ff1aOZUAfWLFKEiFAQUzqxWw-L1DobXjjqWs3sLPXP*Z0Gf5kORc5FCFch&new=1)
+ ## [\[报告\]2021中国汽车产业数字化服务商研究及TOP50榜单(附43页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=s-jVU3ahUY5A5-mHiCU3PNAufSOBdXdUUdUPPCYbQasWhOFJNRy5JcOeynknWrPM5tjqaic713E3Co9qjMwncYbgj3ZoPRVUpMIDLTX6DDk9CVCpv16uwXminTWSp1vr&new=1)
+ > 汽车产业的数字化转型升级已到了备受瞩目的阶段。数字化服务商是汽车产业数字化的重要参与者，在汽车产业数字化进程中扮演着关键角色，报告将聚焦汽车产业的数字化服务商，探讨数字化服务商们如何在数字经济汹涌...
+ ## [诺基亚设备被爱立信、三星替换，韩国5G基站设备市场份额生变?](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=fdffabFjgBliuqeNqoZJyGV8yRJI7qhJqT8Ue4m2aCRXpiTeSjU3Rd6fV9V6G10WQM55nguuvIbuQlxEZ2qhTpVmnB9DvX0p8FTcc1ntaH*RJ*zzaxU*mGydrUp8DEIE&new=1)
  > 5月6日，据韩国新闻网站ETNews报道，韩国运营商KT已确认将其在光州市的现网诺基亚4G和5G基站替换为三星设备，预计替换规模约几千个小区。3月29日，该媒体还报道称，SKT已经确认正在将江原道部分区域的现网诺基亚...
- ## [台达智能工厂实践，工厂人均产值大幅提升!](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=bPn5ayRvR3oj9lRk*-iqQFbM5N*wwMc4PePLnYDDHGXTjanD9VJOTvvSnoPuCH21EGBGlnV-ElD3m-qMuQGCkRdOpzAKVuZ3jvcC-gpBtcGpMn3RfeoT1pv3bg2PNZQr&new=1)
+ ## [讯石专访|唐品科技：全光网络带来全新机遇 提供先进综合接入方案](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=8-etx1epTwUvG3L44cfJZ9lcNlEOBcj6Vm5zuX8NXC8pQfgHvfoktrNHl0gDJM3BYR5rrO-zaR1Y2c8HHYOYR4WHj7cOtuR8rlZk9nB77rpKefo6kN0d47z5pErLAl0m&new=1)
+ > 新闻导读上海唐品科技以具备高竞争力的光配线解决方案，致力于打造和优化光通信、综合布线和数据中心等场景的通信传输接入方案，帮助客户降低企业成本，实现高效的通信互联，提升企业的运作能效。ICC讯（编辑：A...
+ ## [智能家居新战局：华为冲锋，百度呐喊!恒大碧桂园不服](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=k7YVD2Xi4Fcc9VB2ZPWPIlPGD1sGO2hX3BLk-IV5EugUHchRMq0E*ZreNzDNIueSvbWWrc95dHM525vKit6acsmmSBTeYbHS0QR*xwcBAdT6ZILKv12hgT0VYEQAUHPO&new=1)
+ > 巨头加速布局的全屋智能，是新瓶装旧酒还是行业分水岭？作者 | 韦世玮编辑 | 心缘智能家居市场正在进入新一轮角逐时刻，火拼的焦点是全屋智能。2021年开年以来，以碧桂园、恒大高科为代表的房地产商，以海尔、格...
+ ## [备份与数据保护史上最大调研，得出了怎样的结果?](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=1lsOiIEMzdzPkSHmnxy6fxaoovNtb8FdRljlAXevHL9kgbTWDUOSjhW28vh1OtYbtPT5gGYZ2hAxL9rE8Gi0zfyC6S3TD7TS1*OVQhTgWWZ-xrEZSZysRo2dSNlke86m&new=1)
+ > 随着大数据时代的来临，数据正在成为企业最宝贵和最具价值的资产。这背后的原因其实说起来非常简单：黄金有价，而数据无价。然而随着企业的运营环境日趋复杂和多样化，特别是2020年肆虐全球的疫情带来的不确定性...
+ ## [台达智能工厂实践，工厂人均产值大幅提升!](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=bPn5ayRvR3oj9lRk*-iqQFbM5N*wwMc4PePLnYDDHGXTjanD9VJOTvvSnoPuCH21nxU*5G0lJEAl0Qq6ukMnSDS7t5XOKrgS1IYijsMM0XypSrSeRLIBz9VTqi0x0Z7C&new=1)
  > 近年来，台达在全球生产基地开启智能制造转型，全方位落实智能工厂实践。今天要介绍的台达旗下中达电子（江苏）有限公司吴江三厂入选了由e-works评选的“2020年度中国标杆智能工厂百强榜”。本文用图及部分内容...
- ## [华为中国生态大会“十年纪”：生态不止眼前，更有成长和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=WW9nYjW34HtJzcRYveobcybl1QX-tOjGoxUgF4a-LjA*sRbFU9urXrf3CWl4KzcDLWfwHMIRu4W5XjipvdNntEYACAi40TEOolXJyyZLOS3ZFXrjjRXsjIt0eZ49oZW0&new=1)
+ ## [华为中国生态大会“十年纪”：生态不止眼前，更有成长和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=WW9nYjW34HtJzcRYveobcybl1QX-tOjGoxUgF4a-LjA*sRbFU9urXrf3CWl4KzcD3NB8MybwdE-9aS7aAEIf1BDnMM3Sqc7wywpEyfQis1SMMlOEpdpTBX6oripk5-Aj&new=1)
  > ——本文作者 郑凯如果时光回溯到2011年，我们能记起哪些关键词？在经受金融危机洗礼之后，2011年的全球IT规模重新超过了危机之前的总量。智能手机首次超越PC，移动互联网时代逐步开启，云计算、大数据和移动技...
 # IT 技术 
  ## [我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）](https://blog.csdn.net/l1028386804/article/details/116477701)
@@ -35,18 +39,18 @@ categories: IT NEWS
  > 【亲传秘籍】我这样写python代码表白，泡到了大学小师妹
  ## [吴恩达机器学习作业（一）_python实现](https://blog.csdn.net/qq_45882032/article/details/116500250)
  > 吴恩达机器学习作业（一）_python实现
+ ## [java实现10种排序算法](https://blog.csdn.net/weixin_44531966/article/details/116464294)
+ > java实现10种排序算法
+ ## [从“嵌入式”到“物联网”的四大转变](https://blog.csdn.net/HaaSTech/article/details/116486192)
+ > 从“嵌入式”到“物联网”的四大转变
+ ## [GPIO—按键中断](https://blog.csdn.net/thisway_diy/article/details/116493986)
+ > GPIO—按键中断
  ## [第一次 PCB 打样](https://blog.csdn.net/lyndon_li/article/details/116464549)
  > 第一次 PCB 打样
  ## [程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码](https://blog.csdn.net/sinat_40770656/article/details/116464416)
  > 程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码
  ## [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337)
  > 王者荣耀中一个英雄是怎么被产生的？
- ## [java实现10种排序算法](https://blog.csdn.net/weixin_44531966/article/details/116464294)
- > java实现10种排序算法
- ## [GPIO—按键轮询](https://blog.csdn.net/thisway_diy/article/details/116485772)
- > GPIO—按键轮询
- ## [为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了](https://blog.csdn.net/aaahtml/article/details/116450296)
- > 为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了
 # 人工智能 
  ## [UNIX 设计哲学：Do one thing and do it well](https://blog.csdn.net/universsky2015/article/details/116328109)
  > UNIX 设计哲学：Do one thing and do it well
@@ -79,6 +83,8 @@ categories: IT NEWS
  ## [【C语言基础学习---扫雷游戏】（包含普通版+递归炼狱版）](https://blog.csdn.net/QIYICat/article/details/116431838)
  > 【C语言基础学习---扫雷游戏】（包含普通版+递归炼狱版）
 # PM 
+ ## [私域流量4000字方法论：如何打造卖货的朋友圈？](http://www.chanpin100.com/article/115222)
+ > 很多做微商的，刚开始接触私域的，最喜欢做的事情，就是一口气发十几条朋友圈。每条朋友圈都从不同角度，夸自己的产品好。早中晚各一次，极端的一小时发一次，一天发几十条、上百条，恨不得逼着用户快速决策，下单买买买。
  ## [\[建议收藏\]极简SaaS创业手册](http://www.chanpin100.com/article/115262)
  > 软件即服务(SaaS)公司在其生命周期中会经历一些特定的阶段。你可能首先想到的是“这重要吗？你真的需要知道你的公司处于什么阶段吗?”
  ## [以角色权益驱动产品方向探索](http://www.chanpin100.com/article/115261)
