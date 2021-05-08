@@ -1,52 +1,52 @@
 ---
 title: 2021-05-08 IT News
 copyright: true
-date: 2021-05-08 08:01:10
+date: 2021-05-08 09:01:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为中国生态大会“十年纪”：生态不止眼前，更有成长和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1620432004&ver=3055&signature=WW9nYjW34HtJzcRYveobcybl1QX-tOjGoxUgF4a-LjA*sRbFU9urXrf3CWl4KzcDnFpaTwTGoKpIE4RO2Q7QJ*k0cYSKYjKtT3egb3JlvOfSkSje-gC*bH-1BWjYCS4D&new=1)
- > ——本文作者 郑凯如果时光回溯到2011年，我们能记起哪些关键词？在经受金融危机洗礼之后，2011年的全球IT规模重新超过了危机之前的总量。智能手机首次超越PC，移动互联网时代逐步开启，云计算、大数据和移动技...
- ## [备份与数据保护史上最大调研，得出了怎样的结果?](http://mp.weixin.qq.com/s?src=11&timestamp=1620432004&ver=3055&signature=1lsOiIEMzdzPkSHmnxy6fxaoovNtb8FdRljlAXevHL9kgbTWDUOSjhW28vh1OtYbgXnar1-cn35pNk*sjvytxXRwSFAqmPa5Tjwy7qgyNdAl*5gjw*BvZ8PNOoTxzIoy&new=1)
- > 随着大数据时代的来临，数据正在成为企业最宝贵和最具价值的资产。这背后的原因其实说起来非常简单：黄金有价，而数据无价。然而随着企业的运营环境日趋复杂和多样化，特别是2020年肆虐全球的疫情带来的不确定性...
- ## [台达智能工厂实践，工厂人均产值大幅提升!](http://mp.weixin.qq.com/s?src=11&timestamp=1620432004&ver=3055&signature=bPn5ayRvR3oj9lRk*-iqQFbM5N*wwMc4PePLnYDDHGXTjanD9VJOTvvSnoPuCH213aMLKjjVZQiLw7Y8L9ThTuQNIfkEFtzUQiYY-t4ja3aCZyQzxnNqF5PSEufL-N4H&new=1)
- > 近年来，台达在全球生产基地开启智能制造转型，全方位落实智能工厂实践。今天要介绍的台达旗下中达电子（江苏）有限公司吴江三厂入选了由e-works评选的“2020年度中国标杆智能工厂百强榜”。本文用图及部分内容...
- ## [诺基亚设备被爱立信、三星替换，韩国5G基站设备市场份额生变?](http://mp.weixin.qq.com/s?src=11&timestamp=1620432004&ver=3055&signature=fdffabFjgBliuqeNqoZJyGV8yRJI7qhJqT8Ue4m2aCRXpiTeSjU3Rd6fV9V6G10WkobgQyGPs9hFcDQOi6Ir3EZRNdG3ariRz24Y6X7VlIirdK-Cdt9cdAhCFLjSoZhC&new=1)
- > 5月6日，据韩国新闻网站ETNews报道，韩国运营商KT已确认将其在光州市的现网诺基亚4G和5G基站替换为三星设备，预计替换规模约几千个小区。3月29日，该媒体还报道称，SKT已经确认正在将江原道部分区域的现网诺基亚...
- ## [智能家居新战局：华为冲锋，百度呐喊!恒大碧桂园不服](http://mp.weixin.qq.com/s?src=11&timestamp=1620432004&ver=3055&signature=k7YVD2Xi4Fcc9VB2ZPWPIlPGD1sGO2hX3BLk-IV5EugUHchRMq0E*ZreNzDNIueSBjWRikxnz2uUo6aatBwNEQajlM4OCwiKmwE7a9l5ellOUAfiDtaNcR6cwio4z34x&new=1)
+ ## [智能家居新战局：华为冲锋，百度呐喊!恒大碧桂园不服](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=k7YVD2Xi4Fcc9VB2ZPWPIlPGD1sGO2hX3BLk-IV5EugUHchRMq0E*ZreNzDNIueSqQQ3uIpqgXwxiOgIaUjTfnQSSBY-cBRdtJ6aLqcx09I5WpDxBxuJiazfKZgG6hRg&new=1)
  > 巨头加速布局的全屋智能，是新瓶装旧酒还是行业分水岭？作者 | 韦世玮编辑 | 心缘智能家居市场正在进入新一轮角逐时刻，火拼的焦点是全屋智能。2021年开年以来，以碧桂园、恒大高科为代表的房地产商，以海尔、格...
+ ## [备份与数据保护史上最大调研，得出了怎样的结果?](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=1lsOiIEMzdzPkSHmnxy6fxaoovNtb8FdRljlAXevHL9kgbTWDUOSjhW28vh1OtYb4MwWFX91oPevhNBNvuMGE9NPfalafSzUBQRbiMavvygGnHWvl1QOt0oJj0iy5ToF&new=1)
+ > 随着大数据时代的来临，数据正在成为企业最宝贵和最具价值的资产。这背后的原因其实说起来非常简单：黄金有价，而数据无价。然而随着企业的运营环境日趋复杂和多样化，特别是2020年肆虐全球的疫情带来的不确定性...
+ ## [诺基亚设备被爱立信、三星替换，韩国5G基站设备市场份额生变?](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=fdffabFjgBliuqeNqoZJyGV8yRJI7qhJqT8Ue4m2aCRXpiTeSjU3Rd6fV9V6G10W4acK37ff1aOZUAfWLFKEiFAQUzqxWw-L1DobXjjqWs3sLPXP*Z0Gf5kORc5FCFch&new=1)
+ > 5月6日，据韩国新闻网站ETNews报道，韩国运营商KT已确认将其在光州市的现网诺基亚4G和5G基站替换为三星设备，预计替换规模约几千个小区。3月29日，该媒体还报道称，SKT已经确认正在将江原道部分区域的现网诺基亚...
+ ## [台达智能工厂实践，工厂人均产值大幅提升!](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=bPn5ayRvR3oj9lRk*-iqQFbM5N*wwMc4PePLnYDDHGXTjanD9VJOTvvSnoPuCH21EGBGlnV-ElD3m-qMuQGCkRdOpzAKVuZ3jvcC-gpBtcGpMn3RfeoT1pv3bg2PNZQr&new=1)
+ > 近年来，台达在全球生产基地开启智能制造转型，全方位落实智能工厂实践。今天要介绍的台达旗下中达电子（江苏）有限公司吴江三厂入选了由e-works评选的“2020年度中国标杆智能工厂百强榜”。本文用图及部分内容...
+ ## [华为中国生态大会“十年纪”：生态不止眼前，更有成长和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1620435604&ver=3055&signature=WW9nYjW34HtJzcRYveobcybl1QX-tOjGoxUgF4a-LjA*sRbFU9urXrf3CWl4KzcDLWfwHMIRu4W5XjipvdNntEYACAi40TEOolXJyyZLOS3ZFXrjjRXsjIt0eZ49oZW0&new=1)
+ > ——本文作者 郑凯如果时光回溯到2011年，我们能记起哪些关键词？在经受金融危机洗礼之后，2011年的全球IT规模重新超过了危机之前的总量。智能手机首次超越PC，移动互联网时代逐步开启，云计算、大数据和移动技...
 # IT 技术 
  ## [我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）](https://blog.csdn.net/l1028386804/article/details/116477701)
  > 我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）
- ## [动漫常用网站/APP  彻底帮你解决看动漫的烦恼](https://blog.csdn.net/weixin_43959833/article/details/116240280)
- > 动漫常用网站/APP  彻底帮你解决看动漫的烦恼
+ ## [C数组原来这么简单，你学废了吗？](https://blog.csdn.net/lucky51222/article/details/116035552)
+ > C数组原来这么简单，你学废了吗？
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [【Java22】线程创建（卖票），线程同步（卖包子）](https://blog.csdn.net/weixin_43435675/article/details/107593878)
- > 【Java22】线程创建（卖票），线程同步（卖包子）
- ## [Laravel8.x+AntDesign+Vue前后端分离快速开发平台](https://blog.csdn.net/zongjinlong/article/details/116462663)
- > Laravel8.x+AntDesign+Vue前后端分离快速开发平台
- ## [webpack基础](https://blog.csdn.net/weixin_44374938/article/details/116330817)
- > webpack基础
- ## [使用IDEA创建Web项目并发布到tomcat](https://blog.csdn.net/XiaoFanMi/article/details/116402754)
- > 使用IDEA创建Web项目并发布到tomcat
- ## [php，mysql，linux，redis，docker等相关技术经典面试题，新手收藏学习，持续更新中。。。](https://blog.csdn.net/cxhblog/article/details/116128131)
- > php，mysql，linux，redis，docker等相关技术经典面试题，新手收藏学习，持续更新中。。。
- ## [基于安卓手机的辅助驾驶APP开发](https://blog.csdn.net/cjnewstar111/article/details/116330242)
- > 基于安卓手机的辅助驾驶APP开发
+ ## [wordpress 漂亮的Cosy主题](https://blog.csdn.net/lisihui12345/article/details/116380388)
+ > wordpress 漂亮的Cosy主题
+ ## [NX二次开发(C)-UIStyler-获取UI选择对象](https://blog.csdn.net/yang19861007/article/details/116404842)
+ > NX二次开发(C)-UIStyler-获取UI选择对象
+ ## [Vuex状态管理](https://blog.csdn.net/weixin_43328816/article/details/116485010)
+ > Vuex状态管理
+ ## [MyBatis缓存看这一篇就够了（一级缓存+二级缓存+缓存失效+缓存配置+工作模式+测试）](https://blog.csdn.net/Lotus_dong/article/details/116334317)
+ > MyBatis缓存看这一篇就够了（一级缓存+二级缓存+缓存失效+缓存配置+工作模式+测试）
+ ## [【亲传秘籍】我这样写python代码表白，泡到了大学小师妹](https://blog.csdn.net/weixin_57171554/article/details/116381237)
+ > 【亲传秘籍】我这样写python代码表白，泡到了大学小师妹
+ ## [吴恩达机器学习作业（一）_python实现](https://blog.csdn.net/qq_45882032/article/details/116500250)
+ > 吴恩达机器学习作业（一）_python实现
  ## [第一次 PCB 打样](https://blog.csdn.net/lyndon_li/article/details/116464549)
  > 第一次 PCB 打样
+ ## [程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码](https://blog.csdn.net/sinat_40770656/article/details/116464416)
+ > 程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码
  ## [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337)
  > 王者荣耀中一个英雄是怎么被产生的？
- ## [为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了](https://blog.csdn.net/aaahtml/article/details/116450296)
- > 为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了
- ## [自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率](https://blog.csdn.net/zhiguigu/article/details/116424778)
- > 自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率
- ## [某高校存在弱密码以及信息泄露漏洞——web安全小菜鸡的挖洞初体验——已提交edu src和补天](https://blog.csdn.net/weixin_45540609/article/details/116449225)
- > 某高校存在弱密码以及信息泄露漏洞——web安全小菜鸡的挖洞初体验——已提交edu src和补天
  ## [java实现10种排序算法](https://blog.csdn.net/weixin_44531966/article/details/116464294)
  > java实现10种排序算法
+ ## [GPIO—按键轮询](https://blog.csdn.net/thisway_diy/article/details/116485772)
+ > GPIO—按键轮询
+ ## [为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了](https://blog.csdn.net/aaahtml/article/details/116450296)
+ > 为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了
 # 人工智能 
  ## [UNIX 设计哲学：Do one thing and do it well](https://blog.csdn.net/universsky2015/article/details/116328109)
  > UNIX 设计哲学：Do one thing and do it well
