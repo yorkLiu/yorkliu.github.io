@@ -1,24 +1,34 @@
 ---
 title: 2021-05-08 IT News
 copyright: true
-date: 2021-05-08 10:00:58
+date: 2021-05-08 12:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]2021中国汽车产业数字化服务商研究及TOP50榜单(附43页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=s-jVU3ahUY5A5-mHiCU3PNAufSOBdXdUUdUPPCYbQasWhOFJNRy5JcOeynknWrPM5tjqaic713E3Co9qjMwncYbgj3ZoPRVUpMIDLTX6DDk9CVCpv16uwXminTWSp1vr&new=1)
+ ## [直播预告：以色列Massivit 3D最新发布大尺寸、多材料打印机Massivit 5000](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=pNvJdrjgXmztzAfRXiF5K-kfLWZ-YdXo4ctvO4RsFSoLwfz3XEK*S3ajUgD6RqZDK8ueKTPI0XRzoxaLwA-wZhpKsZ6dZ7Zc-I-q37g-WFGDp9SWsKv7Z3zf8oquIOpN&new=1)
+ > ↑↑广告直播主题：Massivit 5000 机型介绍会直播时间：2021年5月11日（星期二）下午14:00-15:00直播讲师：张斌，大中华区区域经理；戚国庆，亚太区售前与售后服务工程师 直播合作：南极熊成立于2013年，总部位...
+ ## [性爱机器人的利与弊](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=qbPq2qDj4QZHQf3XeYm*xEa5GXFsuQbE7iZ7oPSnCH1qxgjuCoA8k2Rrbftq8exDwtyjUI9zAC4FeyGMNqYKol7WxtdgWNExABHVPLNpJ3CMfFRGJoWKKFD6GKA5BAij&new=1)
+ > InsideHook利维坦按：相信不少人已经看过深圳硅胶娃娃体验店“爱爱乐”的故事，解决了不少打工人性苦闷的问题。这是暂时性替代，还是永久性慰藉，估计也是个因人而异的问题。不过，硅胶娃娃并非人工智能（虽然文...
+ ## [华为「首款售卖」车型交付延期；中信银行禁止比特币交易；五菱 MINIEV 曝无法上车牌|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=i2UGUXBFRRi1eHzxeowKzO2F9ZkUQ-zDDGwTFEzzlne3mqUJmwoVEZQJDEAHY0cj0SnLmG5rXuH0M4vOB92JHoDPic7wfGQxfcWt0f05bEuRtGjTVyFP7CQWonDL83hJ&new=1)
+ > 水滴公司上市融资 4 亿美元，主要收入来自保险经纪业务北京时间 5 月 7 日晚，水滴公司正式登陆纽交所，成为第一家在纽交所上市的保险科技平台。水滴公司将发行价格定位区间上限的 12 美元，若承销商行使超额配...
+ ## [美国国防部漏洞赏金计划扩展试点](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=9TdnDP7J9A50XW0v9QK*6kKm4y0H*-AQFeQ7hHh7ygQajmmz8vouLVVv4OrNRKiTnmmLPx-pcll26zJQ-3rSRCtEY5I1CV9BkZ3XmSnZaiYRp4uk9fTtsBn3qyKiKQYe&new=1)
+ > 1NEWS新闻E安全5月7日讯————————-目前，美国国防部已经将其漏洞赏金计划扩展到所有公开可用的信息系统，因此白帽黑客将有更多机会在国防部周围寻找漏洞。2漏洞披露项目始于2016年美国国防数字服务局 “...
+ ## [三个值得警惕的新兴暗网数据市场](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=mzuTBm6urnWA*OxcIsbtj43mk9yWPv1EaF2km5A0rFqa47JXAaTZR2*OuTvd*cwa1N1xYQ0DGqJVX1c2szUoKJcP5kQwJftOLnYGnc1GbqZASK*6OI-jIvdVzo1DAOfQ&new=1)
+ > 2019年，以Maze为代表的勒索软件组织掀起了“数据加密+数据泄漏”的双重勒索潮流，彻底改变了勒索软件的运营方式。如今，随着数据泄漏勒索的赎金超过数据加密，越来越多的勒索软件开始通过数据泄漏站点要挟受害...
+ ## [\[报告\]2021中国汽车产业数字化服务商研究及TOP50榜单(附43页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=s-jVU3ahUY5A5-mHiCU3PNAufSOBdXdUUdUPPCYbQatmbKxFGYk*gXOyg*REn4jacQp8AcWz0GCniX3PIkOpkdRtzmuB8tg8ZaUZGgShg3l7Ly5g2OX1i*YGjl3kPzTt&new=1)
  > 汽车产业的数字化转型升级已到了备受瞩目的阶段。数字化服务商是汽车产业数字化的重要参与者，在汽车产业数字化进程中扮演着关键角色，报告将聚焦汽车产业的数字化服务商，探讨数字化服务商们如何在数字经济汹涌...
- ## [诺基亚设备被爱立信、三星替换，韩国5G基站设备市场份额生变?](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=fdffabFjgBliuqeNqoZJyGV8yRJI7qhJqT8Ue4m2aCRXpiTeSjU3Rd6fV9V6G10WQM55nguuvIbuQlxEZ2qhTpVmnB9DvX0p8FTcc1ntaH*RJ*zzaxU*mGydrUp8DEIE&new=1)
- > 5月6日，据韩国新闻网站ETNews报道，韩国运营商KT已确认将其在光州市的现网诺基亚4G和5G基站替换为三星设备，预计替换规模约几千个小区。3月29日，该媒体还报道称，SKT已经确认正在将江原道部分区域的现网诺基亚...
- ## [讯石专访|唐品科技：全光网络带来全新机遇 提供先进综合接入方案](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=8-etx1epTwUvG3L44cfJZ9lcNlEOBcj6Vm5zuX8NXC8pQfgHvfoktrNHl0gDJM3BYR5rrO-zaR1Y2c8HHYOYR4WHj7cOtuR8rlZk9nB77rpKefo6kN0d47z5pErLAl0m&new=1)
+ ## [讯石专访|唐品科技：全光网络带来全新机遇 提供先进综合接入方案](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=8-etx1epTwUvG3L44cfJZ9lcNlEOBcj6Vm5zuX8NXC8qQeWrd2756cmXWvovHzkvfgaKyGBhRenhzigXqbgXh6HXsanh7fZUcBTgjsqKWYxt1RMXAUoIfIh03PweDqSY&new=1)
  > 新闻导读上海唐品科技以具备高竞争力的光配线解决方案，致力于打造和优化光通信、综合布线和数据中心等场景的通信传输接入方案，帮助客户降低企业成本，实现高效的通信互联，提升企业的运作能效。ICC讯（编辑：A...
- ## [智能家居新战局：华为冲锋，百度呐喊!恒大碧桂园不服](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=k7YVD2Xi4Fcc9VB2ZPWPIlPGD1sGO2hX3BLk-IV5EugUHchRMq0E*ZreNzDNIueSvbWWrc95dHM525vKit6acsmmSBTeYbHS0QR*xwcBAdT6ZILKv12hgT0VYEQAUHPO&new=1)
+ ## [智能家居新战局：华为冲锋，百度呐喊!恒大碧桂园不服](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=k7YVD2Xi4Fcc9VB2ZPWPIlPGD1sGO2hX3BLk-IV5EujMogoGnIJYBvT6evenLdso44WgQFXaZlScNbfV2PeE*8Gua9O0UgXmBf5WaQSwAz5tjrLautYJ1pd95IQzbETl&new=1)
  > 巨头加速布局的全屋智能，是新瓶装旧酒还是行业分水岭？作者 | 韦世玮编辑 | 心缘智能家居市场正在进入新一轮角逐时刻，火拼的焦点是全屋智能。2021年开年以来，以碧桂园、恒大高科为代表的房地产商，以海尔、格...
- ## [备份与数据保护史上最大调研，得出了怎样的结果?](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=1lsOiIEMzdzPkSHmnxy6fxaoovNtb8FdRljlAXevHL9kgbTWDUOSjhW28vh1OtYbtPT5gGYZ2hAxL9rE8Gi0zfyC6S3TD7TS1*OVQhTgWWZ-xrEZSZysRo2dSNlke86m&new=1)
+ ## [备份与数据保护史上最大调研，得出了怎样的结果?](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=1lsOiIEMzdzPkSHmnxy6fxaoovNtb8FdRljlAXevHL-SnO40OXEQhNwoRB9ixDCchBUmHxXJrttQp0wsQexdR60*9lp126YaSdaXrL61UBGSDt7lTH3n9BzYdR8q5IA7&new=1)
  > 随着大数据时代的来临，数据正在成为企业最宝贵和最具价值的资产。这背后的原因其实说起来非常简单：黄金有价，而数据无价。然而随着企业的运营环境日趋复杂和多样化，特别是2020年肆虐全球的疫情带来的不确定性...
- ## [台达智能工厂实践，工厂人均产值大幅提升!](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=bPn5ayRvR3oj9lRk*-iqQFbM5N*wwMc4PePLnYDDHGXTjanD9VJOTvvSnoPuCH21nxU*5G0lJEAl0Qq6ukMnSDS7t5XOKrgS1IYijsMM0XypSrSeRLIBz9VTqi0x0Z7C&new=1)
+ ## [诺基亚设备被爱立信、三星替换，韩国5G基站设备市场份额生变?](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=fdffabFjgBliuqeNqoZJyGV8yRJI7qhJqT8Ue4m2aCSE2uMyIfoe0bTG-nXE4amZnVJinI7gGks8rix*GKipuSNprJ4O1AkrH0jlnTYGYcm2Qxx2-KVOUVNqOLKy*NJ2&new=1)
+ > 5月6日，据韩国新闻网站ETNews报道，韩国运营商KT已确认将其在光州市的现网诺基亚4G和5G基站替换为三星设备，预计替换规模约几千个小区。3月29日，该媒体还报道称，SKT已经确认正在将江原道部分区域的现网诺基亚...
+ ## [台达智能工厂实践，工厂人均产值大幅提升!](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=bPn5ayRvR3oj9lRk*-iqQFbM5N*wwMc4PePLnYDDHGXLEdwD*y9uc5MNeqIeBf7TvU029UOJhJf8s6ynDqNanBfhptknrYOoFGnZzhe-FQWYalY5WcRoEwMbPzFmx1Mk&new=1)
  > 近年来，台达在全球生产基地开启智能制造转型，全方位落实智能工厂实践。今天要介绍的台达旗下中达电子（江苏）有限公司吴江三厂入选了由e-works评选的“2020年度中国标杆智能工厂百强榜”。本文用图及部分内容...
- ## [华为中国生态大会“十年纪”：生态不止眼前，更有成长和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1620437404&ver=3055&signature=WW9nYjW34HtJzcRYveobcybl1QX-tOjGoxUgF4a-LjA*sRbFU9urXrf3CWl4KzcD3NB8MybwdE-9aS7aAEIf1BDnMM3Sqc7wywpEyfQis1SMMlOEpdpTBX6oripk5-Aj&new=1)
+ ## [华为中国生态大会“十年纪”：生态不止眼前，更有成长和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1620444604&ver=3055&signature=WW9nYjW34HtJzcRYveobcybl1QX-tOjGoxUgF4a-LjCaDIeTy*0IJWVlyWhFGYD2kKBiJKAJvlk*KkXK1xOlobxgzkKtgkxlzOHK4Ot7pgGF1F-ttuwWxy7*tW30U9lZ&new=1)
  > ——本文作者 郑凯如果时光回溯到2011年，我们能记起哪些关键词？在经受金融危机洗礼之后，2011年的全球IT规模重新超过了危机之前的总量。智能手机首次超越PC，移动互联网时代逐步开启，云计算、大数据和移动技...
 # IT 技术 
  ## [我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）](https://blog.csdn.net/l1028386804/article/details/116477701)
@@ -41,14 +51,14 @@ categories: IT NEWS
  > 吴恩达机器学习作业（一）_python实现
  ## [java实现10种排序算法](https://blog.csdn.net/weixin_44531966/article/details/116464294)
  > java实现10种排序算法
- ## [从“嵌入式”到“物联网”的四大转变](https://blog.csdn.net/HaaSTech/article/details/116486192)
- > 从“嵌入式”到“物联网”的四大转变
- ## [GPIO—按键中断](https://blog.csdn.net/thisway_diy/article/details/116493986)
- > GPIO—按键中断
- ## [第一次 PCB 打样](https://blog.csdn.net/lyndon_li/article/details/116464549)
- > 第一次 PCB 打样
+ ## [大学生怎样在毕业时就能挑一个喜欢的大厂去拧螺丝？我Set了，你Get了吗？](https://blog.csdn.net/Androiddddd/article/details/116496061)
+ > 大学生怎样在毕业时就能挑一个喜欢的大厂去拧螺丝？我Set了，你Get了吗？
+ ## [Linux 操作作业](https://blog.csdn.net/Link2Points/article/details/116505155)
+ > Linux 操作作业
  ## [程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码](https://blog.csdn.net/sinat_40770656/article/details/116464416)
  > 程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码
+ ## [第一次 PCB 打样](https://blog.csdn.net/lyndon_li/article/details/116464549)
+ > 第一次 PCB 打样
  ## [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337)
  > 王者荣耀中一个英雄是怎么被产生的？
 # 人工智能 
@@ -83,6 +93,10 @@ categories: IT NEWS
  ## [【C语言基础学习---扫雷游戏】（包含普通版+递归炼狱版）](https://blog.csdn.net/QIYICat/article/details/116431838)
  > 【C语言基础学习---扫雷游戏】（包含普通版+递归炼狱版）
 # PM 
+ ## [产品经理面试技巧之项目篇（八）](http://www.chanpin100.com/article/115266)
+ > 你所做的产品第一批用户如何获取的呢？这个问答通常在面试的时候面试官也会问到面试者，下边请看本文“产品经理面试技巧之项目篇（八）”为大家所分析的相关内容。
+ ## [产品经理面试技巧之项目篇（七）](http://www.chanpin100.com/article/115264)
+ > 在过去一年的工作里，回忆并介绍一下压力最大的一次工作经历是怎样的？你最后又是如何克服这种压力的呢？这个问题也许也会被面试官问到，想要知道如何回答的小伙伴可以看本文“产品经理面试技巧之项目篇（七）”中分享的内容。
  ## [私域流量4000字方法论：如何打造卖货的朋友圈？](http://www.chanpin100.com/article/115222)
  > 很多做微商的，刚开始接触私域的，最喜欢做的事情，就是一口气发十几条朋友圈。每条朋友圈都从不同角度，夸自己的产品好。早中晚各一次，极端的一小时发一次，一天发几十条、上百条，恨不得逼着用户快速决策，下单买买买。
  ## [\[建议收藏\]极简SaaS创业手册](http://www.chanpin100.com/article/115262)
@@ -119,9 +133,5 @@ categories: IT NEWS
  > 如果想要你的Windows操作系统使用起来更加的高效，那么鼠标手势则是一个非常好用的工具，很多复杂的操作通过一个鼠标手势就可以完成，大大降低了我们操作的复杂性，也提高了我们的电脑使用效率。
  ## [产品经理面试中关于数据分析方面的问题汇总](http://www.chanpin100.com/article/115245)
  > 在产品经理面试中，我们有的时候会遇到面试官问你关于数据分析方面的问题，那么当遇到这类问题时，应该如何作答呢？本文汇总了产品经理面试中常见的数据分析问题，希望可以帮助到你。
- ## [转行成为数据产品经理 需要有哪些准备？（下）](http://www.chanpin100.com/article/115246)
- > 今天我们接着这个话题“转行成为数据产品经理，需要有哪些准备？”，之前我们分享了一分部的内容，下面是另一部分内容，都是非常实用的哦，希望对准备转行的伙伴们有所帮助！
- ## [打工人的摸鱼快乐 从保存这些万能素材开始！](http://www.chanpin100.com/article/115217)
- > 最近的瓜吃了吧？！当时看到就给了本打工人沉重一击，日薪208万，不瞒你说，别说挣了，我连想都没想过。不过有什么办法呢，人各有命，只能偷偷摸鱼赚回来。
 
     
