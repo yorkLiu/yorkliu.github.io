@@ -1,40 +1,42 @@
 ---
 title: 2021-05-09 IT News
 copyright: true
-date: 2021-05-09 08:00:59
+date: 2021-05-09 09:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Rust for Windows v0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620516605&ver=3057&signature=iTl*Hc0R4sWvlOaF6vPL2v5O4Lp1i2*MegyDWLFb5z0mdtUFvNATLCt4880ncik6GSVDIjtk9NkXJEe7m0MVJpZ*4CoLzNkySzO-clAZZxPTDR*O3IiBIZA1ycuHjrwS&new=1)
- > 近日，微软发布Rust for Windows v0.9。此前在VS Code和Visual Studio集成开发环境中，微软已经提供了对Rust编程语言相当良好的支持，Rust for Windows v0.9的发布可以使得开发者现能够以
- ## [中国消费者对华为的敬重，推动他们热捧华为汽车，赶超蔚来在望](http://mp.weixin.qq.com/s?src=11&timestamp=1620516605&ver=3057&signature=wy-ZLnk*74164JJerY1tCUxSmDD66Q28Qzop4RF4vSiQ*F3cEOsn78Za6ccxp32XaLQyqYg9i8yPoxEZrHYU414jdm7PhJ-pW0EpLDCYPIbI-yNT1abFWIn7XELKPAfc&new=1)
+ ## [中国消费者对华为的敬重，推动他们热捧华为汽车，赶超蔚来在望](http://mp.weixin.qq.com/s?src=11&timestamp=1620522004&ver=3057&signature=wy-ZLnk*74164JJerY1tCUxSmDD66Q28Qzop4RF4vShNfBYwiHQUzIMXO8VmbPpyUqFedKd2qYDuXHK9Ot-25n5qwBMHRnIeq22H8N9mvp6XjQ8Ft1aEx8tGDW1jD2rp&new=1)
  > 华为方面指华为汽车塞力斯SF5预订一周已获得6000辆订单，近日华为的旗舰店开始提供试驾，消费者蜂拥而来，客流量汹涌，试驾人数过多不得不要求消费者提前预约，证明消费者对华为汽车的热情。国内消费者对华为的...
- ## [如何点亮1000个5G智慧工厂?华为丁耘带来“利器和锦囊”](http://mp.weixin.qq.com/s?src=11&timestamp=1620516605&ver=3057&signature=6dunK0NBqMRCkY3FRFnpSoaMcMOEgqWTEx0VmsEhM1V7SN*CSz4mf*6XrLCsES-ERSy5NdPHboH-RvIig0ec7PIgftbaDbSAE*I94*dCikrMmxiwX0PPcfpJ2MHqz8og&new=1)
- > 工业制造是一个国家实力的重中之重，受到各大强国重视。近几年，一些制造企业将工厂从中国迁到越南、印度等，引起业界担忧——中国制造是否衰落了。其实恰恰相反，中国制造业更加强大，正携手ICT企业，引入5G、...
- ## [感染 1.28 亿 iOS 用户!XcodeGhost 事件信息曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1620516605&ver=3057&signature=HSs7LQ73bcc6SEdXy5zz7iXtMMuBhRT3KH-OEj31muht2eG4-5rVTbOpIrG*zB4TzZ960PIbbdEjTmIDQPe2l7UMwgeUaqQL7VUyiveB-dVfd5bi2WeOYT*fgepFnjCB&new=1)
+ ## [Rust for Windows v0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620522004&ver=3057&signature=iTl*Hc0R4sWvlOaF6vPL2v5O4Lp1i2*MegyDWLFb5z0lWc*Yh6ujRN3UCyw6L5LqURyGRq8j9zKTGOC8WAhwJuBeLXkaV5Y5igs-770m*97209kSDDvwDGuxFMB2XV7D&new=1)
+ > 近日，微软发布Rust for Windows v0.9。此前在VS Code和Visual Studio集成开发环境中，微软已经提供了对Rust编程语言相当良好的支持，Rust for Windows v0.9的发布可以使得开发者现能够以
+ ## [能研制出2nm制程芯片，为何IBM超越不了台积电?](http://mp.weixin.qq.com/s?src=11&timestamp=1620522004&ver=3057&signature=MvJ-hJdBvt0N5tt8B*-Zmt3PrXm9-jUCr*L8OM-wa9f44um3B6F0eZffE4JqLZuZn3WvyLlRt93tDplLQDRE*3ODqQ9icV03Q2Uu7nEy7rmVXk0yXMdF2g7EGm*iiW4y&new=1)
+ > 众所周知，在芯片制程方面，一直在向越来越小尺寸挺进，7nm、5nm是当下的主流，台积电和三星电子都在研制3nm制程技术，并且计划开始量产。近日我们看到，IBM宣布已经制造出全球首个2nm制程芯片。据美国有线电视...
+ ## [感染 1.28 亿 iOS 用户!XcodeGhost 事件信息曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1620522004&ver=3057&signature=HSs7LQ73bcc6SEdXy5zz7iXtMMuBhRT3KH-OEj31mujsHT8W2eWlc2qgoxUZRNzw3fmQv9tujrE*MSIMoT09gsG96t95XV2brJi78ks2wGUT3tqjpwf-cmol4egsWFmG&new=1)
  > 2015 年，报告称一些开发者在通过一些非苹果公司官方渠道下载的 Xcode 工具开发苹果 App 时，会向正常的苹果App 中植入恶意代码，被植入恶意代码的苹果 App 可以在 App Store 正常下载并安装使用，导致用户隐私...
- ## [近日新品新鲜事](http://mp.weixin.qq.com/s?src=11&timestamp=1620516605&ver=3057&signature=ayaasHb-ATVLizv22WB*rsNX02BenWsSU-5q6xs5PNct87pLzmdIvFwTvQm8H3UcGuU8xXTzy-3IBvaM4Y1V1RTkfMEnThghzGI932sSjRQO87EtXO9jR3GY6lsU-1PH&new=1)
+ ## [近日新品新鲜事](http://mp.weixin.qq.com/s?src=11&timestamp=1620522004&ver=3057&signature=ayaasHb-ATVLizv22WB*rsNX02BenWsSU-5q6xs5PNf3YreBqvZIHimAwLzr72jhZBArfmUFJ-CYkqR-*4SxPKgorq*Pqgi9XIoZXhCDZkvU91UD7Z4nENql-2rlqugS&new=1)
  > 这几天倒是没什么新硬件，大多数是软件更新或者相关话题，最关切的话题莫过于京东显卡售后问题了。▌京东显卡售后拒保强制退款 就前两天的事，京东被爆出显卡玩金融化，结合一些玩家反馈，说是京东把客户返修显...
+ ## [如何点亮1000个5G智慧工厂?华为丁耘带来“利器和锦囊”](http://mp.weixin.qq.com/s?src=11&timestamp=1620522004&ver=3057&signature=6dunK0NBqMRCkY3FRFnpSoaMcMOEgqWTEx0VmsEhM1Uod3wDmqmIxQMk5M6UehVPa1BexJAwnTsZnYjdHfANph4hdcnJmkKjWJ5r6LyIzo8qvDAlv57hPKoY721mtF4T&new=1)
+ > 工业制造是一个国家实力的重中之重，受到各大强国重视。近几年，一些制造企业将工厂从中国迁到越南、印度等，引起业界担忧——中国制造是否衰落了。其实恰恰相反，中国制造业更加强大，正携手ICT企业，引入5G、...
 # IT 技术 
  ## [我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）](https://blog.csdn.net/l1028386804/article/details/116477701)
  > 我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）
- ## [从PHP开始学渗透 -- 文件操作](https://blog.csdn.net/weixin_41489908/article/details/116536740)
- > 从PHP开始学渗透 -- 文件操作
+ ## [FPGA开发设计流程总结](https://blog.csdn.net/weixin_49617016/article/details/108789562)
+ > FPGA开发设计流程总结
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [【图像识别】基于卷积神经网络CNN实现车牌识别matlab源码](https://blog.csdn.net/weixin_50197058/article/details/116425704)
- > 【图像识别】基于卷积神经网络CNN实现车牌识别matlab源码
- ## [docker(18):Docker部署SpringBoot项目](https://blog.csdn.net/WANTAWAY314/article/details/116458285)
- > docker(18):Docker部署SpringBoot项目
- ## [初学swoole](https://blog.csdn.net/jerryvd/article/details/116212750)
- > 初学swoole
- ## [跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程](https://blog.csdn.net/Android23333/article/details/116062678)
- > 跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程
- ## [从PHP开始学渗透 -- 数据类型及判断语句](https://blog.csdn.net/weixin_41489908/article/details/116380344)
- > 从PHP开始学渗透 -- 数据类型及判断语句
- ## [三问了解哈希表和哈希冲突](https://blog.csdn.net/qq_43624878/article/details/116487509)
- > 三问了解哈希表和哈希冲突
+ ## [全网最全python爬虫系统进阶学习(附原代码)学完可就业](https://blog.csdn.net/qq_45803923/article/details/116357910)
+ > 全网最全python爬虫系统进阶学习(附原代码)学完可就业
+ ## [ART-PI 嵌入式人形检测 附源码（RT-AK Demo）](https://blog.csdn.net/weixin_37598106/article/details/116493674)
+ > ART-PI 嵌入式人形检测 附源码（RT-AK Demo）
+ ## [Echarts显示行政区域图并上色](https://blog.csdn.net/moqiuqin/article/details/116530013)
+ > Echarts显示行政区域图并上色
+ ## [面试官：说说Webpack的热更新是如何做到的？原理是什么？](https://blog.csdn.net/weixin_44475093/article/details/116479013)
+ > 面试官：说说Webpack的热更新是如何做到的？原理是什么？
+ ## [开源图像识别、imageai图像识别、对象识别、识别人、车、猫、狗等80种 简易版](https://blog.csdn.net/Baldprogrammer/article/details/116357434)
+ > 开源图像识别、imageai图像识别、对象识别、识别人、车、猫、狗等80种 简易版
+ ## [WordPress主题 酱茄Free非常好看的模块有点二次元](https://blog.csdn.net/ouyang12333/article/details/116461093)
+ > WordPress主题 酱茄Free非常好看的模块有点二次元
  ## [Linux 操作作业](https://blog.csdn.net/Link2Points/article/details/116505155)
  > Linux 操作作业
  ## [IDEA 2021首个大版本发布，Java开发者感动哭了（附新亮点演示）](https://blog.csdn.net/wangshuaiwsws95/article/details/116518773)
