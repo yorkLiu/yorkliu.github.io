@@ -1,54 +1,60 @@
 ---
 title: 2021-05-09 IT News
 copyright: true
-date: 2021-05-09 10:00:58
+date: 2021-05-09 12:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [感染 1.28 亿 iOS 用户!XcodeGhost 事件信息曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1620523805&ver=3057&signature=HSs7LQ73bcc6SEdXy5zz7iXtMMuBhRT3KH-OEj31mujsHT8W2eWlc2qgoxUZRNzwcQqW7XqD2QNmZDdWcFom45*dTs1fsHGAiLESNgHlcdzMuLyja64G5JOdyODpv7O-&new=1)
- > 2015 年，报告称一些开发者在通过一些非苹果公司官方渠道下载的 Xcode 工具开发苹果 App 时，会向正常的苹果App 中植入恶意代码，被植入恶意代码的苹果 App 可以在 App Store 正常下载并安装使用，导致用户隐私...
- ## [近日新品新鲜事](http://mp.weixin.qq.com/s?src=11&timestamp=1620523805&ver=3057&signature=ayaasHb-ATVLizv22WB*rsNX02BenWsSU-5q6xs5PNf3YreBqvZIHimAwLzr72jhto2vT51QPJp9qb2J5x7oR3JusQovmbTe*7mcz8pqZi0*HhykrBsH-r0gzrto1ZwW&new=1)
- > 这几天倒是没什么新硬件，大多数是软件更新或者相关话题，最关切的话题莫过于京东显卡售后问题了。▌京东显卡售后拒保强制退款 就前两天的事，京东被爆出显卡玩金融化，结合一些玩家反馈，说是京东把客户返修显...
- ## [Rust for Windows v0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620523805&ver=3057&signature=iTl*Hc0R4sWvlOaF6vPL2v5O4Lp1i2*MegyDWLFb5z0lWc*Yh6ujRN3UCyw6L5LqHxlw2yXAlWw*aDhbLYC2DzzpYFxTvg*PAYcmOGh0KENqKUZiVQUmWTqFRWceL4eC&new=1)
- > 近日，微软发布Rust for Windows v0.9。此前在VS Code和Visual Studio集成开发环境中，微软已经提供了对Rust编程语言相当良好的支持，Rust for Windows v0.9的发布可以使得开发者现能够以
- ## [能研制出2nm制程芯片，为何IBM超越不了台积电?](http://mp.weixin.qq.com/s?src=11&timestamp=1620523805&ver=3057&signature=MvJ-hJdBvt0N5tt8B*-Zmt3PrXm9-jUCr*L8OM-wa9f44um3B6F0eZffE4JqLZuZ6g6Igx8Uxwxe828C-NkZ3wpvyoBZaQaFliAz-dmv7BCUodpaKDtJrNj1uJLzMBFs&new=1)
+ ## [3D Systems大动作!收购生物3D打印公司Allevi和软件公司Additive Works](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=qxR*1QdYh23CKqiQql7K7d-9V3j4ZdH9q85ExBuj7rEKErsgT-NEo5HMLr1pc6B92Te5l4Whmo-rzz1go0vwj5qS8giDmKMjXpTo4klzfdPsirKl*jtaEz1X63YuXzwj&new=1)
+ > ↑↑广告导读：当前科技的发展有几大重点发展方向，3D打印、生物与计算机就是其中三个。如果将三种不同领域的技术结合在一起会怎么样呢？2021年5月9日，南极熊获悉，3D Systems于5月6日宣布将收购两家公司：美国...
+ ## [产业互联网和工业互联网，到底有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=xO3no4aGampTDU2HbLk3UQPnTFUAhX0gjUkVQjN0zT*onXcdefI*1GVIG72XxqfwHJOJ2VaUJ6sS4Xo*TTrSfhrHz7raaL8S-SFGUr-6C6eLnT90SwlxhF8gwafrp9cz&new=1)
+ > 进入21世纪后，一些嗅觉敏锐的互联网公司发现，互联网的作用，并不应该仅限于生活和消费，它还应该可以用于生产和创造。从“消费互联网”，到“产业互联网”互联网这个东东，诞生于1969年的美国。那时候，它的名...
+ ## [能研制出2nm制程芯片，为何IBM超越不了台积电?](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=MvJ-hJdBvt0N5tt8B*-Zmt3PrXm9-jUCr*L8OM-wa9dhB8GNkrayiCNaXC2iDx7aS8u*10xNeCuOnjB5pgjlvX4uS05joeL-JLKnKNkJV1XaQSCuB-FtM6uaU0KWfksS&new=1)
  > 众所周知，在芯片制程方面，一直在向越来越小尺寸挺进，7nm、5nm是当下的主流，台积电和三星电子都在研制3nm制程技术，并且计划开始量产。近日我们看到，IBM宣布已经制造出全球首个2nm制程芯片。据美国有线电视...
- ## [中国消费者对华为的敬重，推动他们热捧华为汽车，赶超蔚来在望](http://mp.weixin.qq.com/s?src=11&timestamp=1620523805&ver=3057&signature=wy-ZLnk*74164JJerY1tCUxSmDD66Q28Qzop4RF4vShNfBYwiHQUzIMXO8VmbPpygHnzZSuX6sBbCxPJtPhLBfXmGmqFicFyio5JPnCf1ferXTMaP6Z3WEkbYHZ8M3uh&new=1)
+ ## [中国消费者对华为的敬重，推动他们热捧华为汽车，赶超蔚来在望](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=wy-ZLnk*74164JJerY1tCUxSmDD66Q28Qzop4RF4vSjSYNmiSPgOw2PJPvs5OKz5oStXWfphOEe*wpD9a7HKXCs2UrYDDwIKJMiwf1JRQ3vyFm7SF9oihnH2MqO7c43T&new=1)
  > 华为方面指华为汽车塞力斯SF5预订一周已获得6000辆订单，近日华为的旗舰店开始提供试驾，消费者蜂拥而来，客流量汹涌，试驾人数过多不得不要求消费者提前预约，证明消费者对华为汽车的热情。国内消费者对华为的...
- ## [如何点亮1000个5G智慧工厂?华为丁耘带来“利器和锦囊”](http://mp.weixin.qq.com/s?src=11&timestamp=1620523805&ver=3057&signature=6dunK0NBqMRCkY3FRFnpSoaMcMOEgqWTEx0VmsEhM1Uod3wDmqmIxQMk5M6UehVPdCDuhZVEuTzM4EwOvBR-2A7goNjVrfgHOlU7Ei8li1hLwwSzyRnGG8QjNDtTjMPS&new=1)
+ ## [滴滴回应“抽成高”问题；轻芒杂志 App 停服；拼多多否认对极兔快递“政策倾斜”|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=ebcv4QHSZtuReASwtQPBdi7H4Eliv1UWE2Y0YdZ-eot5SkgR2gSWvxPjxeFu-8lUuoNdyuVrQaW2Xhmp4Eyv*wiomfTfVCDFjaMY2J*IN2QJC4wR-kePWkrl36vBDWeg&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【滴滴回应“抽成高”问题：高于30%的订单占2.7%】滴滴发布《滴滴网约车关于“抽成”的说明》，回应近期对于抽成高说法的质疑。滴...
+ ## [感染 1.28 亿 iOS 用户!XcodeGhost 事件信息曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=HSs7LQ73bcc6SEdXy5zz7iXtMMuBhRT3KH-OEj31mujZTXh5BNHBNiqxbnsT1Culux6VAtbv16m9u-Kh54Guqb4EQtKjIJRGLKLt7zbXR*yZpKyi0byXI97ZpXRDa9th&new=1)
+ > 2015 年，报告称一些开发者在通过一些非苹果公司官方渠道下载的 Xcode 工具开发苹果 App 时，会向正常的苹果App 中植入恶意代码，被植入恶意代码的苹果 App 可以在 App Store 正常下载并安装使用，导致用户隐私...
+ ## [近日新品新鲜事](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=ayaasHb-ATVLizv22WB*rsNX02BenWsSU-5q6xs5PNd8yC-ZGSBcWVpxQMyh4zdFMbhlUSJN0I8izcTPP*uDOoKv7d2E9rj6frJTUDJiNPIAclZyGRbG4YoXUcUaYlxp&new=1)
+ > 这几天倒是没什么新硬件，大多数是软件更新或者相关话题，最关切的话题莫过于京东显卡售后问题了。▌京东显卡售后拒保强制退款 就前两天的事，京东被爆出显卡玩金融化，结合一些玩家反馈，说是京东把客户返修显...
+ ## [Rust for Windows v0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=iTl*Hc0R4sWvlOaF6vPL2v5O4Lp1i2*MegyDWLFb5z3aB81K6pfz0t8zMQL7g1*jwVZg*kC5xBqSbAsFtmFHDGw5VlK5g56vT9MirXFByQP17Qhl2OUqB3y3ymgubaO9&new=1)
+ > 近日，微软发布Rust for Windows v0.9。此前在VS Code和Visual Studio集成开发环境中，微软已经提供了对Rust编程语言相当良好的支持，Rust for Windows v0.9的发布可以使得开发者现能够以
+ ## [如何点亮1000个5G智慧工厂?华为丁耘带来“利器和锦囊”](http://mp.weixin.qq.com/s?src=11&timestamp=1620531004&ver=3057&signature=6dunK0NBqMRCkY3FRFnpSoaMcMOEgqWTEx0VmsEhM1U*A5y0b4BHMle50sGXvhg--tRT9sLCrq6QSKVzh0zB5dsndVcuxC2deMHZ*Kvt5dHk7cECC6zOsPo77W7toxq0&new=1)
  > 工业制造是一个国家实力的重中之重，受到各大强国重视。近几年，一些制造企业将工厂从中国迁到越南、印度等，引起业界担忧——中国制造是否衰落了。其实恰恰相反，中国制造业更加强大，正携手ICT企业，引入5G、...
 # IT 技术 
  ## [我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）](https://blog.csdn.net/l1028386804/article/details/116477701)
  > 我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）
- ## [从PHP开始学渗透 -- 文件操作](https://blog.csdn.net/weixin_41489908/article/details/116536740)
- > 从PHP开始学渗透 -- 文件操作
+ ## [kitti之ros可视化_学习笔记--第1课：资料准备及环境介绍](https://blog.csdn.net/qq_45701501/article/details/116447770)
+ > kitti之ros可视化_学习笔记--第1课：资料准备及环境介绍
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [【图像识别】基于卷积神经网络CNN实现车牌识别matlab源码](https://blog.csdn.net/weixin_50197058/article/details/116425704)
- > 【图像识别】基于卷积神经网络CNN实现车牌识别matlab源码
- ## [docker(18):Docker部署SpringBoot项目](https://blog.csdn.net/WANTAWAY314/article/details/116458285)
- > docker(18):Docker部署SpringBoot项目
- ## [初学swoole](https://blog.csdn.net/jerryvd/article/details/116212750)
- > 初学swoole
- ## [跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程](https://blog.csdn.net/Android23333/article/details/116062678)
- > 跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程
- ## [从PHP开始学渗透 -- 数据类型及判断语句](https://blog.csdn.net/weixin_41489908/article/details/116380344)
- > 从PHP开始学渗透 -- 数据类型及判断语句
- ## [三问了解哈希表和哈希冲突](https://blog.csdn.net/qq_43624878/article/details/116487509)
- > 三问了解哈希表和哈希冲突
+ ## [是时候抛弃Postman了，试试 VS Code 自带神器插件](https://blog.csdn.net/qq_52879678/article/details/116500084)
+ > 是时候抛弃Postman了，试试 VS Code 自带神器插件
+ ## [ThinkPHP学习 --- 08链式查询 --------------09 增删改操作 -----------------学习](https://blog.csdn.net/Zero_Adam/article/details/116396621)
+ > ThinkPHP学习 --- 08链式查询 --------------09 增删改操作 -----------------学习
+ ## [小米商城项目(上)](https://blog.csdn.net/weixin_49320962/article/details/116426263)
+ > 小米商城项目(上)
+ ## [深入讨论机器学习 8 大回归模型的基本原理以及差异！](https://blog.csdn.net/red_stone1/article/details/116358728)
+ > 深入讨论机器学习 8 大回归模型的基本原理以及差异！
+ ## [2021Q1最受欢迎语言，你get到了吗？](https://blog.csdn.net/baidu_40202612/article/details/116306832)
+ > 2021Q1最受欢迎语言，你get到了吗？
+ ## [为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了](https://blog.csdn.net/aaahtml/article/details/116450296)
+ > 为什么黑帽子从不用鼠标，一直在敲键盘？看完长见识了
  ## [IDEA 2021首个大版本发布，Java开发者感动哭了（附新亮点演示）](https://blog.csdn.net/wangshuaiwsws95/article/details/116518773)
  > IDEA 2021首个大版本发布，Java开发者感动哭了（附新亮点演示）
  ## [Linux 操作作业](https://blog.csdn.net/Link2Points/article/details/116505155)
  > Linux 操作作业
+ ## [干货|单片机的指针怎么学？](https://blog.csdn.net/qq_39400113/article/details/116487659)
+ > 干货|单片机的指针怎么学？
  ## [java实现10种排序算法](https://blog.csdn.net/weixin_44531966/article/details/116464294)
  > java实现10种排序算法
  ## [程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码](https://blog.csdn.net/sinat_40770656/article/details/116464416)
  > 程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码
  ## [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337)
  > 王者荣耀中一个英雄是怎么被产生的？
- ## [第一次 PCB 打样](https://blog.csdn.net/lyndon_li/article/details/116464549)
- > 第一次 PCB 打样
 # 人工智能 
  ## [UNIX 设计哲学：Do one thing and do it well](https://blog.csdn.net/universsky2015/article/details/116328109)
  > UNIX 设计哲学：Do one thing and do it well
