@@ -1,35 +1,51 @@
 ---
 title: 2021-05-11 IT News
 copyright: true
-date: 2021-05-11 12:01:13
+date: 2021-05-11 17:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [瞬间爆发!这个几乎家家都用的东西卖爆了!原材料更是全面缺货…](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=xgxmybWPlYRTMcmJFz0eF72bKQCxBrUPEFPTWrA39D9ThY*OOcuEtSCBYJA*FgrLg9ndIZp02ocKPfG9QN5z*mDPSINzDVlCGh5TBT4Kw2IX6Epv9XGLlnTDuADoqJW*&new=1)
- > 来源：央视财经版权归原作者所有，如有侵权请及时联系疫情带来不少电子产品热销，比如笔记本电脑、游戏机等，上网需要使用的路由器从去年二季度以来，同样出现销量的大幅增长。近期，有报道称路由器等网络通信产...
- ## [贵州茅台：将于5月19日召开业绩说明会；微博：第一季度营收4.59亿美元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=kDgxwqHmH4wtu0UIeoXbrgewAWLAa-w3JHIkcG4JPZShgHBoNLQIYWWSlo0uVqBilExfviV8ee*DHumQf3CYrdFYctsT4EUloGhNfcER6XtUmVZJTI*d-U8vND-Ca4K6&new=1)
- > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【微博：第一季度营收4.59亿美元，市场预期4.32亿美元】微博：第一季度营收4.59亿美元，市场预期4.32亿美元，去年同期3.23亿美元。...
- ## [美国面临断油危机，勒索软件元凶浮出水面](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=4Lo*wQs9*tdJUUd9Fkg7qA2duHtXiDB2PLMHxZDxtEyKkCPwKz51XUpfTfXWjD2EoapP4OgrO6rftejoyPhQmm-dGf99msaLRrdW2RHiMRrLjIUknXmaiuYdy0qo44pA&new=1)
+ ## [微软混合云 Azure Stack HCI 5月10日正式在华商用!](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=9M8Nxi-LxHdGDFCV4yhmn3lXG3j3wz8Ky9MO3iZpK*WwlcuBXDFodSDco3Aylnaw-Xj0S2ZF56RbJ1hz9MmwZlrXtmQs65TF1nBMpestRYxaFmBQG*KoMmPr*Z9YVUro&new=1)
+ > （本文阅读时间：3分钟）Azure Stack 家族在中国市场正式新增新成员啦！微软作为最早提出混合云的厂商之一，其混合云策略也经历了一番进化。微软混合云最开始打通了公有云与私有云，允许在公有云和私有云之间共...
+ ## [梅林、爱快、老毛子，群晖、威联通、Openwrt，26元/年的 内网穿透 要不要?](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=WIuWXwJe3g8uHjUhce06AOUZFR7ogm*v8JcpTuKqQG3YF0th1fv8g4tyHlp1pr0qlUK7cXAlJ50all0M6Pm*k4*XkP40z3PzK8TEqIeDbG4E0sOU1zRzfnO8cr80yIit&new=1)
+ > 能认全上面一堆名字的同学，都是老司机了；要是都用过，那属于大佬级别。梅林、爱快、老毛子、Openwrt 这些都是第三方路由器固件，极大的扩展了路由器的功能，群晖、威联通属于 NAS 设备，可以让你在家拥有服务...
+ ## [这次的紧急状态，值得每个人警惕](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=TjuceZY85VJvXxHmPDDvhrc2y-MzMBeDKT4-ioyNRyoywFIMm0JX1BFaahsfpRmFobRW39byOA33VJVoOftkW9uiYjCitETsAAt5BXNgXlBpfQxUxp3sxAeFKJxzGNP2&new=1)
+ > 日前，据外媒报道，美国交通部下属的联邦汽车运输安全管理局9日发布了一份区域紧急状态声明，原因是美国最大输油管道运营商Colonial Pipeline遭到了网络攻击，之后关闭了长达5500英里的管道，造成了区域汽油、柴...
+ ## [京东方亮相世界超高清大会，创新技术引领8K市场](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=lGuHR3oZq*kqkdIDv8bReAjmmTGWinoLJP*aDcVp4JTW1VPGr4kg652hMX*hE2YdFeM5Djc3wECEnBS4bnP5zQAsJg5*TGp8haCaTWl4jNGTXkKSahVqeOPTkVHi8uZ5&new=1)
+ > 5月8日，2021世界超高清视频（4K/8K）产业发展大会在广州举办，BOE（京东方）现场展示了领先的8K超高清产品及解决方案，在物联网细分场景为人们带来震撼的超高清视觉体验。大会同期，京东方高级副总裁、显示事业...
+ ## [智能门锁是门好生意吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=YBgQQosoeKMnZDCPgqADNgZ7xSghib9TOSNVqXe*hADbsBJmiaLoDCTH9UvGfwOaFtcgjAFmfL1NK-bt-WR8k5vc1q5qWixMhGcQjn6KmDVVnXhmq600NTXvL86LElwH&new=1)
+ > 新眸产业组作品撰文｜西寅编辑｜栖木智能门锁，正在成为大多数人的新选择。2015年，“千锁大战”爆发，一众小厂商入局；2017年，主攻C端的互联网大厂纷纷起步，以小米生态链内企业为代表的公司陆续入局，开展价...
+ ## [重磅!《2021中国开源发展蓝皮书》发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=*Y2S7MgxRIEHrWHmTYRnUkXE-zXixtmERBo5F11Ow*SsTtDBLBEDGFK7Xm0Ft18PbyKthuyeqd1EmR59-JSIMfph6RFtlMy9t1LCTCQ9XBb1Pyn0b0VO3djviY7lbNmw&new=1)
+ > 开源软件以开放、共享、协同的新型生产方式，成为全球信息技术发展的强大推动力。回顾过去的一年，开源在全世界范围内迎来了新时期的大发展。来自各方的数据显示，2020年中国开源的发展速度已成为全球最快，中国...
+ ## [\[观察\]联想凌拓牵手英方软件：为数据管理护航，为“新基建”筑基](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=KhRCHY7n*s-UdQORwrGFyRwK9wTOOGNfJWEiWZGAwhZa8kRC2tdAiIP3NiMhn4DOPqOFdQMkmJpugARgenluqLrMXiWaypWixyrp0xVgOkpQCJ7y*8txEEGbDoCWRDMr&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！我们知道，数字化技术在去年的疫情中迎来了创新的爆发期，特别是类似“健康码”这种新应用的全面铺开，不仅为科技抗“疫”提供了关键支撑，同时由此产生的大量数据，对智慧城...
+ ## [有了Dfinity，未来可能就再也没有科技巨头了](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=9iMaJlnbETW31OUd-UwwIcIUVykRe5-kel0KSfqtcKThOVrAlgLmlwy1OBX7v5EOSlzv578awRdqscJ-hwhGU8sYn8f9B9UTFsNUR*GHNy3YjYOJD4IuJTjD8afcdWup&new=1)
+ > 作者｜油醋邮箱｜zhuzheng@pingwest.com5月7日，一个叫Dfinity的项目启动。很多人真的不懂这是什么——这甚至不是一个英文单词。但关注虚拟货币的人可能很早就听过这个名字，这个从2015年开端起就被捧为区块链明...
+ ## [研究表明将近200万个云计算数据库服务器由于配置错误可能导致数据泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=YG4vfTH4NHKKQJ5rZ*U6FeV-mink0tV4LRAPyP4sVy1s5oQl-57BomWPaHxlJlufsi7sGVl*AwDM5vczhDvOAOSmFujdPwXUH-l4MpArlmnfvSZB9zP18u*UngjAU3n0&new=1)
+ > 关键讯息，D1时间送达！根据Censys公司日前发布的一份调查报告，该公司发现了在云计算服务器运行的193万个的数据库没有设置防止数据泄露的防火墙或采取其他安全保护措施。该公司认为，网络攻击者可以发现并利用...
+ ## [突发!美国最大输油管道遭网络攻击关闭!美媒：为其基础设施的脆弱堪忧](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=ZPHlGpgYhS4tF7CDZvp8CbViH5wEgvzdUlKxgMlVXlMgwxi2qpxekeHOt9BjlA6joKCyx4tUAgXmndVas7wRsbMOHnkjAQL4xfEq1gSB7spgefnq39gyLSnnva*F9U6e&new=1)
+ > | 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：代润泽本文来源：雷锋网（leiphone-sz）杂谈投稿邮箱：631255063@qq.com“这不仅是一条输油管道，可以说已经接近美国基础设施的大动脉。”你能想象，美国...
+ ## [陈忠岳：联通超清视界，点亮精彩生活](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=4dCO8AOuWp5YwENbbYoZnxoByzUvB0mo7zuSA9-kzZzX-UWRNjN5vFadfU9QuyfEomp9*sBdwV8YuKJZWmXJR581*aO8*rAEoiDguC1SSB4AjD0FPyS0zSY31UUh-tcv&new=1)
+ > 5月8日至10日，由工业和信息化部、国家广播电视总局、中央广播电视总台、广东省人民政府共同主办的2021世界超高清视频（4K/8K）产业发展大会在广州举行。中国联通总经理陈忠岳出席开幕式并发表了题为《联通超清...
+ ## [美国面临断油危机，勒索软件元凶浮出水面](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=4Lo*wQs9*tdJUUd9Fkg7qA2duHtXiDB2PLMHxZDxtExmZ2qXGW7G4zc4W741NssXjPzs6bISvAHvcxTLMxgQ8hDnDbjlHTS5mTxl32mjDfJqHtgQ6uksdnoeITaRli5r&new=1)
  > 图片：Colonial Pipeline由于美国最大的输油管道商Colonial Pipeline上周末遭遇勒索软件攻击暂停运营，美国运输部联邦机动车安全局（FMCSA）昨日发布《地区紧急状态声明》，临时解除禁止燃料公路运输的法律，并...
- ## [X射线探查不到缺陷，钛合金Ti-6Al-4V电子束熔丝增材制造技术获突破性进展](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=uIDcBTQwvRhpbuA*eintT44jLQya6q3jEmDtnpDdRZXYUlxP-BTEgNxrQTDvlN0phPWeEUZGpIVu42Vi*645bUhNl3uqTqsOzWOonnzAguLPuNVgHkQBvAfH8FXjDO7Q&new=1)
- > 2021年5月11日，南极熊获悉，近日，西安智熔金属打印系统有限公司(西安智熔)宣布在钛合金电子束熔丝增材制造技术方面取得了突破性进展，掌握了实现优良力学性能、尤其是高疲劳性能的打印工艺参数组合，为电子束...
- ## [美国最大输油管道因勒索病毒攻击持续多日中断](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=7OGKQLfOl-0JZqbVjyanUeNVU7-stJxL5C6yqBg09Tv223C*LOflEb4UfmY2ctDQk2DXw*QmEPL9CRCCNpJgr8dGQUVkPXEZ7wJVOfxVsh5QCjYzuj9HDg5Qy6KHG99H&new=1)
+ ## [美国最大输油管道因勒索病毒攻击持续多日中断](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=7OGKQLfOl-0JZqbVjyanUeNVU7-stJxL5C6yqBg09Tsln6tjb3Vw3kR6dwTz8MwU0hM4zQ0R8RF9SLQ0kHsOP82s-bXoBV7pDlGI6DyNEVBlG4iDhX7jqy3l*WB58qvj&new=1)
  > NEWS新闻E安全5月11日讯————————————当地时间5月7日晚，美国最大成品油运输管道运营商Colonial Pipeline公司在一份声明中称，因遭受黑客攻击，他们正在关闭长达5500英里的管道。      当地时间5月7...
- ## [云岭光电:全系列光芯片供应商 向更高速率、更大规模布局](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=SrcKe01RfXGvJ6ldijwqSbIsQNuP1e5eGJtyWoLckaSXYrcwxcdgY4HnYL4EA83pFmAmANwzcRik5jQB2yp-iDo8g06RW8urUVf2C8iRRXPeLTdTMNCjUfGxAoFIAlaQ&new=1)
+ ## [瞬间爆发!这个几乎家家都用的东西卖爆了!原材料更是全面缺货…](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=xgxmybWPlYRTMcmJFz0eF72bKQCxBrUPEFPTWrA39D9yOujvVh0*qCAvLZiCkKMgR5M8FMRrXuctXFHSYc5hqNWAlW0YlXPlnRhiixJjeeOWq9D*C6ybet-pbCu2gUiZ&new=1)
+ > 来源：央视财经版权归原作者所有，如有侵权请及时联系疫情带来不少电子产品热销，比如笔记本电脑、游戏机等，上网需要使用的路由器从去年二季度以来，同样出现销量的大幅增长。近期，有报道称路由器等网络通信产...
+ ## [贵州茅台：将于5月19日召开业绩说明会；微博：第一季度营收4.59亿美元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=kDgxwqHmH4wtu0UIeoXbrgewAWLAa-w3JHIkcG4JPZQW3JHf2aTffltHDTatdLdykNQ76UFpuOcF0O2s7UBMxn1JHFdjmHDpZXrCjdXc00M8WR0QfEWx-WX3QNBoK7A3&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【微博：第一季度营收4.59亿美元，市场预期4.32亿美元】微博：第一季度营收4.59亿美元，市场预期4.32亿美元，去年同期3.23亿美元。...
+ ## [X射线探查不到缺陷，钛合金Ti-6Al-4V电子束熔丝增材制造技术获突破性进展](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=uIDcBTQwvRhpbuA*eintT44jLQya6q3jEmDtnpDdRZXVN5OxR4BC5V-R-ZmIzkO8alw0nme2wMVpFb1NzomSfSk10XwvpdiCeKd-G3lPyOWmmNCL1220ajTWvCKEu8dM&new=1)
+ > 2021年5月11日，南极熊获悉，近日，西安智熔金属打印系统有限公司(西安智熔)宣布在钛合金电子束熔丝增材制造技术方面取得了突破性进展，掌握了实现优良力学性能、尤其是高疲劳性能的打印工艺参数组合，为电子束...
+ ## [云岭光电:全系列光芯片供应商 向更高速率、更大规模布局](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=SrcKe01RfXGvJ6ldijwqSbIsQNuP1e5eGJtyWoLckaR0rHclKWVMgfJLYaoMFgjAmEbihprildNjzTPN*xvRzRoZcfOmswLEeEsMpma1jaicNDnvNJPb-nGogNE6vTXh&new=1)
  > 新闻导读云岭光电现有人员240余人，研发人员76人，聚集多名顶尖光电子芯片研发和工艺专家，具备丰富的半导体激光器和光电子集成芯片的研发及大规模生产经验，掌握设计、材料生长、工艺、封装、测试等核心技术。I...
- ## [\[报告\]2021中国车企数字化营销解决方案研究(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=kLdTjPk20pCJpFvsnh*x1p4kpllEdojl0VFLXo9-nbgBupgxKQGQYP0hJXB7Wd*m2X5Cs2tGO5sEjTxA7qO9nvWCGL-ibfz2eiAy0y7s0EXK5cHiZ*JQPmtao24Lxlxr&new=1)
+ ## [\[报告\]2021中国车企数字化营销解决方案研究(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=kLdTjPk20pCJpFvsnh*x1p4kpllEdojl0VFLXo9-nbigYLXyWiTLMeoMtGeat9JZ6VeWXCnt2XEn0KLOzh8228vio9AGWEKgdtZXITlGVVmEKS5fPGFDczXcbsnmRNov&new=1)
  > 对广大车企而言，数字化营销更像一位“熟悉的陌生人”。究竟需要几步，车企方能实现数字化营销？亿欧智库推出《2021中国车企数字化营销解决方案研究报告—数字化助力汽车营销的五个关键步骤》报告，给出具化的“...
- ## [2023 iPhone，苹果自研 5G 芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=-zdm2s6rsUJHDZC9YFox7FB6lITdzRg0o-n4W1VVuzEo7veiqUa75kzC9xs2uZ3MNvrHOAqDoKmqNLfUGhxGhM2tXrXoY6aryNw8SyeMEuI4KyMjgh2xyU2Jf2w-WCiF&new=1)
+ ## [2023 iPhone，苹果自研 5G 芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=-zdm2s6rsUJHDZC9YFox7FB6lITdzRg0o-n4W1VVuzEZsvAT3b2Hc3aH0aYVuinJp*CudysS00UCVh1ZubaSHlhIINnfRyVVgHW94mHY1t6JBkThcNHr0hG9s7pnUjiV&new=1)
  > 天风国际分析师郭明錤今天发布苹果研究报告，他认为苹果最早会从 2023 年发布的 iPhone 上搭载自研 5G 基带芯片，届时苹果将不再需要高通供应 5G 芯片。因为 2023 年会失去 iPhone 基带芯片订单，高通需要被迫与...
- ## [86 版西游记“红孩儿”成中科院博士；微软 Edge 意外阻止了 Firefox 安装，并将其标记为有害](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=vZ9elEbMlldWaM17VvybaI9ileXrnde-hFX*sSIaNGrWw1WRz3P*-Dc4qC1BRyC-WasfAwq2RuuoDF48RWMltMt8ohZvIjq1WWabm*4Sa9HWXPAfz8SoZ-pfyAMYqmeL&new=1)
+ ## [86 版西游记“红孩儿”成中科院博士；微软 Edge 意外阻止了 Firefox 安装，并将其标记为有害](http://mp.weixin.qq.com/s?src=11&timestamp=1620723605&ver=3061&signature=vZ9elEbMlldWaM17VvybaI9ileXrnde-hFX*sSIaNGriwbJkJ6FB6HPv8vEelszynGi01YCvgkOtnVYk36lxxZKsy7Mw8e41wiiZpyEoPQDp9Qsc66ILYFUR551qSIXy&new=1)
  > 0、86 版西游记“红孩儿”成中科院博士近日，网传 86 版《西游记》剧中红孩儿扮演者赵欣培已是中科院博士。对此，中科院研究生部回应，赵欣培是从北大保送到中科院读硕士，之后硕博连读，读的是计算机相关专业，...
- ## [光固化3D打印新时代来临!纵维立方重磅方案即将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=fXtgtRcpQtCnekgndVjUrsn6W9pp7VFr0FDhGBOmh-RmIm1hBj3oMekiaZ7Qh28mAFQxhNAJkuQjhksoA*HUBwr5IGqI-xEOuoNC2G0L5p*u5RkpuiQ5IKAMxyvpBn-5&new=1)
- > 据悉，相较于FDM热熔堆积技术，光固化在3D打印精度和质量方面展现出了强大竞争力，不少企业都想从中分得一块蛋糕。作为国产3D打印产业的知名品牌，纵维立方（Anycubic）在光固化项目一直走在行业前列，如今更是...
- ## [新华社：派币(Pi)到处“拉人头”小心被“割韭菜”](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=6L6XJZx3vz7fv9SZh8UONaUDRNnUlQF6uyn75gzdFcGJnxIpBMO9whJ13HNGGPyl9VHlPSYg4mAZUS4go6pnA-K*O5jQ12FQikW39BhtL2eWLRv2b90C3lejZQorPcIc&new=1)
- > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com借着比特币、狗狗币的造富神话，各种名目的“数字货币”鸡犬升天。最近，一种号称可以用手机“挖币”的派币（Pi）在社...
- ## [vRAN、C-RAN、O-RAN、OpenRAN、Open RAN到底有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1620705605&ver=3061&signature=OJNnnCjPp6rpm41CwP1SkHcHph8jTWTz1hp7gVbi5xo7MV9I8b1YIehCoSjfXOGtMiI06iurYJvNVyo-iNXZ9nTPLEhc8uBnchFjF6iqcTotKhNMvEICczxOUpujIlVf&new=1)
- > Open RAN，是开放式RAN架构的通用术语，包含了开放式接口、虚拟化和AI智能化等。OpenRAN，是TIP发起的一个项目，旨在实现开放式RAN，工作范围包括2/3/4/5G。TIP，Telecom Infra Project，电信基础
 # IT 技术 
  ## [毕业前写了20万行代码，让我从成为同学眼里的面霸！](https://blog.csdn.net/Yao__Shun__Yu/article/details/116582933)
  > 毕业前写了20万行代码，让我从成为同学眼里的面霸！
@@ -49,18 +65,18 @@ categories: IT NEWS
  > Swift系列三十 - 从OC到Swift（二）
  ## [手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】](https://blog.csdn.net/weixin_57171554/article/details/116269119)
  > 手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】
- ## [31个全网最常用python实现（体系学习，学完显著提高代码复用能力）](https://blog.csdn.net/qq_45803923/article/details/116572494)
- > 31个全网最常用python实现（体系学习，学完显著提高代码复用能力）
+ ## [终于有一篇文章可以把C 与 C++ 的区别说清楚了](https://blog.csdn.net/epubit17/article/details/116608835)
+ > 终于有一篇文章可以把C 与 C++ 的区别说清楚了
+ ## [STM32F103+DHT11模块 简单实现 智能浇水系统demo](https://blog.csdn.net/Ikaros_521/article/details/116535306)
+ > STM32F103+DHT11模块 简单实现 智能浇水系统demo
+ ## [用Python分析了7w+《悬崖之上》影评，看看观众都是怎么说？](https://blog.csdn.net/aaahtml/article/details/116593086)
+ > 用Python分析了7w+《悬崖之上》影评，看看观众都是怎么说？
+ ## [月黑风高夜！一双黑手伸向了室友的STM32F103开发板！](https://blog.csdn.net/qq_45396672/article/details/116577012)
+ > 月黑风高夜！一双黑手伸向了室友的STM32F103开发板！
  ## [JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~](https://blog.csdn.net/weixin_43884234/article/details/116569562)
  > JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~
- ## [八大经典排序算法的理解、动图演示和C++方法实现](https://blog.csdn.net/QLeelq/article/details/116499954)
- > 八大经典排序算法的理解、动图演示和C++方法实现
- ## [一张30年前的大学排行榜！](https://blog.csdn.net/qq_15698613/article/details/116567229)
- > 一张30年前的大学排行榜！
- ## [C++_多态详谈](https://blog.csdn.net/weixin_45313447/article/details/116569485)
- > C++_多态详谈
- ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
- > 第十二届蓝桥杯（省赛）（C/C++大学B组）
+ ## [31个全网最常用python实现（体系学习，学完显著提高代码复用能力）](https://blog.csdn.net/qq_45803923/article/details/116572494)
+ > 31个全网最常用python实现（体系学习，学完显著提高代码复用能力）
 # 人工智能 
  ## [UNIX 设计哲学：Do one thing and do it well](https://blog.csdn.net/universsky2015/article/details/116328109)
  > UNIX 设计哲学：Do one thing and do it well
@@ -93,41 +109,39 @@ categories: IT NEWS
  ## [极客日报第118期：京东被曝显卡售后不肯维修要原价退款；​IBM发布第一个2纳米芯片；Bootstrap 5.0.0发布](https://blog.csdn.net/weixin_39786569/article/details/116481216)
  > 极客日报第118期：京东被曝显卡售后不肯维修要原价退款；​IBM发布第一个2纳米芯片；Bootstrap 5.0.0发布
 # PM 
- ## [AI产品经理必备的核心技能 涨薪就是这么简单！](http://www.chanpin100.com/article/115315)
- > 今天我们来聊一下AI产品经理必备的核心技能，只有掌握了核心技能才有竞争力，从而升职加薪。一个AI产品经理的核心价值就是将AI技术产品化，那么要实现这个过程，我们必须掌握哪些技能呢？
- ## [美团拼多多被约谈 平台应摒弃唯流量思维](http://www.chanpin100.com/article/115341)
- > 针对最近互联网平台消费争议集中的情况，上海消费者保护委员会10日对美团、拼多多等平台进行了采访，指出平台在运营过程中应摒弃唯一的流量思维，真正落实主体责任。同时，不能凭借自己的优势增加商家和消费者的不合理负担。
- ## [产品经理面试技巧之数据分析篇](http://www.chanpin100.com/article/115339)
- > 数据分析，应该是面试中最容易被问到的问题之一了。毕竟你做出的产品数据好不好是很关键的。那么，面试时关于数据分析的问题主要有哪些呢？请看本文“产品经理面试技巧之数据分析篇”中的内容吧！
- ## [美团1000万骑手均为外包公司员工](http://www.chanpin100.com/article/115340)
- > 日前，北京市人社局副处长王林在经历了送外卖难后，携巡视组再次与美团代表进行了一次对话，涉及到外卖从业人员的劳动关系、保险等问题。
- ## [产品经理面试技巧之项目篇（十七）](http://www.chanpin100.com/article/115337)
- > 你们产品上线之前是如何进行测试的呢？这个问题很大概率在面试中会被问到呦！面试前也一样要做好相应的回答准备。想知道如何回答这个问题的小伙伴请看本文“产品经理面试技巧之项目篇（十七）”中分享的内容吧！
- ## [面试10家通过6家 工资涨了5K](http://www.chanpin100.com/article/115336)
- > 不知道大家的简历准备好了没？有没有被HR打爆电话哈哈哈~本文将我面试后总结的心得和技巧和大家一起交流，请搬好小板凳坐好哦。
- ## [数据产品经理应该如何构建数据仓库？（下）](http://www.chanpin100.com/article/115335)
- > 数据产品经理应该如何构建数据仓库？这篇文章我们将介绍最后两个内容，对于构建数据仓库来说也是非常关键的。接下来，我们一起看看，要多多思考哦，这样才能完全理解。
- ## [数据产品经理应该如何构建数据仓库？（中）](http://www.chanpin100.com/article/115334)
- > 上一篇文章我们谈到了数据产品经理应该如何构建数据仓库这个问题，这篇文章我们会继续介绍相关内容。构建数据仓库的步骤比较多，之前介绍了一部分的环节，现在我们接着介绍下面的步骤。
- ## [产品经理面试题分享：你平时每天的工作流程能介绍一下吗？](http://www.chanpin100.com/article/115333)
- > 我们在参加产品经理面试的时候，可能会遇到个别面试官问你能否介绍一下你的工作流程，那么当遇到这个问题时，我该如何回答呢？下面请看本文的具体内容。
- ## [数据产品经理应该如何构建数据仓库？（上）](http://www.chanpin100.com/article/115332)
- > 今天我们聊聊数据产品经理应该如何构建数据仓库？对于数据产品经理来说，构建数据仓库是一个非常重要的环节，所以我们要掌握它的流程，高效的构建起数据仓库。总的来说，构建数据仓库包含以下几个步骤。
- ## [产品经理面试题分享：你每天都是如何开展你的工作的？](http://www.chanpin100.com/article/115331)
- > 你平时一天都是怎么开展你的工作的？这道面试题虽然看起来很简单，但是回答这一类问题还是需要一些套路的，它主要还是考察你是否对于每天都有自己的计划、你的工作效率如何。下面请看本文的具体解析吧。
- ## [产品经理面试题分享：假如你来我们公司 你打算如何开展工作？](http://www.chanpin100.com/article/115329)
- > 如果你来我们公司上班，你准备如何开展工作？这道题目相当关键，面试官这样问就是想看看你对他们公司的意向到底如何、有没有自己的一个职业规划，如果能回答得很好，相信面试官肯定会对你刮目相看，这样通过面试的几率就更加大了。
- ## [数据产品为什么要搭建数据仓库？有什么意义？](http://www.chanpin100.com/article/115330)
- > 今天我们的话题是：数据产品为什么要搭建数据仓库？有什么意义？我们将从两个方面来回答这个问题，一是数据仓库的价值，二是数据仓库对于数据产品经理的作用。
- ## [数据产品经理必须要看懂的指标 数据词典（下）](http://www.chanpin100.com/article/115327)
- > 这篇文章我们继续来分享数据产品经理必须要看懂的指标，微信小程序的数据词典是一个非常实用的工具，如果有小伙伴还不清楚它的功能，就可以看看这篇文章哦，讲解得非常详细。我们接着上一篇文章继续介绍
- ## [产品经理面试题分享：假如你的项目无法按时上线 你会怎么解决？](http://www.chanpin100.com/article/115328)
- > 你的项目总是不能按期上线，你会如何解决？作为一名合格的产品经理，不仅要对产品的整体把控了如指掌，同时也要对整个项目负责，下面本文会给大家讲一下遇到这类面试题要如何作答。
- ## [在线教育企业避免“内卷”的有效出路在哪？](http://www.chanpin100.com/article/115291)
- > 人们对教育培训的需求暴涨，这也直接导致了教育行业陷入激烈的市场竞争中，教育行业也陷入“内卷化”状态。内卷化下的在线教育模式，最大特征就是边际效益急剧下降，更加需要教育企业寻找高效的解决方式。内卷背景下的教育行业如何寻找有效出路？
- ## [产品经理面试题分享：你一般如何克服工作上的压力？](http://www.chanpin100.com/article/115325)
- > 在你的上一段工作经历中，能否介绍一下压力最大的一次经历？你一般如何克服工作上的压力？像这样的面试题在产品经理面试中虽说遇见一模一样的几率不大，但是万一遇到了呢，有所准备还是比现场发懵要好，本文小编就带大家看一下这道题的回答思路。
- ## [数据产品经理必须要看懂的指标 数据词典（中）](http://www.chanpin100.com/article/115326)
- > 今天我们接着来说数据产品经理必须要看懂的指标-数据词典，内容非常详细哦，就算是小白也能看懂。这些内容都是小编精心整理的，所以一定要认真阅读哦！
+ ## [简单聊一下 社交电商机制的几个核心问题（中）](http://www.chanpin100.com/article/115361)
+ > 上一篇文章我们分享了社交电商机制的几个核心问题，这篇文章我们继续这个话题。除了机制增长性和门槛问题，还有一些其他的核心问题，都是我们需要关注的点。
+ ## [三步扣开“潮门”的国民老牌 2021中国品牌日上展风采](http://www.chanpin100.com/article/115312)
+ > 在这个以“中国品牌，世界共享；聚力双循环，引领新消费”为主题的2021年中国品牌日活动上，诸多“老”品牌纷纷亮相，无处不在的潮酷色彩，似乎在宣告着它们已经“破茧成蝶”搭上潮流快车了。那么承载着文化内涵的中国品牌“重获新生”的秘钥是什么？
+ ## [简单聊一下 社交电商机制的几个核心问题（上）](http://www.chanpin100.com/article/115359)
+ > 今天我们来简单聊一下，社交电商机制的几个核心问题，内容有点多，会分为三篇文章进行讲解。都是小编精心整理的知识点哦，所以一定要耐心的看完，相信你会有所收获。
+ ## [内容付费时代 教培机构如何打造线上品牌？](http://www.chanpin100.com/article/115306)
+ > 内容付费时代已经来临了，越来越多讲师，教育培训机构发现线上课程，打造自己专属品牌，实现知识变现。不少想要或者刚刚入行知识付费的“新人”对内容制作、推广等也了解一点皮毛，在没技术，没运营经验的情况下，如何发展和打造线上品牌？
+ ## [社交电商模式的核心是什么？你知道吗？](http://www.chanpin100.com/article/115358)
+ > 今天这篇文章我们来聊聊社交电商，这是近几年比较火的一个平台，那么社交电商模式的核心是什么呢？你知道吗？下面我们一起深入探讨一下！
+ ## [山顶Talk第二十七期：从史上最繁忙五一看被压抑的旅游需求](http://www.chanpin100.com/article/115354)
+ > 2.3亿人次出行、1132.3亿元国内旅游收入、全国微信运动日均总步数达2.72万亿步......被新冠疫情“封印”了一年的旅游需求在五一期间开始大爆发。
+ ## [2021中国在线音频市场年度洞察](http://www.chanpin100.com/article/115301)
+ > 2021音频市场年度洞察来咯！多家平台正式入局音频行业，联合行业重点玩家共同布局音频生态矩阵，打造多维度一体的泛娱乐内容平台。
+ ## [元数据是什么？与数据仓库有什么关系？](http://www.chanpin100.com/article/115355)
+ > 数据仓库这个词大家都不陌生，那么元数据呢？元数据是什么？与数据仓库又有什么关系呢？今天我们来简单了解一下，拿上小板凳，赶紧认真听课吧！
+ ## [数据仓库的实施步骤详解（下） 赶紧收藏！](http://www.chanpin100.com/article/115353)
+ > 这篇文章接着讲数据仓库的实施步骤，也是最后的两个部分，大家一定要认真看完，这样才能了解数据仓库实施的整个流程，然后合理有效的进行利用。
+ ## [数据仓库的实施步骤详解（中） 赶紧收藏！](http://www.chanpin100.com/article/115352)
+ > 这篇文章我们继续聊聊数据仓库的实施步骤，之前讲了前面的三个步骤，今天我们来看看后面的几个步骤。分别是：数据仓库建模、数据集市建模、数据源分析。
+ ## [斯图飞腾Stratifyd：在这里遇见客户体验的未来](http://www.chanpin100.com/article/115296)
+ > 当客户得到满意的服务时，他们不会吝于表达这份喜悦。在最近的一项调查中，有四分之一的客户表示，如果他们跟某个品牌有积极愉快的互动，会跟至少身边10个人分享这种体验。此外，30%的客户会在社交媒体上发布积极体验的信息。
+ ## [数据仓库的实施步骤详解（上） 赶紧收藏！](http://www.chanpin100.com/article/115351)
+ > 建立数据仓库是解决数据问题的必要步骤，也是信息发展必不可少的阶段，所以今天我们就来分享一下数据仓库的实施步骤，下面就是数据仓库的通用实施步骤图形。
+ ## [倾斜摄影测量创建的实景三维目前应用有哪些？](http://www.chanpin100.com/article/115295)
+ > 通过 Hightopo 的可视化和 GIS 相关技术，对能源和安全进行全方位的数字化建设，使监控更加直观和准确，提高整体管理水平效率，进一步推动行业绿色化和智能化转换升级进程。
+ ## [干货分享 数据库和数据仓库有什么区别？](http://www.chanpin100.com/article/115350)
+ > 数据库和数据仓库这两个词想必大家都不陌生，那么数据库和数据仓库到底有什么区别呢？在讨论这个问题之前，我们先要知道：什么是数据库？什么是数据仓库？
+ ## [产品经理面试技巧之产品基础篇（三）](http://www.chanpin100.com/article/115348)
+ > 你觉得产品经理需要具备哪些能力呢？这道题该如何回答呢？请看本文“产品经理面试技巧之产品基础篇（三）”中的全部内容吧！
+ ## [你了解数据仓库吗？它有哪些特征？](http://www.chanpin100.com/article/115349)
+ > 今天我们要讨论的是数据仓库，你了解数据仓库吗？它有哪些特征呢？小编简单整理了一下，大家可以看看。数据仓库是面向主题的(Subject-Oriented)、集成的(Integrated)、不易丢失的(Non-volatile)以及时变的(Time-Variant)数据集合，它用来支持管理决策。
+ ## [产品经理面试技巧之产品基础篇（二）](http://www.chanpin100.com/article/115346)
+ > 你为什么想当产品经理呢？这个问题可以说是十面九问了，必须要在面试前做好准备。想知道回答方法的小伙伴请看本文“产品经理面试技巧之产品基础篇（二）”中的内容吧！
 
     
