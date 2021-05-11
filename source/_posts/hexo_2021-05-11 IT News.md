@@ -1,21 +1,56 @@
 ---
 title: 2021-05-11 IT News
 copyright: true
-date: 2021-05-11 09:01:31
+date: 2021-05-11 10:01:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [光固化3D打印新时代来临!纵维立方重磅方案即将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=fXtgtRcpQtCnekgndVjUrsn6W9pp7VFr0FDhGBOmh-T*5Ra1nQIiGtrKC-G4R6EGijNmHI-PsiOdwUIcTyTQ91SIsYXeZ53fYl4VOI*IZ37dt4N9sAcO-4rsA-xJU1dv&new=1)
- > 据悉，相较于FDM热熔堆积技术，光固化在3D打印精度和质量方面展现出了强大竞争力，不少企业都想从中分得一块蛋糕。作为国产3D打印产业的知名品牌，纵维立方（Anycubic）在光固化项目一直走在行业前列，如今更是...
- ## [新华社：派币(Pi)到处“拉人头”小心被“割韭菜”](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=6L6XJZx3vz7fv9SZh8UONaUDRNnUlQF6uyn75gzdFcHvvFQQGqnXUDuT2Y897A8jDm8odjoOTgC5EelrhyFglpgK3jiyQgk2pjUtG3wr9toRd9*-dKHOKt02qTu*TEZv&new=1)
- > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com借着比特币、狗狗币的造富神话，各种名目的“数字货币”鸡犬升天。最近，一种号称可以用手机“挖币”的派币（Pi）在社...
- ## [vRAN、C-RAN、O-RAN、OpenRAN、Open RAN到底有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=OJNnnCjPp6rpm41CwP1SkHcHph8jTWTz1hp7gVbi5xrwMgFu5XRgKHwKKO-EKQ1rXuyc6K38UpPINF9759qKQzB0W875S0o9JkQSePV2yRJVKsev2djBGejyvsbIHQkb&new=1)
- > Open RAN，是开放式RAN架构的通用术语，包含了开放式接口、虚拟化和AI智能化等。OpenRAN，是TIP发起的一个项目，旨在实现开放式RAN，工作范围包括2/3/4/5G。TIP，Telecom Infra Project，电信基础
- ## [86 版西游记“红孩儿”成中科院博士；微软 Edge 意外阻止了 Firefox 安装，并将其标记为有害](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=vZ9elEbMlldWaM17VvybaI9ileXrnde-hFX*sSIaNGooSIGc5jwACWuHsrPwblThw7QLocKEArllSPMQvvsHH1DbUv4g54RcWpoYk7VkJrkSMh*Hzrpcww848R-bLwZe&new=1)
- > 0、86 版西游记“红孩儿”成中科院博士近日，网传 86 版《西游记》剧中红孩儿扮演者赵欣培已是中科院博士。对此，中科院研究生部回应，赵欣培是从北大保送到中科院读硕士，之后硕博连读，读的是计算机相关专业，...
- ## [2023 iPhone，苹果自研 5G 芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=-zdm2s6rsUJHDZC9YFox7FB6lITdzRg0o-n4W1VVuzHiN*IV*NUGjOQMhaV06EfnfrLBbuKxZtQx5a9QHwtJURcu0UsbwbXMMe5yvqQHxocV0fH7I9ivsVBzyTxzW5M6&new=1)
+ ## [云岭光电:全系列光芯片供应商 向更高速率、更大规模布局](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=SrcKe01RfXGvJ6ldijwqSbIsQNuP1e5eGJtyWoLckaQd-C7jfmXxWMO-99YceOlwyL2wn5PNxDKQapFxOfHKuDAMr7VJSAa1kaY*amZfOiHF1CGam6VRFcXfmmqDWK*R&new=1)
+ > 新闻导读云岭光电现有人员240余人，研发人员76人，聚集多名顶尖光电子芯片研发和工艺专家，具备丰富的半导体激光器和光电子集成芯片的研发及大规模生产经验，掌握设计、材料生长、工艺、封装、测试等核心技术。I...
+ ## [\[报告\]2021中国车企数字化营销解决方案研究(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=kLdTjPk20pCJpFvsnh*x1p4kpllEdojl0VFLXo9-nbjPDxgvzeGl5ALSkBOEExIrrA5Mavp7S7-fmkOs4YqOPxVSgazunBfqyD1LIw3-d5THn*KDKV7IT*--qZ7naKGK&new=1)
+ > 对广大车企而言，数字化营销更像一位“熟悉的陌生人”。究竟需要几步，车企方能实现数字化营销？亿欧智库推出《2021中国车企数字化营销解决方案研究报告—数字化助力汽车营销的五个关键步骤》报告，给出具化的“...
+ ## [2023 iPhone，苹果自研 5G 芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=-zdm2s6rsUJHDZC9YFox7FB6lITdzRg0o-n4W1VVuzHiN*IV*NUGjOQMhaV06EfnGK2FjgQwqUBYzCGTqBLpNvtcDYSZJD6LoupB7FAOyUZhq1gzaTixhaf-iFfyx3sQ&new=1)
  > 天风国际分析师郭明錤今天发布苹果研究报告，他认为苹果最早会从 2023 年发布的 iPhone 上搭载自研 5G 基带芯片，届时苹果将不再需要高通供应 5G 芯片。因为 2023 年会失去 iPhone 基带芯片订单，高通需要被迫与...
+ ## [86 版西游记“红孩儿”成中科院博士；微软 Edge 意外阻止了 Firefox 安装，并将其标记为有害](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=vZ9elEbMlldWaM17VvybaI9ileXrnde-hFX*sSIaNGooSIGc5jwACWuHsrPwblThPpJ3gBjTW0q116Ez4UN-W6jXVFqfbhivQWYERVkhEPkhjpvSbSVTEiccs7E7GqiH&new=1)
+ > 0、86 版西游记“红孩儿”成中科院博士近日，网传 86 版《西游记》剧中红孩儿扮演者赵欣培已是中科院博士。对此，中科院研究生部回应，赵欣培是从北大保送到中科院读硕士，之后硕博连读，读的是计算机相关专业，...
+ ## [光固化3D打印新时代来临!纵维立方重磅方案即将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=fXtgtRcpQtCnekgndVjUrsn6W9pp7VFr0FDhGBOmh-T*5Ra1nQIiGtrKC-G4R6EGE26qbzGWSMbAjoiN0l2n3FtGJroU7wBfJ5wIczVQn0wcOAyXViXape*0M8tmYchP&new=1)
+ > 据悉，相较于FDM热熔堆积技术，光固化在3D打印精度和质量方面展现出了强大竞争力，不少企业都想从中分得一块蛋糕。作为国产3D打印产业的知名品牌，纵维立方（Anycubic）在光固化项目一直走在行业前列，如今更是...
+ ## [新华社：派币(Pi)到处“拉人头”小心被“割韭菜”](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=6L6XJZx3vz7fv9SZh8UONaUDRNnUlQF6uyn75gzdFcHvvFQQGqnXUDuT2Y897A8jvjPcIEHWGjlzGMUFuXE8MuUrK5Fll3h3EK1kbR8Zm*j7izkYHvd0sb90uZdx-rrD&new=1)
+ > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com借着比特币、狗狗币的造富神话，各种名目的“数字货币”鸡犬升天。最近，一种号称可以用手机“挖币”的派币（Pi）在社...
+ ## [vRAN、C-RAN、O-RAN、OpenRAN、Open RAN到底有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1620698404&ver=3061&signature=OJNnnCjPp6rpm41CwP1SkHcHph8jTWTz1hp7gVbi5xrwMgFu5XRgKHwKKO-EKQ1rg-*J4tPLoj-0voeFqlIlg0l3p5bGQpbRAd5WT3Ulq6cuNbtBmGbaCyOO5Us5kSrv&new=1)
+ > Open RAN，是开放式RAN架构的通用术语，包含了开放式接口、虚拟化和AI智能化等。OpenRAN，是TIP发起的一个项目，旨在实现开放式RAN，工作范围包括2/3/4/5G。TIP，Telecom Infra Project，电信基础
+# IT 技术 
+ ## [毕业前写了20万行代码，让我从成为同学眼里的面霸！](https://blog.csdn.net/Yao__Shun__Yu/article/details/116582933)
+ > 毕业前写了20万行代码，让我从成为同学眼里的面霸！
+ ## [Flutter引擎介绍](https://blog.csdn.net/u012545728/article/details/116496464)
+ > Flutter引擎介绍
+ ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
+ > 
+ ## [C++——友元（看这一篇就够了！）](https://blog.csdn.net/weixin_46098577/article/details/116596183)
+ > C++——友元（看这一篇就够了！）
+ ## [Axure RP 8来回旋转](https://blog.csdn.net/weixin_44577418/article/details/116517841)
+ > Axure RP 8来回旋转
+ ## [一个最基础的vue-cli单页面程序](https://blog.csdn.net/qq_30433703/article/details/116601608)
+ > 一个最基础的vue-cli单页面程序
+ ## [初学python算法100例-案例9 间隔1秒输出结果](https://blog.csdn.net/frank2102/article/details/116376634)
+ > 初学python算法100例-案例9 间隔1秒输出结果
+ ## [Swift系列三十 - 从OC到Swift（二）](https://blog.csdn.net/yangbenben8866/article/details/116481836)
+ > Swift系列三十 - 从OC到Swift（二）
+ ## [手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】](https://blog.csdn.net/weixin_57171554/article/details/116269119)
+ > 手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】
+ ## [八大经典排序算法的理解、动图演示和C++方法实现](https://blog.csdn.net/QLeelq/article/details/116499954)
+ > 八大经典排序算法的理解、动图演示和C++方法实现
+ ## [JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~](https://blog.csdn.net/weixin_43884234/article/details/116569562)
+ > JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~
+ ## [一张30年前的大学排行榜！](https://blog.csdn.net/qq_15698613/article/details/116567229)
+ > 一张30年前的大学排行榜！
+ ## [2021第四届红帽杯网络安全大赛-线上赛Writeup](https://blog.csdn.net/mochu7777777/article/details/116570606)
+ > 2021第四届红帽杯网络安全大赛-线上赛Writeup
+ ## [今天带你们用python爬虫，爬取最新更新的小说网站](https://blog.csdn.net/lh9987/article/details/116542535)
+ > 今天带你们用python爬虫，爬取最新更新的小说网站
+ ## [字节跳动算法工程师总结：腾讯+字节+阿里面经真题汇总，含面试题+答案](https://blog.csdn.net/m0_56830858/article/details/116572413)
+ > 字节跳动算法工程师总结：腾讯+字节+阿里面经真题汇总，含面试题+答案
 # 人工智能 
  ## [UNIX 设计哲学：Do one thing and do it well](https://blog.csdn.net/universsky2015/article/details/116328109)
  > UNIX 设计哲学：Do one thing and do it well
@@ -52,6 +87,8 @@ categories: IT NEWS
  > 今天我们来聊一下AI产品经理必备的核心技能，只有掌握了核心技能才有竞争力，从而升职加薪。一个AI产品经理的核心价值就是将AI技术产品化，那么要实现这个过程，我们必须掌握哪些技能呢？
  ## [倒奶打投事件持续发酵 不花钱不配当粉丝？](http://www.chanpin100.com/article/115294)
  > 为给自己的偶像“助粒”，粉丝们疯狂集资买牛奶，然后一整箱一整箱地倒掉，这样的行为招来了公众的强烈谴责。虽然《青春有你3》目前已暂停录制，节目与主办方双双道歉，但这件事情仍在发酵。
+ ## [面试10家通过6家 工资涨了5K](http://www.chanpin100.com/article/115336)
+ > 不知道大家的简历准备好了没？有没有被HR打爆电话哈哈哈~本文将我面试后总结的心得和技巧和大家一起交流，请搬好小板凳坐好哦。
  ## [数据产品经理应该如何构建数据仓库？（下）](http://www.chanpin100.com/article/115335)
  > 数据产品经理应该如何构建数据仓库？这篇文章我们将介绍最后两个内容，对于构建数据仓库来说也是非常关键的。接下来，我们一起看看，要多多思考哦，这样才能完全理解。
  ## [数据产品经理应该如何构建数据仓库？（中）](http://www.chanpin100.com/article/115334)
@@ -84,7 +121,5 @@ categories: IT NEWS
  > 在经历了多年的用户快速增长后，随着增速不断放缓，移动互联网的用户增长趋势首次出现拐点，存量用户博弈时代正式到来，本报告通过对近两年的行业发展进行分析，帮助企业更好的了解市场动态，助力企业精益成长。
  ## [产品经理面试题分享：如何获取第一批用户？](http://www.chanpin100.com/article/115321)
  > 随着互联网的快速发展，产品经理这个岗位变得越来越重要，今天给大家分享一道产品经理面试题，希望每个人都能顺利通过面试。下面请看本文产品经理面试题的内容：如何获取第一批用户。
- ## [产品经理应该如何分析数据？思路是什么样的？](http://www.chanpin100.com/article/115322)
- > 数据分析对于每一个产品经理来说再熟悉不过了，这是一个非常关键的过程。那么产品经理应该如何分析数据呢？思路是什么样的呢？今天我们就来聊一下！
 
     
