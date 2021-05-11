@@ -1,52 +1,21 @@
 ---
 title: 2021-05-11 IT News
 copyright: true
-date: 2021-05-11 08:01:00
+date: 2021-05-11 09:01:31
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2023 iPhone，苹果自研 5G 芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620689405&ver=3061&signature=-zdm2s6rsUJHDZC9YFox7FB6lITdzRg0o-n4W1VVuzG-7BOxCkWj-rniC-4xI9aQJ-WlrjIL65DoA2Yuy8vRhDI7vvJQuRqycNlotojxnk-5iPUexHxPMCV8o9FO0wNm&new=1)
- > 天风国际分析师郭明錤今天发布苹果研究报告，他认为苹果最早会从 2023 年发布的 iPhone 上搭载自研 5G 基带芯片，届时苹果将不再需要高通供应 5G 芯片。因为 2023 年会失去 iPhone 基带芯片订单，高通需要被迫与...
- ## [新华社：派币(Pi)到处“拉人头”小心被“割韭菜”](http://mp.weixin.qq.com/s?src=11&timestamp=1620689405&ver=3061&signature=6L6XJZx3vz7fv9SZh8UONaUDRNnUlQF6uyn75gzdFcFxmUn8vsm0KRokIDugyxXV4MdxvXzpErfMF40g5ThJOv3YPDF9F6MdjwtL8MVdpR8NeQlt7OhBfyXm47BA7ECY&new=1)
- > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com借着比特币、狗狗币的造富神话，各种名目的“数字货币”鸡犬升天。最近，一种号称可以用手机“挖币”的派币（Pi）在社...
- ## [光固化3D打印新时代来临!纵维立方重磅方案即将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620689405&ver=3061&signature=fXtgtRcpQtCnekgndVjUrsn6W9pp7VFr0FDhGBOmh-ToHk0OEX5b1BPO3alWEvvadwjbnL1vEi*tNaFOQwPlCAQTiI3gWiZnc*RIXVW3ib6zQQQ8vwmMk5GEQYaAzuPn&new=1)
+ ## [光固化3D打印新时代来临!纵维立方重磅方案即将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=fXtgtRcpQtCnekgndVjUrsn6W9pp7VFr0FDhGBOmh-T*5Ra1nQIiGtrKC-G4R6EGijNmHI-PsiOdwUIcTyTQ91SIsYXeZ53fYl4VOI*IZ37dt4N9sAcO-4rsA-xJU1dv&new=1)
  > 据悉，相较于FDM热熔堆积技术，光固化在3D打印精度和质量方面展现出了强大竞争力，不少企业都想从中分得一块蛋糕。作为国产3D打印产业的知名品牌，纵维立方（Anycubic）在光固化项目一直走在行业前列，如今更是...
- ## [vRAN、C-RAN、O-RAN、OpenRAN、Open RAN到底有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1620689405&ver=3061&signature=OJNnnCjPp6rpm41CwP1SkHcHph8jTWTz1hp7gVbi5xrv09eGcmcYUJ5FPihWDLmXLxaog32hCKtqn9GurR5gyupmOhZdNPV7OAt1yXj88ruywwZBDyhpbvbZDU0KX0e*&new=1)
+ ## [新华社：派币(Pi)到处“拉人头”小心被“割韭菜”](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=6L6XJZx3vz7fv9SZh8UONaUDRNnUlQF6uyn75gzdFcHvvFQQGqnXUDuT2Y897A8jDm8odjoOTgC5EelrhyFglpgK3jiyQgk2pjUtG3wr9toRd9*-dKHOKt02qTu*TEZv&new=1)
+ > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com借着比特币、狗狗币的造富神话，各种名目的“数字货币”鸡犬升天。最近，一种号称可以用手机“挖币”的派币（Pi）在社...
+ ## [vRAN、C-RAN、O-RAN、OpenRAN、Open RAN到底有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=OJNnnCjPp6rpm41CwP1SkHcHph8jTWTz1hp7gVbi5xrwMgFu5XRgKHwKKO-EKQ1rXuyc6K38UpPINF9759qKQzB0W875S0o9JkQSePV2yRJVKsev2djBGejyvsbIHQkb&new=1)
  > Open RAN，是开放式RAN架构的通用术语，包含了开放式接口、虚拟化和AI智能化等。OpenRAN，是TIP发起的一个项目，旨在实现开放式RAN，工作范围包括2/3/4/5G。TIP，Telecom Infra Project，电信基础
- ## [86 版西游记“红孩儿”成中科院博士；微软 Edge 意外阻止了 Firefox 安装，并将其标记为有害](http://mp.weixin.qq.com/s?src=11&timestamp=1620689405&ver=3061&signature=vZ9elEbMlldWaM17VvybaI9ileXrnde-hFX*sSIaNGrRUCyiWbuHCpybXX8DrJdd1inoavAQYEMEEvAKMxWDWriK-58ZCT-DwsE5FGxzDkmqTvQmPUJvljs4bzZ7JGcV&new=1)
+ ## [86 版西游记“红孩儿”成中科院博士；微软 Edge 意外阻止了 Firefox 安装，并将其标记为有害](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=vZ9elEbMlldWaM17VvybaI9ileXrnde-hFX*sSIaNGooSIGc5jwACWuHsrPwblThw7QLocKEArllSPMQvvsHH1DbUv4g54RcWpoYk7VkJrkSMh*Hzrpcww848R-bLwZe&new=1)
  > 0、86 版西游记“红孩儿”成中科院博士近日，网传 86 版《西游记》剧中红孩儿扮演者赵欣培已是中科院博士。对此，中科院研究生部回应，赵欣培是从北大保送到中科院读硕士，之后硕博连读，读的是计算机相关专业，...
-# IT 技术 
- ## [毕业前写了20万行代码，让我从成为同学眼里的面霸！](https://blog.csdn.net/Yao__Shun__Yu/article/details/116582933)
- > 毕业前写了20万行代码，让我从成为同学眼里的面霸！
- ## [Flutter引擎介绍](https://blog.csdn.net/u012545728/article/details/116496464)
- > Flutter引擎介绍
- ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
- > 
- ## [C++——友元（看这一篇就够了！）](https://blog.csdn.net/weixin_46098577/article/details/116596183)
- > C++——友元（看这一篇就够了！）
- ## [Axure RP 8来回旋转](https://blog.csdn.net/weixin_44577418/article/details/116517841)
- > Axure RP 8来回旋转
- ## [一个最基础的vue-cli单页面程序](https://blog.csdn.net/qq_30433703/article/details/116601608)
- > 一个最基础的vue-cli单页面程序
- ## [初学python算法100例-案例9 间隔1秒输出结果](https://blog.csdn.net/frank2102/article/details/116376634)
- > 初学python算法100例-案例9 间隔1秒输出结果
- ## [Swift系列三十 - 从OC到Swift（二）](https://blog.csdn.net/yangbenben8866/article/details/116481836)
- > Swift系列三十 - 从OC到Swift（二）
- ## [手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】](https://blog.csdn.net/weixin_57171554/article/details/116269119)
- > 手把手教你爬取清纯小姐姐私房照，小孩子别学，【后篇】
- ## [八大经典排序算法的理解、动图演示和C++方法实现](https://blog.csdn.net/QLeelq/article/details/116499954)
- > 八大经典排序算法的理解、动图演示和C++方法实现
- ## [一张30年前的大学排行榜！](https://blog.csdn.net/qq_15698613/article/details/116567229)
- > 一张30年前的大学排行榜！
- ## [JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~](https://blog.csdn.net/weixin_43884234/article/details/116569562)
- > JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~
- ## [今天带你们用python爬虫，爬取最新更新的小说网站](https://blog.csdn.net/lh9987/article/details/116542535)
- > 今天带你们用python爬虫，爬取最新更新的小说网站
- ## [花了一天的时间给粉丝做了一个小米官网（高仿）](https://blog.csdn.net/weixin_41937552/article/details/116504625)
- > 花了一天的时间给粉丝做了一个小米官网（高仿）
- ## [程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码](https://blog.csdn.net/sinat_40770656/article/details/116464416)
- > 程序员五一被拉去相亲，结果彻底搞懂了HTTP常用状态码
+ ## [2023 iPhone，苹果自研 5G 芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1620694804&ver=3061&signature=-zdm2s6rsUJHDZC9YFox7FB6lITdzRg0o-n4W1VVuzHiN*IV*NUGjOQMhaV06EfnfrLBbuKxZtQx5a9QHwtJURcu0UsbwbXMMe5yvqQHxocV0fH7I9ivsVBzyTxzW5M6&new=1)
+ > 天风国际分析师郭明錤今天发布苹果研究报告，他认为苹果最早会从 2023 年发布的 iPhone 上搭载自研 5G 基带芯片，届时苹果将不再需要高通供应 5G 芯片。因为 2023 年会失去 iPhone 基带芯片订单，高通需要被迫与...
 # 人工智能 
  ## [UNIX 设计哲学：Do one thing and do it well](https://blog.csdn.net/universsky2015/article/details/116328109)
  > UNIX 设计哲学：Do one thing and do it well
