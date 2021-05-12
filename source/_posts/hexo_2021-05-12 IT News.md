@@ -1,21 +1,25 @@
 ---
 title: 2021-05-12 IT News
 copyright: true
-date: 2021-05-12 09:03:43
+date: 2021-05-12 10:02:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [天际汽车牵手京东 为行业树立数据、智能、场景、物流闭环新标杆|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=AAU6T2rzbG4oDQ9nb40-0P6M3OyWepUMZRKLYiXVhVz04AT9tEzVZmjk0uouLW04UPwYKy4QJQld*Otb96VubjDTu9h11cBzUvjIj0kqYf2iUNLb67*0oBiiDYOLTX47&new=1)
- > 作者 | 田大鹏● ● ●又一家科技互联网巨头入局汽车？5月7日，继华为、360、小米入局汽车之后，京东在中国国际消费品博览会上与天际汽车达成战略合作的消息再度成为新能源汽车产业的一大热点。　　5月6日，首届...
- ## [美国光靠自动化解决不了人工问题|陈经](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=nRhNoR1eWsTk6*FSUx-uMmjzyUktBm7aouvNsHcBM3YMMEPFecwBfRnP34PvOWgCSQhAd0LlWahL6R*pZ4K96n87I74X*sBsmWNsvY6IjRj7cqJS0q-1j9k*XTlwg7Ua&new=1)
- > 关注风云之声提升思维层次导读人不行了，就算指望机器人，也有个限度。《无与伦比：为何美国仍将是唯一超级大国》近日，美国《大西洋月刊》发表《中国是“纸龙”》一文，主要介绍了畅销书《无与伦比：为何美国仍...
- ## [西门子重返通信业?](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=1K2sDSJC7NazghSlXRiV2AlDqmH0hjGIizMFVcSRRw2WYwB4QG9kNSVUybbAulDEFJg*QPMkP9qCCcH17VDqV*9Ng39qDvNugWaFxy7SRIlIoVVee97zvaI2Lp8LfoDI&new=1)
- > 不久前，西门子发布声明，表示正在德国Deutsche Messe展览馆建设一张专门用于工业用途的5G专网，以用于在汉诺威工业博览会上的参展商进行5G测试和现场试验。声明提到，西门子已经在纽伦堡的汽车测试中心建设了5G...
- ## [对话英诺科技“三剑客”：将专注早期投资，重产业端重硬科技](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=sbC1RylBMos*1lcbIAji-ox8MCyZr1tNu*3ulJ8iE4Jxrn6nIHxkXn74tAqgVoPSIvJBQgWyQlmMWqLAemV5bE9r4AvGemE95QHqNU7zWQOp5qA8dr9oaalQFbI*WifJ&new=1)
+ ## [7点见|特斯拉中国4月销量环比大跌；疫情严重富士康印度工厂产量减半](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=VHGEIi8sw1nTHnPVyZdGaU2mak2oNAAsh1W5Jb2CREvxxMbu6fH80QhB-7tHBPc3tGUPPy-2iUYZnf*XD0BNpJh7yKa8OsBOGPnn-hCg4F*6szj*VOwHjR9Waga1K*ts&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！乘联会：特斯拉中国4月份销量为25845辆 环比下降27%5月11日消息，据乘联会微信公众号的数据显示，4月新能源乘用车市场多元化发力，大集团新能源表现分化加剧，上汽、广...
+ ## [专访一舟股份：光铜一体化推动高水平综合布线发展](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=NVFeQ7YTaDCs1BH2mUOu-Jl7jePaJx8E5x1F8eFt7l36p-LfCM*LSvi3eQ14E1LARBdL-ah0VYe1kc8y60nuc*4LTsfqWAumMDVgjWwyY9gCMbYGx-S2Z59-gDvnDbxI&new=1)
+ > 新闻导读讯石走进光铜综合布线的领导者——浙江一舟电子科技股份有限公司，一舟股份在数字通信领域快速发展,可以提供建筑智能化端到端的综合布线产品线和全生命周期融合解决方案，ICC讯 如今，伴随高清视频、云...
+ ## [对话英诺科技“三剑客”：将专注早期投资，重产业端重硬科技](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=sbC1RylBMos*1lcbIAji-ox8MCyZr1tNu*3ulJ8iE4Jxrn6nIHxkXn74tAqgVoPSz11sIEc6Vn*J7tUdh8qby6iwJVcIuvNaOIMUvG3HTa1oI-XhpiSTF2mS*abLRxzD&new=1)
  > “三剑客”认为，科创板和创业板的核心，不只是上市容不容易，而是一种开放的新机制，一种对整个中国资本市场、对民营企业开放的新机制。未来会是一个结构性的牛市。记者 | 于浩头图图虫新基建政策、国产替代趋...
- ## [3D打印技术将掀自动化建房革命?美媒这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=*yIpT7*uuFec0d-O2qDz5ly3jg*W0WH3ylA4C5YbjMzVXQ*7HlDc2AKYx6UGC8NXrKd7GtBfUPz7U-x6vwAuF*KYK4UTm7q1TNI5VBN-cWlJGxt4z9IYSHdprIP0rn7C&new=1)
+ ## [西门子重返通信业?](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=1K2sDSJC7NazghSlXRiV2AlDqmH0hjGIizMFVcSRRw2WYwB4QG9kNSVUybbAulDExuzdzf6AIpxws4RXA3Gbpst-VQbQCzScRmPHtdo3IZ2ODrAzFp92VFM7e0OjKGMU&new=1)
+ > 不久前，西门子发布声明，表示正在德国Deutsche Messe展览馆建设一张专门用于工业用途的5G专网，以用于在汉诺威工业博览会上的参展商进行5G测试和现场试验。声明提到，西门子已经在纽伦堡的汽车测试中心建设了5G...
+ ## [3D打印技术将掀自动化建房革命?美媒这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=*yIpT7*uuFec0d-O2qDz5ly3jg*W0WH3ylA4C5YbjMzVXQ*7HlDc2AKYx6UGC8NX8kSKiox7x0zVsmQnnQDlGrF787fr5s8vZVzfmhqb*wIjMxvpnEpMaGjQJ4S75F0J&new=1)
  > 据美联社近日报道，新一代初创企业希望利用工业3D打印机实现自动化建房，以此改变房屋的建造方式。报道介绍，3D打印又称增材制造，利用机器将塑料、金属、混凝土和其他材料的薄层叠加在一起，最终从底部向上制造...
+ ## [天际汽车牵手京东 为行业树立数据、智能、场景、物流闭环新标杆|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=AAU6T2rzbG4oDQ9nb40-0P6M3OyWepUMZRKLYiXVhVz04AT9tEzVZmjk0uouLW04cHJ2IRbHPvuaN**5nJQ4PlZoMDW*UL5XEp1y4pX8tZbMuUgE6h70phZmds1laeEd&new=1)
+ > 作者 | 田大鹏● ● ●又一家科技互联网巨头入局汽车？5月7日，继华为、360、小米入局汽车之后，京东在中国国际消费品博览会上与天际汽车达成战略合作的消息再度成为新能源汽车产业的一大热点。　　5月6日，首届...
+ ## [美国光靠自动化解决不了人工问题|陈经](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=nRhNoR1eWsTk6*FSUx-uMmjzyUktBm7aouvNsHcBM3YMMEPFecwBfRnP34PvOWgCukckLrZZuN7wIaJbdgiv9IhNq54CQHA4unPbZtZwaHVwtlBd7KHqChl2SvKR5W3R&new=1)
+ > 关注风云之声提升思维层次导读人不行了，就算指望机器人，也有个限度。《无与伦比：为何美国仍将是唯一超级大国》近日，美国《大西洋月刊》发表《中国是“纸龙”》一文，主要介绍了畅销书《无与伦比：为何美国仍...
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
  > 女友半夜加班发自拍 python男友用30行代码发现惊天秘密
@@ -79,6 +83,8 @@ categories: IT NEWS
  ## [大事件，Java被超越了，2021年5月TIOBE编程语言排行榜出炉](https://blog.csdn.net/chenlixiao007/article/details/116559079)
  > 大事件，Java被超越了，2021年5月TIOBE编程语言排行榜出炉
 # PM 
+ ## [手把手教你搭建（营销crm）平台（一）](http://www.chanpin100.com/article/115338)
+ > 会员体系的搭建间接影响着公司的整体销售收入，所以会员运营及会员产品经理的岗位必然会越来越受欢迎，大的方向，新零售行业，电商行业等，细分领域里等。
  ## [产品经理面试中关于公司架构方面的问题要如何回答？ （二）](http://www.chanpin100.com/article/115378)
  > 在上一篇文章中，我们讲述了产品经理面试中关于公司架构方面的问题要如何回答，本文是第二篇也是最后一篇，下面请看本文的具体内容。
  ## [产品经理面试中关于公司架构方面的问题要如何回答？ （一）](http://www.chanpin100.com/article/115377)
