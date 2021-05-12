@@ -1,56 +1,66 @@
 ---
 title: 2021-05-12 IT News
 copyright: true
-date: 2021-05-12 10:02:05
+date: 2021-05-12 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [7点见|特斯拉中国4月销量环比大跌；疫情严重富士康印度工厂产量减半](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=VHGEIi8sw1nTHnPVyZdGaU2mak2oNAAsh1W5Jb2CREvxxMbu6fH80QhB-7tHBPc3tGUPPy-2iUYZnf*XD0BNpJh7yKa8OsBOGPnn-hCg4F*6szj*VOwHjR9Waga1K*ts&new=1)
+ ## [长江存储最新声明：与国际供应链携手进步](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=SAB5wFcy9Um3Go2HuVnT0Z09RDe0nVQARTlK43vO985X6TzT3Iw1Kaa9NHhptaHwjcKWJUDic5hUCWBJu1dxmKq0oilJ4ybVlRwwcUu*b7sounCo*PSMlNC04yUNQnLy&new=1)
+ > 作为信息时代不可或缺的“载体”，近年来，存储芯片已经被赋予了更多使命，长江存储近期被迫被卷入了风暴的中心，引发了对国际供应链关系稳定性的猜测，不过今天长江存储正式辟谣。来源：长江存储长江存储声明如...
+ ## [特斯拉中国 4 月销量减少近万辆；用户：iPhone 升级后性能退回 3 年前；梁建章建议生一个孩子奖励 100 万|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=oFvtPyltdxHxbQztbFtj71b8tRYp8ujwYImhdfZsewM2xNhS1VlQPZX45xWpcL0XoWtIKVx8qEXYc9rDp9px5rMaDxsEUUMaVyeWKGlb2YAAJJkPvqzOlR--rQYu4l-m&new=1)
+ > 苹果、微软等美国科技巨头要求政府提供芯片制造补贴北京时间 5 月 12 日上午消息，苹果、微软、Alphabet 等芯片买家与英特尔等芯片制造商组建一个新的游说团体「美国半导体联盟」，它们向美国政府施压，希望获得...
+ ## [领导阶层的视若无睹仍是澳大利亚网络安全领域的最大障碍](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=f4JHYyLum2Pxjau3MoSIKIoiiTtpGIFjSVN2xlxqUbSZ84Co9sopix4dkMA3fAQ6Flw5dKqTNfRCPky0Y-w5g3h9a6XbYEvygnAZOJq-84C700kCSpBuvnXsah*T1vBJ&new=1)
+ > EE安全5月12日讯——Sophos最新的调查报告揭示了澳大利亚企业的领导能力和预算问题。Cyber Security新一代网络安全领导者Sophos在亚太和日本（APJ）开展的一项调查发现，各地的网络安全预算停滞不前，高管团队仍...
+ ## [解码API安全-挑战、威胁和最佳实践](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=o-fpNgSQsu46McBccRRpbvc3ww7Afay5-gFMZjVoq49p74-YJ7G3jQuHF4O4CWnfoGyale-*kuORBaCDRH-BaX*YBgdYNsWToxaFkxQpvX997Bs8KHBHymsG9wo4UHcP&new=1)
+ > 一、序言API为当今大多数数字体验提供了动力，API安全性仍然是大多数CXO最关心的问题。尽管数字化转型不断推动API在各个行业的应用，但恶意威胁行为比以往任何时候都更加瞄准API。当前API的安全状态与组织的需要...
+ ## [云岩区多项举措助推数字经济](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=WqlTbF09Zy88qj2bmvsu5P7OTNsWXC27VAwfubhRYd40BUD5NLdoNO7is9sMnTmBzX-vodpl4qesiJu4B8Z0zbnqc3DbRmL1uUf40eDSzaE=&new=1)
+ > 本报讯 5月10日，记者从云岩区工业和信息化局获悉，以省、市关于数字经济发展的系列决策部署为指导，云岩区将结合区域实际，大力发展数字经济，推进产业数字化、数字产业化，推动大数据与实体经济深入融合发...
+ ## [7点见|特斯拉中国4月销量环比大跌；疫情严重富士康印度工厂产量减半](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=VHGEIi8sw1nTHnPVyZdGaU2mak2oNAAsh1W5Jb2CREv*Kam0JT-8OvhG750pcS2TQvrlWNU-K3clN2Yn9OWf1qP8-dtecsQVsukslNKnyPkX1okAFrMP-y1cpOkZWSLk&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！乘联会：特斯拉中国4月份销量为25845辆 环比下降27%5月11日消息，据乘联会微信公众号的数据显示，4月新能源乘用车市场多元化发力，大集团新能源表现分化加剧，上汽、广...
- ## [专访一舟股份：光铜一体化推动高水平综合布线发展](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=NVFeQ7YTaDCs1BH2mUOu-Jl7jePaJx8E5x1F8eFt7l36p-LfCM*LSvi3eQ14E1LARBdL-ah0VYe1kc8y60nuc*4LTsfqWAumMDVgjWwyY9gCMbYGx-S2Z59-gDvnDbxI&new=1)
+ ## [专访一舟股份：光铜一体化推动高水平综合布线发展](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=NVFeQ7YTaDCs1BH2mUOu-Jl7jePaJx8E5x1F8eFt7l2-SNougxu16bkGRPlaY*H6jOMYnJig4WRBbrmleBvyByj*tuK1wNDGO0Dd6640po4FbiyVsUXcw1F8y9VVDwVr&new=1)
  > 新闻导读讯石走进光铜综合布线的领导者——浙江一舟电子科技股份有限公司，一舟股份在数字通信领域快速发展,可以提供建筑智能化端到端的综合布线产品线和全生命周期融合解决方案，ICC讯 如今，伴随高清视频、云...
- ## [对话英诺科技“三剑客”：将专注早期投资，重产业端重硬科技](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=sbC1RylBMos*1lcbIAji-ox8MCyZr1tNu*3ulJ8iE4Jxrn6nIHxkXn74tAqgVoPSz11sIEc6Vn*J7tUdh8qby6iwJVcIuvNaOIMUvG3HTa1oI-XhpiSTF2mS*abLRxzD&new=1)
+ ## [对话英诺科技“三剑客”：将专注早期投资，重产业端重硬科技](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=sbC1RylBMos*1lcbIAji-ox8MCyZr1tNu*3ulJ8iE4LYELw89bfCbEOo0D-hzn1dINui584M47AB27LMjHJ6yK0USWjGh*srWM4sd499kc18gjpJ1Or9It1IX0gyUZai&new=1)
  > “三剑客”认为，科创板和创业板的核心，不只是上市容不容易，而是一种开放的新机制，一种对整个中国资本市场、对民营企业开放的新机制。未来会是一个结构性的牛市。记者 | 于浩头图图虫新基建政策、国产替代趋...
- ## [西门子重返通信业?](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=1K2sDSJC7NazghSlXRiV2AlDqmH0hjGIizMFVcSRRw2WYwB4QG9kNSVUybbAulDExuzdzf6AIpxws4RXA3Gbpst-VQbQCzScRmPHtdo3IZ2ODrAzFp92VFM7e0OjKGMU&new=1)
+ ## [西门子重返通信业?](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=1K2sDSJC7NazghSlXRiV2AlDqmH0hjGIizMFVcSRRw3f6opNL4bBLNoDkuOSYkWOPm2XOE10SbC07tIOh8t6twbclguKhYeY*6MbTeKK4RbhDCzLBrZTQ70gzZBGqzDX&new=1)
  > 不久前，西门子发布声明，表示正在德国Deutsche Messe展览馆建设一张专门用于工业用途的5G专网，以用于在汉诺威工业博览会上的参展商进行5G测试和现场试验。声明提到，西门子已经在纽伦堡的汽车测试中心建设了5G...
- ## [3D打印技术将掀自动化建房革命?美媒这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=*yIpT7*uuFec0d-O2qDz5ly3jg*W0WH3ylA4C5YbjMzVXQ*7HlDc2AKYx6UGC8NX8kSKiox7x0zVsmQnnQDlGrF787fr5s8vZVzfmhqb*wIjMxvpnEpMaGjQJ4S75F0J&new=1)
+ ## [3D打印技术将掀自动化建房革命?美媒这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=*yIpT7*uuFec0d-O2qDz5ly3jg*W0WH3ylA4C5YbjMxCZ9gAa0tom9oVnmEy3MXm4rhT*aVP1pOFoL*Ect43gM-aaK8*6Df2FiMQcwnnNuCzIy29O2mz39Od9pReAKVP&new=1)
  > 据美联社近日报道，新一代初创企业希望利用工业3D打印机实现自动化建房，以此改变房屋的建造方式。报道介绍，3D打印又称增材制造，利用机器将塑料、金属、混凝土和其他材料的薄层叠加在一起，最终从底部向上制造...
- ## [天际汽车牵手京东 为行业树立数据、智能、场景、物流闭环新标杆|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=AAU6T2rzbG4oDQ9nb40-0P6M3OyWepUMZRKLYiXVhVz04AT9tEzVZmjk0uouLW04cHJ2IRbHPvuaN**5nJQ4PlZoMDW*UL5XEp1y4pX8tZbMuUgE6h70phZmds1laeEd&new=1)
+ ## [天际汽车牵手京东 为行业树立数据、智能、场景、物流闭环新标杆|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=AAU6T2rzbG4oDQ9nb40-0P6M3OyWepUMZRKLYiXVhVyeLpBnbg0GV87cHCfSNguCzAehOQcCpLX32JnJ1LjK1QLzr5pufH5ULKh5YzcHZjbQzXUrWwp78ZT5bBPlriM-&new=1)
  > 作者 | 田大鹏● ● ●又一家科技互联网巨头入局汽车？5月7日，继华为、360、小米入局汽车之后，京东在中国国际消费品博览会上与天际汽车达成战略合作的消息再度成为新能源汽车产业的一大热点。　　5月6日，首届...
- ## [美国光靠自动化解决不了人工问题|陈经](http://mp.weixin.qq.com/s?src=11&timestamp=1620784804&ver=3063&signature=nRhNoR1eWsTk6*FSUx-uMmjzyUktBm7aouvNsHcBM3YMMEPFecwBfRnP34PvOWgCukckLrZZuN7wIaJbdgiv9IhNq54CQHA4unPbZtZwaHVwtlBd7KHqChl2SvKR5W3R&new=1)
+ ## [美国光靠自动化解决不了人工问题|陈经](http://mp.weixin.qq.com/s?src=11&timestamp=1620790205&ver=3063&signature=nRhNoR1eWsTk6*FSUx-uMmjzyUktBm7aouvNsHcBM3YpsxPaiddjQRSL0c5l8FO936UEU*5T9knKL07cHWyNTeCKbzrSZ10Tgls1i1-RUCDERRmNt0g9CrlVCIGsqysR&new=1)
  > 关注风云之声提升思维层次导读人不行了，就算指望机器人，也有个限度。《无与伦比：为何美国仍将是唯一超级大国》近日，美国《大西洋月刊》发表《中国是“纸龙”》一文，主要介绍了畅销书《无与伦比：为何美国仍...
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
  > 女友半夜加班发自拍 python男友用30行代码发现惊天秘密
- ## [从PHP开始学渗透 -- 变量与引用](https://blog.csdn.net/weixin_41489908/article/details/116380261)
- > 从PHP开始学渗透 -- 变量与引用
+ ## [Java中线程安全问题](https://blog.csdn.net/weixin_44874269/article/details/116479785)
+ > Java中线程安全问题
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [C委托和事件入门详解](https://blog.csdn.net/spw55381155/article/details/116586665)
- > C委托和事件入门详解
- ## [利用Selenium添加cookie实现自动登录（fofa）](https://blog.csdn.net/bring_coco/article/details/116456228)
- > 利用Selenium添加cookie实现自动登录（fofa）
- ## [Android中jetpack讲解（详）--课外拓展知识讲解](https://blog.csdn.net/qq_45353823/article/details/116601218)
- > Android中jetpack讲解（详）--课外拓展知识讲解
- ## [python深度学习入门-与学习相关的技巧](https://blog.csdn.net/weixin_38477351/article/details/116380361)
- > python深度学习入门-与学习相关的技巧
- ## [IDEA 2021首个大版本发布，Java开发者感动哭了（附新亮点演示）](https://blog.csdn.net/wangshuaiwsws95/article/details/116518773)
- > IDEA 2021首个大版本发布，Java开发者感动哭了（附新亮点演示）
- ## [使用vue-cli搭建vue程序](https://blog.csdn.net/wei198621/article/details/116431613)
- > 使用vue-cli搭建vue程序
+ ## [集成学习-Blending算法](https://blog.csdn.net/qq_36816848/article/details/116674754)
+ > 集成学习-Blending算法
+ ## [webpack loader使用](https://blog.csdn.net/ivenqin/article/details/116520162)
+ > webpack loader使用
+ ## [十三、PHP框架Laravel学习笔记——构造器的 where 派生查询](https://blog.csdn.net/weixin_44827418/article/details/116522893)
+ > 十三、PHP框架Laravel学习笔记——构造器的 where 派生查询
+ ## [sqlmap工具与sql注入漏洞测试](https://blog.csdn.net/feinifi/article/details/116588477)
+ > sqlmap工具与sql注入漏洞测试
+ ## [2021年 Android 程序员真实的就业前景](https://blog.csdn.net/qq_39477770/article/details/116309188)
+ > 2021年 Android 程序员真实的就业前景
+ ## [Spring Cloud（H版）女朋友看了都会的超详细保姆级笔记！看完还不会算我输！](https://blog.csdn.net/lyyrhf/article/details/116326759)
+ > Spring Cloud（H版）女朋友看了都会的超详细保姆级笔记！看完还不会算我输！
+ ## [知乎热议：27岁没文凭、想自学编程，有机会成为程序员吗？互联网风口一去不复返了吗？](https://blog.csdn.net/Androiddddd/article/details/116655642)
+ > 知乎热议：27岁没文凭、想自学编程，有机会成为程序员吗？互联网风口一去不复返了吗？
+ ## [STM32调试串口](https://blog.csdn.net/thisway_diy/article/details/116642072)
+ > STM32调试串口
  ## [“升级版后浪”刷屏：B站别再搬砖砸自己脚了！](https://blog.csdn.net/csdnstudent/article/details/116656647)
  > “升级版后浪”刷屏：B站别再搬砖砸自己脚了！
+ ## [花了一天的时间给粉丝做了一个小米官网（高仿）](https://blog.csdn.net/weixin_41937552/article/details/116504625)
+ > 花了一天的时间给粉丝做了一个小米官网（高仿）
  ## [31个全网最常用python实现（体系学习，学完显著提高代码复用能力）](https://blog.csdn.net/qq_45803923/article/details/116572494)
  > 31个全网最常用python实现（体系学习，学完显著提高代码复用能力）
  ## [五分钟了解物联网SIM卡——这个文章刷新了我对sim卡的认识](https://blog.csdn.net/liming0931/article/details/116592846)
  > 五分钟了解物联网SIM卡——这个文章刷新了我对sim卡的认识
- ## [花了一天的时间给粉丝做了一个小米官网（高仿）](https://blog.csdn.net/weixin_41937552/article/details/116504625)
- > 花了一天的时间给粉丝做了一个小米官网（高仿）
- ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
- > 第十二届蓝桥杯（省赛）（C/C++大学B组）
- ## [JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~](https://blog.csdn.net/weixin_43884234/article/details/116569562)
- > JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~
 # 人工智能 
  ## [经典问题：数据有误，一定要重传吗？](https://blog.csdn.net/BEYONDMA/article/details/116398929)
  > 经典问题：数据有误，一定要重传吗？
@@ -83,6 +93,20 @@ categories: IT NEWS
  ## [大事件，Java被超越了，2021年5月TIOBE编程语言排行榜出炉](https://blog.csdn.net/chenlixiao007/article/details/116559079)
  > 大事件，Java被超越了，2021年5月TIOBE编程语言排行榜出炉
 # PM 
+ ## [女生在小红书交友被骗82万 种草机未来道阻且长](http://www.chanpin100.com/article/115388)
+ > 近日，一名女子来到杭州市公安局余杭分局南苑派出所报警，称自己在“小红书”APP上认识了一名男子，后在男子的指使下被骗82万余元。
+ ## [20亿买游戏直播版权 虎牙能甩开B站和快手的追赶吗？](http://www.chanpin100.com/article/115386)
+ > 在电竞赛事中，有钱能使鬼推磨这句话被体现得淋漓尽致，放眼行业内几个头部赛事，谁出的价高，谁就能拿下。
+ ## [产品经理面试技巧之产品基础篇（五）](http://www.chanpin100.com/article/115385)
+ > 如何将用户需求转化为产品需求呢？这道题在产品经理面试中也是很常见的，想知道如何回答的小伙伴请看本文“产品经理面试技巧之产品基础篇（五）”中的内容吧！
+ ## [周鸿祎看好华为战胜特斯拉 称中国公司可能全面颠覆汽车工业](http://www.chanpin100.com/article/115384)
+ > 五月十一日，在360集团智能汽车战略交流会上，360董事长兼首席执行官周鸿祎首次回应了造车传闻。他宣布360正式投资哪吒汽车，并领投哪吒D轮。
+ ## [Soul正式递交招股书 2020年营收4.98亿元](http://www.chanpin100.com/article/115383)
+ > Soul是一个社交平台，它于当地时间5月10日向SEC提交了招股书，申请在纳斯达克上市。该公司的财报显示，2020年营收为4.98亿元，比去年同期增长604.3%;2021年第一季度营收为2.38亿元，比去年同期增长260%，毛利率为86%。
+ ## [特斯拉男车主起诉维权女车主 律所称他炒作](http://www.chanpin100.com/article/115382)
+ > 五月十日，一位自称是律师的特斯拉男车主宋某，以一纸“诉状”，向维权女车主提出民事诉讼，要求其赔偿精神损失570元，并直言自己和身边其他特斯拉男车主在日常生活中都遭到过嘲讽、甚至人身攻击。
+ ## [产品经理面试技巧之产品基础篇（四）](http://www.chanpin100.com/article/115381)
+ > 你觉得产品经理哪项能力最重要？面试中遇到这个问题该如何作答呢？请看本文“产品经理面试技巧之产品基础篇（四）”中的内容吧！
  ## [手把手教你搭建（营销crm）平台（一）](http://www.chanpin100.com/article/115338)
  > 会员体系的搭建间接影响着公司的整体销售收入，所以会员运营及会员产品经理的岗位必然会越来越受欢迎，大的方向，新零售行业，电商行业等，细分领域里等。
  ## [产品经理面试中关于公司架构方面的问题要如何回答？ （二）](http://www.chanpin100.com/article/115378)
@@ -105,19 +129,5 @@ categories: IT NEWS
  > 产品经理应该怎样做好产品服务？这篇文章我们继续来聊这个话题。除了前面讲到的理性看待用户需求和进行需求评级，还有两外两个关键性的步骤，那就是系统架构和用户体验。
  ## [产品经理面试题分享：请简单介绍一下你做过的项目](http://www.chanpin100.com/article/115369)
  > 请简单介绍一下你做过的项目，你觉得你做的最好的是哪个项目？作为产品经理，面试中遇到这一类问题的概率比较大，那么它的回答技巧是什么呢？下面请看本文的介绍。
- ## [产品经理应该怎样做好产品服务？记住这几点！（上）](http://www.chanpin100.com/article/115368)
- > 企业服务类产品现在处在高速发展的阶段，作为一个企业服务产品，当然要做好服务。那么产品经理应该怎样做好产品服务呢？一定要记住这几点！
- ## [产品经理面试题分享：你在工作中遇到的最大的困难是什么?是怎么解决的？](http://www.chanpin100.com/article/115367)
- > 你在工作中遇到的最大的困难是什么?是怎么解决的？这道看起来挺简单的面试题在产品经理面试中偶尔还是会遇到的，那么关于这道题的回答技巧是什么呢？下面请看本文的具体内容。
- ## [2021年国潮品牌发展洞察](http://www.chanpin100.com/article/115342)
- > 2015到2021，当中国品牌插上数字化的翅膀，不同类型的“中国红”品牌依次爆发，推动国潮的全面繁荣。数字化将是洞察用户需求，品牌力升级的关键支撑。
- ## [从产品经理到产品负责人：洞察产品负责人的职业角色](http://www.chanpin100.com/article/115366)
- > 到底什么是产品负责人? 问问任何一个管理产品团队的产品经理们，让他们描述一下他们的工作，那么你每次都会得到一个稍微不同的答案。
- ## [当产品要转运营 建议尽快掌握这5项能力！](http://www.chanpin100.com/article/115365)
- > 遇到公司人手不够或业务调整，产品经理很可能要干些运营的活。当然，你可以坚决say no，只干产品工作；或者作出调整/牺牲，想办法快速上手运营工作。都说产品运营不分家，但是做起来，还真不是一回事。
- ## [分享：集团型企业数据中台建设方案](http://www.chanpin100.com/article/115324)
- > 数据中台需求的出现，是企业数字化转型的一个标志性的转折，数据中台成为热点，标志着在企业息化或者数字化的历史上数据从来没有距离业务这么近，数字化转型正从流程优先走向数据优先”。
- ## [到底什么是互联网产品？](http://www.chanpin100.com/article/115364)
- > 最近在带着团队从0到1构建互联网产品。针对互联网产品的搭建，有一点较困难的是如何区分传统软件开发、和互联网产品研发的区别。我总结了下面4点，让你快速区分互联网产品和传统软件。
 
     
