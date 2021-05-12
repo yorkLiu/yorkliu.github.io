@@ -1,21 +1,21 @@
 ---
 title: 2021-05-12 IT News
 copyright: true
-date: 2021-05-12 08:00:58
+date: 2021-05-12 09:03:43
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美国光靠自动化解决不了人工问题|陈经](http://mp.weixin.qq.com/s?src=11&timestamp=1620775805&ver=3063&signature=nRhNoR1eWsTk6*FSUx-uMmjzyUktBm7aouvNsHcBM3bvh0vBv5EZyI3Ft5SIU9WeQ9zF9c0nC*tMjF0LyGaCHMXwuOeEuyE6*23WK3X*8F6oP*PLMxoyn0l4gj1RgmVn&new=1)
- > 关注风云之声提升思维层次导读人不行了，就算指望机器人，也有个限度。《无与伦比：为何美国仍将是唯一超级大国》近日，美国《大西洋月刊》发表《中国是“纸龙”》一文，主要介绍了畅销书《无与伦比：为何美国仍...
- ## [3D打印技术将掀自动化建房革命?美媒这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1620775805&ver=3063&signature=*yIpT7*uuFec0d-O2qDz5ly3jg*W0WH3ylA4C5YbjMwIi48QXN0F5Shrp1w8AnDgwfqXXueFFVn6w6BQRSyrikB6a-BdBFrG-OmtVN84gWMkoLddhJOxpPCuxkQ0d22O&new=1)
- > 据美联社近日报道，新一代初创企业希望利用工业3D打印机实现自动化建房，以此改变房屋的建造方式。报道介绍，3D打印又称增材制造，利用机器将塑料、金属、混凝土和其他材料的薄层叠加在一起，最终从底部向上制造...
- ## [对话英诺科技“三剑客”：将专注早期投资，重产业端重硬科技](http://mp.weixin.qq.com/s?src=11&timestamp=1620775805&ver=3063&signature=sbC1RylBMos*1lcbIAji-ox8MCyZr1tNu*3ulJ8iE4K1ss43AHYh2BSvpAI8T02L801eQh2PW-cdkxAnyAq5aXGkXzq0umscLC*71*JJY3m-m14LiBMYh6QmLqRI9I22&new=1)
- > “三剑客”认为，科创板和创业板的核心，不只是上市容不容易，而是一种开放的新机制，一种对整个中国资本市场、对民营企业开放的新机制。未来会是一个结构性的牛市。记者 | 于浩头图图虫新基建政策、国产替代趋...
- ## [天际汽车牵手京东 为行业树立数据、智能、场景、物流闭环新标杆|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1620775805&ver=3063&signature=AAU6T2rzbG4oDQ9nb40-0P6M3OyWepUMZRKLYiXVhVwFXtsqqRSIqGmdwJTdaXxA2i6Tsn2xCm16xjl8-RJb7F0x9rb*m5wO-Np-AwD107ylmQ3uwWrjt4*VlgBxMpPu&new=1)
+ ## [天际汽车牵手京东 为行业树立数据、智能、场景、物流闭环新标杆|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=AAU6T2rzbG4oDQ9nb40-0P6M3OyWepUMZRKLYiXVhVz04AT9tEzVZmjk0uouLW04UPwYKy4QJQld*Otb96VubjDTu9h11cBzUvjIj0kqYf2iUNLb67*0oBiiDYOLTX47&new=1)
  > 作者 | 田大鹏● ● ●又一家科技互联网巨头入局汽车？5月7日，继华为、360、小米入局汽车之后，京东在中国国际消费品博览会上与天际汽车达成战略合作的消息再度成为新能源汽车产业的一大热点。　　5月6日，首届...
- ## [西门子重返通信业?](http://mp.weixin.qq.com/s?src=11&timestamp=1620775805&ver=3063&signature=1K2sDSJC7NazghSlXRiV2AlDqmH0hjGIizMFVcSRRw0gpN-OlqLbzubxDRrFmwZHCrZe71TY*MV5GY*KV34rpRUEbrud*qkZ2xGaRQ-6-4Elx*1uYxlcx7NoS8H4CTej&new=1)
+ ## [美国光靠自动化解决不了人工问题|陈经](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=nRhNoR1eWsTk6*FSUx-uMmjzyUktBm7aouvNsHcBM3YMMEPFecwBfRnP34PvOWgCSQhAd0LlWahL6R*pZ4K96n87I74X*sBsmWNsvY6IjRj7cqJS0q-1j9k*XTlwg7Ua&new=1)
+ > 关注风云之声提升思维层次导读人不行了，就算指望机器人，也有个限度。《无与伦比：为何美国仍将是唯一超级大国》近日，美国《大西洋月刊》发表《中国是“纸龙”》一文，主要介绍了畅销书《无与伦比：为何美国仍...
+ ## [西门子重返通信业?](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=1K2sDSJC7NazghSlXRiV2AlDqmH0hjGIizMFVcSRRw2WYwB4QG9kNSVUybbAulDEFJg*QPMkP9qCCcH17VDqV*9Ng39qDvNugWaFxy7SRIlIoVVee97zvaI2Lp8LfoDI&new=1)
  > 不久前，西门子发布声明，表示正在德国Deutsche Messe展览馆建设一张专门用于工业用途的5G专网，以用于在汉诺威工业博览会上的参展商进行5G测试和现场试验。声明提到，西门子已经在纽伦堡的汽车测试中心建设了5G...
+ ## [对话英诺科技“三剑客”：将专注早期投资，重产业端重硬科技](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=sbC1RylBMos*1lcbIAji-ox8MCyZr1tNu*3ulJ8iE4Jxrn6nIHxkXn74tAqgVoPSIvJBQgWyQlmMWqLAemV5bE9r4AvGemE95QHqNU7zWQOp5qA8dr9oaalQFbI*WifJ&new=1)
+ > “三剑客”认为，科创板和创业板的核心，不只是上市容不容易，而是一种开放的新机制，一种对整个中国资本市场、对民营企业开放的新机制。未来会是一个结构性的牛市。记者 | 于浩头图图虫新基建政策、国产替代趋...
+ ## [3D打印技术将掀自动化建房革命?美媒这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1620781204&ver=3063&signature=*yIpT7*uuFec0d-O2qDz5ly3jg*W0WH3ylA4C5YbjMzVXQ*7HlDc2AKYx6UGC8NXrKd7GtBfUPz7U-x6vwAuF*KYK4UTm7q1TNI5VBN-cWlJGxt4z9IYSHdprIP0rn7C&new=1)
+ > 据美联社近日报道，新一代初创企业希望利用工业3D打印机实现自动化建房，以此改变房屋的建造方式。报道介绍，3D打印又称增材制造，利用机器将塑料、金属、混凝土和其他材料的薄层叠加在一起，最终从底部向上制造...
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
  > 女友半夜加班发自拍 python男友用30行代码发现惊天秘密
@@ -39,14 +39,14 @@ categories: IT NEWS
  > “升级版后浪”刷屏：B站别再搬砖砸自己脚了！
  ## [31个全网最常用python实现（体系学习，学完显著提高代码复用能力）](https://blog.csdn.net/qq_45803923/article/details/116572494)
  > 31个全网最常用python实现（体系学习，学完显著提高代码复用能力）
- ## [花了一天的时间给粉丝做了一个小米官网（高仿）](https://blog.csdn.net/weixin_41937552/article/details/116504625)
- > 花了一天的时间给粉丝做了一个小米官网（高仿）
  ## [五分钟了解物联网SIM卡——这个文章刷新了我对sim卡的认识](https://blog.csdn.net/liming0931/article/details/116592846)
  > 五分钟了解物联网SIM卡——这个文章刷新了我对sim卡的认识
+ ## [花了一天的时间给粉丝做了一个小米官网（高仿）](https://blog.csdn.net/weixin_41937552/article/details/116504625)
+ > 花了一天的时间给粉丝做了一个小米官网（高仿）
  ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
  > 第十二届蓝桥杯（省赛）（C/C++大学B组）
- ## [模拟水面表面张力，效果自然、真实，北大图灵班研究入选SIGGRAPH](https://blog.csdn.net/update7/article/details/116569125)
- > 模拟水面表面张力，效果自然、真实，北大图灵班研究入选SIGGRAPH
+ ## [JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~](https://blog.csdn.net/weixin_43884234/article/details/116569562)
+ > JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~
 # 人工智能 
  ## [经典问题：数据有误，一定要重传吗？](https://blog.csdn.net/BEYONDMA/article/details/116398929)
  > 经典问题：数据有误，一定要重传吗？
