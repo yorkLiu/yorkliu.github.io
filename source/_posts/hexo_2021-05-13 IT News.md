@@ -1,26 +1,38 @@
 ---
 title: 2021-05-13 IT News
 copyright: true
-date: 2021-05-13 10:01:29
+date: 2021-05-13 12:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021数博会确定三大嘉宾观摩领域](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=ypnQhrxmq-5hPdUHxlKOECKuMAi4pNGRTpCMBbnIo42K4C8Z0gWZhhypBH0BgMlEt9o0d8rfXLAq9ujLEYBi1Pmatp5*n6AmIgpiug7szEg=&new=1)
+ ## [马斯克表示因环保原因特斯拉暂停比特币支付，曾发起狗狗币购车意愿投票，比特币失守5万美元狗狗币下跌](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=b4XwB6hkCFsDLoZ9v*azYOIg-KaVuUk4erfmYJwiIcnOtEX5gBQYMIp-kb*pp2wpTvdIYd8YFJTxzffg1nOE7AaQwLqOg3IyTPjRVkTyBtd*KX6ogKAynehp*4gJ-tzF&new=1)
+ > 蓝鲸财经旗下，专注互联网金融领域独家报道，大大集团、中晋、快鹿、链家金融、海通布局互金等独家线索均已10万+并引起大量媒体跟进。蓝鲸是重要财经资讯门户+财经记者工作平台，拥有150家媒体传播资源，每天有...
+ ## [特斯拉行车数据引质疑，Linux分时操作系统要背锅?专家呼吁车辆要标配“黑匣子”](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=2NhKFTrb-jILbQVKyS62VyR4GfvUh-5jVXlWQVbyimGTWOcQm9utn6wg9Crenj8DoEyYV2Z7*GeeS**uhC9qWx5fxikN2j9NiPptyAeSlhdefpLN-J6vdTod6hkABXPn&new=1)
+ > 记者丨李星日前，特斯拉失控事件频发，引起业内对自动驾驶数据安全问题的关注。以河南郑州事故车主为例，4月底，在郑州市郑东新区市场监管局责令下，特斯拉将车辆事故发生前半小时的数据提供给了车主张靓（化名...
+ ## [FragAttacks漏洞横扫全球所有WiFi设备](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=A6ZCq4zvroYi6S873dGYThMp*rZstUeWx57g3KQjVL4v3gBvJ12f3Oa9G58wtZJihtilncLt8U1-nS7ZKEvVA2X3vNr8Sxp-9z-MNh2XM4UIa9-Bmd7AnH2n3QyRNKbI&new=1)
+ > 众所周知，Wi-Fi设备（WLAN无线局域网设备）的网络协议安全性相当脆弱，过去二十年一直修修补补，但网络安全意识淡漠年代遗留的先天设计缺陷却始终是一个巨大隐患。随着智能手机、笔记本电脑、智能家居、联网汽...
+ ## [直播：GOM Scan 1新款3D便携扫描仪线上新品发布会 —操作简单、功能强大](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=yRze9YpgHIPrzs29btFv4UOR6IHYrQrc7lUZiti7w7kpqoDib7jDD9eKWOQ8IKj7TMfY16QP5N5EjnSm*T2YKpvuCyLhKP4nVr3VeczbmuNhBjT*RTUHTQ8KyBXD7oON&new=1)
+ > 主题：GOM Scan 1新款3D便携扫描仪线上新品发布会时间：2021年5月18日（周二）下午2:00 – 3:00直播讲师：鲍鹏宇，亚洲商务拓展经理 直播合作：南极熊GOM Scan 1介绍新型GOM Scan 1 是一款结构紧凑的移动
+ ## [美国国土安全委员会着手调查联邦政府对于石油天然气行业的网络安全监督](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=s4ofltLN1MC7BKux2slJDNi**NhG2*8SJ4YKefWYQK-GsK17SrO9H6EIHabl9x8-SplTw1MbukVBDq9*WQwAxioQ0e1dejV1-tLzrJ8ByXWNfDMxNqjVt1z2tWH4Rt87&new=1)
+ > ★前情提要★美国众议院国土安全委员会成员约翰·卡特科表示：该次网络攻击是美国历史上针对公共事业的最大攻击之一，凸显了保护关键技术设施的必要性。详细内容美国众议院国土安全委员会成员约翰·卡特科在上周...
+ ## [2021数博会确定三大嘉宾观摩领域](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=ypnQhrxmq-5hPdUHxlKOECKuMAi4pNGRTpCMBbnIo41Z-eg6IgzSWzW70nGp0pWg*YnrSh5zUlJlAMGyPjFC7xK1tM*xrieSc4vk54Y1IJo=&new=1)
  > 本报讯 5月12日，记者从数博会组委会获悉，2021中国国际大数据产业博览会日前正式确定了嘉宾观摩的三大领域，分别为大数据与实体经济融合、大数据与民生服务融合、大数据技术产业创新发展，共计3条路线，11...
- ## [火热报名中|5月28日欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=d1bA3dtkLKvCiOzDHrfST4-5HICrZIupJwfUpqf7Q3sMfs1Jay0amMUxp63SVg0KytVm7a-Rx1UFIfHmRDY9SlaW6pix87oIQIwLVSV7UuQ8WsuMjN0ZQJNxY2m*RY6C&new=1)
+ ## [特斯拉暂停比特币支付 马斯克：挖矿不够环保；苹果用手机秘密构建无线网；货拉拉回应造车：储备人才|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=KDbVe3IG8P-ZfMlRMq185WwZvFXOkOP2tqLZ-mZtGpTXZBT0hX-eEnK*kp1B8EfTwxOV1WD9MGSiNLdqZY4pUhBwdDDwoExjKP-LQX5z4xp4VHiNhxNbUQEoq7RC0FVV&new=1)
+ > 马斯克宣布特斯拉暂停使用比特币支付 加密货币纷纷跳水特斯拉 CEO 埃隆-马斯克周三在社交媒体上表示，出于「对比特币挖矿和交易中使用化石燃料频率迅速增加」的担忧，特斯拉暂停使用比特币来支付购车费用，但不...
+ ## [火热报名中|5月28日欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=d1bA3dtkLKvCiOzDHrfST4-5HICrZIupJwfUpqf7Q3sMfs1Jay0amMUxp63SVg0KylPhq4zf4B2pxDFH-UKsaEroflCrGoQgUWilHyEZMtGnBqB21TA4GSvIefL5Tz9J&new=1)
  > 新闻导读相约漓江·与光同行!5月28日，讯石信息咨询携手桂林光隆科技集团在广西桂林举办“2021讯石桂林光通信产学研论坛”，汇聚光通讯产业链及知名院校，寻求产学研融合，探讨光通信产业更大市场机遇，助力光通...
- ## [5G发展面临窘境，5G手机销量环比下滑，手机企业对5G热情降温](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=NXERZvcED81aRi-8R4SAFmybslSz8lnWfcv23zY5faVm7zpHytnWJvDP7T6MM-iY-wKCBT3zljuCpdoHQvNuTI8yipxLf6WNR8vLTiF0mLINEG0v46-zFcnr-ozpBvAR&new=1)
+ ## [5G发展面临窘境，5G手机销量环比下滑，手机企业对5G热情降温](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=NXERZvcED81aRi-8R4SAFmybslSz8lnWfcv23zY5faVm7zpHytnWJvDP7T6MM-iYe7P4ZTd8yOXRsVBAzOOvcmyyaih3dwiFprEpVEgnRisuyOD0lQWN8GX0ElGzV-Tu&new=1)
  > 信通院公布的数据显示，4月份5G手机占国内手机出货量的比例逼近八成，然而5G手机的销量却出现环比下滑、上市5G新机型占上市新机型的比例下滑，似乎显示出手机企业对5G的热情正在降温。信通院给出的4月份数据指国...
- ## [\[众智成城\]智能融入城市，“智慧”赋能滨海!](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=MD2pUr0E64PCsyPnOnoUKnSH9nEDTclc6aniHLBWJsgApXEUTt9kCI7NYQPvn5GoH72c2MNmbFvZ-0loysEXSB1hYM2j-e9nibsLLbLXKrSxFl38rFOX17H5H05EJYop&new=1)
+ ## [\[众智成城\]智能融入城市，“智慧”赋能滨海!](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=MD2pUr0E64PCsyPnOnoUKnSH9nEDTclc6aniHLBWJsgApXEUTt9kCI7NYQPvn5GojiRH9J17Hh2b5A-nXgRo-eWJPVmPkByQtVodRvzaPMgoPQr6yE-3*Y8Y7gQl3ZcB&new=1)
  > 信创企业、智能社区、智慧港口……5月12日，“众智成城”网络主题活动进入第二天。小编带大家来看看不一样“智慧”滨海！！▼信创企业 打造生态完善新高地天津在信创领域深耕了多年，形成了CPU芯片、服务器、操...
- ## [暗网上的俄罗斯黑客，这次把美国FBI逼急了](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=19N91O9qW0gUUcDJ7*gHEbPC6xhz23JFerOXI7TnqrOVCSFsV8CeRRVp*osX41IOJ6IWC1dNeWTBsq*LmaE0SdMQGMzUUWMzwU05-NyFp5*HM33uAHEpC93Blu-f6tFa&new=1)
+ ## [暗网上的俄罗斯黑客，这次把美国FBI逼急了](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=19N91O9qW0gUUcDJ7*gHEbPC6xhz23JFerOXI7TnqrOVCSFsV8CeRRVp*osX41IOJYXJW*0-0SImq2HLi1d783jwWAgO78jWuogX*TlP38VAYDjcvSPPB9prorbm76Ea&new=1)
  > 这两天，机哥家庭群里，流传着各种惊悚标题。中心意思都离不开一句话：“美国宣布进入国家紧急状态”。这是什么大新闻？该不会又是谣言吧。机哥认真探究之后，发现消息是真的。而且，深挖事件后，发现这事与数字...
- ## [3D Systems 2021年第一季度收入增长8%，但如履薄冰](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=S5pso*4uaEHNszWt8Wt9sx2uuLHT7oju0-K0arFBhtUUltHCUn4Ch54uhM5zJy6**asEd96Cqf7di543IKIX5RFCtP3sIfNVa0ZxteI1-c1sTPNE58QMFyZ9PA*OeWMR&new=1)
+ ## [3D Systems 2021年第一季度收入增长8%，但如履薄冰](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=S5pso*4uaEHNszWt8Wt9sx2uuLHT7oju0-K0arFBhtUUltHCUn4Ch54uhM5zJy6*ucgp4TC7IVue*jHeMD6kIQO5wGYBmlEsSxVTWOqOYhJVzvttgyctAIVmrIG22IzN&new=1)
  > 美国3D打印机制造商3D Systems (DDD)报告2021年第一季度收入增长8%，全面超过华尔街的普遍预期。在2021年第1季度，该公司的收入为1.46亿美元，比2020年第1季度的1.36亿美元增长8％，但仍比2019年第1季度的1
- ## [中国电信5G承载STN集采：华为、中兴、烽火和新华三中标](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=*Xkd*M3CHuISPDxpy7bD*xaPa67vXtSkuVNNUEHgUa08pSJ49ZaRZTfBw1o21ltHK*maKQ*PaTWq3eEuO1WmbZsIxmqQCeUoCZj7cqFXaxSKtZaOAPlWGUKLGFrG9HJn&new=1)
+ ## [中国电信5G承载STN集采：华为、中兴、烽火和新华三中标](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=*Xkd*M3CHuISPDxpy7bD*xaPa67vXtSkuVNNUEHgUa08pSJ49ZaRZTfBw1o21ltHQEgAWpAOj6JNFZnTt4lODBRpI-V4mBhoSmlS1zAAs6vX2KwjFl72Sv6zQDX2VbeT&new=1)
  > 5月12日，中国电信公示《2021年STN设备建设工程集中采购项目》STN-B标包中标候选人。根据评审结果，中标候选人推荐如下：1.第一中标候选人（1）单位名称：华为技术有限公司和华为技术服务有限公司联合体（2）投...
- ## [HTC VIVE Focus 3 VR一体机发布：进阶版沉浸视觉体验](http://mp.weixin.qq.com/s?src=11&timestamp=1620871205&ver=3065&signature=k2Ff*--pN0hOY1U7Yn2TkdLH3T*OZGYBOiyQFHtp51CPLgvFwGOeCDIgTFpBf-lzcD78dx7s3jmOvM-mBt-j9moCdj1n-7hCa92d*a6h*SGwqKDDdxHOgqtZLoqxR3k1&new=1)
+ ## [HTC VIVE Focus 3 VR一体机发布：进阶版沉浸视觉体验](http://mp.weixin.qq.com/s?src=11&timestamp=1620876605&ver=3065&signature=k2Ff*--pN0hOY1U7Yn2TkdLH3T*OZGYBOiyQFHtp51CPLgvFwGOeCDIgTFpBf-lzVwYg7tLkNuzsCtf3ahAOO8leWOn9BvFVr9jcMVxuCSyO4P4hMwE8s435kSOPr*RP&new=1)
  > HTC VIVE Focus 3亮点一览高通骁龙XR2平台5K级屏幕，高至90Hz刷新率120度视场角4摄像头Inside-out追踪定位在今天举行的HTC VIVE虚拟生态大会上，HTC正式推出了全新VR一体机VIVE Focus 3。V
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
@@ -41,18 +53,18 @@ categories: IT NEWS
  > 关于召开全国大学生智能车竞赛--百度智慧交通项目 技术交流活动通知（北方站）
  ## [Vue知识（一）Vue基础语法](https://blog.csdn.net/qq_39578545/article/details/116377917)
  > Vue知识（一）Vue基础语法
- ## [眼睛慢慢眯成一条线的人都是实力很强劲的，教你在Unity中通过BlendShape来实现角色面部表情过渡切换（Animation）](https://blog.csdn.net/linxinfa/article/details/116666936)
- > 眼睛慢慢眯成一条线的人都是实力很强劲的，教你在Unity中通过BlendShape来实现角色面部表情过渡切换（Animation）
- ## [Vue全家桶之Vue基础](https://blog.csdn.net/Better_Xing/article/details/116672836)
- > Vue全家桶之Vue基础
- ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
- > 第十二届蓝桥杯（省赛）（C/C++大学B组）
  ## [31个全网最常用python实现（体系学习，学完显著提高代码复用能力）](https://blog.csdn.net/qq_45803923/article/details/116572494)
  > 31个全网最常用python实现（体系学习，学完显著提高代码复用能力）
+ ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
+ > 第十二届蓝桥杯（省赛）（C/C++大学B组）
  ## [花了一天的时间给粉丝做了一个小米官网（高仿）](https://blog.csdn.net/weixin_41937552/article/details/116504625)
  > 花了一天的时间给粉丝做了一个小米官网（高仿）
- ## [0比20，字节跳动在与腾讯的这场掐架中输的太惨...](https://blog.csdn.net/csdnstudent/article/details/116709639)
- > 0比20，字节跳动在与腾讯的这场掐架中输的太惨...
+ ## [发现个python好玩的实战项目—色情图片识别](https://blog.csdn.net/yunyun889901/article/details/116571176)
+ > 发现个python好玩的实战项目—色情图片识别
+ ## [模拟水面表面张力，效果自然、真实，北大图灵班研究入选SIGGRAPH](https://blog.csdn.net/update7/article/details/116569125)
+ > 模拟水面表面张力，效果自然、真实，北大图灵班研究入选SIGGRAPH
+ ## [Python爬虫一键爬取海量表情包，分分钟碾压斗图狂魔！【附源码】](https://blog.csdn.net/zhiguigu/article/details/116652345)
+ > Python爬虫一键爬取海量表情包，分分钟碾压斗图狂魔！【附源码】
 # 人工智能 
  ## [取代Cookie失败，Google上线FLoC反遭“围攻”！](https://blog.csdn.net/csdnnews/article/details/116467327)
  > 取代Cookie失败，Google上线FLoC反遭“围攻”！
@@ -85,6 +97,18 @@ categories: IT NEWS
  ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
  > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
+ ## [AI产品经理轻松月薪3W+ 你考虑转行吗？](http://www.chanpin100.com/article/115434)
+ > 随着时代的发展，AI产品经理已经不是一个稀奇的职业，而且划分也越来越细，入行的人也越来越多。那么AI产品经理的工资高吗？真的能轻松月薪3W+吗？今天我们就来讨论一下。
+ ## [特斯拉中国销量狂跌近三成 新能源车市场日渐多元化](http://www.chanpin100.com/article/115440)
+ > 在第一季度打好基础，各车企迎来“开门红”后，4月汽车市场热度依然不减。根据中国汽车工业协会公布的最新数据，2021年4月，汽车产销环比下降，同比略有增长，增幅较上月明显回落。
+ ## [产品经理面试技巧之产品基础篇（十）](http://www.chanpin100.com/article/115438)
+ > 你觉得B端产品经理和C端产品经理的区别是什么呢？这道题可以说是常见面试题之一了，那么该如何作答呢？请看本文“产品经理面试技巧之产品基础篇（十）”中的分享内容吧！
+ ## [华为鸿蒙商标被驳回复审 涉及商标易造成混淆](http://www.chanpin100.com/article/115437)
+ > 企查查APP显示，华为技术有限公司曾在2019年申请注册“鸿蒙”商标，国际分类为设计研究类42项，商标状态变更为2020年被驳回复审。
+ ## [食用国家二级保护动物法螺的美食博主已被刑事拘留](http://www.chanpin100.com/article/115435)
+ > 之前一条“美食博主食用国家二级保护动物法螺”的新闻上了热搜，现在琼海警方已经对该美食博主依法刑事拘留，并且呼吁大家要热爱濒危野生动物，千万不要以身试法。
+ ## [【产品经理免费公开课】AI产品经理轻松月薪3W+不是梦](http://www.chanpin100.com/article/115433)
+ > 随着AI人工智能产业的兴起，AI产品经理也变成了一块香饽饽！这就导致了许多人想要进入AI产品经理行业，那么，AI产品经理的薪资如何呢？想要做AI产品经理都需要会什么呢？以上这些问题的答案将在本期免费公开课“AI产品经理轻松月薪3W+不是梦”中由谢玮老师为大家逐一解答，感兴趣的小伙伴快来报名吧！
  ## [产品经理面试技巧之产品基础篇（九）](http://www.chanpin100.com/article/115432)
  > 请介绍一款你近期在玩的产品！需求很多的时候，你是如何划分优先级的呢？你不是目标人群，怎么做好这个产品呢？以上这些问题究竟是在考察什么呢？请看本文“产品经理面试技巧之产品基础篇（九）”为你具体分析一下。
  ## [摹客——构建企业专属设计平台](http://www.chanpin100.com/article/115394)
@@ -111,17 +135,5 @@ categories: IT NEWS
  > 今天我们来讨论一个问题：对于B端产品经理来说 高效沟通为什么很重要？除了一些专业的技能，高效的沟通在工作中也发挥着重要的作用。因为对于B端产品经理来说，一个产品的规划和落地，其实就是一个沟通的过程。
  ## [智慧党建云展厅三维可视化](http://www.chanpin100.com/article/115387)
  > 图扑软件通过丰富的可视化渲染能力，为大家带来了党建智慧云展厅的案例。通过三维场景展示党建展厅各类主题元素，利用三维动效模拟党发展历史大事件。实现一套跨平台、轻量高性能的 Web 党建云展厅。
- ## [数据分析基础思维之：细分思维（系列文章第8篇）](http://www.chanpin100.com/article/115423)
- > 细分思维可以说是数据分析最重要的思维。这也是一个看起来很简单，想做好很难的技能。今天我们就来看看细分思维的几种境界。
- ## [B 端产品的运营活动 你会怎么做？](http://www.chanpin100.com/article/115421)
- > To B类产品不像 To C的产品，经常再会搞一些运营活动，无论是主题活动、补贴活动、促销活动，C 端产品由于其基于 C 端消费者，用户基数相对较大，因此通过线上的运营活动做的好，对产品的注册用户数、日活、交易量等都能带来显著的提升。
- ## [什么是结构化思维？产品经理如何培养结构化思维？](http://www.chanpin100.com/article/115422)
- > 今天我们来聊一下这两个话题：什么是结构化思维？产品经理如何培养结构化思维？小编根据自己的经验，总结了以下几个技巧，个人认为非常有用，一起看看吧！
- ## [惊呼：为什么大厂APP 都要跟踪你在其他APP和网站上的行为？](http://www.chanpin100.com/article/115420)
- > 你是不是有过这样的经历：在某个APP上浏览了某本书，然后到另一个AP后，这个APP很精准地给你推送了这本书的广告，然后如果你不下单，这本书如影随形一直跟着你。
- ## [如何计划一天工作安排？](http://www.chanpin100.com/article/115380)
- > 本文介绍如何较有效的利用方法合理安排自己的工作内容。按照重要紧急维度排序，重要紧急，重要非紧急，非重要紧急，非重要非紧急。不是每天都会有这几个维度的任务，而每天如果按照这种维度也是太单一了，还需要根据实际情况安排，但是大体这么安排都能涵盖住。
- ## [产品经理应该如何做好版本迭代管理？（下）](http://www.chanpin100.com/article/115419)
- > 产品经理应该如何做好版本迭代管理？除了要清楚产品版本迭代不仅是版本规划和版本管理，还要意识到，不仅是一颗糖这么简单。该如何理解不仅是一颗糖这句话呢？下面我们来具体看一下。
 
     
