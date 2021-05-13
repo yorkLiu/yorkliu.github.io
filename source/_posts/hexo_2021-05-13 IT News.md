@@ -1,40 +1,42 @@
 ---
 title: 2021-05-13 IT News
 copyright: true
-date: 2021-05-13 08:01:28
+date: 2021-05-13 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电信5G承载STN集采：华为、中兴、烽火和新华三中标](http://mp.weixin.qq.com/s?src=11&timestamp=1620864004&ver=3065&signature=*Xkd*M3CHuISPDxpy7bD*xaPa67vXtSkuVNNUEHgUa3r6aCZllBYtRisvwXMhzgofR1Hgc9QKgid1OOvoRUzMtWLmJdpTbBmy5lCBqS4taTqJCVqQV7HsX2Z0zmrJsWX&new=1)
- > 5月12日，中国电信公示《2021年STN设备建设工程集中采购项目》STN-B标包中标候选人。根据评审结果，中标候选人推荐如下：1.第一中标候选人（1）单位名称：华为技术有限公司和华为技术服务有限公司联合体（2）投...
- ## [暗网上的俄罗斯黑客，这次把美国FBI逼急了](http://mp.weixin.qq.com/s?src=11&timestamp=1620864004&ver=3065&signature=19N91O9qW0gUUcDJ7*gHEbPC6xhz23JFerOXI7TnqrNdwYt5pVatuhfCP*YrAXemOEbosA5ttxYx6F9PlJNx3Qf1h8PZ*J*93rL3PUuj5poINV-ewvmliL-kL0tCWmTt&new=1)
- > 这两天，机哥家庭群里，流传着各种惊悚标题。中心意思都离不开一句话：“美国宣布进入国家紧急状态”。这是什么大新闻？该不会又是谣言吧。机哥认真探究之后，发现消息是真的。而且，深挖事件后，发现这事与数字...
- ## [5G发展面临窘境，5G手机销量环比下滑，手机企业对5G热情降温](http://mp.weixin.qq.com/s?src=11&timestamp=1620864004&ver=3065&signature=NXERZvcED81aRi-8R4SAFmybslSz8lnWfcv23zY5faXHNMcEW7AVrKKPPa9NEv512nz0TTJavChwZjtM-0JOxf6Oz6YEhu-iTK7Sc5qOvDH9qt1NpV1JZx4jqmCVgdMd&new=1)
+ ## [5G发展面临窘境，5G手机销量环比下滑，手机企业对5G热情降温](http://mp.weixin.qq.com/s?src=11&timestamp=1620867605&ver=3065&signature=NXERZvcED81aRi-8R4SAFmybslSz8lnWfcv23zY5faXHNMcEW7AVrKKPPa9NEv517eEHnNCjIaGFHIORhki1*JFzpVdPpTcZX-12wg*jz8UKpZGuGm-c4w3pdzsAEhcS&new=1)
  > 信通院公布的数据显示，4月份5G手机占国内手机出货量的比例逼近八成，然而5G手机的销量却出现环比下滑、上市5G新机型占上市新机型的比例下滑，似乎显示出手机企业对5G的热情正在降温。信通院给出的4月份数据指国...
- ## [HTC VIVE Focus 3 VR一体机发布：进阶版沉浸视觉体验](http://mp.weixin.qq.com/s?src=11&timestamp=1620864004&ver=3065&signature=k2Ff*--pN0hOY1U7Yn2TkdLH3T*OZGYBOiyQFHtp51ANITXGMqyX3--lyHUeridkTdMOAx5fVrEPvY1FrM4KYEkiDx0MTw0AvYrJYmxzDL-niCn8CMb2p6JaYzUig5bi&new=1)
- > HTC VIVE Focus 3亮点一览高通骁龙XR2平台5K级屏幕，高至90Hz刷新率120度视场角4摄像头Inside-out追踪定位在今天举行的HTC VIVE虚拟生态大会上，HTC正式推出了全新VR一体机VIVE Focus 3。V
- ## [3D Systems 2021年第一季度收入增长8%，但如履薄冰](http://mp.weixin.qq.com/s?src=11&timestamp=1620864004&ver=3065&signature=S5pso*4uaEHNszWt8Wt9sx2uuLHT7oju0-K0arFBhtXn0j1Ht2L0d26x1pGqQOGh26U-sjuz6YFlkcAItt0iheTJkp0zm1CbDF4alUNIt0K8AyUYtq3MAU6gbNLAH8gw&new=1)
+ ## [\[众智成城\]智能融入城市，“智慧”赋能滨海!](http://mp.weixin.qq.com/s?src=11&timestamp=1620867605&ver=3065&signature=MD2pUr0E64PCsyPnOnoUKnSH9nEDTclc6aniHLBWJsif6VOPzXthv8BFwhPgfOgOt8i9Nq5vI38lyGOmp64rio1n8GAajxF8Qz-YUqbeoNUnuVM-q*1Y*FINAnSX738j&new=1)
+ > 信创企业、智能社区、智慧港口……5月12日，“众智成城”网络主题活动进入第二天。小编带大家来看看不一样“智慧”滨海！！▼信创企业 打造生态完善新高地天津在信创领域深耕了多年，形成了CPU芯片、服务器、操...
+ ## [暗网上的俄罗斯黑客，这次把美国FBI逼急了](http://mp.weixin.qq.com/s?src=11&timestamp=1620867605&ver=3065&signature=19N91O9qW0gUUcDJ7*gHEbPC6xhz23JFerOXI7TnqrNdwYt5pVatuhfCP*YrAXemwDpYqQNb60g48vveHr1J*YABp4Ce22OBMvJVA8HzMDuOaq8l5QFmu1OI*xklhs0R&new=1)
+ > 这两天，机哥家庭群里，流传着各种惊悚标题。中心意思都离不开一句话：“美国宣布进入国家紧急状态”。这是什么大新闻？该不会又是谣言吧。机哥认真探究之后，发现消息是真的。而且，深挖事件后，发现这事与数字...
+ ## [3D Systems 2021年第一季度收入增长8%，但如履薄冰](http://mp.weixin.qq.com/s?src=11&timestamp=1620867605&ver=3065&signature=S5pso*4uaEHNszWt8Wt9sx2uuLHT7oju0-K0arFBhtXn0j1Ht2L0d26x1pGqQOGhNNHbiFhrEC9whxcpjJh6JhnG0p*OwpQvFcN5VITX2HgzWFT19zmnTCA7tpPxmVGz&new=1)
  > 美国3D打印机制造商3D Systems (DDD)报告2021年第一季度收入增长8%，全面超过华尔街的普遍预期。在2021年第1季度，该公司的收入为1.46亿美元，比2020年第1季度的1.36亿美元增长8％，但仍比2019年第1季度的1
+ ## [中国电信5G承载STN集采：华为、中兴、烽火和新华三中标](http://mp.weixin.qq.com/s?src=11&timestamp=1620867605&ver=3065&signature=*Xkd*M3CHuISPDxpy7bD*xaPa67vXtSkuVNNUEHgUa3r6aCZllBYtRisvwXMhzgo-KKRIZ9Diw5Cr0j9ESqdrdHr2DazkYF0FdbdGSo6iopPISKI-GOfvWwotS3TBXeA&new=1)
+ > 5月12日，中国电信公示《2021年STN设备建设工程集中采购项目》STN-B标包中标候选人。根据评审结果，中标候选人推荐如下：1.第一中标候选人（1）单位名称：华为技术有限公司和华为技术服务有限公司联合体（2）投...
+ ## [HTC VIVE Focus 3 VR一体机发布：进阶版沉浸视觉体验](http://mp.weixin.qq.com/s?src=11&timestamp=1620867605&ver=3065&signature=k2Ff*--pN0hOY1U7Yn2TkdLH3T*OZGYBOiyQFHtp51ANITXGMqyX3--lyHUeridk9YwE2Fvua220G9KQ7afYywzt4zo0AVDDpkwQahPaAPsTSsqHtRZkmGeWMCqXAI*B&new=1)
+ > HTC VIVE Focus 3亮点一览高通骁龙XR2平台5K级屏幕，高至90Hz刷新率120度视场角4摄像头Inside-out追踪定位在今天举行的HTC VIVE虚拟生态大会上，HTC正式推出了全新VR一体机VIVE Focus 3。V
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
  > 女友半夜加班发自拍 python男友用30行代码发现惊天秘密
- ## [使用vue-cli搭建vue程序](https://blog.csdn.net/wei198621/article/details/116431613)
- > 使用vue-cli搭建vue程序
+ ## [keepalived项目实例](https://blog.csdn.net/givenchy_yzl/article/details/116694641)
+ > keepalived项目实例
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [\[zkaq靶场\]XXE(XML外部实体注入)](https://blog.csdn.net/weixin_42633229/article/details/116605496)
- > \[zkaq靶场\]XXE(XML外部实体注入)
- ## [\[N1CTF 2018\]eating_cms](https://blog.csdn.net/fmyyy1/article/details/116712577)
- > \[N1CTF 2018\]eating_cms
- ## [C【Windows窗体笔记整合，超全！超全！超全！】](https://blog.csdn.net/qq_51756226/article/details/116712353)
- > C【Windows窗体笔记整合，超全！超全！超全！】
- ## [Mysql注入 -- 数据库导出及读文件](https://blog.csdn.net/weixin_41489908/article/details/116662210)
- > Mysql注入 -- 数据库导出及读文件
- ## [关于召开全国大学生智能车竞赛--百度智慧交通项目 技术交流活动通知（北方站）](https://blog.csdn.net/zhuoqingjoking97298/article/details/116716722)
- > 关于召开全国大学生智能车竞赛--百度智慧交通项目 技术交流活动通知（北方站）
- ## [Vue知识（一）Vue基础语法](https://blog.csdn.net/qq_39578545/article/details/116377917)
- > Vue知识（一）Vue基础语法
+ ## [BUU-WEB-\[极客大挑战 2019\]PHP](https://blog.csdn.net/qq_24033605/article/details/116565780)
+ > BUU-WEB-\[极客大挑战 2019\]PHP
+ ## [视频图像处理——matlab的笔记](https://blog.csdn.net/qq_42479987/article/details/116543145)
+ > 视频图像处理——matlab的笔记
+ ## [React的类组件与函数式组件的不同，以及与React Hooks的对比](https://blog.csdn.net/aaqingying/article/details/116714444)
+ > React的类组件与函数式组件的不同，以及与React Hooks的对比
+ ## [☀️ 学会编程入门必备 C 最基础知识介绍(四)——数组、字符串、结构体、枚举、类](https://blog.csdn.net/zhangay1998/article/details/116479870)
+ > ☀️ 学会编程入门必备 C 最基础知识介绍(四)——数组、字符串、结构体、枚举、类
+ ## [使用Tensorflow训练BP神经网络实现鸢尾花分类](https://blog.csdn.net/weixin_44653914/article/details/116517033)
+ > 使用Tensorflow训练BP神经网络实现鸢尾花分类
+ ## [C 创建一个简单的单元测试实例（MSTest框架）](https://blog.csdn.net/run_bear/article/details/116641314)
+ > C 创建一个简单的单元测试实例（MSTest框架）
  ## [31个全网最常用python实现（体系学习，学完显著提高代码复用能力）](https://blog.csdn.net/qq_45803923/article/details/116572494)
  > 31个全网最常用python实现（体系学习，学完显著提高代码复用能力）
  ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
