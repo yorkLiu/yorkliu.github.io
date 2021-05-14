@@ -1,52 +1,54 @@
 ---
 title: 2021-05-14 IT News
 copyright: true
-date: 2021-05-14 08:00:58
+date: 2021-05-14 09:02:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [特斯拉CEO马斯克“变心”，加密货币全线暴跌!背后或有更深层次原因……](http://mp.weixin.qq.com/s?src=11&timestamp=1620948605&ver=3067&signature=jjv87KpEew1g-82-kumGkfMyVntYIhC3sO9Lnxd9mIFYXBWRd-vf3PGMBwl3zXZmfts99bpD2qCM952O5KFDDe93y9gePAIWGNdwTnUEmyF3ytC7l7KKi0StSqC0e3vk&new=1)
- > 比特币价格直线下跌，许多投资者惨遭“血洗”。今日马斯克突然宣布特斯拉暂停使用比特币来支付购车费用，并表示对比特币挖矿和交易中使用化石燃料频率迅速增加很担心。另有观点认为，投资者对于美联储能否坚持通...
- ## [字节跳动涉代码抄袭被诉陪22.74亿，连错误的函数都搬?](http://mp.weixin.qq.com/s?src=11&timestamp=1620948605&ver=3067&signature=W3brUic3xDRw1ufaMxQ94FW8B4itIas3ezF3ba8srPLQrl7hWzGI2Ed0BIgjsDug4LvxhNNibgMjQ5lveLE32MJE5gwX9nP8gZBjUQDbxJ*YDQ1lBPkSTqi905EwFzst&new=1)
+ ## [字节跳动涉代码抄袭被诉陪22.74亿，连错误的函数都搬?](http://mp.weixin.qq.com/s?src=11&timestamp=1620954004&ver=3067&signature=W3brUic3xDRw1ufaMxQ94FW8B4itIas3ezF3ba8srPJnWqcGXedGGQJCYctkDNOoDrrcU17f*oY4LuituVeSnnD3TTdLprPYa1qYqm2-qk-OmrFzna7I7bSkBjAfV-Qz&new=1)
  > 程序员求职面试（ID：CoderJob）整理内容参考自：美摄科技、企查查、第一财经等4月30日，美摄科技通过微信公众号发布声明，称近日已向法院以侵害计算机软件著作权及侵害技术秘密为由，正式起诉北京字节跳动科技...
- ## [30 年前，微软如何走出反垄断](http://mp.weixin.qq.com/s?src=11&timestamp=1620948605&ver=3067&signature=GN3jjzyeEjIyx-M3RX1wiNTS9WvQvGUHLq6TEXYPMgS5Icw3Viv08GnaxOK4ezPv*O9QT13PaXwqRLvlw45vxhmmLzdQCCMoTg*wp4p9ouXJbngtUlpET6Li9Yl8Gf5H&new=1)
- > 微软为何陷入反垄断，反垄断如何改变了微软，微软又是如何走出来的？作者：陈亦琪来源：乱翻书（ID：luanbooks）原标题：微软如何走出反垄断互联网经济的网络效应和规模效应给行业带来了天然的垄断趋势。2021 年...
- ## [违规!下架!](http://mp.weixin.qq.com/s?src=11&timestamp=1620948605&ver=3067&signature=969QIZd1JVysoFg4Qv-AQmQkXo*SGNaXPVXT6VIH7H3MQYlHYS4Y*IVXNCbjmxJ9LuOb3hR8x4X2hMrl-bRPAg9a*C0SMnIf816eANBzMeTbIlptdqCWU9ogQQQuLCb1&new=1)
+ ## [特斯拉CEO马斯克“变心”，加密货币全线暴跌!背后或有更深层次原因……](http://mp.weixin.qq.com/s?src=11&timestamp=1620954004&ver=3067&signature=jjv87KpEew1g-82-kumGkfMyVntYIhC3sO9Lnxd9mIHGLv4VadkLq-fgDpj7iGqYkWZGlrWtcYGhvlIvUbmk-T1yfHBfvwS14HbwzhNGwHYBlaWXrn-GoKJHeBaw9Wy1&new=1)
+ > 比特币价格直线下跌，许多投资者惨遭“血洗”。今日马斯克突然宣布特斯拉暂停使用比特币来支付购车费用，并表示对比特币挖矿和交易中使用化石燃料频率迅速增加很担心。另有观点认为，投资者对于美联储能否坚持通...
+ ## [违规!下架!](http://mp.weixin.qq.com/s?src=11&timestamp=1620954004&ver=3067&signature=969QIZd1JVysoFg4Qv-AQmQkXo*SGNaXPVXT6VIH7H3VUn01jX7Uld30SjpVSBWwSoXyk-TmQbZjJxn*rVaTgVp437Vz9Pr5Uc-4qw03*hoTmzN7Peayf-x2v6J8OdTZ&new=1)
  > 来源：央视新闻今天（5月13日），工信部通报下架90款侵害用户权益App，涉天涯社区、大麦、脉脉等。通报指出，2021年4月23日，工信部向社会通报了93家存在侵害用户权益行为App企业的名单。截至目前，经第三方检测...
- ## [在家看电视会泄露个人隐私?创维电视被曝采集用户隐私，记者走访海口门店调查](http://mp.weixin.qq.com/s?src=11&timestamp=1620948605&ver=3067&signature=fDf1AZXdLl12U1b-ycLZlHL*JqGD9nujVCpYwNi83EdM1NO*75hJwiTcHz4xiHZd7E9AGT3q8nfJvlbTrnkx216XRMcTc*HhXIvzctHB9MgBiVgKHI7aIcgCPqJRzmnK&new=1)
+ ## [\[众智成城\]养老、教育、生活……“智能”就在身边!](http://mp.weixin.qq.com/s?src=11&timestamp=1620954004&ver=3067&signature=6NzpaKHbWMZ26jkURQSaofJ3XKKMSeH2C9U11YWpHUEmlLjp*iqsDK*RDZ2QS*QauAeGDhh6AIy62xbHFtXGu*ZzElWJIxPlu931wz5Y9zrCsxEnNkv1S29MS3zZv1Hn&new=1)
+ > 知道吗？万物皆可“智能”，无论是衣食住行，还是养老、教育……“智能”就在我们身边！5月13日，“众智成城”网络主题活动带您一览身边的“智能”细节。▼智慧养老 给老人更多关爱2019年，天津大力发展居家养老...
+ ## [30 年前，微软如何走出反垄断](http://mp.weixin.qq.com/s?src=11&timestamp=1620954004&ver=3067&signature=GN3jjzyeEjIyx-M3RX1wiNTS9WvQvGUHLq6TEXYPMgT*tk-ykY2VGoImVtHryzQK9u7ss5iOB2-vhD8CMpvyFzcapQCiMoPQW-fywGahvBWIc7GZiRMoNMjPhGXdwUA9&new=1)
+ > 微软为何陷入反垄断，反垄断如何改变了微软，微软又是如何走出来的？作者：陈亦琪来源：乱翻书（ID：luanbooks）原标题：微软如何走出反垄断互联网经济的网络效应和规模效应给行业带来了天然的垄断趋势。2021 年...
+ ## [在家看电视会泄露个人隐私?创维电视被曝采集用户隐私，记者走访海口门店调查](http://mp.weixin.qq.com/s?src=11&timestamp=1620954004&ver=3067&signature=fDf1AZXdLl12U1b-ycLZlHL*JqGD9nujVCpYwNi83EfrGKkHOq4xpCqArBFscSrREiB5B4YFYqVXL7MdE2G2osXkQO-6Fo*JcEkp*sjJ6kVm0GsDWolI*FJjX88i-iSs&new=1)
  > 近年来，随着智能设备的普及，这些设备背后产生的海量数据成为了可供利用的资源。通过收集、分析这些大数据，不但可以更好地帮助广告商找到对应的用户，也可以了解用户的日常需求，促使科技人员研发出更贴合用户...
 # IT 技术 
  ## [震惊！全球最便宜的鸿蒙（OpenHarmony）开发板Neptune问世，只需9.9元，就可搞定一切，后续开发课程正在不断涌来](https://blog.csdn.net/nokiaguy/article/details/116739357)
  > 震惊！全球最便宜的鸿蒙（OpenHarmony）开发板Neptune问世，只需9.9元，就可搞定一切，后续开发课程正在不断涌来
- ## [重学C语言内存管理](https://blog.csdn.net/u014779536/article/details/116354403)
- > 重学C语言内存管理
+ ## [关于 PHP 8.1 的 Fiber RFC](https://blog.csdn.net/weixin_49163826/article/details/116721355)
+ > 关于 PHP 8.1 的 Fiber RFC
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [.cpp文件转换为.exe文件过程（C++）](https://blog.csdn.net/m0_47557768/article/details/116380280)
- > .cpp文件转换为.exe文件过程（C++）
- ## [Swift系列三十二 - 函数式编程](https://blog.csdn.net/yangbenben8866/article/details/116517834)
- > Swift系列三十二 - 函数式编程
- ## [\[Vue\] 模块化开发](https://blog.csdn.net/m0_47652477/article/details/116722685)
- > \[Vue\] 模块化开发
  ## [ThinkPHP5代码审计【未开启强制路由导致RCE】](https://blog.csdn.net/weixin_45669205/article/details/116724655)
  > ThinkPHP5代码审计【未开启强制路由导致RCE】
- ## [十八、PHP框架Laravel学习笔记——模型的增删改](https://blog.csdn.net/weixin_44827418/article/details/116766461)
- > 十八、PHP框架Laravel学习笔记——模型的增删改
- ## [node学习（一）基本使用](https://blog.csdn.net/lzr_ps/article/details/116758819)
- > node学习（一）基本使用
+ ## [☀️ 学会编程入门必备 C 最基础知识介绍(四)——数组、字符串、结构体、枚举、类](https://blog.csdn.net/zhangay1998/article/details/116479870)
+ > ☀️ 学会编程入门必备 C 最基础知识介绍(四)——数组、字符串、结构体、枚举、类
+ ## [Shiro框架-史上详解](https://blog.csdn.net/kentlhxy/article/details/116719968)
+ > Shiro框架-史上详解
+ ## [构建属于你自己的基于react的前端UI组件库](https://blog.csdn.net/kellywong/article/details/107499153)
+ > 构建属于你自己的基于react的前端UI组件库
+ ## [SpringBoot + Spring Cloud +Vue 管理系统前端搭建（二、visual studio code开发前端项目）](https://blog.csdn.net/JavaLLU/article/details/116569555)
+ > SpringBoot + Spring Cloud +Vue 管理系统前端搭建（二、visual studio code开发前端项目）
+ ## [Elasticsearch7.12常用操作总结](https://blog.csdn.net/liu320yj/article/details/115607070)
+ > Elasticsearch7.12常用操作总结
  ## [耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！](https://blog.csdn.net/c406495762/article/details/116740266)
  > 耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！
+ ## [飘了，我在B站讲Java](https://blog.csdn.net/sinat_33921105/article/details/116762210)
+ > 飘了，我在B站讲Java
  ## [程序员，你敲键盘的声音暴露了你的秘密！](https://blog.csdn.net/coderising/article/details/116725299)
  > 程序员，你敲键盘的声音暴露了你的秘密！
- ## [想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！](https://blog.csdn.net/qq_42366672/article/details/116711106)
- > 想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！
- ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
- > 第十二届蓝桥杯（省赛）（C/C++大学B组）
- ## [发现个python好玩的实战项目—色情图片识别](https://blog.csdn.net/yunyun889901/article/details/116571176)
- > 发现个python好玩的实战项目—色情图片识别
  ## [日常Java练习题（每天进步一点点系列）](https://blog.csdn.net/weixin_43883917/article/details/116749143)
  > 日常Java练习题（每天进步一点点系列）
+ ## [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817)
+ > 第十二届蓝桥杯（省赛）（C/C++大学B组）
+ ## [想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！](https://blog.csdn.net/qq_42366672/article/details/116711106)
+ > 想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！
 # 人工智能 
  ## [Nacos中已经有Optional使用案例了，是时候慎重对待这一语法了](https://blog.csdn.net/wo541075754/article/details/116582167)
  > Nacos中已经有Optional使用案例了，是时候慎重对待这一语法了
