@@ -1,24 +1,26 @@
 ---
 title: 2021-05-15 IT News
 copyright: true
-date: 2021-05-15 09:01:27
+date: 2021-05-15 10:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLSogEih4neS7AUykUdIEwyLTO5zeuVzADiR0dDn3dBmTa95YlGW6HIH4U*SGt-zI0PNK14LYCdb7itP1FQxiFw&new=1)
- > 本刊讯：新大陆通信公司闽侯制造中心开业庆典5月13日举行。新大陆科技集团董事长胡钢、副总裁林学杰等出席活动。实体经济是国家经济的立身之本，“智能制造”正在得到前所未有的重视。《中国制造2025》明确指出...
- ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9JS3TVWayIjaCGsnUl9PPXjRk8FqB8cIalWOGHTGgrqycCyZ5pBnIxlBNHgExErxLx1gAglGf4Win1m069MP63q&new=1)
- > 关注风云之声提升思维层次导读外行以为中国已经掌握了28纳米技术，但内行知道还没有。视频链接：西瓜视频：https://www.ixigua.com/6959918301896147495?wid_try=1本视频发布于2021年5月9日，观
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7aFv*MTDIfV5HcHvQane*3wpyGWNd7d-nrUGFDDUOjWJjbpwR*xA7hjyZKLeZO-s39mJ41U45PtBXUogEGgVEaK&new=1)
- > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
- ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiHdcwhlu0c6yZMukUgk-1UO4Sgpfxj0pnlOR7gdmFHwJPKz47qFCeF-CmPUGXYBEt9DDzF2LOVcKewoU987fFR&new=1)
+ ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiHdcwhlu0c6yZMukUgk-1UPVxXDnIQfVji2bAdaIBrbKNYopQG*AZm7H7vCOQIiZYbAT05bOGBoznI-vujjcTr&new=1)
  > 如果汽车企业不能因为收集数据而让用户得到显而易见的好处，汽车收集数据将越发困难，已经有的数据价值将快速提升，可以预见到依靠数据积累的大量科技公司和初创企业将面临数据荒的局面。另一方面，中国最大的汽...
- ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AW9qHIUSKd-eUqPJoxDUvErrSIlquMTlg*9*cIrg3BkVW1m*7yuDQ87hJcgP41gNlxquNo3R*yZDKPrQmH96ifZ&new=1)
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7aFv*MTDIfV5HcHvQane*3w*5O-OWK5iyIDxxqODVaw*eyvtLqGE7vT3aBFadA7lHRfsvAJn3676hLQX4MO72w3&new=1)
+ > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
+ ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AW9qHIUSKd-eUqPJoxDUvErNjSLSeVyQQgI57z6aE-3BoURtLOkHe2aGJakJtPGnlXC-iyaf4nPA8OzMXu8vp5b&new=1)
  > 路透社报道指出台积电在美国已开工建设5nm工厂，不过近日台积电计划在美国投资230亿到250亿美元（大约1500亿元人民币），台积电如此做也是无奈，因为它对美国的依赖进一步增强。在2020年9月15日台积电停止为华为...
+ ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9JS3TVWayIjaCGsnUl9PPXjAB-*s29Gg-3EpDUF1iPRkvI9XVHaYfHiRqCwzeXqpj7cdU6C6NqS9oMbr-qxnSol&new=1)
+ > 关注风云之声提升思维层次导读外行以为中国已经掌握了28纳米技术，但内行知道还没有。视频链接：西瓜视频：https://www.ixigua.com/6959918301896147495?wid_try=1本视频发布于2021年5月9日，观
+ ## [\[报告\]车企数据资产及业务价值实现白皮书(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=YnlXz*zFjLQf4jvv45hw5uhSwFY3OId7UD-fAwgoNAIXx6mcBC06nKSxHifvyRmXMzcgzjoc5lZWhiqEJosewT8R-cSZp2RqtXlifiF3kSS13CltjF1nKtrVLTIMsOHg&new=1)
+ > 从2012年中国超越美国成为全球规模最大的汽车市场起，过去十年，中国汽车市场年复合增长率达到15%，是全球增长最快的市场，占到全球市场增量的70%。然而随着新冠疫情到来，国内外经济环境的冲击加速了中国汽车市...
+ ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLSogEih4neS7AUykUdIEwyD3NaIYaRbH3RgECb1UwU*XlEhqk0Yo0jvQ2kSwcX5XovsMGaIx6JqzK175ETsPk2&new=1)
+ > 本刊讯：新大陆通信公司闽侯制造中心开业庆典5月13日举行。新大陆科技集团董事长胡钢、副总裁林学杰等出席活动。实体经济是国家经济的立身之本，“智能制造”正在得到前所未有的重视。《中国制造2025》明确指出...
 # IT 技术 
- ## [我用AI给女友画了一幅画，这届算法有点强！](https://blog.csdn.net/c406495762/article/details/116760610)
- > 我用AI给女友画了一幅画，这届算法有点强！
+ ## [震惊了，王者荣耀项目组发了60个月的年终奖！！！妈妈，我要做游戏](https://blog.csdn.net/perfect2011/article/details/116765119)
+ > 震惊了，王者荣耀项目组发了60个月的年终奖！！！妈妈，我要做游戏
  ## [入门级Vue 面试题+详解答案](https://blog.csdn.net/hugo233/article/details/116767520)
  > 入门级Vue 面试题+详解答案
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
@@ -39,10 +41,10 @@ categories: IT NEWS
  > 飘了，我在B站讲Java
  ## [15 个让新手爱不释手的 Python 高级库](https://blog.csdn.net/qq_40932679/article/details/116766730)
  > 15 个让新手爱不释手的 Python 高级库
- ## [那些35岁以上的程序员都去哪了？](https://blog.csdn.net/River_ly/article/details/116767361)
- > 那些35岁以上的程序员都去哪了？
  ## [STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)](https://blog.csdn.net/xiaolong1126626497/article/details/116746945)
  > STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)
+ ## [那些35岁以上的程序员都去哪了？](https://blog.csdn.net/River_ly/article/details/116767361)
+ > 那些35岁以上的程序员都去哪了？
  ## [耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！](https://blog.csdn.net/c406495762/article/details/116740266)
  > 耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！
  ## [程序员，你敲键盘的声音暴露了你的秘密！](https://blog.csdn.net/coderising/article/details/116725299)
