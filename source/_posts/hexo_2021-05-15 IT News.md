@@ -1,21 +1,21 @@
 ---
 title: 2021-05-15 IT News
 copyright: true
-date: 2021-05-15 08:01:45
+date: 2021-05-15 09:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621036804&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLlhYWSgfKcCNG9mN47CxxTSc5QxkQjUN*pbHSb7DeA56WVYQEzVfsmHCdy2Motqg5QEZoUa-WiBK3lqIQcBaLV&new=1)
+ ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLSogEih4neS7AUykUdIEwyLTO5zeuVzADiR0dDn3dBmTa95YlGW6HIH4U*SGt-zI0PNK14LYCdb7itP1FQxiFw&new=1)
  > 本刊讯：新大陆通信公司闽侯制造中心开业庆典5月13日举行。新大陆科技集团董事长胡钢、副总裁林学杰等出席活动。实体经济是国家经济的立身之本，“智能制造”正在得到前所未有的重视。《中国制造2025》明确指出...
- ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621036804&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9KXMwPzUGAoOax*DZdCeCauXSRpLgh5lvG-6rL7grWKN-NuWbHPIWmoxOv7PrYtVXvA8ZTlkT2UJHzjufD70o7J&new=1)
+ ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9JS3TVWayIjaCGsnUl9PPXjRk8FqB8cIalWOGHTGgrqycCyZ5pBnIxlBNHgExErxLx1gAglGf4Win1m069MP63q&new=1)
  > 关注风云之声提升思维层次导读外行以为中国已经掌握了28纳米技术，但内行知道还没有。视频链接：西瓜视频：https://www.ixigua.com/6959918301896147495?wid_try=1本视频发布于2021年5月9日，观
- ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621036804&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AV3dWPCWYq5tY5Nv8N2eK2ebdzLO3J7KvoafecXptZgISBCXAwqq6lSyi1rWJp6JnYwBqW0WLsnzpBI*wIKCkPz&new=1)
- > 路透社报道指出台积电在美国已开工建设5nm工厂，不过近日台积电计划在美国投资230亿到250亿美元（大约1500亿元人民币），台积电如此做也是无奈，因为它对美国的依赖进一步增强。在2020年9月15日台积电停止为华为...
- ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621036804&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxjahVLZ8XSAIuWT156RkrvOaaNVLvb6eBHqq5RfuyB8ejJw-0yRt5PGytmY3nR-FlvMNXiquMt1ySOo20KFYh6F&new=1)
- > 如果汽车企业不能因为收集数据而让用户得到显而易见的好处，汽车收集数据将越发困难，已经有的数据价值将快速提升，可以预见到依靠数据积累的大量科技公司和初创企业将面临数据荒的局面。另一方面，中国最大的汽...
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621036804&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7ZOFoi81nzablM2l2OBjB*eMQLi37GWyYbF8saKzSwVfCh7g*E2cFq9fh3CVRe2d34e6ueP23MabgzeEcbgCddo&new=1)
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7aFv*MTDIfV5HcHvQane*3wpyGWNd7d-nrUGFDDUOjWJjbpwR*xA7hjyZKLeZO-s39mJ41U45PtBXUogEGgVEaK&new=1)
  > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
+ ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiHdcwhlu0c6yZMukUgk-1UO4Sgpfxj0pnlOR7gdmFHwJPKz47qFCeF-CmPUGXYBEt9DDzF2LOVcKewoU987fFR&new=1)
+ > 如果汽车企业不能因为收集数据而让用户得到显而易见的好处，汽车收集数据将越发困难，已经有的数据价值将快速提升，可以预见到依靠数据积累的大量科技公司和初创企业将面临数据荒的局面。另一方面，中国最大的汽...
+ ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621040404&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AW9qHIUSKd-eUqPJoxDUvErrSIlquMTlg*9*cIrg3BkVW1m*7yuDQ87hJcgP41gNlxquNo3R*yZDKPrQmH96ifZ&new=1)
+ > 路透社报道指出台积电在美国已开工建设5nm工厂，不过近日台积电计划在美国投资230亿到250亿美元（大约1500亿元人民币），台积电如此做也是无奈，因为它对美国的依赖进一步增强。在2020年9月15日台积电停止为华为...
 # IT 技术 
  ## [我用AI给女友画了一幅画，这届算法有点强！](https://blog.csdn.net/c406495762/article/details/116760610)
  > 我用AI给女友画了一幅画，这届算法有点强！
@@ -45,8 +45,8 @@ categories: IT NEWS
  > STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)
  ## [耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！](https://blog.csdn.net/c406495762/article/details/116740266)
  > 耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！
- ## [STM32通信接口RS485](https://blog.csdn.net/thisway_diy/article/details/116779846)
- > STM32通信接口RS485
+ ## [程序员，你敲键盘的声音暴露了你的秘密！](https://blog.csdn.net/coderising/article/details/116725299)
+ > 程序员，你敲键盘的声音暴露了你的秘密！
 # 人工智能 
  ## [秒懂设计模式之原型模式（Prototype Pattern）](https://blog.csdn.net/ShuSheng0007/article/details/116463979)
  > 秒懂设计模式之原型模式（Prototype Pattern）
