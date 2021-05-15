@@ -1,58 +1,70 @@
 ---
 title: 2021-05-15 IT News
 copyright: true
-date: 2021-05-15 12:00:56
+date: 2021-05-15 17:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [未知大陆将在上海TCT发布2021年3D打印行业最新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=TTc6UbmYA4vE3c5fRE1PkUPrmVSz5-6Xs1xhKDmXfWBbRIGb2hSIGHJaPWnxyhZubX2KAk1ZUiPNZAiDjFCjC-Pkc2bHO-kGJquc8HOeljh*MjeiAYINp0MYS4G5Wvrs&new=1)
+ ## [华为被爆入局光刻机?荷兰ASML表态，台积电突然做出决定!](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=xciQA644EyOQwIeqJpfzCFruWyeRXfriGDKSybkWN*40z3jWAmsW5FiowOhn8BZMNX-2BTRXjs6O05QIA82HyKG*97ZnkIVwkX*n35dzXJ55DtpY5rSuUSe40*YZ-ccs&new=1)
+ > 芯片短缺一直是阻碍中国科学技术发展的难题，很多核心技术所需要的芯片都依赖于海外供货。然而，国与国之间除“合作共赢”之外，还有“竞争”，加上美国的各种从中阻拦，国企想要真正从海外购取所需芯片，并非那...
+ ## [真相是什么，运营商专业公司真的内卷内斗以及太多了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=dPWAP*0uo3pe7i2Q9*44r-G3K2u00n7WGUa2GxMoDmSFQvZlt4SeIP73vDv5RcHwPNo5NDPWJkukPx0uzrjkUu7w391Rt22aO*2wADM8qt4UaDq7*936zTwLd0i3Wblx&new=1)
+ > | 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文来源：水煮通信（shuizhutongxin）杂谈投稿邮箱：631255063@qq.com在这些高度市场竞争的产业领域，最高效率的组织方式毫无疑问就是成立专业化的公司，才能汇聚...
+ ## [两周倒计时|5月28日欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=VRjiMNnbqIyesbWHmOsz4UO2agRmQeEd58e93Cr3uS1zkVgoDfFkSDA-SQfdREEtOLp0If78s9NVnSa*PmoQkmiBEfo1pZDG0r6ihC5in-6JNSRBWWgc9zt0noLOC6cu&new=1)
+ > 新闻导读相约漓江·与光同行!5月28日，讯石信息咨询携手桂林光隆科技集团在广西桂林举办“2021讯石桂林光通信产学研论坛”，汇聚光通讯产业链及知名院校，寻求产学研融合，探讨光通信产业更大市场机遇，助力光通...
+ ## [大提速!广西这个变化，已经影响800万家庭!](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=xeqr3aTBX60BEkPyjJCSqdQxbtL4T-28GCvp7Hobjjp1XlhHR37n64ePMAQH9T6yql-M3IrI8rc9oBZnSxLtYmUmsUp7xbPyhLR3k21r0qGnyc79cF8TmyOZi2yG-x-n&new=1)
+ > 《2021年国务院政府工作报告》提出：“加大5G网络和千兆光网建设力度，丰富应用场景。运用好‘互联网+’，推进线上线下更广更深融合，发展新业态新模式，为消费者提供更多便捷舒心的服务和产品。”随着“千兆光...
+ ## [广西又拿下一个全国第一!这次是因为…](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=xeqr3aTBX60BEkPyjJCSqdQxbtL4T-28GCvp7Hobjjpm0Gcq6ua61kEJZ6whPCQungQR7HX6i*aRgTI7S3JmK0ibyhcJ-98rVoWAzvXkUoamPz3c8ERldrpQM*-cDYbi&new=1)
+ > 2021年“5.17”世界电信和信息社会日前夕，广西数字新基建传来好消息：建成国内千兆光网第一省区，率先走进“双千兆”时代！目前，中国电信广西公司已建成800多万千兆光端口，拥有130万千兆用户，在全国排名前列...
+ ## [美女与 IT 兽|兵临城下，零信任如何内外兼顾完美抵御攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=yL056QgfssJstT5f9Jlu6pcsSgBTa1pcpZB2J7zxRFOLEwhkOV12X1uSQKIyF2XRR5Gc0qrD4MWe36yi3ME-oTpTSN5IjxdWd81X8oiic-P2mny8f9MpDfoFCjPmw13s&new=1)
+ > （本文阅读时间：3分钟） 云上安全问题犹如战场枪林弹雨，兵临城下，没有合适的武器和足够的防御力，怎能完美抵御来犯“敌人”？都说信任是合作的基础，但是在网络安全方面却恰恰相反，唯有来者皆查严防死守，筑...
+ ## [未知大陆将在上海TCT发布2021年3D打印行业最新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=TTc6UbmYA4vE3c5fRE1PkUPrmVSz5-6Xs1xhKDmXfWCPWicJbAv0jUiLznzoM52IPH7-GK90m0btpoMhB*jFpGPQehkMAU*EuVJtzcJDKTod9uv8IYsqcfYfCRb5SRF6&new=1)
  > 上海TCT ASIA目前是亚洲最大的3D打印展会，未知大陆 CEO 李荣岳先生受邀参加TCT Introducing开放论坛，并于2021年5月27日上午10:00-10:20做主题《未知大陆商业模式及2021年3D打印行业最新趋势》的分享
- ## [2021数博会领先科技成果技术对接会拟于5月27日举行](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=DwPpeGo68VtQA6AObUem-rH2BgXkfzvTkLxwLIzNf7eRKUiWMhhmWfbp9p2qiisZeuy*iQGxznpTVfKgI-ozNXgphLkJ9HgZzkxC8uH8-eI=&new=1)
+ ## [2021数博会领先科技成果技术对接会拟于5月27日举行](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=DwPpeGo68VtQA6AObUem-rH2BgXkfzvTkLxwLIzNf7flBt1LTJKkhyqkXRnld5nRs8Zu*Vbd1Y1EUFy4b8XFGZ5oUHe4J7veQZz4Baw2kEM=&new=1)
  > 本报讯 5月14日，据中国国际大数据产业博览会数博发布组的消息，2021数博会领先科技成果技术对接会拟于5月27日举行。　　对接会以2021数博会领先科技成果技术对接为主轴，包括领先科技成果路演、成果转化经...
- ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiHdcwhlu0c6yZMukUgk-1UhPiTsWGjczU-QTGbxyBRKSfRwa3Ik8IcvisHSb6CdFPSKQWDKufOgqdyY6ZZVd1G&new=1)
+ ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiqMwby2srGqDGfe0fnEzz49nFv08ajD6yV6QeJSM45kyWWL3ISigU-HB0Cd8LOWcLLTpBJojZ8bS9vMm7yY6ey&new=1)
  > 如果汽车企业不能因为收集数据而让用户得到显而易见的好处，汽车收集数据将越发困难，已经有的数据价值将快速提升，可以预见到依靠数据积累的大量科技公司和初创企业将面临数据荒的局面。另一方面，中国最大的汽...
- ## [消费级增减材3D打印机Snapmaker 2.0旋转模组将亮相2021 TCT](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=JJ2HiIwDi4*XKQuBV5HFHNMv1ch9wgMnDq0k1gng1V3wdXSParQZbXRpXfMJYe698G0uCyxINrpgSeDAimKg6KwYol-SfJcV4eZOklYRRplEozCZglRqyfDDv1US3ndZ&new=1)
+ ## [消费级增减材3D打印机Snapmaker 2.0旋转模组将亮相2021 TCT](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=JJ2HiIwDi4*XKQuBV5HFHNMv1ch9wgMnDq0k1gng1V1RGBx4r7afuc6ynN73vJUc*G6cM0NONlGs56lSKrtaTVE*B-egnLxn2ixIJu5znnJKNAgpN3zR54tAiWZoB1bD&new=1)
  > 2021亚洲3D打印、增材制造展览会 (TCT Asia)将于2021年5月26日-28日在国家会展中心（上海）7.1馆举办，南极熊作为官方战略媒体，将会全程报道本次展会。在展会现场 7.1 馆 M28 展位，Snapmaker 将携核心产
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7aFv*MTDIfV5HcHvQane*3wJEXQ5NfQNYssUDMDhqo4aJt6YdCoTn6dIcnitlLtWrK98twXfxy8CUO21Zem7yal&new=1)
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7blQmFfu2bZ7fybZvP70JvUW17Aflo7k2sgPUCDPrtL1gN8Fyef9oNyj4cUrtQzDgGlk-eIMjwtPSgXSO*uhfht&new=1)
  > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
- ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AW9qHIUSKd-eUqPJoxDUvErlbgyXG7PrlZp6YY-K5ASBAHkMAw4DgjCw8CrkVbiGZfgwIuYnbM-hnYdZxm19RG-&new=1)
+ ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AWo0*bt6SkPzqgadnlQnjp6ARhbTQXV9KUHJoFO9IdiGmdnBGKwZq7SIYKVhqg5*YhIZ-SdcWY9DnaCcZgzdAeB&new=1)
  > 路透社报道指出台积电在美国已开工建设5nm工厂，不过近日台积电计划在美国投资230亿到250亿美元（大约1500亿元人民币），台积电如此做也是无奈，因为它对美国的依赖进一步增强。在2020年9月15日台积电停止为华为...
- ## [\[报告\]车企数据资产及业务价值实现白皮书(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=YnlXz*zFjLQf4jvv45hw5uhSwFY3OId7UD-fAwgoNAIXx6mcBC06nKSxHifvyRmXBrVFnd49Q7GNU0XDx7mVHnxo0IjyDVPJx4QRcHFpdTpJZFWutLRERUQ7fz43EXvo&new=1)
+ ## [\[报告\]车企数据资产及业务价值实现白皮书(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=YnlXz*zFjLQf4jvv45hw5uhSwFY3OId7UD-fAwgoNAKv0rXc35c7c49y7XBjFlsqOx8nGbGSRhCkKaBhl1TanQ0AQDNsG6AHMUvWOGuw2ECT8AZa7lTg3wm*d41yYds0&new=1)
  > 从2012年中国超越美国成为全球规模最大的汽车市场起，过去十年，中国汽车市场年复合增长率达到15%，是全球增长最快的市场，占到全球市场增量的70%。然而随着新冠疫情到来，国内外经济环境的冲击加速了中国汽车市...
- ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9JS3TVWayIjaCGsnUl9PPXjF5yotBA7hi1DlbWHbEZFcBUw*ph1prnYhUjWt0kCAp5hFpPvfPXndPnf9a7Doqh-&new=1)
+ ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9Lr6ElDwHDGFbblDoSF8rQqJp-8MXsexZU8sFo9uehcALse7jNCqNfvj8NTC7gAVnYBwAoIfpYaB2ZWohMEg8Wj&new=1)
  > 关注风云之声提升思维层次导读外行以为中国已经掌握了28纳米技术，但内行知道还没有。视频链接：西瓜视频：https://www.ixigua.com/6959918301896147495?wid_try=1本视频发布于2021年5月9日，观
- ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLSogEih4neS7AUykUdIEwyiDUg*g3JGR1FfYQPAO6ES6sJQeTVm4D4saGkUBz1cKawlRG-oez0dGqAyNOFhtX4&new=1)
+ ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621067404&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YIK31wBkvArYf5hBPPyxDhCzPnelmzKuE1iPF-T5v0Pf-3Hwgi0cxe*LOv23LN82OQeY-QNAIoXWL232c1a4Pno&new=1)
  > 本刊讯：新大陆通信公司闽侯制造中心开业庆典5月13日举行。新大陆科技集团董事长胡钢、副总裁林学杰等出席活动。实体经济是国家经济的立身之本，“智能制造”正在得到前所未有的重视。《中国制造2025》明确指出...
 # IT 技术 
- ## [为学弟学妹整理的学生成绩管理系统案例，适合小白](https://blog.csdn.net/weixin_41055260/article/details/116785540)
- > 为学弟学妹整理的学生成绩管理系统案例，适合小白
- ## [webpack学习](https://blog.csdn.net/qq_43819274/article/details/116238868)
- > webpack学习
+ ## [日常Java练习题（每天进步一点点系列）](https://blog.csdn.net/weixin_43883917/article/details/116781638)
+ > 日常Java练习题（每天进步一点点系列）
+ ## [入门级Vue 面试题+详解答案](https://blog.csdn.net/hugo233/article/details/116767520)
+ > 入门级Vue 面试题+详解答案
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [PHP之GD库扩展](https://blog.csdn.net/weixin_46334272/article/details/116799247)
- > PHP之GD库扩展
- ## [技术干货 | 基于 Qt Quick Plugin 快速构建桌面端跨平台组件](https://blog.csdn.net/netease_im/article/details/116618707)
- > 技术干货 | 基于 Qt Quick Plugin 快速构建桌面端跨平台组件
- ## [Python学习：如何使用pandas分析excel数据](https://blog.csdn.net/KiteRunner/article/details/116571267)
- > Python学习：如何使用pandas分析excel数据
- ## [基于ssm框架的图书借阅系统](https://blog.csdn.net/qq_44694720/article/details/116720066)
- > 基于ssm框架的图书借阅系统
- ## [从PHP开始学渗透 -- 变量与引用](https://blog.csdn.net/weixin_41489908/article/details/116380261)
- > 从PHP开始学渗透 -- 变量与引用
- ## [selenium的三种等待方式](https://blog.csdn.net/dingding_ting/article/details/116768566)
- > selenium的三种等待方式
+ ## [OpenCV 车辆检测/人脸识别+图像拼接+文字识别](https://blog.csdn.net/jartins/article/details/116666426)
+ > OpenCV 车辆检测/人脸识别+图像拼接+文字识别
+ ## [最值得收藏的 pycharm(Python) 常用快捷键使用, 并和不同软件中相同快捷键作比较, 让你的效率成倍增加](https://blog.csdn.net/weixin_43959833/article/details/116499313)
+ > 最值得收藏的 pycharm(Python) 常用快捷键使用, 并和不同软件中相同快捷键作比较, 让你的效率成倍增加
+ ## [吴恩达机器学习作业（一）_python实现](https://blog.csdn.net/qq_45882032/article/details/116500250)
+ > 吴恩达机器学习作业（一）_python实现
+ ## [手把手教你利用js给图片打马赛克](https://blog.csdn.net/JKR10000/article/details/116803023)
+ > 手把手教你利用js给图片打马赛克
+ ## [超漂亮的内存修改器，可以媲美某类似软件，UI界面反复调整 功能更加人性化，更多隐藏功能待您发现](https://blog.csdn.net/uaime/article/details/116717302)
+ > 超漂亮的内存修改器，可以媲美某类似软件，UI界面反复调整 功能更加人性化，更多隐藏功能待您发现
+ ## [postman的使用](https://blog.csdn.net/Hanmin_hm/article/details/116794831)
+ > postman的使用
  ## [国人项目，上了Github热榜了！！ 来瞅瞅，你会发现详见很晚](https://blog.csdn.net/youngyangyang04/article/details/116795585)
  > 国人项目，上了Github热榜了！！ 来瞅瞅，你会发现详见很晚
+ ## [基于stm32的光点运动轨迹控制](https://blog.csdn.net/weixin_43710740/article/details/116719600)
+ > 基于stm32的光点运动轨迹控制
  ## [15 个让新手爱不释手的 Python 高级库](https://blog.csdn.net/qq_40932679/article/details/116766730)
  > 15 个让新手爱不释手的 Python 高级库
  ## [飘了，我在B站讲Java](https://blog.csdn.net/sinat_33921105/article/details/116762210)
  > 飘了，我在B站讲Java
  ## [那些35岁以上的程序员都去哪了？](https://blog.csdn.net/River_ly/article/details/116767361)
  > 那些35岁以上的程序员都去哪了？
- ## [Python必应壁纸爬取系列（一）：Bing当天壁纸太美你却爬取不到？使用Python，70行代码保存当天必应的超美壁纸屏保（Python获取Microsoft的当天唯美壁纸）](https://blog.csdn.net/qq_45030271/article/details/116758182)
- > Python必应壁纸爬取系列（一）：Bing当天壁纸太美你却爬取不到？使用Python，70行代码保存当天必应的超美壁纸屏保（Python获取Microsoft的当天唯美壁纸）
  ## [耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！](https://blog.csdn.net/c406495762/article/details/116740266)
  > 耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！
 # 人工智能 
@@ -87,8 +99,6 @@ categories: IT NEWS
  ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
  > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
- ## [中国超2亿人正单身 是什么引发了单身潮？](http://www.chanpin100.com/article/115480)
- > 最近的央视报道表明，中国超2亿人正单身，这个数据着实有点吓人，而且中国家庭逐渐呈单身化趋势，这代表着越来越多的人没有结婚。在一线城市，大概有4成的单身青年是月光族。
  ## [产品经理必懂知识点详解之专业术语（十四）](http://www.chanpin100.com/article/115513)
  > 本文是产品经理必懂知识点详解之专业术语这个系列的最后一篇文章了，随着互联网的快速发展，产品经理这个岗位变得越来越重要了，对于产品经理来说，掌握一些行业内的专业术语显得尤为重要，本文给大家分享的专业术语是”二八定律“和”马太效应“。
  ## [产品经理必懂知识点详解之专业术语（十三）](http://www.chanpin100.com/article/115512)
