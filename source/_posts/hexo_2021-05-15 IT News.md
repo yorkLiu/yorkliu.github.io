@@ -1,54 +1,60 @@
 ---
 title: 2021-05-15 IT News
 copyright: true
-date: 2021-05-15 10:01:06
+date: 2021-05-15 12:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiHdcwhlu0c6yZMukUgk-1UPVxXDnIQfVji2bAdaIBrbKNYopQG*AZm7H7vCOQIiZYbAT05bOGBoznI-vujjcTr&new=1)
+ ## [未知大陆将在上海TCT发布2021年3D打印行业最新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=TTc6UbmYA4vE3c5fRE1PkUPrmVSz5-6Xs1xhKDmXfWBbRIGb2hSIGHJaPWnxyhZubX2KAk1ZUiPNZAiDjFCjC-Pkc2bHO-kGJquc8HOeljh*MjeiAYINp0MYS4G5Wvrs&new=1)
+ > 上海TCT ASIA目前是亚洲最大的3D打印展会，未知大陆 CEO 李荣岳先生受邀参加TCT Introducing开放论坛，并于2021年5月27日上午10:00-10:20做主题《未知大陆商业模式及2021年3D打印行业最新趋势》的分享
+ ## [2021数博会领先科技成果技术对接会拟于5月27日举行](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=DwPpeGo68VtQA6AObUem-rH2BgXkfzvTkLxwLIzNf7eRKUiWMhhmWfbp9p2qiisZeuy*iQGxznpTVfKgI-ozNXgphLkJ9HgZzkxC8uH8-eI=&new=1)
+ > 本报讯 5月14日，据中国国际大数据产业博览会数博发布组的消息，2021数博会领先科技成果技术对接会拟于5月27日举行。　　对接会以2021数博会领先科技成果技术对接为主轴，包括领先科技成果路演、成果转化经...
+ ## [智驾评论：汽车数据立规既要保护国家与公民安全也要兼顾中国企业出海便利](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=rdaf69hSdl9gzH7JOiGvQxqs6H5Q-j4f7z4Lic2VgxiHdcwhlu0c6yZMukUgk-1UhPiTsWGjczU-QTGbxyBRKSfRwa3Ik8IcvisHSb6CdFPSKQWDKufOgqdyY6ZZVd1G&new=1)
  > 如果汽车企业不能因为收集数据而让用户得到显而易见的好处，汽车收集数据将越发困难，已经有的数据价值将快速提升，可以预见到依靠数据积累的大量科技公司和初创企业将面临数据荒的局面。另一方面，中国最大的汽...
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7aFv*MTDIfV5HcHvQane*3w*5O-OWK5iyIDxxqODVaw*eyvtLqGE7vT3aBFadA7lHRfsvAJn3676hLQX4MO72w3&new=1)
+ ## [消费级增减材3D打印机Snapmaker 2.0旋转模组将亮相2021 TCT](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=JJ2HiIwDi4*XKQuBV5HFHNMv1ch9wgMnDq0k1gng1V3wdXSParQZbXRpXfMJYe698G0uCyxINrpgSeDAimKg6KwYol-SfJcV4eZOklYRRplEozCZglRqyfDDv1US3ndZ&new=1)
+ > 2021亚洲3D打印、增材制造展览会 (TCT Asia)将于2021年5月26日-28日在国家会展中心（上海）7.1馆举办，南极熊作为官方战略媒体，将会全程报道本次展会。在展会现场 7.1 馆 M28 展位，Snapmaker 将携核心产
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=t6W1wfkXZKwOHg3k*NdvaRu5DArgTwJMg2x-2XUDW7aFv*MTDIfV5HcHvQane*3wJEXQ5NfQNYssUDMDhqo4aJt6YdCoTn6dIcnitlLtWrK98twXfxy8CUO21Zem7yal&new=1)
  > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
- ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AW9qHIUSKd-eUqPJoxDUvErNjSLSeVyQQgI57z6aE-3BoURtLOkHe2aGJakJtPGnlXC-iyaf4nPA8OzMXu8vp5b&new=1)
+ ## [台积电无奈妥协，或将在美投资1500亿建设更先进3nm工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=IcCmTLZDtDCW*LnM2GiO5*eVO9UxFWmyu-qXoVVz2AW9qHIUSKd-eUqPJoxDUvErlbgyXG7PrlZp6YY-K5ASBAHkMAw4DgjCw8CrkVbiGZfgwIuYnbM-hnYdZxm19RG-&new=1)
  > 路透社报道指出台积电在美国已开工建设5nm工厂，不过近日台积电计划在美国投资230亿到250亿美元（大约1500亿元人民币），台积电如此做也是无奈，因为它对美国的依赖进一步增强。在2020年9月15日台积电停止为华为...
- ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9JS3TVWayIjaCGsnUl9PPXjAB-*s29Gg-3EpDUF1iPRkvI9XVHaYfHiRqCwzeXqpj7cdU6C6NqS9oMbr-qxnSol&new=1)
- > 关注风云之声提升思维层次导读外行以为中国已经掌握了28纳米技术，但内行知道还没有。视频链接：西瓜视频：https://www.ixigua.com/6959918301896147495?wid_try=1本视频发布于2021年5月9日，观
- ## [\[报告\]车企数据资产及业务价值实现白皮书(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=YnlXz*zFjLQf4jvv45hw5uhSwFY3OId7UD-fAwgoNAIXx6mcBC06nKSxHifvyRmXMzcgzjoc5lZWhiqEJosewT8R-cSZp2RqtXlifiF3kSS13CltjF1nKtrVLTIMsOHg&new=1)
+ ## [\[报告\]车企数据资产及业务价值实现白皮书(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=YnlXz*zFjLQf4jvv45hw5uhSwFY3OId7UD-fAwgoNAIXx6mcBC06nKSxHifvyRmXBrVFnd49Q7GNU0XDx7mVHnxo0IjyDVPJx4QRcHFpdTpJZFWutLRERUQ7fz43EXvo&new=1)
  > 从2012年中国超越美国成为全球规模最大的汽车市场起，过去十年，中国汽车市场年复合增长率达到15%，是全球增长最快的市场，占到全球市场增量的70%。然而随着新冠疫情到来，国内外经济环境的冲击加速了中国汽车市...
- ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621044004&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLSogEih4neS7AUykUdIEwyD3NaIYaRbH3RgECb1UwU*XlEhqk0Yo0jvQ2kSwcX5XovsMGaIx6JqzK175ETsPk2&new=1)
+ ## [在大陆生产芯片是台湾美国的联合打击?这种打击请多来点|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=7oXX-i8X9eNKIYuTa*tH3LwVmwYKgmLECsnhhpqPs9JS3TVWayIjaCGsnUl9PPXjF5yotBA7hi1DlbWHbEZFcBUw*ph1prnYhUjWt0kCAp5hFpPvfPXndPnf9a7Doqh-&new=1)
+ > 关注风云之声提升思维层次导读外行以为中国已经掌握了28纳米技术，但内行知道还没有。视频链接：西瓜视频：https://www.ixigua.com/6959918301896147495?wid_try=1本视频发布于2021年5月9日，观
+ ## [NEWS|拥抱智能制造 激活产业新动能 ——新大陆通信公司闽侯制造中心正式开业](http://mp.weixin.qq.com/s?src=11&timestamp=1621049404&ver=3069&signature=4d542oOYOhrEk4V9v5DmVMS*hincGX*FNYidwswl5YLSogEih4neS7AUykUdIEwyiDUg*g3JGR1FfYQPAO6ES6sJQeTVm4D4saGkUBz1cKawlRG-oez0dGqAyNOFhtX4&new=1)
  > 本刊讯：新大陆通信公司闽侯制造中心开业庆典5月13日举行。新大陆科技集团董事长胡钢、副总裁林学杰等出席活动。实体经济是国家经济的立身之本，“智能制造”正在得到前所未有的重视。《中国制造2025》明确指出...
 # IT 技术 
- ## [震惊了，王者荣耀项目组发了60个月的年终奖！！！妈妈，我要做游戏](https://blog.csdn.net/perfect2011/article/details/116765119)
- > 震惊了，王者荣耀项目组发了60个月的年终奖！！！妈妈，我要做游戏
- ## [入门级Vue 面试题+详解答案](https://blog.csdn.net/hugo233/article/details/116767520)
- > 入门级Vue 面试题+详解答案
+ ## [为学弟学妹整理的学生成绩管理系统案例，适合小白](https://blog.csdn.net/weixin_41055260/article/details/116785540)
+ > 为学弟学妹整理的学生成绩管理系统案例，适合小白
+ ## [webpack学习](https://blog.csdn.net/qq_43819274/article/details/116238868)
+ > webpack学习
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [OpenCV 车辆检测/人脸识别+图像拼接+文字识别](https://blog.csdn.net/jartins/article/details/116666426)
- > OpenCV 车辆检测/人脸识别+图像拼接+文字识别
- ## [最值得收藏的 pycharm(Python) 常用快捷键使用, 并和不同软件中相同快捷键作比较, 让你的效率成倍增加](https://blog.csdn.net/weixin_43959833/article/details/116499313)
- > 最值得收藏的 pycharm(Python) 常用快捷键使用, 并和不同软件中相同快捷键作比较, 让你的效率成倍增加
- ## [吴恩达机器学习作业（一）_python实现](https://blog.csdn.net/qq_45882032/article/details/116500250)
- > 吴恩达机器学习作业（一）_python实现
- ## [手把手教你利用js给图片打马赛克](https://blog.csdn.net/JKR10000/article/details/116803023)
- > 手把手教你利用js给图片打马赛克
- ## [超漂亮的内存修改器，可以媲美某类似软件，UI界面反复调整 功能更加人性化，更多隐藏功能待您发现](https://blog.csdn.net/uaime/article/details/116717302)
- > 超漂亮的内存修改器，可以媲美某类似软件，UI界面反复调整 功能更加人性化，更多隐藏功能待您发现
- ## [postman的使用](https://blog.csdn.net/Hanmin_hm/article/details/116794831)
- > postman的使用
- ## [飘了，我在B站讲Java](https://blog.csdn.net/sinat_33921105/article/details/116762210)
- > 飘了，我在B站讲Java
+ ## [PHP之GD库扩展](https://blog.csdn.net/weixin_46334272/article/details/116799247)
+ > PHP之GD库扩展
+ ## [技术干货 | 基于 Qt Quick Plugin 快速构建桌面端跨平台组件](https://blog.csdn.net/netease_im/article/details/116618707)
+ > 技术干货 | 基于 Qt Quick Plugin 快速构建桌面端跨平台组件
+ ## [Python学习：如何使用pandas分析excel数据](https://blog.csdn.net/KiteRunner/article/details/116571267)
+ > Python学习：如何使用pandas分析excel数据
+ ## [基于ssm框架的图书借阅系统](https://blog.csdn.net/qq_44694720/article/details/116720066)
+ > 基于ssm框架的图书借阅系统
+ ## [从PHP开始学渗透 -- 变量与引用](https://blog.csdn.net/weixin_41489908/article/details/116380261)
+ > 从PHP开始学渗透 -- 变量与引用
+ ## [selenium的三种等待方式](https://blog.csdn.net/dingding_ting/article/details/116768566)
+ > selenium的三种等待方式
+ ## [国人项目，上了Github热榜了！！ 来瞅瞅，你会发现详见很晚](https://blog.csdn.net/youngyangyang04/article/details/116795585)
+ > 国人项目，上了Github热榜了！！ 来瞅瞅，你会发现详见很晚
  ## [15 个让新手爱不释手的 Python 高级库](https://blog.csdn.net/qq_40932679/article/details/116766730)
  > 15 个让新手爱不释手的 Python 高级库
- ## [STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)](https://blog.csdn.net/xiaolong1126626497/article/details/116746945)
- > STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)
+ ## [飘了，我在B站讲Java](https://blog.csdn.net/sinat_33921105/article/details/116762210)
+ > 飘了，我在B站讲Java
  ## [那些35岁以上的程序员都去哪了？](https://blog.csdn.net/River_ly/article/details/116767361)
  > 那些35岁以上的程序员都去哪了？
+ ## [Python必应壁纸爬取系列（一）：Bing当天壁纸太美你却爬取不到？使用Python，70行代码保存当天必应的超美壁纸屏保（Python获取Microsoft的当天唯美壁纸）](https://blog.csdn.net/qq_45030271/article/details/116758182)
+ > Python必应壁纸爬取系列（一）：Bing当天壁纸太美你却爬取不到？使用Python，70行代码保存当天必应的超美壁纸屏保（Python获取Microsoft的当天唯美壁纸）
  ## [耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！](https://blog.csdn.net/c406495762/article/details/116740266)
  > 耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！
- ## [程序员，你敲键盘的声音暴露了你的秘密！](https://blog.csdn.net/coderising/article/details/116725299)
- > 程序员，你敲键盘的声音暴露了你的秘密！
 # 人工智能 
  ## [秒懂设计模式之原型模式（Prototype Pattern）](https://blog.csdn.net/ShuSheng0007/article/details/116463979)
  > 秒懂设计模式之原型模式（Prototype Pattern）
@@ -83,6 +89,16 @@ categories: IT NEWS
 # PM 
  ## [中国超2亿人正单身 是什么引发了单身潮？](http://www.chanpin100.com/article/115480)
  > 最近的央视报道表明，中国超2亿人正单身，这个数据着实有点吓人，而且中国家庭逐渐呈单身化趋势，这代表着越来越多的人没有结婚。在一线城市，大概有4成的单身青年是月光族。
+ ## [产品经理必懂知识点详解之专业术语（十四）](http://www.chanpin100.com/article/115513)
+ > 本文是产品经理必懂知识点详解之专业术语这个系列的最后一篇文章了，随着互联网的快速发展，产品经理这个岗位变得越来越重要了，对于产品经理来说，掌握一些行业内的专业术语显得尤为重要，本文给大家分享的专业术语是”二八定律“和”马太效应“。
+ ## [产品经理必懂知识点详解之专业术语（十三）](http://www.chanpin100.com/article/115512)
+ > 今天给大家讲一下”羊群效应“和”破窗理论“这两个专业术语是什么意思吧，希望各位产品经理能通过对这两个词汇的认知，让自己的工作更顺利地得以开展，下面请看本文的具体内容。
+ ## [产品经理必懂知识点详解之专业术语（十二）](http://www.chanpin100.com/article/115511)
+ > 本文要给大家分享的产品经理必懂专业术语是”商业价值“和”墨菲定律“，不知道前面的文章给大家普及的专业术语知识大家有没有消化吸收？希望本文的分享同样能给你带来帮助！
+ ## [产品经理必懂知识点详解之专业术语（十一）](http://www.chanpin100.com/article/115510)
+ > 今天要给大家分享的产品经理必懂专业术语是”蓝海与红海“和”进入壁垒“，掌握了这些专业术语之后会更有利于产品经理工作的开展，下面请看本文的具体内容。
+ ## [产品经理必懂知识点详解之专业术语（十）](http://www.chanpin100.com/article/115509)
+ > 对于产品经理来说，不掌握足够的专业术语知识，怎么能称为一名合格的产品经理呢？小编今日为大家分享的专业术语是”用户任务的闭环“和”KPI“，希望大家都能掌握这些专业术语，成为一名优秀的产品经理！
  ## [35岁 失业半年 有些事早知道就好了](http://www.chanpin100.com/article/115508)
  > 2020年，对这个世界来说，是魔幻的一年。对我而言，是梦幻的一年。3月份，公司拖欠工资，不得不离开；11月份，新公司又业务调整，战略性裁员，不得不失业。
  ## [【连载 11】 产品的BUG](http://www.chanpin100.com/article/115507)
@@ -109,15 +125,5 @@ categories: IT NEWS
  > 产品经理上培训班有用吗？能提升能力吗？在回答这个问题之前，我先来吐槽一下某些培训机构。那种几天就能让你具备几年工作经验的培训班，说白了就是叫你简历造假，什么实际的东西都学不到。还有一种，就是完全没有做过产品经理的人在那里授课，他们的背景都是造假的，其实大家去查一下就知道了。
  ## [有没有比较靠谱的互联网产品经理培训课程？](http://www.chanpin100.com/article/115494)
  > 许多同学在考虑转行产品经理，他们经常会问小编一个问题：有没有比较靠谱的互联网产品经理培训课程？今天小编就来告诉大家答案：肯定是有的，但是要擦亮眼睛。
- ## [产品经理线上培训课程靠谱吗？好就业吗？](http://www.chanpin100.com/article/115493)
- > 现在各种线上的课程越来越多，广告打得相当诱人，价格也比较平民。那么产品经理线上培训课程靠谱吗？好就业吗？许多准备转行产品经理的同学们肯定都有这个疑问，今天我们就来分析一下。
- ## [参加产品经理培训 面授班与在线班有什么区别？](http://www.chanpin100.com/article/115492)
- > 最近有许多小伙伴想转行产品经理的岗位，他们想快速的掌握一些核心技能，于是就选择参加培训。那么问题来了，是线上培训好还是线下培训好呢？我们将从以下几个方面进行对比。
- ## [产品经理培训费用是多少？哪个培训机构比较好？](http://www.chanpin100.com/article/115491)
- > 目前，产品经理这个行业还是比较火的，所以越来越多的人加入。那么一个小白该如何转行产品经理呢？许多同学都选择进行培训。现在产品经理培训机构非常多，课程也五花八门，那么产品经理培训费用是多少？哪个培训机构比较好呢？
- ## [参加产品经理培训 能够学到哪些技能？](http://www.chanpin100.com/article/115490)
- > 产品经理课程必须包括7个主要方面：产品思考能力的培养，用户竞品分析和产品定位，产品所需的技术知识，产品前开发，产品后开发，产品操作和数据分析，项目实战和产品迭代。然后将产品经理必备的技能融合到多个实战项目中，通过授课的方式依次呈现给大家学习。
- ## [产品经理培训真的能学到东西吗？好就业吗？](http://www.chanpin100.com/article/115489)
- > 产品经理培训真的能学到东西吗？好就业吗？这篇文章我们就来讨论一下这个话题。简单来说，个人觉得产品经理的培训是能学到东西的，就业前景的话也是不错的。
 
     
