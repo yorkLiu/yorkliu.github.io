@@ -1,24 +1,28 @@
 ---
 title: 2021-05-16 IT News
 copyright: true
-date: 2021-05-16 12:01:02
+date: 2021-05-16 17:01:35
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Python创始人，我希望让语言速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=QD9V*oDrwuL0exXfaMCN8XmpXQ4PzEVwW3qgSrCSI-REYBxPIgcOqLgnBxEyrlWvgVEg6yfvl4X86rg4oZ24wpPR9wmkMwcM8jeVEfq-jUgBkSGObxrAWiYshgMcJece&new=1)
- > 导读：Python的创建者说可以在不破坏任何原有Python代码情况下，提高1-5倍性能，他能完成此操作吗？30年前创建了流行编程语言Python的吉多·范·罗瑟姆（Guido van Rossum），最近又开始了他的雄心壮志——他要...
- ## [\[报告\]2021中国汽车后市场发展机会(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=WIM9PTaMraRpPeZx4SfMRCk19tJcoOl-jryldhuvziKl2fXuz8hgIWr1A2AN3gITpzOE0kvHCxDz4jiKRpD25mgrmBj-ImraX-lB9vuZu3np4JEaxKAnhHgUgAz39dkD&new=1)
+ ## [\[报告\]2021中国汽车后市场发展机会(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=WIM9PTaMraRpPeZx4SfMRCk19tJcoOl-jryldhuvziKhQd8oK9PbhPZacf02uW6hjg53V7Iwu80GpUFUw*4I7x1YAC9ycjweJTphNqdYE7u5mWtV7jgs77aiN8ug*HOQ&new=1)
  > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│罗兰贝格本报告共计：20页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
- ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=qaGXbfL6TqIn1stqlWb9fd8ysWCFVVOTeOb8dctcOf27rrj3hBJq3QKt3xeaHPenloWtM0Kg1NWU6M5eskJe*z-2uMU5*AgR3eJTTebcgSDtbDziA5qf39hzwQeq6np0&new=1)
- > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《合伙机制与股权激励》学习资料
- ## [2021数博会将发布《省域数据要素市场自治与可信流通白皮书》](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=EC-qEgnVe8bh3N4*ZNO3xLvtcnYXNNTfI5piz5XN*GlDIAywRXcjiJfOpyGvdrxYwpxosqAb*r8CxHlkVKoAu3I0RtGtd2G3ERQymEn4TtM=&new=1)
+ ## [近2000万物联网卡差点儿流入黑市!国家重磅启动“断卡行动2.0”](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=ibnNud8tEzJ2LNqmyJnx4PoW1wMXeATVgtf2krPYHGRsDJBRfup-IiDZJ5d0ESbplwbMoqm3tFlSazvdsW4U83Hi3o7KNSTcLzQFovGw92OxMUItOygzhlfzUU3TTUdV&new=1)
+ > | 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者： 赵小飞本文来源：物联网智库（iot101）杂谈投稿邮箱：631255063@qq.com在“断卡行动2.0”的部署下，物联网卡监管或迎来新的变局。2020年10月，为严厉打
+ ## [2021数博会将发布《省域数据要素市场自治与可信流通白皮书》](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=EC-qEgnVe8bh3N4*ZNO3xLvtcnYXNNTfI5piz5XN*GnCa9UqOQplW08nFCzNLHolDgeGYjGh9DNBc7cwmiUimmN00c8ZY3iDnRMk2Co6v3g=&new=1)
  > 本报讯 5月15日，记者从中国国际大数据产业博览会数博发布组获悉，2021数博会将于5月27日发布《省域数据要素市场自治与可信流通白皮书》。　　白皮书将针对培育数据要素市场方面面临的主要问题，提出促进数...
- ## [刘鹤开会，提到的“后摩尔时代”是什么概念?](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=xceXKnMTfeVXFnvghiN6F9kUKap4ndBmuk9lY4ZmhzXdmz3RIggpGzLSwjCNJaBz9ZcpiS2Q4YZoKxWSo0QWePfUijgU0VRT6WXje4XWs7iA*3Se8xBE3uhHxoUEEnRb&new=1)
+ ## [1纳米以下制程重大突破!台积电官宣“铋”密武器](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=CxblvqROZAQVPPvz9U89wbB9tZFdieCiaJA0Lf5n2d0AqsBLt7pvyzcDnH7n7*BJ5W4HcS6wa8o*8ki67MMXmaeGlCQvU2J1DqmJB7ur-Z-u9DN0j6CBidwjBgLNg6hc&new=1)
+ > 来源｜新智元 编辑｜yaxin，LQIBM 刚刚官宣研发2nm芯片不久，台积电再次发起了挑战！台积电取得1nm以下制程重大突破，不断地挑战着物理极限。近日，台大与台积电、美国麻省理工学院合作研究发现二维材料结合「半...
+ ## [Python创始人，我希望让语言速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=QD9V*oDrwuL0exXfaMCN8XmpXQ4PzEVwW3qgSrCSI-QVxESaDIiD-qXSqhpuJkYG75m2CIcg5bOvLWdUfQ17CG0mxHJLxZh6GC1a*rgp2nRr04fELrlEIruC4SxF-wEm&new=1)
+ > 导读：Python的创建者说可以在不破坏任何原有Python代码情况下，提高1-5倍性能，他能完成此操作吗？30年前创建了流行编程语言Python的吉多·范·罗瑟姆（Guido van Rossum），最近又开始了他的雄心壮志——他要...
+ ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=qaGXbfL6TqIn1stqlWb9fd8ysWCFVVOTeOb8dctcOf1hl6-BfAKdvpcIsPFxEwDTwADuUoXwShBrmphbGKmhUgaBly5B7aFJXUklWQns7PcAATscHIPHjlaAjhbrLBFa&new=1)
+ > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《合伙机制与股权激励》学习资料
+ ## [刘鹤开会，提到的“后摩尔时代”是什么概念?](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=xceXKnMTfeVXFnvghiN6F9kUKap4ndBmuk9lY4ZmhzX6lTDJ6884K9zJRvQzCfpHpfXhXYrrD-3M1oYgCQBOz4tnxzivRX3nD2oL-RC-A5I9XqdqckBirClycSJ-EC40&new=1)
  > 来源：经济学家圈（jingjixuejiaquan）国家科技体制改革和创新体系建设领导小组第十八次会议5月14日在北京召开。中共中央政治局委员、国务院副总理、国家科技体制改革和创新体系建设领导小组组长刘鹤主持会议并...
- ## [共推5G产业演进：中国联通和华为联合创新5G-Advanced技术](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=8QHtlvbn0pfu3NhVyzHG522pVXHfqIPSII0MnhTPaFQKJh2DdasvDsX4CnwLTz1aM9gpNgTmecpPozWUoqQ0DERcWnU1P0ADXQmBMGt33blGCNS2BGsOY-CeVuXgw7Fa&new=1)
+ ## [共推5G产业演进：中国联通和华为联合创新5G-Advanced技术](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=8QHtlvbn0pfu3NhVyzHG522pVXHfqIPSII0MnhTPaFSLoDI9yOlrcZ1-zbjBSqNFz9DUWDNRyeNqeuV78d7YGcoVtaf4uqUQLH6urapZuS2LcG5KqrarYIrEIq8hv*Xu&new=1)
  > 移动通信十年一代，每一个大的代际中技术仍在持续创新、不断向前演进。2G到3G有GPRS/EDGE、3G到4G有HSPA、4G到5G有LTE Advanced Pro……在4月27日的第46次PCG(项目合作组)会议上，3GPP正式将5G进化
- ## [启明创投叶冠泰：元气森林、泡泡玛特等新消费品牌，极大地推动了中国SaaS进程](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=JeaC4nDH7smj9eHn5rdcY93LfWmdytUn8GVDdqbbStrbPSjYfrZ8wc*m6u0K2jRHupslxFWWqI9vdfIjs2C1kfV7xLWTcLP*KHx-vVwzgsR3OtbNFHShp9I4*9kUD1KH&new=1)
+ ## [启明创投叶冠泰：元气森林、泡泡玛特等新消费品牌，极大地推动了中国SaaS进程](http://mp.weixin.qq.com/s?src=11&timestamp=1621155604&ver=3071&signature=JeaC4nDH7smj9eHn5rdcY93LfWmdytUn8GVDdqbbStqa1KsSVElGBBt8hyRFK2V8YGo7KW*GQWeBrPGlkf2d5ei0vYt90MifU4AtgpL7lR1gKILqYcVuvQHB4t0KkFJx&new=1)
  > 图片来源：CFP启明创投合伙人叶冠泰在近日举行的“第15届中国投资年会·年度峰会”论坛上，就SaaS和数字化转型做了分享。他指出，过去5年，云计算和SaaS方面是美国非常热的一个投资方向，而在中国市场衍生出一些...
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
@@ -45,12 +49,12 @@ categories: IT NEWS
  > 飘了，我在B站讲Java
  ## [那些35岁以上的程序员都去哪了？](https://blog.csdn.net/River_ly/article/details/116767361)
  > 那些35岁以上的程序员都去哪了？
- ## [15 个让新手爱不释手的 Python 高级库](https://blog.csdn.net/qq_40932679/article/details/116766730)
- > 15 个让新手爱不释手的 Python 高级库
  ## [面试字节我被String类的问题给问死了！](https://blog.csdn.net/wj1314250/article/details/116807402)
  > 面试字节我被String类的问题给问死了！
  ## [STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)](https://blog.csdn.net/xiaolong1126626497/article/details/116746945)
  > STM32+MPU6050设计便携式Mini桌面时钟(自动调整时间显示方向)
+ ## [耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！](https://blog.csdn.net/c406495762/article/details/116740266)
+ > 耗时3个月，近10W字的刷题笔记，多语言通吃，秒杀 80% Leetcode 题目！
 # 人工智能 
  ## [秒懂设计模式之原型模式（Prototype Pattern）](https://blog.csdn.net/ShuSheng0007/article/details/116463979)
  > 秒懂设计模式之原型模式（Prototype Pattern）
