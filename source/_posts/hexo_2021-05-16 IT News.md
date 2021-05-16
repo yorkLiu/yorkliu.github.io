@@ -1,40 +1,40 @@
 ---
 title: 2021-05-16 IT News
 copyright: true
-date: 2021-05-16 08:00:56
+date: 2021-05-16 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [启明创投叶冠泰：元气森林、泡泡玛特等新消费品牌，极大地推动了中国SaaS进程](http://mp.weixin.qq.com/s?src=11&timestamp=1621121405&ver=3071&signature=JeaC4nDH7smj9eHn5rdcY93LfWmdytUn8GVDdqbbStpNJLQdyqHE7Eq2fXLAXSG-p7-nG94M2g7YGXU6fHnkvXWf*qnERD27vjjpyYX4kIKlRNlgTr-sYR64xL9E55Aa&new=1)
- > 图片来源：CFP启明创投合伙人叶冠泰在近日举行的“第15届中国投资年会·年度峰会”论坛上，就SaaS和数字化转型做了分享。他指出，过去5年，云计算和SaaS方面是美国非常热的一个投资方向，而在中国市场衍生出一些...
- ## [共推5G产业演进：中国联通和华为联合创新5G-Advanced技术](http://mp.weixin.qq.com/s?src=11&timestamp=1621121405&ver=3071&signature=8QHtlvbn0pfu3NhVyzHG522pVXHfqIPSII0MnhTPaFTKprBjuYm7T52Nv*q4zMWRivSyP1nqoxRWt4GemMYho2nFdqZerDxzuvZWZim9CVFMmCfNC9RqcGVCG-tFyw1k&new=1)
+ ## [共推5G产业演进：中国联通和华为联合创新5G-Advanced技术](http://mp.weixin.qq.com/s?src=11&timestamp=1621125004&ver=3071&signature=8QHtlvbn0pfu3NhVyzHG522pVXHfqIPSII0MnhTPaFTKprBjuYm7T52Nv*q4zMWR3G9kL1ZLMZsGjkITJcTy4CSVnWelDnLQ3wKWBOsNNAdeax*Po3dolYZl5LN1WUX7&new=1)
  > 移动通信十年一代，每一个大的代际中技术仍在持续创新、不断向前演进。2G到3G有GPRS/EDGE、3G到4G有HSPA、4G到5G有LTE Advanced Pro……在4月27日的第46次PCG(项目合作组)会议上，3GPP正式将5G进化
- ## [刘鹤开会，提到的“后摩尔时代”是什么概念?](http://mp.weixin.qq.com/s?src=11&timestamp=1621121405&ver=3071&signature=xceXKnMTfeVXFnvghiN6F9kUKap4ndBmuk9lY4ZmhzWOwsTUeuWY*6LGNu-4QoRIJ6IA-PucxZYxpQJ77UXZtmmTHQUGP8U6-lnP3BoJByc7AOfSNbQhbYZ16jH7Jo8o&new=1)
- > 来源：经济学家圈（jingjixuejiaquan）国家科技体制改革和创新体系建设领导小组第十八次会议5月14日在北京召开。中共中央政治局委员、国务院副总理、国家科技体制改革和创新体系建设领导小组组长刘鹤主持会议并...
- ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1621121405&ver=3071&signature=qaGXbfL6TqIn1stqlWb9fd8ysWCFVVOTeOb8dctcOf2mWuMP*A*4FAi-UGC0Jy5lYrU*F5YXJQHZD2rBOOXMEtre*44WQqMI9XXCpxX2qWWsAFuFjt0NvVvqE1i3naph&new=1)
+ ## [启明创投叶冠泰：元气森林、泡泡玛特等新消费品牌，极大地推动了中国SaaS进程](http://mp.weixin.qq.com/s?src=11&timestamp=1621125004&ver=3071&signature=JeaC4nDH7smj9eHn5rdcY93LfWmdytUn8GVDdqbbStpNJLQdyqHE7Eq2fXLAXSG-PpBzbOU-a1Afg5Wvvs3MI2OBYaxUi*VGgNtgM3XaiZ3ayFUIhqI50PxDJ0g1o5-n&new=1)
+ > 图片来源：CFP启明创投合伙人叶冠泰在近日举行的“第15届中国投资年会·年度峰会”论坛上，就SaaS和数字化转型做了分享。他指出，过去5年，云计算和SaaS方面是美国非常热的一个投资方向，而在中国市场衍生出一些...
+ ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1621125004&ver=3071&signature=qaGXbfL6TqIn1stqlWb9fd8ysWCFVVOTeOb8dctcOf2mWuMP*A*4FAi-UGC0Jy5lbHFR7aoqCnXkdtyem9E6EmgPPNERtmFQtVk8m7MSijCNzeg3caa61UhErDs02-C-&new=1)
  > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《合伙机制与股权激励》学习资料
- ## [Python创始人，我希望让语言速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621121405&ver=3071&signature=QD9V*oDrwuL0exXfaMCN8XmpXQ4PzEVwW3qgSrCSI-Q-yjHAkJMTpn81YOiy0DwiExtsfnFccqrJ*aWIsPZbMRId2Ny9JlW0HtVyPnt9LDGQeG0iBYkqQcJElqovj*uK&new=1)
+ ## [Python创始人，我希望让语言速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621125004&ver=3071&signature=QD9V*oDrwuL0exXfaMCN8XmpXQ4PzEVwW3qgSrCSI-Q-yjHAkJMTpn81YOiy0Dwi66kBBwT0aezeE*y71hr56flpkFSYeOpUpmHgOFL9gy6nLFbiA9fh0dzbzcEqMTrX&new=1)
  > 导读：Python的创建者说可以在不破坏任何原有Python代码情况下，提高1-5倍性能，他能完成此操作吗？30年前创建了流行编程语言Python的范·罗瑟姆（Guido van Rossum），最近又开始了他的雄心壮志——他要让Pytho
+ ## [刘鹤开会，提到的“后摩尔时代”是什么概念?](http://mp.weixin.qq.com/s?src=11&timestamp=1621125004&ver=3071&signature=xceXKnMTfeVXFnvghiN6F9kUKap4ndBmuk9lY4ZmhzWOwsTUeuWY*6LGNu-4QoRIOo887bcL4xH7oQH*0ApCkPAGyBx7s7l-pkuTYZjhFZOqkCI-ZRtwTYZg-rVahlsp&new=1)
+ > 来源：经济学家圈（jingjixuejiaquan）国家科技体制改革和创新体系建设领导小组第十八次会议5月14日在北京召开。中共中央政治局委员、国务院副总理、国家科技体制改革和创新体系建设领导小组组长刘鹤主持会议并...
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
  > 女友半夜加班发自拍 python男友用30行代码发现惊天秘密
- ## [java的foreach的使用、Array和ArrayList的区别以及各自的使用（java根本没有foreach，可以跟C对比）java的foreach就是for，只是方式不一样](https://blog.csdn.net/qq_41753340/article/details/116724280)
- > java的foreach的使用、Array和ArrayList的区别以及各自的使用（java根本没有foreach，可以跟C对比）java的foreach就是for，只是方式不一样
+ ## [二、swagger用法与swagger-ui使用](https://blog.csdn.net/btt2013/article/details/116808822)
+ > 二、swagger用法与swagger-ui使用
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [值类型和引用类型原理](https://blog.csdn.net/spw55381155/article/details/116765011)
- > 值类型和引用类型原理
- ## [想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！](https://blog.csdn.net/qq_42366672/article/details/116711106)
- > 想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！
- ## [golang中的字符串拼接](https://blog.csdn.net/qq_32907195/article/details/116595095)
- > golang中的字符串拼接
- ## [我竟然用python玩阴阳师？](https://blog.csdn.net/qq_21579045/article/details/116464907)
- > 我竟然用python玩阴阳师？
- ## [windows下利用命令行来编译Qt程序记录](https://blog.csdn.net/qq_43361844/article/details/116642712)
- > windows下利用命令行来编译Qt程序记录
- ## [PyQt5中编程与界面设计分离的两种方式（UI逻辑分离）](https://blog.csdn.net/HG0724/article/details/116561609)
- > PyQt5中编程与界面设计分离的两种方式（UI逻辑分离）
+ ## [java多线程创建方式以及线程安全](https://blog.csdn.net/qq_43417276/article/details/116645306)
+ > java多线程创建方式以及线程安全
+ ## [研读  项目名-LinkMap-normal-x86_64.txt](https://blog.csdn.net/Coding_Physical/article/details/116711441)
+ > 研读  项目名-LinkMap-normal-x86_64.txt
+ ## [动图图解！GMP模型里为什么要有P？背后的原因让人暖心](https://blog.csdn.net/ilini/article/details/116723038)
+ > 动图图解！GMP模型里为什么要有P？背后的原因让人暖心
+ ## [关于MyBatis框架这一篇就够了](https://blog.csdn.net/weixin_55932383/article/details/116805355)
+ > 关于MyBatis框架这一篇就够了
+ ## [如何打破前端的内卷困境？](https://blog.csdn.net/hugo233/article/details/116722312)
+ > 如何打破前端的内卷困境？
+ ## [《swift 下标脚本的使用 学习笔记》](https://blog.csdn.net/yk_ddm/article/details/116646010)
+ > 《swift 下标脚本的使用 学习笔记》
  ## [国人项目，上了Github热榜了！！ 来瞅瞅，你会发现详见很晚](https://blog.csdn.net/youngyangyang04/article/details/116795585)
  > 国人项目，上了Github热榜了！！ 来瞅瞅，你会发现详见很晚
  ## [飘了，我在B站讲Java](https://blog.csdn.net/sinat_33921105/article/details/116762210)
