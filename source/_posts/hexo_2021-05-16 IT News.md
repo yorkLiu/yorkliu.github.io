@@ -1,22 +1,24 @@
 ---
 title: 2021-05-16 IT News
 copyright: true
-date: 2021-05-16 10:00:55
+date: 2021-05-16 12:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Python创始人，我希望让语言速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621128604&ver=3071&signature=QD9V*oDrwuL0exXfaMCN8XmpXQ4PzEVwW3qgSrCSI-Q-yjHAkJMTpn81YOiy0DwisJs6PZXkcbNSKYZ4F2jgAE-nQF0W9P8PMZTXGftgoP26EIvLKHMWGxSiwFpcPUfO&new=1)
+ ## [Python创始人，我希望让语言速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=QD9V*oDrwuL0exXfaMCN8XmpXQ4PzEVwW3qgSrCSI-REYBxPIgcOqLgnBxEyrlWvgVEg6yfvl4X86rg4oZ24wpPR9wmkMwcM8jeVEfq-jUgBkSGObxrAWiYshgMcJece&new=1)
  > 导读：Python的创建者说可以在不破坏任何原有Python代码情况下，提高1-5倍性能，他能完成此操作吗？30年前创建了流行编程语言Python的吉多·范·罗瑟姆（Guido van Rossum），最近又开始了他的雄心壮志——他要...
- ## [刘鹤开会，提到的“后摩尔时代”是什么概念?](http://mp.weixin.qq.com/s?src=11&timestamp=1621128604&ver=3071&signature=xceXKnMTfeVXFnvghiN6F9kUKap4ndBmuk9lY4ZmhzWOwsTUeuWY*6LGNu-4QoRINM69WpUahS4awFC9DN0oAtTuJ-7s-Fx2-uvLBFdMHXc5SOfYhLz1Y-yJpWLyxgcQ&new=1)
- > 来源：经济学家圈（jingjixuejiaquan）国家科技体制改革和创新体系建设领导小组第十八次会议5月14日在北京召开。中共中央政治局委员、国务院副总理、国家科技体制改革和创新体系建设领导小组组长刘鹤主持会议并...
- ## [共推5G产业演进：中国联通和华为联合创新5G-Advanced技术](http://mp.weixin.qq.com/s?src=11&timestamp=1621128604&ver=3071&signature=8QHtlvbn0pfu3NhVyzHG522pVXHfqIPSII0MnhTPaFTKprBjuYm7T52Nv*q4zMWRBJL6RZFBfRF7umH5KQaBbWFHCA1OfBQYW8F3RTOLx-X1M2jfdlGHss3OP1c5*lkm&new=1)
- > 移动通信十年一代，每一个大的代际中技术仍在持续创新、不断向前演进。2G到3G有GPRS/EDGE、3G到4G有HSPA、4G到5G有LTE Advanced Pro……在4月27日的第46次PCG(项目合作组)会议上，3GPP正式将5G进化
- ## [\[报告\]2021中国汽车后市场发展机会(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621128604&ver=3071&signature=WIM9PTaMraRpPeZx4SfMRCk19tJcoOl-jryldhuvziIiU82Q488MxYGQPb6ZaHfrY16iVIszE8*EjiMRq9JM*C8eSfMpATF5vy*jBX5fJdxSK*v3tG1wMfKO6u*AVcl-&new=1)
+ ## [\[报告\]2021中国汽车后市场发展机会(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=WIM9PTaMraRpPeZx4SfMRCk19tJcoOl-jryldhuvziKl2fXuz8hgIWr1A2AN3gITpzOE0kvHCxDz4jiKRpD25mgrmBj-ImraX-lB9vuZu3np4JEaxKAnhHgUgAz39dkD&new=1)
  > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│罗兰贝格本报告共计：20页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
- ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1621128604&ver=3071&signature=qaGXbfL6TqIn1stqlWb9fd8ysWCFVVOTeOb8dctcOf2mWuMP*A*4FAi-UGC0Jy5l5REF0f*7wtKHDou3IjW-RPjgPkoIFTFftyikAwwfxPhL9AKudm38dhl8mKXmErO-&new=1)
+ ## [华为薪酬体系与激励机制.ppt](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=qaGXbfL6TqIn1stqlWb9fd8ysWCFVVOTeOb8dctcOf27rrj3hBJq3QKt3xeaHPenloWtM0Kg1NWU6M5eskJe*z-2uMU5*AgR3eJTTebcgSDtbDziA5qf39hzwQeq6np0&new=1)
  > 01 华为薪酬体系  02 华为激励机制扫一扫，回复“股权资料”免费获得《合伙机制与股权激励》学习资料
- ## [启明创投叶冠泰：元气森林、泡泡玛特等新消费品牌，极大地推动了中国SaaS进程](http://mp.weixin.qq.com/s?src=11&timestamp=1621128604&ver=3071&signature=JeaC4nDH7smj9eHn5rdcY93LfWmdytUn8GVDdqbbStpNJLQdyqHE7Eq2fXLAXSG-EvDw3yRXPenFuObbm8XDuD8dc5uWEDdf3rGUxReZBcsXn2PyBTRYJYaLCUmPgjLD&new=1)
+ ## [2021数博会将发布《省域数据要素市场自治与可信流通白皮书》](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=EC-qEgnVe8bh3N4*ZNO3xLvtcnYXNNTfI5piz5XN*GlDIAywRXcjiJfOpyGvdrxYwpxosqAb*r8CxHlkVKoAu3I0RtGtd2G3ERQymEn4TtM=&new=1)
+ > 本报讯 5月15日，记者从中国国际大数据产业博览会数博发布组获悉，2021数博会将于5月27日发布《省域数据要素市场自治与可信流通白皮书》。　　白皮书将针对培育数据要素市场方面面临的主要问题，提出促进数...
+ ## [刘鹤开会，提到的“后摩尔时代”是什么概念?](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=xceXKnMTfeVXFnvghiN6F9kUKap4ndBmuk9lY4ZmhzXdmz3RIggpGzLSwjCNJaBz9ZcpiS2Q4YZoKxWSo0QWePfUijgU0VRT6WXje4XWs7iA*3Se8xBE3uhHxoUEEnRb&new=1)
+ > 来源：经济学家圈（jingjixuejiaquan）国家科技体制改革和创新体系建设领导小组第十八次会议5月14日在北京召开。中共中央政治局委员、国务院副总理、国家科技体制改革和创新体系建设领导小组组长刘鹤主持会议并...
+ ## [共推5G产业演进：中国联通和华为联合创新5G-Advanced技术](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=8QHtlvbn0pfu3NhVyzHG522pVXHfqIPSII0MnhTPaFQKJh2DdasvDsX4CnwLTz1aM9gpNgTmecpPozWUoqQ0DERcWnU1P0ADXQmBMGt33blGCNS2BGsOY-CeVuXgw7Fa&new=1)
+ > 移动通信十年一代，每一个大的代际中技术仍在持续创新、不断向前演进。2G到3G有GPRS/EDGE、3G到4G有HSPA、4G到5G有LTE Advanced Pro……在4月27日的第46次PCG(项目合作组)会议上，3GPP正式将5G进化
+ ## [启明创投叶冠泰：元气森林、泡泡玛特等新消费品牌，极大地推动了中国SaaS进程](http://mp.weixin.qq.com/s?src=11&timestamp=1621137604&ver=3071&signature=JeaC4nDH7smj9eHn5rdcY93LfWmdytUn8GVDdqbbStrbPSjYfrZ8wc*m6u0K2jRHupslxFWWqI9vdfIjs2C1kfV7xLWTcLP*KHx-vVwzgsR3OtbNFHShp9I4*9kUD1KH&new=1)
  > 图片来源：CFP启明创投合伙人叶冠泰在近日举行的“第15届中国投资年会·年度峰会”论坛上，就SaaS和数字化转型做了分享。他指出，过去5年，云计算和SaaS方面是美国非常热的一个投资方向，而在中国市场衍生出一些...
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
@@ -80,14 +82,5 @@ categories: IT NEWS
  > String拼接出现null？你看到的分析可是错的
  ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
  > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
-# PM 
- ## [产品经理必懂知识点详解之专业术语（十四）](http://www.chanpin100.com/article/115513)
- > 本文是产品经理必懂知识点详解之专业术语这个系列的最后一篇文章了，随着互联网的快速发展，产品经理这个岗位变得越来越重要了，对于产品经理来说，掌握一些行业内的专业术语显得尤为重要，本文给大家分享的专业术语是”二八定律“和”马太效应“。
- ## [产品经理必懂知识点详解之专业术语（十三）](http://www.chanpin100.com/article/115512)
- > 今天给大家讲一下”羊群效应“和”破窗理论“这两个专业术语是什么意思吧，希望各位产品经理能通过对这两个词汇的认知，让自己的工作更顺利地得以开展，下面请看本文的具体内容。
- ## [产品经理必懂知识点详解之专业术语（十二）](http://www.chanpin100.com/article/115511)
- > 本文要给大家分享的产品经理必懂专业术语是”商业价值“和”墨菲定律“，不知道前面的文章给大家普及的专业术语知识大家有没有消化吸收？希望本文的分享同样能给你带来帮助！
- ## [产品经理必懂知识点详解之专业术语（十一）](http://www.chanpin100.com/article/115510)
- > 今天要给大家分享的产品经理必懂专业术语是”蓝海与红海“和”进入壁垒“，掌握了这些专业术语之后会更有利于产品经理工作的开展，下面请看本文的具体内容。
 
     
