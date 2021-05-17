@@ -1,21 +1,23 @@
 ---
 title: 2021-05-17 IT News
 copyright: true
-date: 2021-05-17 08:01:10
+date: 2021-05-17 09:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [本周大新闻|Pico、HTC纷纷发布VR新品，Niantic AR开发平台更名](http://mp.weixin.qq.com/s?src=11&timestamp=1621209604&ver=3073&signature=kpryPlHa1Yrvjb90jVjLl-vUxQXY4eCkOVYEog90hJsRMKSSClmMe1spmjKou0NBXxhJP6Ao5tTvGOu1i8UVzwLuhmfh6qlO9BqekhcPz-dvxLWHimNSq-M4s2r0CUgf&new=1)
- > hi188｜编辑本周大新闻，AR方面，微软MR主管爆料HoloLens 3；HoloLens 2迎来21H1更新；Niantic AR开发平台更名为Lightship；NASA将与RISD合作AR项目；共享办公WeWork布局3D动捕和全息
- ## [\[本周小结\]5G ATG，终于来了；中国移动800万NB-IoT芯片集采落地；光纤光缆行业2020年严重“内卷”](http://mp.weixin.qq.com/s?src=11&timestamp=1621209604&ver=3073&signature=hu7kEuVlJZhZHo*QR4MLwOZYziRVO0ekpNr9oiGtCwVoa-juEyThud5tWwDKpg14ah4*0TtU1R3XphgfOM*e1JlxiGIXMlT8LVdAKifjMvJcZseiYOzjIyIr-sF4FnzQ&new=1)
- > 周报WEEKLY本周热点有5G ATG，终于来了；中国移动800万NB-IoT芯片集采落地；光纤光缆行业2020年严重“内卷”• 第139期 •5G ATG，终于来了5月14日日前，民航局正式发布《中国民航新一代航空宽带通信技术路线图...
- ## [深度揭秘MCU芯片，汽车电子王者!缺芯潮的主角\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1621209604&ver=3073&signature=ryHWGhXITe3N-xiaY6LlegYsxMXWatzZDl8AjIBeOQkslEt3oNbYm5SApGjHkWjfmBDgkLYnMb7zNeogYuWOqtVS91iJkfH11hB2Okwg3qC1iTSEQpD8Qe7XDBpSorN1&new=1)
- > 四大应用领域，汽车电子的王者，MCU芯片国产替代之路还有多长？编辑 | 智东西内参MCU（MicrocontrollerUnit），又称微控制器或单片机，是把CPU的频率与规格做适当缩减，并将内存(Memory)、计数器(Timer)、US
- ## [本周猛料|360造车，特斯拉4月销量环比暴跌27%](http://mp.weixin.qq.com/s?src=11&timestamp=1621209604&ver=3073&signature=AHUAyt2Hrj3UlHNEqo1qV-ZHKexl4xm0cLCGveDaEE*79vH2fJve2V65kYgyz0BkLXbSCYZRm1jOG-dSJpjI0fRc*aXVh5jlCCu*ZkU6uIyawvJsSTe0McJFi6YgDduV&new=1)
- > 要点速读：1、360与哪吒汽车联合造车2、特斯拉中国4月销量环比下降27%3、汽车数据安全将有法可依4、各大车企第一季度营收猛增5、恒大发布3000多项汽车技术专利360与哪吒汽车联合造车事件回顾：5月11日，360官方...
- ## [工业互联网发展新重点思考(附PPT)](http://mp.weixin.qq.com/s?src=11&timestamp=1621209604&ver=3073&signature=L5sX9BPT6XVkBasNoVoSXEgYKGgm*H1yJnZRckzesK-QiQDhRaWQp384QSmqlRbv9FDXgYLmoCZ**18OBcXO9oigBfBqg5b9w9m3REzTZRvFrXIfATCKSywQ03MlZ-ZF&new=1)
+ ## [工业互联网发展新重点思考(附PPT)](http://mp.weixin.qq.com/s?src=11&timestamp=1621211404&ver=3073&signature=L5sX9BPT6XVkBasNoVoSXEgYKGgm*H1yJnZRckzesK*CdOF*16mvwsNAxR7vcT3lGhuWtr--2bHbP1IOUCrVVRZcfj-NPAa*UZpq0e2K6O51h9VyxfHHTqakIcoZjK77&new=1)
  > 2021年4月11日，在苏州“2020中国人工智能产业年会”上做了一个报告“工业互联网发展新重点思考”。工业互联网与智能制造的内涵始终在丰富和完善，但决策是其中鲜明的重点。MES作为典型的工业软件，其决策重点以...
+ ## [深度揭秘MCU芯片，汽车电子王者!缺芯潮的主角\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1621211404&ver=3073&signature=ryHWGhXITe3N-xiaY6LlegYsxMXWatzZDl8AjIBeOQmZSvPOXkFsR6mrGGClCmzK5BVVQ1J9KzjT*MvPNtuSw6eFeoofAebI6WlNacTkIy3U8Hm2wraHcqMbGwKRRayv&new=1)
+ > 四大应用领域，汽车电子的王者，MCU芯片国产替代之路还有多长？编辑 | 智东西内参MCU（MicrocontrollerUnit），又称微控制器或单片机，是把CPU的频率与规格做适当缩减，并将内存(Memory)、计数器(Timer)、US
+ ## [\[本周小结\]5G ATG，终于来了；中国移动800万NB-IoT芯片集采落地；光纤光缆行业2020年严重“内卷”](http://mp.weixin.qq.com/s?src=11&timestamp=1621211404&ver=3073&signature=hu7kEuVlJZhZHo*QR4MLwOZYziRVO0ekpNr9oiGtCwXKrVIfJ87l3TOd9jiz30MM6TLMcGXfztVeD6ZjA0ZoZw4h49GF*tkkKeywLBsWoval7wULX1roAA2a1BQmU7O8&new=1)
+ > 周报WEEKLY本周热点有5G ATG，终于来了；中国移动800万NB-IoT芯片集采落地；光纤光缆行业2020年严重“内卷”• 第139期 •5G ATG，终于来了5月14日日前，民航局正式发布《中国民航新一代航空宽带通信技术路线图...
+ ## [本周猛料|360造车，特斯拉4月销量环比暴跌27%](http://mp.weixin.qq.com/s?src=11&timestamp=1621211404&ver=3073&signature=AHUAyt2Hrj3UlHNEqo1qV-ZHKexl4xm0cLCGveDaEE9zT6VLGgnn3CX7OVewDcLBZYjF54X2joqPoaa0S20gob31uoXyJm3*XDXv5vb*mHSnX6L*88h6ffU4Nn8XdDht&new=1)
+ > 要点速读：1、360与哪吒汽车联合造车2、特斯拉中国4月销量环比下降27%3、汽车数据安全将有法可依4、各大车企第一季度营收猛增5、恒大发布3000多项汽车技术专利360与哪吒汽车联合造车事件回顾：5月11日，360官方...
+ ## [今天这个节日，你应该知道!与每个广西人都有关!](http://mp.weixin.qq.com/s?src=11&timestamp=1621211404&ver=3073&signature=Z6imbn5Ytr0ffvyxp0RMWfnCA3aCxDpcmHGvWWfMsxCH1xWHCdvoW*moihQ6xHeU3ZFSn4AGYJwzHu7tU7ZfdiVC1k3*yOW68FXlzIcv8XhOiTRpaaaF*l5715yy-KAa&new=1)
+ > 今天是5月17日，对于很多人来说，也只是一个普通的周一，但是你知道吗？5月17日，也是世界电信和信息社会日。从2019年中国开始5G商用，再到去年4月8日《5G消息白皮书》公布，两年时间，5G应用正在飞速发展和推广...
+ ## [本周大新闻|Pico、HTC纷纷发布VR新品，Niantic AR开发平台更名](http://mp.weixin.qq.com/s?src=11&timestamp=1621211404&ver=3073&signature=kpryPlHa1Yrvjb90jVjLl-vUxQXY4eCkOVYEog90hJv26HJmsvYOEUbQ245LnPFLfM0WjWe6j1OZXkTfStFHQgjtg3xtxfdi7LHuBALqNkoxwr2tZsEB07LpnRNKecCO&new=1)
+ > hi188｜编辑本周大新闻，AR方面，微软MR主管爆料HoloLens 3；HoloLens 2迎来21H1更新；Niantic AR开发平台更名为Lightship；NASA将与RISD合作AR项目；共享办公WeWork布局3D动捕和全息
 # IT 技术 
  ## [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510)
  > 女友半夜加班发自拍 python男友用30行代码发现惊天秘密
