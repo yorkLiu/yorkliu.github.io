@@ -1,20 +1,22 @@
 ---
 title: 2021-05-18 IT News
 copyright: true
-date: 2021-05-18 09:01:03
+date: 2021-05-18 10:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8QweHXlFDyZAiYb1pezSY26jw7FZaN8djL9Mtc*W7lmZvwT99ZQ2nEwWMgCtMdP0FEfY=&new=1)
- > 经济观察网 沈建缘/文 今年“电信日”的主题是“在充满挑战的时代加速数字化转型”。 当前，数字经济已经成为全球经济发展的新动能，是中国经济“高质量”发展的引擎，同时也是推动创新与可持续发展的重要力量。...
- ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnVR4jZMsUFSyMGZ8P42Agtz*j6p4fXBycrz2*sW4IT6Glh4kUBfxJv*j24jHPY2v6rt8gUtZEvJ15zOAI8gngu&new=1)
- > Adobe在2020年11月曾推出Windows 10 ARM平台的Photoshop测试版软件。近日，该软件正式支持了Windows 10 ARM平台。该版本Photoshop需要运行在Windows 10 64位v19041.488.0
- ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-KpkFt9OtOExO7RS74dnNA6MKse7lhIWhepQygQRM65uNy9wvigu3nT5x7We8P2iDWWpxm2Wdu4dEqAInjLK1A6&new=1)
- > 中国基金报 泰勒超级巨无霸又来A股了！万亿市值的中国移动，刚刚宣布启动A股上市，拟发不超9.65亿股！中国移动拟申请A股上市5月17日晚间，中国移动香港上市公司发布公告称，公司拟申请A股发行上市。据披露，中国...
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljAPK7h0IDH7F6OexZb59hRA7C-aMPQrDkeJF4bI0dH3g0*rp8sGFB75XcZmeB6jznMr5LZDiA3rCuo0KJeaE6yW&new=1)
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljDRgxwMz7Kk-OhbnN*z3etG7dZPdgs3RPIpTE5ar5JZRzurh6wvyvyamrj3L93Z2FfmlobM0uOFZT-gtzQzXBpA&new=1)
  > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
- ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr4kfac6-APibUBfDywZjC7GqVXwo7NmoB3ZVSimviJo-hJScYWKwtjNMUYXONtxIYQ3RwAChD5j*PuJGAOUARIP&new=1)
+ ## [相约漓江·与光同行!欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=yEsRGmPLxPE-ux*7wdAIXsHStok4E*kcPRzKCT1KDyLHtcbltmTI0P-F5-Wa-R4qZtg*ClouscERP32wrBTuG8xGGlSeWOSsd-1m2OFH9bTCYB8ooLcG5nYEHB8LIFRq&new=1)
+ > 导读相约漓江·与光同行！5月28日，讯石信息咨询将携手桂林光隆科技集团在广西桂林举办“2021讯石桂林光通信产学研论坛”，汇聚光通讯产业链及知名院校，寻求产学研融合，探讨光通信产业更大市场机遇，助力光通...
+ ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8QwcxCrX8wfVpR43V-xGKlcxRYmTH4wDfldVWzzfAJqIuuTTnrQ*ODNXk5e-53YDxiuc=&new=1)
+ > 经济观察网 沈建缘/文 今年“电信日”的主题是“在充满挑战的时代加速数字化转型”。 当前，数字经济已经成为全球经济发展的新动能，是中国经济“高质量”发展的引擎，同时也是推动创新与可持续发展的重要力量。...
+ ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnI7UgUH0*3pTttYQX-TjAGNaZuagvCxtLTux1g8OUgOTOlvbcUaAsmBmVrZHdnKNaEACun-lYSQtEvc8AG86X0&new=1)
+ > Adobe在2020年11月曾推出Windows 10 ARM平台的Photoshop测试版软件。近日，该软件正式支持了Windows 10 ARM平台。该版本Photoshop需要运行在Windows 10 64位v19041.488.0
+ ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-J8Zfa1Z-F1Sk2yowi2s82i4iGza0WCEXUqjLcqay7lFz1yGekpGaSQVbelI87dR1IUkmJA*GaJHe*4a1Z6FVC3&new=1)
+ > 中国基金报 泰勒超级巨无霸又来A股了！万亿市值的中国移动，刚刚宣布启动A股上市，拟发不超9.65亿股！中国移动拟申请A股上市5月17日晚间，中国移动香港上市公司发布公告称，公司拟申请A股发行上市。据披露，中国...
+ ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr5mjA88YCn--hBJo*v0VAaPohMWWlOXBngDBvoWKcpBgp21HdGyIRmBYvrrMPK1Gqc5LQUk88dHb60UDmZEDrBL&new=1)
  > 5月17日，清华同方-同方智慧建筑与园区公司总经理王志强、副总经理张志强一行到访，云创大数据总裁刘鹏教授、外联负责人沈大为、张伟总监共同接待了来宾。在交流座谈环节，来宾对云创大数据聚焦于大数据存储与智...
 # IT 技术 
  ## [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）](https://blog.csdn.net/weixin_44318830/article/details/116402369)
@@ -37,14 +39,14 @@ categories: IT NEWS
  > Android 居中圆角矩形 Loading框
  ## [精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！](https://blog.csdn.net/weixin_41055260/article/details/116865434)
  > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
- ## [500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）](https://blog.csdn.net/qq_45803923/article/details/116895386)
- > 500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）
+ ## [对前端、后端和全栈感兴趣的人，建议都看看！18年老程序员给你指点迷津](https://blog.csdn.net/zhiguigu/article/details/116861702)
+ > 对前端、后端和全栈感兴趣的人，建议都看看！18年老程序员给你指点迷津
+ ## [STM32通信模拟 I2C](https://blog.csdn.net/thisway_diy/article/details/116933937)
+ > STM32通信模拟 I2C
+ ## [江西省，出过哪些牛人？](https://blog.csdn.net/bjweimengshu/article/details/116868250)
+ > 江西省，出过哪些牛人？
  ## [我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...](https://blog.csdn.net/caoli201314/article/details/116643190)
  > 我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...
- ## [ciscn国赛初赛web（4道低分题）](https://blog.csdn.net/miuzzx/article/details/116885083)
- > ciscn国赛初赛web（4道低分题）
- ## [你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？](https://blog.csdn.net/yunyun889901/article/details/116850259)
- > 你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？
  ## [八大排序算法（C语言实现）](https://blog.csdn.net/chenlong_cxy/article/details/116563972)
  > 八大排序算法（C语言实现）
 # 人工智能 
@@ -79,6 +81,8 @@ categories: IT NEWS
  ## [PostgreSQL 13.3、12.7、11.12、10.17和9.6.22发布了！](https://blog.csdn.net/weixin_46199817/article/details/116780777)
  > PostgreSQL 13.3、12.7、11.12、10.17和9.6.22发布了！
 # PM 
+ ## [在线教育全面开花 私域流量价值越来越高！](http://www.chanpin100.com/article/115483)
+ > 在线教育在2020年全面开花，也给了很多传统教培机构转型升级的机会。同时，头部机构把控流量，获客成本翻番也逐渐成为常态。
  ## [产品经理专业术语之BRD侧重的内容是什么？](http://www.chanpin100.com/article/115555)
  > 随着互联网时代的发展壮大，产品经理这个岗位变得尤为重要，对于产品经理来说，一些专业术语是必须要掌握的，因为它会有助于你工作的开展。今天本文给大家分享一下术语BRD的侧重内容是什么。
  ## [产品经理不仅要懂技术还要学习项目管理？](http://www.chanpin100.com/article/115554)
@@ -113,7 +117,5 @@ categories: IT NEWS
  > 做NPS调研，除了获得NPS得分，了解客户真正的想法，还需要搞清楚他们这样打分的原因，通过设置一些恰当的NPS调研问题，能让你更精准地了解客户对公司、产品或服务的反馈和意见。
  ## [求职就业锦囊妙计 产品经理面试问题汇总（四）](http://www.chanpin100.com/article/115541)
  > 面试是一个永恒的难题，但是又是你提高薪资一个重要的机会，所以大家要提前做好准备，争取在面试过程中表现得比较完美，这样就能顺利通过，甚至还能临时要求涨薪。
- ## [神策智能推荐七大玩法场景化解读和评估体系](http://www.chanpin100.com/article/115472)
- > 时至今日，推荐系统已然成为一门显学，智能推荐成了互联网产品的标配。那么在互联网产品运营场景中，如何巧用智能推荐赋能业务增长？又该如何评估推荐系统的优劣？本文从以下角度带你一探究竟。
 
     
