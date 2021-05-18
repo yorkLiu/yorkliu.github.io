@@ -1,64 +1,80 @@
 ---
 title: 2021-05-18 IT News
 copyright: true
-date: 2021-05-18 12:01:00
+date: 2021-05-18 17:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全球用户已超70万，全新光固化3D打印预处理软件CHITUBOX Pro将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=tdCx1p7HlWlw2jj1V1IvpYQls5CL4FYmvcOuJahF8YpgsckgkTWdsLdZDoxtfuN7dGxkhWNvU9DMr6Gk1kgDA9b5U5weToBFFA-e19BI1AelAztbyA-c5IwGbdB3jC9T&new=1)
- > 2021年5月17日，南极熊获悉，一款全新的革命性光固化预处理软件即将发布——CHITUBOXPro！相比于目前的桌面级预处理软件，CHITUBOX Pro更全面地照顾到用户在数据处理中方方面面的需求，能够极大地优化工作流程。...
- ## [突破 1nm!台积电祭出“半金属”取代硅材料；搜狗发布手语 AI 合成主播；iOS 微信 8.0.6 版本更新|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=SzzRmRiVeuPwDTUR77qt-cA8NH9PCu*o9ZHLX0gUX9TY-O-WoKixxWg8IlkGUz0R*9cvJJzEMsUI7DZgZPyyg7wHsyIatMxKZMDMMHTtUMQdSJ9wqDZZh7mXQ55K03Ba&new=1)
- > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！比亚迪公...
- ## [RSAConference2021 提前看](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=Oz6ViNMwwCO3BibDrx6LqhLSk5Ry1uGfuVla0sHuSTIJudVjOKZ1EpVvHBxWvyE*vnw*KVPc9t4D4*Ba8mGBaj-lPT02sMgle6-7KY8*MBzZyctL3Dp7yVBjN8jG-z75&new=1)
- > 前情提要RSAConference2021将于美国时间2021年5月17日召开，这将是RSA大会有史以来第一次采用网络虚拟会议的形式举办。组委会提前半年公布了本次大会的主题：Resilience。Resilience强调“弹性”。“弹性”在
- ## [盘点2018数博会“黑科技”项目](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=kaLujAvNCTvD26-bQv*3221iLpPsDYGWSoV87HirbFoSLOc6yNXZJlzdIwNKIJwYx*LakJTARCoOEyvtBrEg3zfq67jp3CE3QMEP69HbLGU=&new=1)
- > 历年来，中国国际大数据产业博览会“数博发布”面向全球公布的“黑科技”项目，都是以新技术、新产品及其演变，能产生让人们出乎意料、超乎想象甚至魔幻般的创新科技体验的产品。　　回顾2018数博会，“黑科...
- ## [美国陆军开发出深度伪造检测技术：DefakeHop](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=WvTV7ylIz79IkKCqUGlLhjRnHUPtMwk3oqrEE190984E5tuBA7Ws84AS49*STgz1dnymEDKpFJSTdf4M8hLGfIYL2J*i3*FvUdT5dZK-ivhjAb36AnHC3qbeFAwzWZpH&new=1)
+ ## [2020年我国卫星导航与位置服务产业总体产值超4000亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=t8DDAbjxJ98zw3lx74z9i92ms6-EFb3DuToizuJzNRZhV7cnAc1h*VtwB6oW2BmR9KA1bx-0dUwn62QenGmnNPhqrT7y6WBe-nJvQiYAZv8=&new=1)
+ > 5月18日，中国卫星导航定位协会在京发布《2021中国卫星导航与位置服务产业发展白皮书》。　　白皮书显示，2020年我国卫星导航与位置服务产业总体产值达4033亿元人民币，较2019年增长约16.9％。其中，包括与...
+ ## [改善医疗保健中的网络安全时需要考虑的因素](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=7pRmmyDu1AT3wvHhrLrXc-Kn620bnOotpqmz6OBnC2HcXxVwDLjPwSyXdY-Cl-K4GYyNuy*G9-dKSSy8vqKksum3S-Cif8TZsMvWyUlp9murlu992pNNFSTsLzC*JN9z&new=1)
+ > 关键讯息，D1时间送达！医疗机构的数据泄露将影响其信誉，并可能影响患者的治疗。此外，如果医疗服务提供商或医疗机构没有提供足够的网络安全，产生的法律后果可能会在财务上产生影响，并将对高管采取法律措施。...
+ ## [这才是 AR 的最佳实践啊](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=QocLSIqWJ5toWBrHI8C9-Uslr0jf2zaV5oZE-4UsKnE1BSbEdIdci00VbP0xn70jF4q0mE*Hw-ODq4L3C8QXBFt-Atfy66Y2OojbHCHDc2nr6kAK5szDXhYlwFXwMin5&new=1)
+ > 这个时候，你可以拿着手机随意移动方位，屏幕中刚刚点击开始的地方，会显示测速过程，以及测速结果。可以在多个地方测速，iWifi 测速侠 的 AR 测速会帮你都记录下来，然后就能分享这张带有网速的图片了。使用 iW...
+ ## [世界电信和信息社会日，大佬们都说了啥](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=HyHyVD2Cxbl1o7jL3v6s-nl5PWZGGb4rV8xciYPYtmovKZJu9HgsbzgMoA4YgaoTLqDLJKuEg96qyEAK*ge3Z7S82mwNsIT-dyq**1zrectA7HjX8NsNV5kLhlZYFLxJ&new=1)
+ > | 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文来源：整理自C114通信网，通信世界等杂谈投稿邮箱：631255063@qq.com5月17日，2021世界电信和信息社会日大会在郑州召开，多位重磅领导嘉宾围绕“在充满挑战的时...
+ ## [洞察需求，打通场景，汽车智能网联产品用户体验评价“火箭班”蓄势待发](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=FoJDqy6SNMNOEYRpufTUnfWwNo1Z5UUqzuD*f0oSGLB3Vna*H0JVUyd0H2ZhvB*-pH5mnKWIXlgYY7NHGK42d9OuMItey7H*98*u3eb3WEbMUx89nt0ACXmRZ1vESLoC&new=1)
+ > 汽车&quot;新四化&quot;快速推进，汽车正在由过去单纯的机械代步工具向新一代移动智能终端转变，“软件定义汽车”成为业界达成共识的发展趋势，对标开发产品模式越来越行不通，同质化产品和用户集中投诉频发等问题也随之而...
+ ## [华为鸿蒙将于6月2日正式发布 200+主流手机App已支持](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8Qwc*5CJ0cz0JhCBA8oHi0ebpPbOHxe2G7vP5mcbw-OtAfTaTUB07oH4mPPBOX6p*5og=&new=1)
+ > 经济观察网 记者 沈怡然 5月17日，记者从一位华为高层的知情人士处获悉，鸿蒙OS 2.0（HarmonyOS 2.0 ）系统将在今年6月2日面向全球正式发布，届时华为手机用户可一键升级成鸿蒙系统，且当前已有超200个主流手机A...
+ ## [安防展览网·第五届中国安防百强工程(集成)商评选结果公示](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=zEwre1RzhCQ3Lyx83KvL9p-1GWUjq55f8de3w6x5nxZAoA2pGyKVkdD6C2uieFTDEgw3eDhhCkvzmnoObLd4fP06f*kHys30iqcDYvNHtZkgbk469kUF3HMwD5mzD8si&new=1)
+ > 安防展览网联合各省市安防协会共同举办的第五届中国安防百强工程(集成)商评选已经结束。本次活动得到了全国安防工程商的积极响应，自愿报名参加，经过各省市安防协会初审和行业专家终审两个阶段，已评选出“第五...
+ ## [电信日致辞|王晓初：激活数据要素潜能 全面迎接数字时代](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=eY0GQ7fY58SQMjkctzzEUAE1G4Lrmx6KL*FgUm0Q34C6wyLyWZHrLgD1h3x-NqFHieWbbtMrUzMzIc1tgjihNTYNKi7LE5kN*Ap8oDWtX-tzQ4OenQxvfMNxi*AcxxwH&new=1)
+ > 联通你我联通未来来源：中国联通
+ ## [美国陆军开发出深度伪造检测技术：DefakeHop](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=WvTV7ylIz79IkKCqUGlLhjRnHUPtMwk3oqrEE190987XO674IdocHJqzI9YPXZ14sSbQZf9zsysS1nS0Ucfhe7DTFeJ1Q7RpL41RVtkaOGeZoA5vjwr-uaFsGRDI7abM&new=1)
  > 深度伪造（Deepfake）不仅是社工钓鱼攻击、BEC商务邮件攻击的下一个“热点”，同时也对业务欺诈检测、生物特征身份认证等安全技术构成严重威胁，更是未来“毫秒级”数字化现代战争的重大隐患。而对抗“深度伪造...
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljDRgxwMz7Kk-OhbnN*z3etG9soHgQ8KHa0tIr9AK0oOl7oRXqnP2O9T0EDALNQZ7qQ80OsXGGsUYwTiFQ38RUPK&new=1)
+ ## [全球用户已超70万，全新光固化3D打印预处理软件CHITUBOX Pro将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=tdCx1p7HlWlw2jj1V1IvpYQls5CL4FYmvcOuJahF8YpE15s8rFikV4yPuauxKQV1wQkR5vx3ttX4jt4OVi25Bu2ByBQDBkP-WC1gKiZg3yMyFn6AJPxK6aVKYrN-oawY&new=1)
+ > 2021年5月17日，南极熊获悉，一款全新的革命性光固化预处理软件即将发布——CHITUBOXPro！相比于目前的桌面级预处理软件，CHITUBOX Pro更全面地照顾到用户在数据处理中方方面面的需求，能够极大地优化工作流程。...
+ ## [突破 1nm!台积电祭出“半金属”取代硅材料；搜狗发布手语 AI 合成主播；iOS 微信 8.0.6 版本更新|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=SzzRmRiVeuPwDTUR77qt-cA8NH9PCu*o9ZHLX0gUX9Rnk7f-UhynvrPGDBHVPWKbNL1rVK5VbqdWZeaW63RSRa*7oVMmpDRAks4Uhm64E8v9f9qvVSlAXzGV0GuTfaD2&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！比亚迪公...
+ ## [RSAConference2021 提前看](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=Oz6ViNMwwCO3BibDrx6LqhLSk5Ry1uGfuVla0sHuSTI2QfFsxrZ2sKcW55eHryPpdlMSIqGFODrW8DyVTjDoHl8EzQMyyJU*0KpsVXfFpQzbZJOqKgM2wNc4SzxNtS95&new=1)
+ > 前情提要RSAConference2021将于美国时间2021年5月17日召开，这将是RSA大会有史以来第一次采用网络虚拟会议的形式举办。组委会提前半年公布了本次大会的主题：Resilience。Resilience强调“弹性”。“弹性”在
+ ## [盘点2018数博会“黑科技”项目](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=kaLujAvNCTvD26-bQv*3221iLpPsDYGWSoV87HirbFpa6cAUevagPV5W6iOLRvWGt02R5JsBJVbZt5QQ9znUqoI8HLYVvqZL8tqdsH1ra*o=&new=1)
+ > 历年来，中国国际大数据产业博览会“数博发布”面向全球公布的“黑科技”项目，都是以新技术、新产品及其演变，能产生让人们出乎意料、超乎想象甚至魔幻般的创新科技体验的产品。　　回顾2018数博会，“黑科...
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljCaNgkbB0MSCIXkC4ckxpIApP186t6Uqmw8Z7Yi9s*elS-lPr4Ja6jzJgGh-yk64zou24yFOTpOboB6SmrQtjof&new=1)
  > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
- ## [相约漓江·与光同行!欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=yEsRGmPLxPE-ux*7wdAIXsHStok4E*kcPRzKCT1KDyLHtcbltmTI0P-F5-Wa-R4qB*ZMq9mw6UMsEjdNqrXccW4IY43jWCvxNTaJuxJXvf*pfbxM7rWOcjo7dOFtj*T9&new=1)
+ ## [相约漓江·与光同行!欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=yEsRGmPLxPE-ux*7wdAIXsHStok4E*kcPRzKCT1KDyLDWIdKJonU8XkbQYTOQfzR1gKffKfP7A9psmu-5hbxU1jDiY8KGh4mQkBH4saOINnlJMypKPZOrwuwoozns3uW&new=1)
  > 导读相约漓江·与光同行！5月28日，讯石信息咨询将携手桂林光隆科技集团在广西桂林举办“2021讯石桂林光通信产学研论坛”，汇聚光通讯产业链及知名院校，寻求产学研融合，探讨光通信产业更大市场机遇，助力光通...
- ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8Qwd*tWN0h8y63NxNvknQC8TwZcDsi3rlR*izxvR8*r2Q5y5nzaL6-mFfKMPmQYKmHgE=&new=1)
+ ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8Qwe1Gyl5N-zT06bZoT9nKu*UxnUuDuXjWPzuEEpyIBz7cXSwyRf6ostOuy2e4Nb-gPw=&new=1)
  > 经济观察网 沈建缘/文 今年“电信日”的主题是“在充满挑战的时代加速数字化转型”。 当前，数字经济已经成为全球经济发展的新动能，是中国经济“高质量”发展的引擎，同时也是推动创新与可持续发展的重要力量。...
- ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnI7UgUH0*3pTttYQX-TjAGUoSHcazJ0kwF5q0puNlOa19wCKvmEF*0VYvAW6bHat8jytKzZ6oQnrq*4YIOs6zb&new=1)
+ ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-Zl1zirrzF3WLvax5jaRRmB90q9Ho*QJ-qWylYMfJt3HgaDesy*PIAWSwcYAaGp-LhISteyApJ*LWxg0*nQ-2uAA&new=1)
  > Adobe在2020年11月曾推出Windows 10 ARM平台的Photoshop测试版软件。近日，该软件正式支持了Windows 10 ARM平台。该版本Photoshop需要运行在Windows 10 64位v19041.488.0
- ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-J8Zfa1Z-F1Sk2yowi2s82i0dGrYFagZoFOuv11-JLqzqxcycqhS6*mTYkVWlZTWMfnkM-8gcvGlg7lNSyktwue&new=1)
+ ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-JIEibjWkQTS*GMIDQcRh1byOPgM7pbaeC7SSBJ37l5YHe0zu5ACwF7M310hS7MAu2-Ji0fIeIZqL3Aq*YMbyUT&new=1)
  > 中国基金报 泰勒超级巨无霸又来A股了！万亿市值的中国移动，刚刚宣布启动A股上市，拟发不超9.65亿股！中国移动拟申请A股上市5月17日晚间，中国移动香港上市公司发布公告称，公司拟申请A股发行上市。据披露，中国...
- ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr5mjA88YCn--hBJo*v0VAaPzQJ4t4ox4t0YWas8J4-CNGDgU2NoQ71aMl8PfGnfd4GeyyqGAWy--u6Hm5RLNxIQ&new=1)
+ ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621326604&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr4L2dZuZe6hqy3Rjkv*dIhcnF6dCqZ*lVG3DHtB4hiSuJrG09uEV9admvE2-tFEUBe52i30HHmn*Xf*LSafiz3o&new=1)
  > 5月17日，清华同方-同方智慧建筑与园区公司总经理王志强、副总经理张志强一行到访，云创大数据总裁刘鹏教授、外联负责人沈大为、张伟总监共同接待了来宾。在交流座谈环节，来宾对云创大数据聚焦于大数据存储与智...
 # IT 技术 
- ## [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）](https://blog.csdn.net/weixin_44318830/article/details/116402369)
- > 00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）
- ## [「Adobe国际认证」Adobe Photoshop内容识别填充](https://blog.csdn.net/zhaosbscs/article/details/116929739)
- > 「Adobe国际认证」Adobe Photoshop内容识别填充
+ ## [昨晚，我用python帮隔壁小姐姐P证件照 自拍，然后发现。。。](https://blog.csdn.net/weixin_42350212/article/details/116936268)
+ > 昨晚，我用python帮隔壁小姐姐P证件照 自拍，然后发现。。。
+ ## [JavaScript解密之旅-----数组的遍历方法总结](https://blog.csdn.net/weixin_45176415/article/details/116790381)
+ > JavaScript解密之旅-----数组的遍历方法总结
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [“泰迪杯”挑战赛 - 基于Java的面向网络舆情的关联度分析（附算法代码）](https://blog.csdn.net/weixin_47922824/article/details/116789060)
- > “泰迪杯”挑战赛 - 基于Java的面向网络舆情的关联度分析（附算法代码）
- ## [Resnet网络实战之Fashion-MNIST数据集](https://blog.csdn.net/hb_learing/article/details/116942374)
- > Resnet网络实战之Fashion-MNIST数据集
- ## [VCIP2020：面向机器视觉的HEVC码率控制](https://blog.csdn.net/Dillon2015/article/details/116571623)
- > VCIP2020：面向机器视觉的HEVC码率控制
- ## [Python opencv医学处理](https://blog.csdn.net/qq_43965708/article/details/116572109)
- > Python opencv医学处理
- ## [\[羊城杯 2020\]EasySer](https://blog.csdn.net/LYJ20010728/article/details/116945399)
- > \[羊城杯 2020\]EasySer
- ## [2021 年“认证杯”网络挑战赛 B 题（第一阶段）](https://blog.csdn.net/weixin_42141390/article/details/116722963)
- > 2021 年“认证杯”网络挑战赛 B 题（第一阶段）
- ## [精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！](https://blog.csdn.net/weixin_41055260/article/details/116865434)
- > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
+ ## [springboot连接mysql并实现增删改查](https://blog.csdn.net/timelessx_x/article/details/116802215)
+ > springboot连接mysql并实现增删改查
+ ## [webpack本地安装和使用：实现一个简单的工程的打包](https://blog.csdn.net/m0_37922443/article/details/116896293)
+ > webpack本地安装和使用：实现一个简单的工程的打包
+ ## [Vue+Cesium1.81+cesium-navigation-es6配置详解+问题解决](https://blog.csdn.net/qq_34504481/article/details/116789458)
+ > Vue+Cesium1.81+cesium-navigation-es6配置详解+问题解决
+ ## [LeetCode C++ 1462. Course Schedule IV【Graph/BFS/Floyd】中等](https://blog.csdn.net/myRealization/article/details/116947696)
+ > LeetCode C++ 1462. Course Schedule IV【Graph/BFS/Floyd】中等
+ ## [dive into deep learning——数学基础](https://blog.csdn.net/qq_38689352/article/details/116863339)
+ > dive into deep learning——数学基础
+ ## [Android 居中圆角矩形 Loading框](https://blog.csdn.net/LosingCarryJie/article/details/116855662)
+ > Android 居中圆角矩形 Loading框
  ## [我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)](https://blog.csdn.net/weixin_54234482/article/details/116912822)
  > 我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)
+ ## [精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！](https://blog.csdn.net/weixin_41055260/article/details/116865434)
+ > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
  ## [八大排序算法（C语言实现）](https://blog.csdn.net/chenlong_cxy/article/details/116563972)
  > 八大排序算法（C语言实现）
+ ## [王者荣耀中皮肤和英雄技能java实现](https://blog.csdn.net/ILOVEMYDEAR/article/details/116867540)
+ > 王者荣耀中皮肤和英雄技能java实现
  ## [我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...](https://blog.csdn.net/caoli201314/article/details/116643190)
  > 我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...
- ## [你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？](https://blog.csdn.net/yunyun889901/article/details/116850259)
- > 你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？
- ## [500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）](https://blog.csdn.net/qq_45803923/article/details/116895386)
- > 500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）
+ ## [全网最全python爬虫精进（体系学习）学完可就业（附源代码）](https://blog.csdn.net/qq_45803923/article/details/116943336)
+ > 全网最全python爬虫精进（体系学习）学完可就业（附源代码）
 # 人工智能 
  ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
  > 技术经理成长复盘-关于晋升
@@ -91,41 +107,41 @@ categories: IT NEWS
  ## [PostgreSQL 13.3、12.7、11.12、10.17和9.6.22发布了！](https://blog.csdn.net/weixin_46199817/article/details/116780777)
  > PostgreSQL 13.3、12.7、11.12、10.17和9.6.22发布了！
 # PM 
- ## [聊聊产品经理跳槽面试常见问题（四）](http://www.chanpin100.com/article/115561)
- > 你是如何评估需求产生的价值呢？以往的项目中印象最深的问题是什么？这两道问题该如何作答呢？想知道答案的小伙伴请看本文“聊聊产品经理跳槽面试常见问题（四）”中的分享内容吧！
- ## [聊聊产品经理跳槽面试常见问题（三）](http://www.chanpin100.com/article/115560)
- > 在以往的项目中，你是如何挖掘用户/客户的真实诉求的？既然是转行产品经理，那就代表着你一定有相关的工作经验，在面试中被问到这个问题是很常见的。那么该如何作答呢？请看本文“聊聊产品经理跳槽面试常见问题（三）”中分享的内容吧！
- ## [在线教育全面开花 私域流量价值越来越高！](http://www.chanpin100.com/article/115483)
- > 在线教育在2020年全面开花，也给了很多传统教培机构转型升级的机会。同时，头部机构把控流量，获客成本翻番也逐渐成为常态。
- ## [产品经理专业术语之BRD侧重的内容是什么？](http://www.chanpin100.com/article/115555)
- > 随着互联网时代的发展壮大，产品经理这个岗位变得尤为重要，对于产品经理来说，一些专业术语是必须要掌握的，因为它会有助于你工作的开展。今天本文给大家分享一下术语BRD的侧重内容是什么。
- ## [产品经理不仅要懂技术还要学习项目管理？](http://www.chanpin100.com/article/115554)
- > 你是不是经常听到有人说：产品经理必须要懂技术；产品经理必须要会项目管理！那么这两句话对吗？有道理吗？小编结合自己的工作经验来发表一下观点。
- ## [产品专业能力是什么？如何提升？](http://www.chanpin100.com/article/115553)
- > 上一篇文章我们分享了产品底层能力，这篇文章我们来聊一聊产品专业能力。产品专业能力是什么？如何进行提升？跟着小编一起往下看吧！
- ## [2021年中国自动驾驶行业生态图谱](http://www.chanpin100.com/article/115479)
- > 中国自动驾驶行业步入“筑基之年”，行业形成硬件+软件+技术的大生态，新兴造车势力在资本加持下不断涌现，未来自动驾驶行业商业化应用将成为参与者们生存的关键。
- ## [产品经理专业术语BRD、MRD 和 PRD阅读对象的不同点](http://www.chanpin100.com/article/115551)
- > 前面的文章中，主要给大家介绍了产品经理的三个专业术语BRD、MRD和PRD的定义以及关系，接下来本文就给大家介绍一下这三者之间的不同点，首先我们先来看一下它们在阅读对象上有什么不同点。
- ## [什么是产品底层能力？如何快速掌握？](http://www.chanpin100.com/article/115552)
- > 作为一个产品经理，产品底层能力是必须掌握的，也是区分产品经理优劣的重要指标。今天，我们就来聊一下，什么是产品底层能力？如何快速掌握产品底层能力？
- ## [19套优质NPS问答模版 让客户满意度提高60%](http://www.chanpin100.com/article/115478)
- > 做NPS调研，除了获得NPS得分，了解客户真正的想法，还需要搞清楚他们这样打分的原因，通过设置一些恰当的NPS调研问题，能让你更精准地了解客户对公司、产品或服务的反馈和意见。
- ## [产品经理必懂专业术语之BRD、MRD 和 PRD之间的关系](http://www.chanpin100.com/article/115550)
- > 在上一篇文章中，我们已经给大家简要介绍了关于BRD、MRD和PRD的定义，接下来小编就给大家分析一下这三者之间的关系是怎样的，希望能帮助到各位产品同学！
- ## [B端产品经理必须掌握这三个核心产品素养！](http://www.chanpin100.com/article/115549)
- > 对于一个B端产品来说，产品素养是非常重要的，因为它决定了产品经理的潜力。那么B端产品经理必须掌握的核心产品素养有哪些呢？接下来我们一起看看！
- ## [产品经理必懂专业术语BRD、MRD 和 PRD 的定义](http://www.chanpin100.com/article/115548)
- > 关于BRD、MRD和PRD这三个名词的具体定义是什么，作为产品经理的你是否清楚？对于产品经理来说，平时的工作一定离不开这三个词，而且还要经常与它们打交道，今天本文就来给大家分享这三个词的内涵。
- ## [没有人带 能够做好B端产品经理吗？](http://www.chanpin100.com/article/115547)
- > 没有人带，能够做好B端产品经理吗？相信许多刚入行的产品人都有这个疑问。今天我来给大家分享一下自己的工作经历，顺便发表个人的看法。
- ## [产品经理面试题分享：你认为产品经理的职责都有哪些？（下）](http://www.chanpin100.com/article/115546)
- > 在上一篇文章中，我们已经给大家简要解析了“你认为产品经理的职责都有哪些？”这道产品经理常见面试题，本篇文章就给大家分享一下这道题目的答案，希望可以帮助到你。
- ## [产品出圈——IP化](http://www.chanpin100.com/article/115477)
- > 各位童鞋好，许久不见，甚是想念吖！碍于本人最近忙于考证，占用了我大半业余时间，写字的时间更是大大的被压缩，因此更新推文会有点延期。不过呢，还是那句话，可能会迟到，但不会缺席，感谢这么可爱的你们的依然还在。
- ## [产品经理面试题分享：你认为产品经理的职责都有哪些？（上）](http://www.chanpin100.com/article/115544)
- > 在产品经理的面试中，我们可能会遇到这样的问题，“你认为产品经理的职责都有哪些？”那么针对这道题目，我们该如何回答呢？我们今天就来帮助大家拆解一下这道题目并分享答案，本篇文章的内容是题目解析，下面请看本文的内容。
- ## [求职就业锦囊妙计 产品经理面试问题汇总（五）](http://www.chanpin100.com/article/115545)
- > 这篇文章给大家分享面试问题汇总的最后三个问题，这三个问题被问的概率极高，回答也需要技巧，所以大家要提前组织好语言，保证面试时能流畅的回答出来。
+ ## [产品经理与销售人员的爱恨情仇](http://www.chanpin100.com/article/115578)
+ > 今天的话题是“产品经理与销售人员的爱恨情仇”，想必各位产品经理都深有体会。我们经常会与销售人员发生争执，或者是内心互相抱怨，那么为什么会出现这种情况呢？
+ ## [Stratifyd报告：从用户评论看旅游度假区的十大消费体验趋势](http://www.chanpin100.com/article/115529)
+ > 在消费升级和体验经济的新时代，人们对旅游品质和旅游体验提出了更高要求。因此，旅游不是单纯地提供产品和服务，而是为游客塑造难以忘怀的旅游体验。
+ ## [产品经理专业术语之MRD侧重的内容是什么？](http://www.chanpin100.com/article/115577)
+ > 随着互联网的加速发展，目前产品经理这个岗位已经变得尤为重要了，在上一篇文章中，我们给大家讲解了产品经理专业术语之BRD侧重的内容是什么，本文再来讲一下MRD的侧重内容是什么。
+ ## [简单聊聊 AI产品经理的未来之路](http://www.chanpin100.com/article/115576)
+ > AI产品经理是现在比较火的一个行业，那么它的未来是什么样的呢？发展如何？今天我们就来简单聊聊。小伙伴们也可以自由发表自己的观点哦，或者小编哪里有不对的地方也可以指正。
+ ## [绩效系统设计（OA 系统篇）](http://www.chanpin100.com/article/115575)
+ > 绩效是公司管理的重要环节，小公司其实不需要通过系统解决，一个 wiki 就搞定。有一定规模的公司，因为团队要有明确的上升通道，绩效是其中一项重要标准，所以才需要明确的绩效管理。
+ ## [产品经理如何搭建一个微信小程序-基础篇](http://www.chanpin100.com/article/115517)
+ > 产品经理如何搭建一个微信小程序系统文章。本文是基础篇，为大家讲解了小程序的简要定义、开发前的准备、小程序配置、小程序的主要文件以及小程序的主要接口。
+ ## [变电站运维推陈出新？无人值守却更胜一筹](http://www.chanpin100.com/article/115515)
+ > 变电站作为电网的核心环节，Hightopo智慧变电站的出现改变着传统变电站运维模式，实现变电站智能化、绿色化的转变，加快构建“无人值守+集中管控”的变电运维新模式的转型升级，推进智慧电网的发展。
+ ## [订单系统详解](http://www.chanpin100.com/article/115573)
+ > 订单系统作为一个业务子系统，在电商、零售、餐饮、教育、医疗saas系统中都非常常见。只要平台存在交易行为，那么必然逃不开订单系统，因为最终都需要通过创建订单，并支付，从而完成交易。
+ ## [AI芯片PM如何规划芯片产品应用场+景](http://www.chanpin100.com/article/115572)
+ > 本文撰写芯片行业背景下产品经理的现状，芯片产品经理的工作内容，芯片产品经理的行业知识储备，芯片PM主要进攻的方向是AI芯片和实战讲解芯片PM如何规划芯片产品的应用场景。
+ ## [小鹅拼拼上线“种草号” 社交电商的2.0版？](http://www.chanpin100.com/article/115496)
+ > 社交电商如春笋般悄然崛起，得到越来越多玩家的青睐，市场愈发庞大。但也存在着不少隐患，目前市面上的社交电商产品，往往过于依赖和纯消耗人情，而非真的通过连接关系促成的交易。
+ ## [做产品经理的第1年、第5年和第10年...](http://www.chanpin100.com/article/115570)
+ > 有的时候，产品经理干久了，他们的气质会呈现出一种不可描述的状态.......不信，你往下看，就知道做产品经理的第一年、第五年、第十年的不同状态了：
+ ## [「漏斗分析」中最不能不重视的大“坑”](http://www.chanpin100.com/article/115495)
+ > 大家都知道通过漏斗模型进行分析吧。但是很多同学对这个模型的应用还停留在监控一定时间周期内的转化率和转化趋势上。其实漏斗模型在使用过程中是有很多细节需要注意的，这些细节直接影响对数据的解读以及对用户本身的判断。
+ ## [聊聊产品经理跳槽面试常见问题（七）](http://www.chanpin100.com/article/115568)
+ > 你自身的职业规划是什么样的呢？这个问题不管是应届生面试，还是老司机跳槽面试，都是常见面试问题之一。该如何作答呢？请看本文“聊聊产品经理跳槽面试常见问题（七）”中分享的内容吧！
+ ## [马斯克澄清 没有出售任何比特币](http://www.chanpin100.com/article/115567)
+ > 马斯克是虚拟货币的“代言人”，他的每一次举动都会或多或少地影响到比特币或狗狗币的走势。
+ ## [聊聊产品经理跳槽面试常见问题（六）](http://www.chanpin100.com/article/115565)
+ > 可以聊一聊你比较喜欢的一个产品吗？可以说说你自身有哪些缺点吗？这两个问题又该如何作答呢？想知道答案的小伙伴可以看下本文“聊聊产品经理跳槽面试常见问题（六）”中的内容！
+ ## [浙江一特斯拉撞倒两名交警 司机已被公安机关控制](http://www.chanpin100.com/article/115566)
+ > 五月十七日下午，浙江台州高架桥一辆特斯拉轿车撞到两名正在处理事故的交警，目前受伤的交警正在抢救中。
+ ## [盖茨承认20年前婚外情 但与退出董事会无关](http://www.chanpin100.com/article/115564)
+ > 自从比尔盖茨和梅琳达宣布离婚后，人们就一直在猜测他们为什么会离婚。最近，据报道，微软董事会曾调查过盖茨和一名女雇员的关系，这可能是盖茨离开微软董事会的原因。
+ ## [聊聊产品经理跳槽面试常见问题（五）](http://www.chanpin100.com/article/115562)
+ > 你做产品的方法论是什么呢？你觉得产品经理的核心竞争力又是什么呢？上述这两个问题的答案是什么呢？请看本文“聊聊产品经理跳槽面试常见问题（五）”中分享的内容吧！
 
     
