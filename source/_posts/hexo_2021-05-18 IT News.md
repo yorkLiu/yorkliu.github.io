@@ -1,46 +1,48 @@
 ---
 title: 2021-05-18 IT News
 copyright: true
-date: 2021-05-18 08:01:00
+date: 2021-05-18 09:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621294205&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-KpkFt9OtOExO7RS74dnNA6-J6boTCy7LFr-HXqO*0thiwFlXSXBijPGeF-xvU1*z1qIuTOtXlTqIGyM*OUArmR&new=1)
- > 中国基金报 泰勒超级巨无霸又来A股了！万亿市值的中国移动，刚刚宣布启动A股上市，拟发不超9.65亿股！中国移动拟申请A股上市5月17日晚间，中国移动香港上市公司发布公告称，公司拟申请A股发行上市。据披露，中国...
- ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621294205&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8Qwfe**D-yjnnSafoQG2FIwSjsPrcGKMqZHEE7xidOK71ImNxCkCL5WspZwwE6WxlNGM=&new=1)
+ ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8QweHXlFDyZAiYb1pezSY26jw7FZaN8djL9Mtc*W7lmZvwT99ZQ2nEwWMgCtMdP0FEfY=&new=1)
  > 经济观察网 沈建缘/文 今年“电信日”的主题是“在充满挑战的时代加速数字化转型”。 当前，数字经济已经成为全球经济发展的新动能，是中国经济“高质量”发展的引擎，同时也是推动创新与可持续发展的重要力量。...
- ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621294205&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnVR4jZMsUFSyMGZ8P42AgtDuCmq-sUFIqXDw5dl3QZeOjR0ATNNr*b3QAH5Y1w8YAf5tqZ0aceHUuvSuR-cwBW&new=1)
+ ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnVR4jZMsUFSyMGZ8P42Agtz*j6p4fXBycrz2*sW4IT6Glh4kUBfxJv*j24jHPY2v6rt8gUtZEvJ15zOAI8gngu&new=1)
  > Adobe在2020年11月曾推出Windows 10 ARM平台的Photoshop测试版软件。近日，该软件正式支持了Windows 10 ARM平台。该版本Photoshop需要运行在Windows 10 64位v19041.488.0
- ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621294205&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr4kfac6-APibUBfDywZjC7G9JRTg9aZrPwrCcy7ifVViS3XEzVFvV9622xDxp*f97rvcWxq0nRvexToQJYotXdw&new=1)
+ ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-KpkFt9OtOExO7RS74dnNA6MKse7lhIWhepQygQRM65uNy9wvigu3nT5x7We8P2iDWWpxm2Wdu4dEqAInjLK1A6&new=1)
+ > 中国基金报 泰勒超级巨无霸又来A股了！万亿市值的中国移动，刚刚宣布启动A股上市，拟发不超9.65亿股！中国移动拟申请A股上市5月17日晚间，中国移动香港上市公司发布公告称，公司拟申请A股发行上市。据披露，中国...
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljAPK7h0IDH7F6OexZb59hRA7C-aMPQrDkeJF4bI0dH3g0*rp8sGFB75XcZmeB6jznMr5LZDiA3rCuo0KJeaE6yW&new=1)
+ > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
+ ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621297804&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr4kfac6-APibUBfDywZjC7GqVXwo7NmoB3ZVSimviJo-hJScYWKwtjNMUYXONtxIYQ3RwAChD5j*PuJGAOUARIP&new=1)
  > 5月17日，清华同方-同方智慧建筑与园区公司总经理王志强、副总经理张志强一行到访，云创大数据总裁刘鹏教授、外联负责人沈大为、张伟总监共同接待了来宾。在交流座谈环节，来宾对云创大数据聚焦于大数据存储与智...
 # IT 技术 
  ## [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）](https://blog.csdn.net/weixin_44318830/article/details/116402369)
  > 00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）
- ## [第四届红帽杯网络安全大赛 Web 部分writeup](https://blog.csdn.net/rfrder/article/details/116572247)
- > 第四届红帽杯网络安全大赛 Web 部分writeup
+ ## [JavaScript解密之旅-----数组的遍历方法总结](https://blog.csdn.net/weixin_45176415/article/details/116790381)
+ > JavaScript解密之旅-----数组的遍历方法总结
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [数据库大作业——项目初始化及登录界面实现](https://blog.csdn.net/weixin_45845039/article/details/116560536)
- > 数据库大作业——项目初始化及登录界面实现
- ## [Android菜鸟进字节跳动，居然是看了这个......](https://blog.csdn.net/Android23333/article/details/116603972)
- > Android菜鸟进字节跳动，居然是看了这个......
- ## [SpringBoot + Spring Cloud +Vue 管理系统前端搭建（二、visual studio code开发前端项目）](https://blog.csdn.net/JavaLLU/article/details/116569555)
- > SpringBoot + Spring Cloud +Vue 管理系统前端搭建（二、visual studio code开发前端项目）
- ## [卧槽！还讲不讲道理？刚入职，就劝我离职？](https://blog.csdn.net/m0_46962786/article/details/116655180)
- > 卧槽！还讲不讲道理？刚入职，就劝我离职？
- ## [Swift 可选类型使用及设计思路推测， ?、!、 ??等的用法](https://blog.csdn.net/njafei/article/details/116670935)
- > Swift 可选类型使用及设计思路推测， ?、!、 ??等的用法
- ## [C++学习笔记](https://blog.csdn.net/m0_38139533/article/details/116788592)
- > C++学习笔记
+ ## [springboot连接mysql并实现增删改查](https://blog.csdn.net/timelessx_x/article/details/116802215)
+ > springboot连接mysql并实现增删改查
+ ## [webpack本地安装和使用：实现一个简单的工程的打包](https://blog.csdn.net/m0_37922443/article/details/116896293)
+ > webpack本地安装和使用：实现一个简单的工程的打包
+ ## [Vue+Cesium1.81+cesium-navigation-es6配置详解+问题解决](https://blog.csdn.net/qq_34504481/article/details/116789458)
+ > Vue+Cesium1.81+cesium-navigation-es6配置详解+问题解决
+ ## [LeetCode C++ 1462. Course Schedule IV【Graph/BFS/Floyd】中等](https://blog.csdn.net/myRealization/article/details/116947696)
+ > LeetCode C++ 1462. Course Schedule IV【Graph/BFS/Floyd】中等
+ ## [dive into deep learning——数学基础](https://blog.csdn.net/qq_38689352/article/details/116863339)
+ > dive into deep learning——数学基础
+ ## [Android 居中圆角矩形 Loading框](https://blog.csdn.net/LosingCarryJie/article/details/116855662)
+ > Android 居中圆角矩形 Loading框
  ## [精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！](https://blog.csdn.net/weixin_41055260/article/details/116865434)
  > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
- ## [ciscn国赛初赛web（4道低分题）](https://blog.csdn.net/miuzzx/article/details/116885083)
- > ciscn国赛初赛web（4道低分题）
  ## [500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）](https://blog.csdn.net/qq_45803923/article/details/116895386)
  > 500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）
  ## [我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...](https://blog.csdn.net/caoli201314/article/details/116643190)
  > 我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...
+ ## [ciscn国赛初赛web（4道低分题）](https://blog.csdn.net/miuzzx/article/details/116885083)
+ > ciscn国赛初赛web（4道低分题）
  ## [你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？](https://blog.csdn.net/yunyun889901/article/details/116850259)
  > 你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？
  ## [八大排序算法（C语言实现）](https://blog.csdn.net/chenlong_cxy/article/details/116563972)
