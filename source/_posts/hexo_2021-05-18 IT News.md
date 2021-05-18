@@ -1,54 +1,64 @@
 ---
 title: 2021-05-18 IT News
 copyright: true
-date: 2021-05-18 10:01:07
+date: 2021-05-18 12:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljDRgxwMz7Kk-OhbnN*z3etG7dZPdgs3RPIpTE5ar5JZRzurh6wvyvyamrj3L93Z2FfmlobM0uOFZT-gtzQzXBpA&new=1)
+ ## [全球用户已超70万，全新光固化3D打印预处理软件CHITUBOX Pro将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=tdCx1p7HlWlw2jj1V1IvpYQls5CL4FYmvcOuJahF8YpgsckgkTWdsLdZDoxtfuN7dGxkhWNvU9DMr6Gk1kgDA9b5U5weToBFFA-e19BI1AelAztbyA-c5IwGbdB3jC9T&new=1)
+ > 2021年5月17日，南极熊获悉，一款全新的革命性光固化预处理软件即将发布——CHITUBOXPro！相比于目前的桌面级预处理软件，CHITUBOX Pro更全面地照顾到用户在数据处理中方方面面的需求，能够极大地优化工作流程。...
+ ## [突破 1nm!台积电祭出“半金属”取代硅材料；搜狗发布手语 AI 合成主播；iOS 微信 8.0.6 版本更新|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=SzzRmRiVeuPwDTUR77qt-cA8NH9PCu*o9ZHLX0gUX9TY-O-WoKixxWg8IlkGUz0R*9cvJJzEMsUI7DZgZPyyg7wHsyIatMxKZMDMMHTtUMQdSJ9wqDZZh7mXQ55K03Ba&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！比亚迪公...
+ ## [RSAConference2021 提前看](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=Oz6ViNMwwCO3BibDrx6LqhLSk5Ry1uGfuVla0sHuSTIJudVjOKZ1EpVvHBxWvyE*vnw*KVPc9t4D4*Ba8mGBaj-lPT02sMgle6-7KY8*MBzZyctL3Dp7yVBjN8jG-z75&new=1)
+ > 前情提要RSAConference2021将于美国时间2021年5月17日召开，这将是RSA大会有史以来第一次采用网络虚拟会议的形式举办。组委会提前半年公布了本次大会的主题：Resilience。Resilience强调“弹性”。“弹性”在
+ ## [盘点2018数博会“黑科技”项目](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=kaLujAvNCTvD26-bQv*3221iLpPsDYGWSoV87HirbFoSLOc6yNXZJlzdIwNKIJwYx*LakJTARCoOEyvtBrEg3zfq67jp3CE3QMEP69HbLGU=&new=1)
+ > 历年来，中国国际大数据产业博览会“数博发布”面向全球公布的“黑科技”项目，都是以新技术、新产品及其演变，能产生让人们出乎意料、超乎想象甚至魔幻般的创新科技体验的产品。　　回顾2018数博会，“黑科...
+ ## [美国陆军开发出深度伪造检测技术：DefakeHop](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=WvTV7ylIz79IkKCqUGlLhjRnHUPtMwk3oqrEE190984E5tuBA7Ws84AS49*STgz1dnymEDKpFJSTdf4M8hLGfIYL2J*i3*FvUdT5dZK-ivhjAb36AnHC3qbeFAwzWZpH&new=1)
+ > 深度伪造（Deepfake）不仅是社工钓鱼攻击、BEC商务邮件攻击的下一个“热点”，同时也对业务欺诈检测、生物特征身份认证等安全技术构成严重威胁，更是未来“毫秒级”数字化现代战争的重大隐患。而对抗“深度伪造...
+ ## [5月21日，让我们一起……](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=WejxFDswRd7R2swf6vH4LLonRnx4StLdD4neMUqTljDRgxwMz7Kk-OhbnN*z3etG9soHgQ8KHa0tIr9AK0oOl7oRXqnP2O9T0EDALNQZ7qQ80OsXGGsUYwTiFQ38RUPK&new=1)
  > 提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加载，请刷新重试提示：如图文未加...
- ## [相约漓江·与光同行!欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=yEsRGmPLxPE-ux*7wdAIXsHStok4E*kcPRzKCT1KDyLHtcbltmTI0P-F5-Wa-R4qZtg*ClouscERP32wrBTuG8xGGlSeWOSsd-1m2OFH9bTCYB8ooLcG5nYEHB8LIFRq&new=1)
+ ## [相约漓江·与光同行!欢迎报名2021讯石桂林光通信产学研论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=yEsRGmPLxPE-ux*7wdAIXsHStok4E*kcPRzKCT1KDyLHtcbltmTI0P-F5-Wa-R4qB*ZMq9mw6UMsEjdNqrXccW4IY43jWCvxNTaJuxJXvf*pfbxM7rWOcjo7dOFtj*T9&new=1)
  > 导读相约漓江·与光同行！5月28日，讯石信息咨询将携手桂林光隆科技集团在广西桂林举办“2021讯石桂林光通信产学研论坛”，汇聚光通讯产业链及知名院校，寻求产学研融合，探讨光通信产业更大市场机遇，助力光通...
- ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8QwcxCrX8wfVpR43V-xGKlcxRYmTH4wDfldVWzzfAJqIuuTTnrQ*ODNXk5e-53YDxiuc=&new=1)
+ ## [爱立信：中国正成为开发未来5G关键功能重要驱动力](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=UadjpmVr3eR9MONQ1PcRJc8S70gXdwrX8ItidZc8Qwd*tWN0h8y63NxNvknQC8TwZcDsi3rlR*izxvR8*r2Q5y5nzaL6-mFfKMPmQYKmHgE=&new=1)
  > 经济观察网 沈建缘/文 今年“电信日”的主题是“在充满挑战的时代加速数字化转型”。 当前，数字经济已经成为全球经济发展的新动能，是中国经济“高质量”发展的引擎，同时也是推动创新与可持续发展的重要力量。...
- ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnI7UgUH0*3pTttYQX-TjAGNaZuagvCxtLTux1g8OUgOTOlvbcUaAsmBmVrZHdnKNaEACun-lYSQtEvc8AG86X0&new=1)
+ ## [Adobe发布Win10 ARM Photoshop](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=L8aomyGGlnAbUnH1bFFQziUyWtCxQzPJsHbKrQ1G-ZnI7UgUH0*3pTttYQX-TjAGUoSHcazJ0kwF5q0puNlOa19wCKvmEF*0VYvAW6bHat8jytKzZ6oQnrq*4YIOs6zb&new=1)
  > Adobe在2020年11月曾推出Windows 10 ARM平台的Photoshop测试版软件。近日，该软件正式支持了Windows 10 ARM平台。该版本Photoshop需要运行在Windows 10 64位v19041.488.0
- ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-J8Zfa1Z-F1Sk2yowi2s82i4iGza0WCEXUqjLcqay7lFz1yGekpGaSQVbelI87dR1IUkmJA*GaJHe*4a1Z6FVC3&new=1)
+ ## [超级巨无霸又来了!刚刚，万亿巨头重磅宣布：要来A股上市!日赚2.68亿，1.89亿5G用户…](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=SzUZcl9qsxxSed4rJR*2NyRMmApFEn2MyVDv3Nsy9-J8Zfa1Z-F1Sk2yowi2s82i0dGrYFagZoFOuv11-JLqzqxcycqhS6*mTYkVWlZTWMfnkM-8gcvGlg7lNSyktwue&new=1)
  > 中国基金报 泰勒超级巨无霸又来A股了！万亿市值的中国移动，刚刚宣布启动A股上市，拟发不超9.65亿股！中国移动拟申请A股上市5月17日晚间，中国移动香港上市公司发布公告称，公司拟申请A股发行上市。据披露，中国...
- ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621303204&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr5mjA88YCn--hBJo*v0VAaPohMWWlOXBngDBvoWKcpBgp21HdGyIRmBYvrrMPK1Gqc5LQUk88dHb60UDmZEDrBL&new=1)
+ ## [清华同方-同方智慧建筑与园区公司总经理王志强一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1621308604&ver=3075&signature=FvgCcV4jImhATNy3GrWOdKQCV5lHYpb1xt6k8AuVKr5mjA88YCn--hBJo*v0VAaPzQJ4t4ox4t0YWas8J4-CNGDgU2NoQ71aMl8PfGnfd4GeyyqGAWy--u6Hm5RLNxIQ&new=1)
  > 5月17日，清华同方-同方智慧建筑与园区公司总经理王志强、副总经理张志强一行到访，云创大数据总裁刘鹏教授、外联负责人沈大为、张伟总监共同接待了来宾。在交流座谈环节，来宾对云创大数据聚焦于大数据存储与智...
 # IT 技术 
  ## [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）](https://blog.csdn.net/weixin_44318830/article/details/116402369)
  > 00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）
- ## [JavaScript解密之旅-----数组的遍历方法总结](https://blog.csdn.net/weixin_45176415/article/details/116790381)
- > JavaScript解密之旅-----数组的遍历方法总结
+ ## [「Adobe国际认证」Adobe Photoshop内容识别填充](https://blog.csdn.net/zhaosbscs/article/details/116929739)
+ > 「Adobe国际认证」Adobe Photoshop内容识别填充
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [springboot连接mysql并实现增删改查](https://blog.csdn.net/timelessx_x/article/details/116802215)
- > springboot连接mysql并实现增删改查
- ## [webpack本地安装和使用：实现一个简单的工程的打包](https://blog.csdn.net/m0_37922443/article/details/116896293)
- > webpack本地安装和使用：实现一个简单的工程的打包
- ## [Vue+Cesium1.81+cesium-navigation-es6配置详解+问题解决](https://blog.csdn.net/qq_34504481/article/details/116789458)
- > Vue+Cesium1.81+cesium-navigation-es6配置详解+问题解决
- ## [LeetCode C++ 1462. Course Schedule IV【Graph/BFS/Floyd】中等](https://blog.csdn.net/myRealization/article/details/116947696)
- > LeetCode C++ 1462. Course Schedule IV【Graph/BFS/Floyd】中等
- ## [dive into deep learning——数学基础](https://blog.csdn.net/qq_38689352/article/details/116863339)
- > dive into deep learning——数学基础
- ## [Android 居中圆角矩形 Loading框](https://blog.csdn.net/LosingCarryJie/article/details/116855662)
- > Android 居中圆角矩形 Loading框
+ ## [“泰迪杯”挑战赛 - 基于Java的面向网络舆情的关联度分析（附算法代码）](https://blog.csdn.net/weixin_47922824/article/details/116789060)
+ > “泰迪杯”挑战赛 - 基于Java的面向网络舆情的关联度分析（附算法代码）
+ ## [Resnet网络实战之Fashion-MNIST数据集](https://blog.csdn.net/hb_learing/article/details/116942374)
+ > Resnet网络实战之Fashion-MNIST数据集
+ ## [VCIP2020：面向机器视觉的HEVC码率控制](https://blog.csdn.net/Dillon2015/article/details/116571623)
+ > VCIP2020：面向机器视觉的HEVC码率控制
+ ## [Python opencv医学处理](https://blog.csdn.net/qq_43965708/article/details/116572109)
+ > Python opencv医学处理
+ ## [\[羊城杯 2020\]EasySer](https://blog.csdn.net/LYJ20010728/article/details/116945399)
+ > \[羊城杯 2020\]EasySer
+ ## [2021 年“认证杯”网络挑战赛 B 题（第一阶段）](https://blog.csdn.net/weixin_42141390/article/details/116722963)
+ > 2021 年“认证杯”网络挑战赛 B 题（第一阶段）
  ## [精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！](https://blog.csdn.net/weixin_41055260/article/details/116865434)
  > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
- ## [对前端、后端和全栈感兴趣的人，建议都看看！18年老程序员给你指点迷津](https://blog.csdn.net/zhiguigu/article/details/116861702)
- > 对前端、后端和全栈感兴趣的人，建议都看看！18年老程序员给你指点迷津
- ## [STM32通信模拟 I2C](https://blog.csdn.net/thisway_diy/article/details/116933937)
- > STM32通信模拟 I2C
- ## [江西省，出过哪些牛人？](https://blog.csdn.net/bjweimengshu/article/details/116868250)
- > 江西省，出过哪些牛人？
- ## [我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...](https://blog.csdn.net/caoli201314/article/details/116643190)
- > 我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...
+ ## [我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)](https://blog.csdn.net/weixin_54234482/article/details/116912822)
+ > 我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)
  ## [八大排序算法（C语言实现）](https://blog.csdn.net/chenlong_cxy/article/details/116563972)
  > 八大排序算法（C语言实现）
+ ## [我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...](https://blog.csdn.net/caoli201314/article/details/116643190)
+ > 我想打老板，作为Java后端程序员，他让我一个月后开发电商微信小程序...
+ ## [你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？](https://blog.csdn.net/yunyun889901/article/details/116850259)
+ > 你想象的黑客是什么样的？Python是黑客攻击语言的不二之选吗？
+ ## [500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）](https://blog.csdn.net/qq_45803923/article/details/116895386)
+ > 500道全网最新python面试习题（大厂面试经典，从此面试不在愁）持续更新中（附源代码）
 # 人工智能 
  ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
  > 技术经理成长复盘-关于晋升
@@ -81,6 +91,10 @@ categories: IT NEWS
  ## [PostgreSQL 13.3、12.7、11.12、10.17和9.6.22发布了！](https://blog.csdn.net/weixin_46199817/article/details/116780777)
  > PostgreSQL 13.3、12.7、11.12、10.17和9.6.22发布了！
 # PM 
+ ## [聊聊产品经理跳槽面试常见问题（四）](http://www.chanpin100.com/article/115561)
+ > 你是如何评估需求产生的价值呢？以往的项目中印象最深的问题是什么？这两道问题该如何作答呢？想知道答案的小伙伴请看本文“聊聊产品经理跳槽面试常见问题（四）”中的分享内容吧！
+ ## [聊聊产品经理跳槽面试常见问题（三）](http://www.chanpin100.com/article/115560)
+ > 在以往的项目中，你是如何挖掘用户/客户的真实诉求的？既然是转行产品经理，那就代表着你一定有相关的工作经验，在面试中被问到这个问题是很常见的。那么该如何作答呢？请看本文“聊聊产品经理跳槽面试常见问题（三）”中分享的内容吧！
  ## [在线教育全面开花 私域流量价值越来越高！](http://www.chanpin100.com/article/115483)
  > 在线教育在2020年全面开花，也给了很多传统教培机构转型升级的机会。同时，头部机构把控流量，获客成本翻番也逐渐成为常态。
  ## [产品经理专业术语之BRD侧重的内容是什么？](http://www.chanpin100.com/article/115555)
@@ -113,9 +127,5 @@ categories: IT NEWS
  > 在产品经理的面试中，我们可能会遇到这样的问题，“你认为产品经理的职责都有哪些？”那么针对这道题目，我们该如何回答呢？我们今天就来帮助大家拆解一下这道题目并分享答案，本篇文章的内容是题目解析，下面请看本文的内容。
  ## [求职就业锦囊妙计 产品经理面试问题汇总（五）](http://www.chanpin100.com/article/115545)
  > 这篇文章给大家分享面试问题汇总的最后三个问题，这三个问题被问的概率极高，回答也需要技巧，所以大家要提前组织好语言，保证面试时能流畅的回答出来。
- ## [19套优质NPS问答模版 让客户满意度飞涨](http://www.chanpin100.com/article/115475)
- > 做NPS调研，除了获得NPS得分，了解客户真正的想法，还需要搞清楚他们这样打分的原因，通过设置一些恰当的NPS调研问题，能让你更精准地了解客户对公司、产品或服务的反馈和意见。
- ## [求职就业锦囊妙计 产品经理面试问题汇总（四）](http://www.chanpin100.com/article/115541)
- > 面试是一个永恒的难题，但是又是你提高薪资一个重要的机会，所以大家要提前做好准备，争取在面试过程中表现得比较完美，这样就能顺利通过，甚至还能临时要求涨薪。
 
     
