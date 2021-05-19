@@ -1,40 +1,42 @@
 ---
 title: 2021-05-19 IT News
 copyright: true
-date: 2021-05-19 08:01:05
+date: 2021-05-19 09:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [乐视电视及手机渐次回归 背靠乐融致新的智能生态能否“改头换面”?](http://mp.weixin.qq.com/s?src=11&timestamp=1621382404&ver=3077&signature=bVvqTXoRxE7cwjRchXtjEYM-WzXZRNFdFue2Bj0MuR3XLyYZopKHbNKRbNhqv*tAo4PRltu6pz8AegIJxcCp3iDnAlUhd6n2MpiUT3uUu3I=&new=1)
- > 经济观察网  记者  钱玉娟 在乐视网退市、贾跃亭至今未回国的现况下，乐视喊出了“我们回来了”。5月18日下午，乐视再次举行生态大会，除了舞台主背景中的那五字口号醒目，它还一口气亮相了60多款智能生态产品。...
- ## [谷歌推出动作检测工具MoveNet及API](http://mp.weixin.qq.com/s?src=11&timestamp=1621382404&ver=3077&signature=T1wf0-nXE5sSUui3LVrI-FUReXGs8oyj2yLyOc4O8v4LNgh5hBcmvIwm7A52SGJbRRGVl5mKeJ6jx*pW80JpzzUFAnFLe8MH2s5OCbpUTitrXC4Mu9rVcq-HoKzNRgqK&new=1)
+ ## [谷歌推出动作检测工具MoveNet及API](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=T1wf0-nXE5sSUui3LVrI-FUReXGs8oyj2yLyOc4O8v4LNgh5hBcmvIwm7A52SGJbC0wieQ6nOwZHLsCqKqKrmR1m*NuvCH78t1IyvcZoG3FlkNt9YLG4Yt*DUQorbEzS&new=1)
  > 谷歌推出了能够检测人体姿态的MoveNet模型，以及相应的TensorFlow.js API（Application Programming Interface，应用程序接口）。MoveNet能够快速、准确检测人体的17个关键节点，通过与I
- ## [剧透|穿衣镜能上网、千里之外遥控开车……这是个什么神奇展会!](http://mp.weixin.qq.com/s?src=11&timestamp=1621382404&ver=3077&signature=0dGNJ2GJIJmzU7p12c9mQZh5Ui-je1XNT7HwRf0*XrIOJQYEBwOACo*xuKc3kzvsVrLX4uuKDpze1G4uLYIDTr7RWaRrUCwhi8HAgjsbQhqU7uSvthFIdpRv*exeHOxR&new=1)
- > 还有两天第五届世界智能大会将于5月20日盛大启幕作为大会重头戏智能科技展布展工作已经就绪今年智能科技展位于梅江会展中心，总面积达4.8万平米，共有241家企业参展，设有五个室内展区和一个户外展区。除了最新...
- ## [华为徐直军喊话伙伴：共建“能力型生态”，为何?](http://mp.weixin.qq.com/s?src=11&timestamp=1621382404&ver=3077&signature=**71kAgZ6PdR4eDTQWqyWTuxxeekYAdwlYPPXgK6l4o-Vxl5mYJAtYoY-I0AR6fA5fXUSoqRCODYs3Bjgvb3-k-FoClyDjmApXMuqYW7g4viVcL1QuxdRtIJHTcZTkTN&new=1)
+ ## [乐视电视及手机渐次回归 背靠乐融致新的智能生态能否“改头换面”?](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=bVvqTXoRxE7cwjRchXtjEYM-WzXZRNFdFue2Bj0MuR3x7v2eEFqXLzcLAGrvr-TLYLsxRMoKejeFDRQmYGkayfwLyylNA**baZbbyuENnqk=&new=1)
+ > 经济观察网  记者  钱玉娟 在乐视网退市、贾跃亭至今未回国的现况下，乐视喊出了“我们回来了”。5月18日下午，乐视再次举行生态大会，除了舞台主背景中的那五字口号醒目，它还一口气亮相了60多款智能生态产品。...
+ ## [华为徐直军喊话伙伴：共建“能力型生态”，为何?](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=**71kAgZ6PdR4eDTQWqyWTuxxeekYAdwlYPPXgK6l4o-Vxl5mYJAtYoY-I0AR6fA1sKnRCMc128WMdbwMy4fijx*N2jHukRO8zw4x5EtYAxdgLHVGjEs-HlVnReC-zIt&new=1)
  > 5月17日，2021年华为中国生态大会正式召开。这是华为该系列活动举办的第十届。我们看到，华为与现场近两万名生态伙伴一起，共赴十年之约，以能力共进，创造更大的生态价值。每年的生态大会，华为都会分享很多超...
- ## [发展能力型伙伴体系，共拓更大价值可能](http://mp.weixin.qq.com/s?src=11&timestamp=1621382404&ver=3077&signature=R7fq1nJh-xMf4IfpEd3daO3kHe8KVS7h3SPayDvDr0YN8J2Fx0utS3otjXHxVF3ISeCKBX2wed77dcI8-FWRsJlu-STV6IjHx3fhC-7QKnTRa4MF4KO-IY98aZHBhDXl&new=1)
+ ## [剧透|穿衣镜能上网、千里之外遥控开车……这是个什么神奇展会!](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=0dGNJ2GJIJmzU7p12c9mQZh5Ui-je1XNT7HwRf0*XrIOJQYEBwOACo*xuKc3kzvsWPCMo2vPLKbNXmOBmQUqO0a2dfzVhxrqLLAwyqdcY6rYyAxNKCJdfU44NLRKyErw&new=1)
+ > 还有两天第五届世界智能大会将于5月20日盛大启幕作为大会重头戏智能科技展布展工作已经就绪今年智能科技展位于梅江会展中心，总面积达4.8万平米，共有241家企业参展，设有五个室内展区和一个户外展区。除了最新...
+ ## [发展能力型伙伴体系，共拓更大价值可能](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=R7fq1nJh-xMf4IfpEd3daO3kHe8KVS7h3SPayDvDr0YN8J2Fx0utS3otjXHxVF3ISbGBe5wiJlGIhPsoZogKDWMyhws8Qbwzs3EcXM9b7M2wMHvrr3AaEKk1djDc-0sJ&new=1)
  > 5月17日，以“因聚而生 有能有为”为主题，华为中国生态大会2021在深圳会展中心拉开帷幕。会上，华为强调“坚持被集成，是为了和伙伴共同探索，积累能力，并向伙伴传递能力，最终支持伙伴共赢。”同时，华为提出...
 # IT 技术 
  ## [中国开源人才发展调查PC](https://marketing.csdn.net/questions/Q2105111532195508414)
  > 中国开源人才发展调查PC
- ## [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）](https://blog.csdn.net/weixin_44318830/article/details/116402369)
- > 00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）
+ ## [【高效编码】关于IDEA调试的点点滴滴都在此文了。领导看了都说好！！！！](https://blog.csdn.net/u014534808/article/details/116972410)
+ > 【高效编码】关于IDEA调试的点点滴滴都在此文了。领导看了都说好！！！！
+ ## [520就要来了，你打算送什么呢？分享用Python准备好的礼物](https://blog.csdn.net/yunyun889901/article/details/116525715)
+ > 520就要来了，你打算送什么呢？分享用Python准备好的礼物
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [webpack打包-----plugin](https://blog.csdn.net/Michael890818/article/details/116762573)
- > webpack打包-----plugin
- ## [想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！](https://blog.csdn.net/qq_42366672/article/details/116711106)
- > 想让你的电脑网速和程序员的一样快？只要这样设置，你也能起飞！
- ## [新手搭建 ts + react + webpack 项目](https://blog.csdn.net/zlzbt/article/details/116718453)
- > 新手搭建 ts + react + webpack 项目
- ## [二十三、PHP框架Laravel学习笔记——集合的常用方法](https://blog.csdn.net/weixin_44827418/article/details/116797953)
- > 二十三、PHP框架Laravel学习笔记——集合的常用方法
- ## [openCV之图像基础（笔记02）](https://blog.csdn.net/chehec2010/article/details/116669624)
- > openCV之图像基础（笔记02）
- ## [C语言指针初阶--详解](https://blog.csdn.net/m0_47988201/article/details/116722438)
- > C语言指针初阶--详解
+ ## [Vue-pdf实现在线预览PDF文件](https://blog.csdn.net/typ1805/article/details/116987433)
+ > Vue-pdf实现在线预览PDF文件
+ ## [【图像识别】基于模板匹配车牌识别matlab源码](https://blog.csdn.net/weixin_50197058/article/details/116433070)
+ > 【图像识别】基于模板匹配车牌识别matlab源码
+ ## [基于SSM的药店管理系统](https://blog.csdn.net/whirlwind526/article/details/116709041)
+ > 基于SSM的药店管理系统
+ ## [前端鉴权+如何处理权限列表](https://blog.csdn.net/sslcsq/article/details/116783892)
+ > 前端鉴权+如何处理权限列表
+ ## [swagger-ui.html弹窗报错：Unable to infer base url. This is common when using dynamic..](https://blog.csdn.net/kikii233/article/details/116761596)
+ > swagger-ui.html弹窗报错：Unable to infer base url. This is common when using dynamic..
+ ## [Transformer结合BERT代码的理解](https://blog.csdn.net/pythonbanana/article/details/117003026)
+ > Transformer结合BERT代码的理解
  ## [我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)](https://blog.csdn.net/weixin_54234482/article/details/116912822)
  > 我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)
  ## [别在再满屏的 if、else 了，试试策略模式，真香！！](https://blog.csdn.net/youanyyou/article/details/116931663)
@@ -45,8 +47,6 @@ categories: IT NEWS
  > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
  ## [王者荣耀中皮肤和英雄技能java实现](https://blog.csdn.net/ILOVEMYDEAR/article/details/116867540)
  > 王者荣耀中皮肤和英雄技能java实现
- ## [第十四届全国大学生信息安全竞赛-线上赛Writeup](https://blog.csdn.net/mochu7777777/article/details/116855242)
- > 第十四届全国大学生信息安全竞赛-线上赛Writeup
 # 人工智能 
  ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
  > 技术经理成长复盘-关于晋升
