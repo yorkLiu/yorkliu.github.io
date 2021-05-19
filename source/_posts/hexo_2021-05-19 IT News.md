@@ -1,52 +1,58 @@
 ---
 title: 2021-05-19 IT News
 copyright: true
-date: 2021-05-19 09:01:16
+date: 2021-05-19 10:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [谷歌推出动作检测工具MoveNet及API](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=T1wf0-nXE5sSUui3LVrI-FUReXGs8oyj2yLyOc4O8v4LNgh5hBcmvIwm7A52SGJbC0wieQ6nOwZHLsCqKqKrmR1m*NuvCH78t1IyvcZoG3FlkNt9YLG4Yt*DUQorbEzS&new=1)
+ ## [白云区今年力争新增 28家高新技术企业](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=cd3n5Hvw9mgvZMJ5HiwKcp8Q3ll1hC2AeQO*doQNmNdhOsSHrJZMa8N512RZzu0pemYTzgpHh8ZnDYnSxUbBCchCpu0WlhazIejsd7SLrpM=&new=1)
+ > 本报讯 5月18日，记者从白云区获悉，该区坚持创新在新型工业化中的核心地位，大力推动企业创新能力建设，加快科技成果应用转化，催生新发展动能，今年力争新增28家高新技术企业。　　今年以来，白云区坚持需...
+ ## [VIAVI推出800G FLEX XPM模块，加速通信、云和超大规模服务提供商的高速采用](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=v13sZO-bvV6mr-7DXkgMcW5MDAwLpdXb055IV2f1Hj*mGdsifAN-isOntVIu2WvLL9frmGqO6ynlAvl9SdSTxzi3cy-DzONB38RIhZA6F11XsGEZJ*3KPl2c1RfTnT3j&new=1)
+ > 导读VIAVI推出全集成型测试产品800G FLEX XPM模块，该模块为业界首款基于100G电通道、针对可插拔800G收发器的全集成型测试产品，充分利用100G电通道，并集成测试应用程序，进一步扩展了光网络测试仪(ONT)解决方...
+ ## [谷歌正式发布Android 12，但AI才是I/O大会真正的主角](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=2f8SqaqYlqeN1*SOJsmDVYwa9wgrJKShMtkQquWUETJvlVOsY-*ucg4IpUzkZbjUZHAmL9ZXJz8PxJuPb8vDwEV5c-TvAROmNz7mgl8wIKrixnLMQBny2AsDJP6L8zJ3&new=1)
+ > 腾讯科技 文｜吴彬因为新冠疫情的影响，去年停办一年的Google I/O大会今年重新回归线上举行，两个小时的主论坛演讲，几乎囊括了目前Google所有的业务线。和之前媒体预测的一样，Google在此次I/O大会上带来了正式...
+ ## [谷歌推出动作检测工具MoveNet及API](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=T1wf0-nXE5sSUui3LVrI-FUReXGs8oyj2yLyOc4O8v4LNgh5hBcmvIwm7A52SGJb-F45E3Lf-RlpVlo-i3v9XaFxODAjzWTdqpwIUkgQQnK9Qag6Wj*cQZyjPhl7q68M&new=1)
  > 谷歌推出了能够检测人体姿态的MoveNet模型，以及相应的TensorFlow.js API（Application Programming Interface，应用程序接口）。MoveNet能够快速、准确检测人体的17个关键节点，通过与I
- ## [乐视电视及手机渐次回归 背靠乐融致新的智能生态能否“改头换面”?](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=bVvqTXoRxE7cwjRchXtjEYM-WzXZRNFdFue2Bj0MuR3x7v2eEFqXLzcLAGrvr-TLYLsxRMoKejeFDRQmYGkayfwLyylNA**baZbbyuENnqk=&new=1)
+ ## [乐视电视及手机渐次回归 背靠乐融致新的智能生态能否“改头换面”?](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=bVvqTXoRxE7cwjRchXtjEYM-WzXZRNFdFue2Bj0MuR1CG-G6KfkCCTyGJ*y84PmNv9YRTzGietQOiZqzsvqASbOCm0xcOHpsPebcLfs8xWA=&new=1)
  > 经济观察网  记者  钱玉娟 在乐视网退市、贾跃亭至今未回国的现况下，乐视喊出了“我们回来了”。5月18日下午，乐视再次举行生态大会，除了舞台主背景中的那五字口号醒目，它还一口气亮相了60多款智能生态产品。...
- ## [华为徐直军喊话伙伴：共建“能力型生态”，为何?](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=**71kAgZ6PdR4eDTQWqyWTuxxeekYAdwlYPPXgK6l4o-Vxl5mYJAtYoY-I0AR6fA1sKnRCMc128WMdbwMy4fijx*N2jHukRO8zw4x5EtYAxdgLHVGjEs-HlVnReC-zIt&new=1)
+ ## [华为徐直军喊话伙伴：共建“能力型生态”，为何?](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=**71kAgZ6PdR4eDTQWqyWTuxxeekYAdwlYPPXgK6l4o-Vxl5mYJAtYoY-I0AR6fAe*EDLo5hXLJNYFN5OU1*rkGCCgD5c22pTnNKNVmUqDt87UZKtQcfA0ExfdNzGzG2&new=1)
  > 5月17日，2021年华为中国生态大会正式召开。这是华为该系列活动举办的第十届。我们看到，华为与现场近两万名生态伙伴一起，共赴十年之约，以能力共进，创造更大的生态价值。每年的生态大会，华为都会分享很多超...
- ## [剧透|穿衣镜能上网、千里之外遥控开车……这是个什么神奇展会!](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=0dGNJ2GJIJmzU7p12c9mQZh5Ui-je1XNT7HwRf0*XrIOJQYEBwOACo*xuKc3kzvsWPCMo2vPLKbNXmOBmQUqO0a2dfzVhxrqLLAwyqdcY6rYyAxNKCJdfU44NLRKyErw&new=1)
+ ## [剧透|穿衣镜能上网、千里之外遥控开车……这是个什么神奇展会!](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=0dGNJ2GJIJmzU7p12c9mQZh5Ui-je1XNT7HwRf0*XrIOJQYEBwOACo*xuKc3kzvsoiWiV4qfJejguRwHg0iQ*OT711s74NmE0cN5bdIKj7MRwPou9qG-**z6SEPcJ-J1&new=1)
  > 还有两天第五届世界智能大会将于5月20日盛大启幕作为大会重头戏智能科技展布展工作已经就绪今年智能科技展位于梅江会展中心，总面积达4.8万平米，共有241家企业参展，设有五个室内展区和一个户外展区。除了最新...
- ## [发展能力型伙伴体系，共拓更大价值可能](http://mp.weixin.qq.com/s?src=11&timestamp=1621386004&ver=3077&signature=R7fq1nJh-xMf4IfpEd3daO3kHe8KVS7h3SPayDvDr0YN8J2Fx0utS3otjXHxVF3ISbGBe5wiJlGIhPsoZogKDWMyhws8Qbwzs3EcXM9b7M2wMHvrr3AaEKk1djDc-0sJ&new=1)
+ ## [发展能力型伙伴体系，共拓更大价值可能](http://mp.weixin.qq.com/s?src=11&timestamp=1621389604&ver=3077&signature=R7fq1nJh-xMf4IfpEd3daO3kHe8KVS7h3SPayDvDr0YN8J2Fx0utS3otjXHxVF3IfNj4XTsUfzzHTg9fG*TDkEZLqfoHWLhZAhBiqmXsJ7iEQ3cgA685AwEzoA79fSUy&new=1)
  > 5月17日，以“因聚而生 有能有为”为主题，华为中国生态大会2021在深圳会展中心拉开帷幕。会上，华为强调“坚持被集成，是为了和伙伴共同探索，积累能力，并向伙伴传递能力，最终支持伙伴共赢。”同时，华为提出...
 # IT 技术 
  ## [中国开源人才发展调查PC](https://marketing.csdn.net/questions/Q2105111532195508414)
  > 中国开源人才发展调查PC
- ## [【高效编码】关于IDEA调试的点点滴滴都在此文了。领导看了都说好！！！！](https://blog.csdn.net/u014534808/article/details/116972410)
- > 【高效编码】关于IDEA调试的点点滴滴都在此文了。领导看了都说好！！！！
- ## [520就要来了，你打算送什么呢？分享用Python准备好的礼物](https://blog.csdn.net/yunyun889901/article/details/116525715)
- > 520就要来了，你打算送什么呢？分享用Python准备好的礼物
+ ## [这几个5.20表白代码发给你女神，还没有女朋友直接来找我！](https://blog.csdn.net/weixin_44985880/article/details/116997669)
+ > 这几个5.20表白代码发给你女神，还没有女朋友直接来找我！
+ ## [Python opencv医学处理](https://blog.csdn.net/qq_43965708/article/details/116572109)
+ > Python opencv医学处理
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [Vue-pdf实现在线预览PDF文件](https://blog.csdn.net/typ1805/article/details/116987433)
- > Vue-pdf实现在线预览PDF文件
- ## [【图像识别】基于模板匹配车牌识别matlab源码](https://blog.csdn.net/weixin_50197058/article/details/116433070)
- > 【图像识别】基于模板匹配车牌识别matlab源码
- ## [基于SSM的药店管理系统](https://blog.csdn.net/whirlwind526/article/details/116709041)
- > 基于SSM的药店管理系统
- ## [前端鉴权+如何处理权限列表](https://blog.csdn.net/sslcsq/article/details/116783892)
- > 前端鉴权+如何处理权限列表
- ## [swagger-ui.html弹窗报错：Unable to infer base url. This is common when using dynamic..](https://blog.csdn.net/kikii233/article/details/116761596)
- > swagger-ui.html弹窗报错：Unable to infer base url. This is common when using dynamic..
- ## [Transformer结合BERT代码的理解](https://blog.csdn.net/pythonbanana/article/details/117003026)
- > Transformer结合BERT代码的理解
+ ## [Xcode 连线打包遇到问题 Unable to install “xxx”](https://blog.csdn.net/Czhenya/article/details/116695301)
+ > Xcode 连线打包遇到问题 Unable to install “xxx”
+ ## [Django博文数据可视化、simple-ui优化、导入导出插件](https://blog.csdn.net/qq_31910669/article/details/116936938)
+ > Django博文数据可视化、simple-ui优化、导入导出插件
+ ## [聊一聊pytorch的BN module](https://blog.csdn.net/WANGWUSHAN/article/details/116987974)
+ > 聊一聊pytorch的BN module
+ ## [九、漏洞挖掘与代码审计（1）本地包含与远程包含](https://blog.csdn.net/weixin_45540609/article/details/116737935)
+ > 九、漏洞挖掘与代码审计（1）本地包含与远程包含
+ ## [Flutter开发：Warning: CocoaPods minimum required version 1.6.0 or greater not installed…的解决方法](https://blog.csdn.net/CC1991_/article/details/116727266)
+ > Flutter开发：Warning: CocoaPods minimum required version 1.6.0 or greater not installed…的解决方法
+ ## [【机器学习】交叉熵做损失函数 BCE loss](https://blog.csdn.net/chentao326/article/details/117002655)
+ > 【机器学习】交叉熵做损失函数 BCE loss
  ## [我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)](https://blog.csdn.net/weixin_54234482/article/details/116912822)
  > 我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)
  ## [别在再满屏的 if、else 了，试试策略模式，真香！！](https://blog.csdn.net/youanyyou/article/details/116931663)
  > 别在再满屏的 if、else 了，试试策略模式，真香！！
+ ## [程序员有多难？测试适不适合女孩子做？看完这篇文章你就懂了](https://blog.csdn.net/zjtdy/article/details/116936232)
+ > 程序员有多难？测试适不适合女孩子做？看完这篇文章你就懂了
+ ## [对不起，你的密码被破解了！](https://blog.csdn.net/coderising/article/details/116956035)
+ > 对不起，你的密码被破解了！
  ## [八大排序算法（C语言实现）](https://blog.csdn.net/chenlong_cxy/article/details/116563972)
  > 八大排序算法（C语言实现）
- ## [精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！](https://blog.csdn.net/weixin_41055260/article/details/116865434)
- > 精心为学弟学妹整理了60个适合练手的C语言/C++项目，值得收藏！
- ## [王者荣耀中皮肤和英雄技能java实现](https://blog.csdn.net/ILOVEMYDEAR/article/details/116867540)
- > 王者荣耀中皮肤和英雄技能java实现
 # 人工智能 
  ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
  > 技术经理成长复盘-关于晋升
@@ -79,6 +85,8 @@ categories: IT NEWS
  ## [大教堂终将倒下，但集市永存](https://blog.csdn.net/TiDB_PingCAP/article/details/116793414)
  > 大教堂终将倒下，但集市永存
 # PM 
+ ## [蛰伏一整年 「小鹅拼拼」正式出道！](http://www.chanpin100.com/article/115569)
+ > 蛰伏了一整年的「小鹅拼拼」终于正式出道。根据蝉大师数据显示，「小鹅拼拼」于2021年5月7日正式上线App Store，截止到目前「小鹅拼拼」近7天的日均下载量仅为1847次/天。虽然这数据看着不尽人如意，但随着在网络上的曝光逐渐增多，其下载量在昨日达到了5080次，也成功挤入App Store购物
  ## [产品经理应该如何搭建一个微信小程序？（下）](http://www.chanpin100.com/article/115600)
  > 产品经理应该如何搭建一个微信小程序？前两篇文章我们已经介绍了一些小程序的内容，这篇文章主要是介绍一些接口，大家可以了解一下，然后自己尝试去搭建一个小程序。
  ## [产品经理应该如何搭建一个微信小程序？（中）](http://www.chanpin100.com/article/115599)
@@ -113,7 +121,5 @@ categories: IT NEWS
  > 对于一名产品经理来说，都有哪些常见的广告计费模式需要你了解呢？本文小编就给大家罗列了几种产品经理需要了解的常见广告计费模式，希望可以对你有所帮助。
  ## [产品经理必须要明白的几件重要事情（下）](http://www.chanpin100.com/article/115588)
  > 这篇文章我们继续来聊聊“产品经理必须要明白的几件重要事情”，上一篇文章分享了两个要注意的点，这篇文章将介绍最后一件重要的事情，一起来看看吧！
- ## [产品经理遇到的与广告相关的术语都有哪些？](http://www.chanpin100.com/article/115587)
- > 今天，我们继续来为大家分享产品经理的专业术语，本文的主要内容是产品经理遇到的与广告相关的术语都有哪些以及它们的含义是什么，下面请看本文的具体内容。
 
     
