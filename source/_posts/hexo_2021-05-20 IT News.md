@@ -1,21 +1,21 @@
 ---
 title: 2021-05-20 IT News
 copyright: true
-date: 2021-05-20 08:01:05
+date: 2021-05-20 09:02:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Windows 10 2021年5月更新现已正式推出](http://mp.weixin.qq.com/s?src=11&timestamp=1621467005&ver=3079&signature=xDkJy6QX-NTubVQi3HZ*iU7L3WeHQEGLHBQUYa20U*QsY246Azth0WZLOqv7W4oWmEY7FGseDBniFDIiNUpLQTtJlFvtoCMHE6d1X2Bx3WTlDVxoR7qU9KN-jTrMxPfN&new=1)
+ ## [Windows 10 2021年5月更新现已正式推出](http://mp.weixin.qq.com/s?src=11&timestamp=1621472404&ver=3079&signature=xDkJy6QX-NTubVQi3HZ*iU7L3WeHQEGLHBQUYa20U*SetL1-mNTD9E0kIa2sUbJxUwAePgZLriXrn**D94usegw13tloooXGBuV4OoHXJ0sK80jFWqR74JlaOCT*QZ9V&new=1)
  > Windows 10 2021年5月更新现已正式推出。Win10 21H1的硬件兼容性相比20H2没有任何更改，任何Windows 10 2004版本以后的设备都可以兼容21H1，其中驱动签名、Errta、许可方面都没有任何更改。完整更新列
- ## [智驾科技MAXIEYE前装产品出货10万件背后：技术、资本与人才](http://mp.weixin.qq.com/s?src=11&timestamp=1621467005&ver=3079&signature=FQzx2-6m8MMWRCD*ve9Bip*Uefd*ww76p3lrbiAhSz35gTM-CPL2WPjKeZOdjIatIInxvGQAe6cHWIz3M7AaLJ--mX7JeL-1dLEVzZ7zGmUB7D5qpCa3oAgq0euSb8pE&new=1)
- > 从单纯的视觉感知产品方案，到集成化的决策方案、融合策略再到全栈技术协同，智驾科技MAXIEYE正以全新姿态参与到智慧出行市场之中。文丨AutoR智驾  诺一一直低调的智驾科技MAXIEYE在今年交出一份被市场认可的答...
- ## [谷歌计划2029年前商用量子计算机 已建设全新量子AI园区](http://mp.weixin.qq.com/s?src=11&timestamp=1621467005&ver=3079&signature=Z-T9e58Qf*A*VDsLVELiO6TSwU5ST2wg0RqIxTAXR1Vyk8tC46f7wCrCv2z0vtiJ*2NvztNCoTqC*pbMVnQICQVSlJh2EeX8RosWrjhQoHoz8jA9b3puhDmf3BsWvOiJ&new=1)
- > 谷歌开发者有信心在 2029 年之前建立一个商业级的量子计算机。在今天召开的 I/O 开发者大会上，谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)宣布了这项雄心勃勃的计划。在随后发布的一篇博文中，量子人工智能首...
- ## [华为路由H6发布：首款HarmonyOS路由，开启全屋智能新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1621467005&ver=3079&signature=3pECfHbbsxStN-lGa9zjqIkM9041ZVVPmVYkJYpFEZYQgAViueJY0idZ-N*KUScgWy8AQXNEYEPIskgBpVCkmsnRGhRVCG9l8MVrCxbBS-fAo*I196vR7zp4sNM*Huuj&new=1)
+ ## [华为路由H6发布：首款HarmonyOS路由，开启全屋智能新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1621472404&ver=3079&signature=3pECfHbbsxStN-lGa9zjqIkM9041ZVVPmVYkJYpFEZZeuWArBIEo*UGgKCXQ7gjCyD*-JyBJdN3QHtZHHmLtJ9qNc73Gm0UJh3hGERYmprGXygqMCK4Knt4AMV*2yJVa&new=1)
  > 但家庭Wi-Fi覆盖体验参差不齐，让全屋智能行业发展缓慢，尤其是大户型覆盖难。对此，5月19日，华为发布一款高端家庭路由器新品华为路由H6。该产品定位大户型，目标实现全屋Wi-Fi 6+，是华为首款HarmonyOS路由器...
- ## [加密市场恐慌、愤怒情绪积聚，多位大佬“回怼”马斯克](http://mp.weixin.qq.com/s?src=11&timestamp=1621467005&ver=3079&signature=ZXOUMUke8lH0MlT8PkUEXWNw42KYfDWQq0bcTxpCtxkykmTq8ZyQH2o71pCZrXWzzp1qRc9mFvVumUCXJocca2wj2eRbj*HB5LuAhkZLz5C9GHPboJ1Fir04Ql*4d-uv&new=1)
+ ## [谷歌计划2029年前商用量子计算机 已建设全新量子AI园区](http://mp.weixin.qq.com/s?src=11&timestamp=1621472404&ver=3079&signature=Z-T9e58Qf*A*VDsLVELiO6TSwU5ST2wg0RqIxTAXR1WzlYZgHtEyNKm2Xj0seVJePdbNmfVNZ7K*VhcvGTAaTDcBMmiMkYziD9vqllWtwPLJVP5781Q8RVKxcN5A0hWm&new=1)
+ > 谷歌开发者有信心在 2029 年之前建立一个商业级的量子计算机。在今天召开的 I/O 开发者大会上，谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)宣布了这项雄心勃勃的计划。在随后发布的一篇博文中，量子人工智能首...
+ ## [加密市场恐慌、愤怒情绪积聚，多位大佬“回怼”马斯克](http://mp.weixin.qq.com/s?src=11&timestamp=1621472404&ver=3079&signature=ZXOUMUke8lH0MlT8PkUEXWNw42KYfDWQq0bcTxpCtxlwuxVAik37WJlPVU9-Dxg8ww4IxyDhOstkkm1m1dXIaczVokOxdx9FK88a7*DbXGaMoh-ZnMCekDzHTlGP7moT&new=1)
  > 华夏时报记者 王永菲 冉学东 北京报道加密货币市场风云涌动，似乎一瞬间就变天了。2020年，加密市场以及投资者最关注的莫过于曾经的”貔貅“灰度，灰度对加密货币的仓位或增持或减持，一度是加密市场涨跌的风向...
+ ## [智驾科技MAXIEYE前装产品出货10万件背后：技术、资本与人才](http://mp.weixin.qq.com/s?src=11&timestamp=1621472404&ver=3079&signature=FQzx2-6m8MMWRCD*ve9Bip*Uefd*ww76p3lrbiAhSz0dq-5fTk7hcjlcnUF3ID*ZrPxC0c4oeCUbs2ZBNLYgq8eUu8MjBzjTaqAnkYYs5z3FfG4*B*S0JzlDqTTdPfeX&new=1)
+ > 从单纯的视觉感知产品方案，到集成化的决策方案、融合策略再到全栈技术协同，智驾科技MAXIEYE正以全新姿态参与到智慧出行市场之中。文丨AutoR智驾  诺一一直低调的智驾科技MAXIEYE在今年交出一份被市场认可的答...
 # IT 技术 
  ## [这几个5.20表白代码发给你女神，还没有女朋友直接来找我！](https://blog.csdn.net/weixin_44985880/article/details/116997669)
  > 这几个5.20表白代码发给你女神，还没有女朋友直接来找我！
@@ -37,47 +37,16 @@ categories: IT NEWS
  > GTX1650 搭建TensorFlow-GPU 2.4框架（CUDA11.0 + cudnn 8.04 + anaconda 3.8）
  ## [在校大学生想当程序员，听老叔这番话，你会少走很多弯路【18年开发经验分享】](https://blog.csdn.net/zhiguigu/article/details/117000711)
  > 在校大学生想当程序员，听老叔这番话，你会少走很多弯路【18年开发经验分享】
+ ## [十大排序算法-快排-希尔-堆排-归并-冒泡-桶排-选择-插入-计数-基数-1](https://blog.csdn.net/weixin_43580319/article/details/116802425)
+ > 十大排序算法-快排-希尔-堆排-归并-冒泡-桶排-选择-插入-计数-基数-1
  ## [大学四年因为知道了这30个超强Java自学网站，毕业直接让我月薪过万！](https://blog.csdn.net/sinat_33921105/article/details/116957717)
  > 大学四年因为知道了这30个超强Java自学网站，毕业直接让我月薪过万！
  ## [别在再满屏的 if、else 了，试试策略模式，真香！！](https://blog.csdn.net/youanyyou/article/details/116931663)
  > 别在再满屏的 if、else 了，试试策略模式，真香！！
- ## [十大排序算法-快排-希尔-堆排-归并-冒泡-桶排-选择-插入-计数-基数-1](https://blog.csdn.net/weixin_43580319/article/details/116802425)
- > 十大排序算法-快排-希尔-堆排-归并-冒泡-桶排-选择-插入-计数-基数-1
  ## [我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)](https://blog.csdn.net/weixin_54234482/article/details/116912822)
  > 我是如何用一行代码表白学妹~❤520情人节送女朋友的3D樱花雨相册礼物❤~(程序员表白专属)
- ## [520前，我放弃陪女朋友时间，被迫写代码:“SSM框架整合+excel文件上传到数据库+数据更新“](https://blog.csdn.net/weixin_44797539/article/details/116987202)
- > 520前，我放弃陪女朋友时间，被迫写代码:“SSM框架整合+excel文件上传到数据库+数据更新“
-# 人工智能 
- ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
- > 分布式数据一致性思考-B端系统一致性
- ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
- > 技术经理成长复盘-关于晋升
- ## [NVIDIA之硬件编解码模块NVCODEC](https://blog.csdn.net/zong596568821xp/article/details/116531122)
- > NVIDIA之硬件编解码模块NVCODEC
- ## [巨头王炸不断，硬核解读芯片技术路线](https://blog.csdn.net/BEYONDMA/article/details/116562254)
- > 巨头王炸不断，硬核解读芯片技术路线
- ## [大教堂终将倒下，但集市永存](https://blog.csdn.net/TiDB_PingCAP/article/details/116793414)
- > 大教堂终将倒下，但集市永存
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [Flutter 动态化新知识](https://blog.csdn.net/Tencent_TEG/article/details/116810929)
- > Flutter 动态化新知识
- ## [最全自动驾驶技术架构和综述](https://blog.csdn.net/gshengod/article/details/116838951)
- > 最全自动驾驶技术架构和综述
- ## [Python 之父爆料：明年至少令 Python 提速 1 倍！](https://blog.csdn.net/chinesehuazhou2/article/details/116897485)
- > Python 之父爆料：明年至少令 Python 提速 1 倍！
- ## [25种代码坏味道总结+优化示例](https://blog.csdn.net/weiwenhou/article/details/116900974)
- > 25种代码坏味道总结+优化示例
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/116905607)
- > Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定
- ## [远程软件工程师的10个最佳实践](https://blog.csdn.net/wireless_com/article/details/116905657)
- > 远程软件工程师的10个最佳实践
- ## [Apache Spark 3.1 中 Structured Streaming 方面的改进](https://blog.csdn.net/w397090770/article/details/116905880)
- > Apache Spark 3.1 中 Structured Streaming 方面的改进
- ## [研发工具一体化：低代码引发的效能演进](https://blog.csdn.net/gmszone/article/details/116906153)
- > 研发工具一体化：低代码引发的效能演进
+ ## [《STM32从零开始学习历程》——CAN通讯代码详解](https://blog.csdn.net/qq_33693310/article/details/116884820)
+ > 《STM32从零开始学习历程》——CAN通讯代码详解
 # PM 
  ## [高效的将业务转化为产品 成为有价值的顶级产品经理！](http://www.chanpin100.com/article/115620)
  > 对于产品经理来说，业务这个词肯定是再熟悉不过了，那么怎么高效的将业务转化为产品呢？今天我们就来聊一下。
