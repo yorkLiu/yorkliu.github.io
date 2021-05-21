@@ -1,53 +1,63 @@
 ---
 title: 2021-05-21 IT News
 copyright: true
-date: 2021-05-21 09:01:31
+date: 2021-05-21 10:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [来不及标题了!速看，报告中国联通大料!](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=vxTSpiHHToVLf6hON0PGSWmRz6mlcViIyMaCkU1te3QWAr1lwCD9aYy57ZGtzyND1ArUqguEbuiCotfw6GhjDyXG*dBo8*hqbTuLkoCXQEiuXY0KGXy3OLWlDWt*wGqz&new=1)
+ ## [@设计师 关于3D打印的知识都在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=dFTG87qkStTAGRkTk9oOeGrQsy4eyBdC7S-p8-4Ne8Ai9UIXkBzevlrN2GX*KKk-vpEZqB6z9F41tUF-VDAb7I*lcslruWLqz0FL*ygnseCpp0ygajjqnP9RxqjqNSYI&new=1)
+ > “之前为大家介绍关于3D打印文章的投票中向大家询问设计工作中用到3D打印的情况81%的投票者表示设计工作中有借助3D打印3D打印凭借快速、灵活易用的形式可以很好的辅助我们的设计工作··今天为你详细介绍2021 TC...
+ ## [华为申报项目入围 2021数博会领先科技成果奖终审](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=KAy1bSorCvl2NYgz08qnzj7dIgYd8UTFJXsCm7Kr1*zu1ynBYiEoGgj0-sh8VwP*Y2VQhjHo*mdgT*eJV4gRTV1HoFDqPHmYDjO4sdZ4BGM=&new=1)
+ > 本报讯 5月20日，记者从2021中国国际大数据产业博览会执委会办公室数博发布组获悉，华为技术有限公司申报的“华为云GaussDB（DWS）实时数仓：实时数据分析技术”项目，入围2021数博会领先科技成果奖终审。　...
+ ## [一个时代的终结!别了，IE浏览器!网友：各种考试报名咋办…](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=5NkFne1Qcfg5Oj2sYn0WeyYEmD3cr9rlM95ZosqRliSjadKPAigAuUu50sCgxPEOufISM7KOonTC4o4iDJ56ockKfNRYWdCz7EswS1m38BvE*gcAntrgE0DIQ5p7ZabR&new=1)
+ > 在超过25年后，微软终于要在明年淘汰掉IE 浏览器（Internet Explorer）了再见了，IE浏览器！据华尔街日报中文网报道，微软表示，其浏览器Internet Explorer(简称：IE)将基本淘汰，标志着又一款数字产品将退出历
+ ## [来不及标题了!速看，报告中国联通大料!](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=vxTSpiHHToVLf6hON0PGSWmRz6mlcViIyMaCkU1te3TfFu3ZsYuP9U0K7HGEaUDO0o3z2DsrThbwyAgnN6*8FDrivY4*vmMYXzCAtdHGUWja0PElt9*Tz1w9LRPEN80g&new=1)
  > 有没有那么一瞬间，你觉得世界特别需要你？上班时客户来电不停，生怕错过了哪一通；中午还在开会，没空接听外卖小哥的电话；更别提那些不时突袭的广告推销电话……不管你是否愿意，就是这些电话“特别需要你”。...
- ## [一个时代彻底终结!别了，IE浏览器!曾占95%市场份额，网友：各种考试报名咋整?](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=LlssI9oaaFgO4n6pwbuJzN6BjfNfrLKo0YopxQwTGCg0grxaUdLdu4BzGYVfJIDS*mDSOFNEyCT8De*GbWkzVDo1Eo-G372aPDWMTMxzFPQ8c2tua3bw8rkjuDzpmi5d&new=1)
+ ## [一个时代彻底终结!别了，IE浏览器!曾占95%市场份额，网友：各种考试报名咋整?](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=LlssI9oaaFgO4n6pwbuJzN6BjfNfrLKo0YopxQwTGCgDPjEcUtaopBjTqY68d2*iwWzjgGxRZu6vcgOEayx**sscoNpn7gm2GJacVVWS6eHz1M7fNliKBlYP9Dla8z59&new=1)
  > 中国基金报 泰勒时代的眼泪，终于到了告别的时候了。在超过25年后，微软终于要在明年退役IE浏览器（Internet Explorer）。再见了，IE浏览器！当地时间5月19日，微软公司表示，从明年6月15日起，其浏览器Internet...
- ## [今天|重量级大咖齐聚天津!未来就在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=CvDePak8U2K6wOM8p6Pz3*0IfQ9g5iS3tB45Xc8JVevQtSN-c2v*jE05KtN8Kx1yay8*lyVhki*YDBjCuEbiZ8gFbcKjNovTONcszYdvQBTBhAdg41A2FBA9SQtJTRLh&new=1)
+ ## [今天|重量级大咖齐聚天津!未来就在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=CvDePak8U2K6wOM8p6Pz3*0IfQ9g5iS3tB45Xc8JVetmd7HKUBFmk87vfjm1SI83U8CaULC9Eh-Pkn4UHsFB6wNouLQZlvO1wdCMLKFLMnzrKx7zFEDA1sFQUnIOShtA&new=1)
  > 渤海之滨，海河之畔全球的目光聚焦今天第五届世界智能大会在天津盛大开幕！第五届世界智能大会开幕式之后进入了精彩的高峰会环节雷军、杨元庆、刘庆峰、周鸿祎等各界重量级大咖悉数亮相嘉宾们围绕智能制造产业发...
- ## [5G 真的有宣传中的那么厉害吗?无人驾驶、智能家居、远程医疗等必须得有 5G 才能实现吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=sNpN8Z7jj4D7t*3GlCx*hAmz-IlO8QQ5jY-uo9JsavCez3zAMiSvqz4CJ3Lc7xgHpX4hVlCwhlTdWIjeB5egfjwzKFSykXr*vqayDwFzV*VWx5e-RatnCzjDDJ1QVvpW&new=1)
+ ## [5G 真的有宣传中的那么厉害吗?无人驾驶、智能家居、远程医疗等必须得有 5G 才能实现吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=sNpN8Z7jj4D7t*3GlCx*hAmz-IlO8QQ5jY-uo9JsavCq96Nm3JjWbwW**uUIgDVgWbgQjfcNoLSi7bWFLvyCVJncSubu2kKjsei9Od5CQ1v3zXj2a*ZPDTklyFXHhgmg&new=1)
  > 1.此前5G被过度宣传的原因，估计通信行业内的人都清楚是谁起的头，直到因为众所周知的原因导致有企业的收入下降、营销费用被削减，5G的宣传热度才下降，再加上前财长楼继伟站出来说话，对5G理性思考的观点才多了...
- ## [今天这场重量级高峰会上，“大咖”们都说了什么……](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=fP*U79Mxy65Js5TBLjtMUme9BOgK-YiQYHqd5rrJ8NNxME2GxBZSDb9ttBOewY8BmGXKCCHErWePdnqnBYzMntsnx7MxWueH9UixhwzpLfPF-GhvULN2ogFRsv13iEIy&new=1)
+ ## [今天这场重量级高峰会上，“大咖”们都说了什么……](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=fP*U79Mxy65Js5TBLjtMUme9BOgK-YiQYHqd5rrJ8NO497rzCVex5*MNOhhD4rW4tLqVR36lc-XJhg-nr9TkucrTJLJDU0u1mCR8Y3fD*J2Gfd9gqagzTKd2TkclIWIl&new=1)
  > 相约520第五届世界智能大会今天在天津正式开幕在今天的高峰会上这些大咖发表了精彩演讲听听他们都说了什么↓周济：智能制造是第四次工业革命的核心技术中国工程院院士、国家制造强国建设战略咨询委员会主任周济...
-# IT 技术 
- ## [新手小白学JAVA Set HashSet Map HashMap](https://blog.csdn.net/weixin_43884234/article/details/117073174)
- > 新手小白学JAVA Set HashSet Map HashMap
- ## [生产JIRA修改家目录](https://blog.csdn.net/qq_42534026/article/details/116599905)
- > 生产JIRA修改家目录
- ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
- > 
- ## [xcode调试可执行程序](https://blog.csdn.net/momo0853/article/details/117075118)
- > xcode调试可执行程序
- ## [C++ 继承 王叔叔直呼内行](https://blog.csdn.net/weixin_46274168/article/details/116592728)
- > C++ 继承 王叔叔直呼内行
- ## [二、swagger用法与swagger-ui使用](https://blog.csdn.net/btt2013/article/details/116808822)
- > 二、swagger用法与swagger-ui使用
- ## [poco常用语法合集](https://blog.csdn.net/zmzsoftware/article/details/117087588)
- > poco常用语法合集
- ## [第十二章：使用C语言(Python语言)操作Sqlserver2019数据库](https://blog.csdn.net/xw1680/article/details/116612691)
- > 第十二章：使用C语言(Python语言)操作Sqlserver2019数据库
- ## [C++学习（第5天）--通讯录管理系统](https://blog.csdn.net/qq_39346534/article/details/116950065)
- > C++学习（第5天）--通讯录管理系统
- ## [520还在画玫瑰？教你用MATLAB画个玫瑰花球](https://blog.csdn.net/slandarer/article/details/117048623)
- > 520还在画玫瑰？教你用MATLAB画个玫瑰花球
- ## [在校大学生想当程序员，听老叔这番话，你会少走很多弯路【18年开发经验分享】](https://blog.csdn.net/zhiguigu/article/details/117000711)
- > 在校大学生想当程序员，听老叔这番话，你会少走很多弯路【18年开发经验分享】
- ## [520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）](https://blog.csdn.net/linxinfa/article/details/117014562)
- > 520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）
- ## [“妈我不想去上课！”“不行你是老师！”](https://blog.csdn.net/hihell/article/details/117024130)
- > “妈我不想去上课！”“不行你是老师！”
- ## [别在再满屏的 if、else 了，试试策略模式，真香！！](https://blog.csdn.net/youanyyou/article/details/116931663)
- > 别在再满屏的 if、else 了，试试策略模式，真香！！
- ## [大学四年因为知道了这30个超强Java自学网站，毕业直接让我月薪过万！](https://blog.csdn.net/sinat_33921105/article/details/116957717)
- > 大学四年因为知道了这30个超强Java自学网站，毕业直接让我月薪过万！
+# 人工智能 
+ ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
+ > 分布式数据一致性思考-B端系统一致性
+ ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
+ > 技术经理成长复盘-关于晋升
+ ## [NVIDIA之硬件编解码模块NVCODEC](https://blog.csdn.net/zong596568821xp/article/details/116531122)
+ > NVIDIA之硬件编解码模块NVCODEC
+ ## [巨头王炸不断，硬核解读芯片技术路线](https://blog.csdn.net/BEYONDMA/article/details/116562254)
+ > 巨头王炸不断，硬核解读芯片技术路线
+ ## [ORACLE数据库应用开发三十忌！助你涨薪10k的二十年经验教训总结，华为工程师也曾栽过跟头，近万字长文吐血推荐！！建议收藏！](https://blog.csdn.net/LaoYuanPython/article/details/116693170)
+ > ORACLE数据库应用开发三十忌！助你涨薪10k的二十年经验教训总结，华为工程师也曾栽过跟头，近万字长文吐血推荐！！建议收藏！
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [大教堂终将倒下，但集市永存](https://blog.csdn.net/TiDB_PingCAP/article/details/116793414)
+ > 大教堂终将倒下，但集市永存
+ ## [Flutter 动态化新知识](https://blog.csdn.net/Tencent_TEG/article/details/116810929)
+ > Flutter 动态化新知识
+ ## [最全自动驾驶技术架构和综述](https://blog.csdn.net/gshengod/article/details/116838951)
+ > 最全自动驾驶技术架构和综述
+ ## [Python 之父爆料：明年至少令 Python 提速 1 倍！](https://blog.csdn.net/chinesehuazhou2/article/details/116897485)
+ > Python 之父爆料：明年至少令 Python 提速 1 倍！
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [25种代码坏味道总结+优化示例](https://blog.csdn.net/weiwenhou/article/details/116900974)
+ > 25种代码坏味道总结+优化示例
+ ## [Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/116905607)
+ > Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定
+ ## [远程软件工程师的10个最佳实践](https://blog.csdn.net/wireless_com/article/details/116905657)
+ > 远程软件工程师的10个最佳实践
+ ## [Apache Spark 3.1 中 Structured Streaming 方面的改进](https://blog.csdn.net/w397090770/article/details/116905880)
+ > Apache Spark 3.1 中 Structured Streaming 方面的改进
 # PM 
+ ## [怎么向盲人描述黄色？](http://www.chanpin100.com/article/115693)
+ > 据说，这是某大厂的面试题，那么我们就当做一个产品问题来分析。分析这个问题的第一步是明确用户：盲人分先天失明和后天失明，前者一出生就被上帝在眼前遮住了帘忘了掀开，后者则是后天生活中遭遇事故而失明。
+ ## [「重磅」微信小程序再也不能打开APP了](http://www.chanpin100.com/article/115697)
+ > 刚出炉的消息，微信团队决定5月19日之后，停止小程序打开APP的能力。早在2018年1月份，微信为了完善小程序的服务场景，开放小程序打开APP功能，这在当时是个很重磅的更新，原本担心小程序会分走自家APP流量的开发者终于放下心来。
  ## [作为SaaS产品经理 要时刻保持敬畏心](http://www.chanpin100.com/article/115694)
  > 作为SaaS产品经理，要时刻保持敬畏心。为什么这么说呢？我将结合自己的工作经历发表一下自己的看法，有不同观点的小伙伴也可以提出来哦，大家一起交流学习。
  ## [从设计思维角度看 B端C端产品经理有何区别？（下）](http://www.chanpin100.com/article/115691)
@@ -80,9 +90,5 @@ categories: IT NEWS
  > 随着互联网的迅速发展， 越来越多的人开始选择产品经理这个岗位，因为它不仅发展前景很好而且薪资也不低，那么作为产品经理来说，都需要掌握哪些常见的术语呢？接下来本文就给大家介绍一下产品经理常见术语”羊群效应“的含义。
  ## [产品经理应该如何快速测评新算法？掌握这几步！（上）](http://www.chanpin100.com/article/115680)
  > 产品离不开算法，这也是产品经理头疼的事情之一，那么产品经理应该如何快速测评新算法呢？只需掌握这几步即可！来具体的看一下吧！
- ## [2021年中国第三方证券APP创新专题洞察](http://www.chanpin100.com/article/115611)
- > 在金融科技研发成本越来越重的当下，第三方应用APP有效满足了用户对开户、交易、理财和资讯的需求，和券商形成有效互补，共同服务投资者。
- ## [算法测评的基本原则 你知道是什么吗？](http://www.chanpin100.com/article/115678)
- > 随着人工智能技术的成熟和商业化，我们的生活被各种算法层层渗透，越来越多的产品开始应用算法，不仅是为了降低成本，还是为了PR的宣传。那么大家知道算法评测的基本原则吗？
 
     
