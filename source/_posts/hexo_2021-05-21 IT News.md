@@ -1,83 +1,52 @@
 ---
 title: 2021-05-21 IT News
 copyright: true
-date: 2021-05-21 08:02:17
+date: 2021-05-21 09:01:31
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [来不及标题了!速看，报告中国联通大料!](http://mp.weixin.qq.com/s?src=11&timestamp=1621555204&ver=3081&signature=vxTSpiHHToVLf6hON0PGSWmRz6mlcViIyMaCkU1te3QWAr1lwCD9aYy57ZGtzyNDjHJIiJ19kHWPGigQ2J7twQYhakCv9wgMjPUI7sJyf5daoXA6UoIWCCSJQLCrliLc&new=1)
+ ## [来不及标题了!速看，报告中国联通大料!](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=vxTSpiHHToVLf6hON0PGSWmRz6mlcViIyMaCkU1te3QWAr1lwCD9aYy57ZGtzyND1ArUqguEbuiCotfw6GhjDyXG*dBo8*hqbTuLkoCXQEiuXY0KGXy3OLWlDWt*wGqz&new=1)
  > 有没有那么一瞬间，你觉得世界特别需要你？上班时客户来电不停，生怕错过了哪一通；中午还在开会，没空接听外卖小哥的电话；更别提那些不时突袭的广告推销电话……不管你是否愿意，就是这些电话“特别需要你”。...
- ## [5G 真的有宣传中的那么厉害吗?无人驾驶、智能家居、远程医疗等必须得有 5G 才能实现吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621555204&ver=3081&signature=sNpN8Z7jj4D7t*3GlCx*hAmz-IlO8QQ5jY-uo9JsavCez3zAMiSvqz4CJ3Lc7xgHaozBOTWWyYSO5dnnUvuAjWLMZxhyWB0YP2euD2YeG280ArkhYZHk37vhgNex0Fr0&new=1)
- > 1.此前5G被过度宣传的原因，估计通信行业内的人都清楚是谁起的头，直到因为众所周知的原因导致有企业的收入下降、营销费用被削减，5G的宣传热度才下降，再加上前财长楼继伟站出来说话，对5G理性思考的观点才多了...
- ## [今天|重量级大咖齐聚天津!未来就在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621555204&ver=3081&signature=CvDePak8U2K6wOM8p6Pz3*0IfQ9g5iS3tB45Xc8JVevQtSN-c2v*jE05KtN8Kx1y59JqRJoQJ9W8-lRN9gQ0WDziGjIXwP3RVPcMbZt9bU-uA5FuQDTLMnMYTSP245-h&new=1)
- > 渤海之滨，海河之畔全球的目光聚焦今天第五届世界智能大会在天津盛大开幕！第五届世界智能大会开幕式之后进入了精彩的高峰会环节雷军、杨元庆、刘庆峰、周鸿祎等各界重量级大咖悉数亮相嘉宾们围绕智能制造产业发...
- ## [今天这场重量级高峰会上，“大咖”们都说了什么……](http://mp.weixin.qq.com/s?src=11&timestamp=1621555204&ver=3081&signature=fP*U79Mxy65Js5TBLjtMUme9BOgK-YiQYHqd5rrJ8NNxME2GxBZSDb9ttBOewY8BwvI7pRHdvNtM8FY5BcQIUZYQkkVouFrFYtHJDgP8dvs5uajKrsJShGo9Cw4G9OHZ&new=1)
- > 相约520第五届世界智能大会今天在天津正式开幕在今天的高峰会上这些大咖发表了精彩演讲听听他们都说了什么↓周济：智能制造是第四次工业革命的核心技术中国工程院院士、国家制造强国建设战略咨询委员会主任周济...
- ## [一个时代彻底终结!别了，IE浏览器!曾占95%市场份额，网友：各种考试报名咋整?](http://mp.weixin.qq.com/s?src=11&timestamp=1621555204&ver=3081&signature=LlssI9oaaFgO4n6pwbuJzN6BjfNfrLKo0YopxQwTGCg0grxaUdLdu4BzGYVfJIDSo9iBN0MoamxrrVq*bOwbB7RTJOJRQknWhS4UuvXsVyCicqIFFjmdnQP1Oka69g2F&new=1)
+ ## [一个时代彻底终结!别了，IE浏览器!曾占95%市场份额，网友：各种考试报名咋整?](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=LlssI9oaaFgO4n6pwbuJzN6BjfNfrLKo0YopxQwTGCg0grxaUdLdu4BzGYVfJIDS*mDSOFNEyCT8De*GbWkzVDo1Eo-G372aPDWMTMxzFPQ8c2tua3bw8rkjuDzpmi5d&new=1)
  > 中国基金报 泰勒时代的眼泪，终于到了告别的时候了。在超过25年后，微软终于要在明年退役IE浏览器（Internet Explorer）。再见了，IE浏览器！当地时间5月19日，微软公司表示，从明年6月15日起，其浏览器Internet...
+ ## [今天|重量级大咖齐聚天津!未来就在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=CvDePak8U2K6wOM8p6Pz3*0IfQ9g5iS3tB45Xc8JVevQtSN-c2v*jE05KtN8Kx1yay8*lyVhki*YDBjCuEbiZ8gFbcKjNovTONcszYdvQBTBhAdg41A2FBA9SQtJTRLh&new=1)
+ > 渤海之滨，海河之畔全球的目光聚焦今天第五届世界智能大会在天津盛大开幕！第五届世界智能大会开幕式之后进入了精彩的高峰会环节雷军、杨元庆、刘庆峰、周鸿祎等各界重量级大咖悉数亮相嘉宾们围绕智能制造产业发...
+ ## [5G 真的有宣传中的那么厉害吗?无人驾驶、智能家居、远程医疗等必须得有 5G 才能实现吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=sNpN8Z7jj4D7t*3GlCx*hAmz-IlO8QQ5jY-uo9JsavCez3zAMiSvqz4CJ3Lc7xgHpX4hVlCwhlTdWIjeB5egfjwzKFSykXr*vqayDwFzV*VWx5e-RatnCzjDDJ1QVvpW&new=1)
+ > 1.此前5G被过度宣传的原因，估计通信行业内的人都清楚是谁起的头，直到因为众所周知的原因导致有企业的收入下降、营销费用被削减，5G的宣传热度才下降，再加上前财长楼继伟站出来说话，对5G理性思考的观点才多了...
+ ## [今天这场重量级高峰会上，“大咖”们都说了什么……](http://mp.weixin.qq.com/s?src=11&timestamp=1621558805&ver=3081&signature=fP*U79Mxy65Js5TBLjtMUme9BOgK-YiQYHqd5rrJ8NNxME2GxBZSDb9ttBOewY8BmGXKCCHErWePdnqnBYzMntsnx7MxWueH9UixhwzpLfPF-GhvULN2ogFRsv13iEIy&new=1)
+ > 相约520第五届世界智能大会今天在天津正式开幕在今天的高峰会上这些大咖发表了精彩演讲听听他们都说了什么↓周济：智能制造是第四次工业革命的核心技术中国工程院院士、国家制造强国建设战略咨询委员会主任周济...
 # IT 技术 
- ## [这几个5.20表白代码发给你女神，还没有女朋友直接来找我！](https://blog.csdn.net/weixin_44985880/article/details/116997669)
- > 这几个5.20表白代码发给你女神，还没有女朋友直接来找我！
- ## [前端HTML调用jQuery库，鼠标事件、键盘事件、表单事件、编辑事件、滚动事件（前端：HTML搭配jQuery系列教程八）](https://blog.csdn.net/K_AAbb/article/details/116949179)
- > 前端HTML调用jQuery库，鼠标事件、键盘事件、表单事件、编辑事件、滚动事件（前端：HTML搭配jQuery系列教程八）
+ ## [新手小白学JAVA Set HashSet Map HashMap](https://blog.csdn.net/weixin_43884234/article/details/117073174)
+ > 新手小白学JAVA Set HashSet Map HashMap
+ ## [生产JIRA修改家目录](https://blog.csdn.net/qq_42534026/article/details/116599905)
+ > 生产JIRA修改家目录
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [Nodejs学习笔记（一）——基础之全局对象、包和npm](https://blog.csdn.net/qq_29493173/article/details/117075275)
- > Nodejs学习笔记（一）——基础之全局对象、包和npm
- ## [一个UI测试方案的全过程，从准备到配置](https://blog.csdn.net/qq_52879678/article/details/116790412)
- > 一个UI测试方案的全过程，从准备到配置
- ## [进大厂全靠它了！10个Python实战项目+5张Python图谱打包给你！](https://blog.csdn.net/csdnstudent/article/details/116939123)
- > 进大厂全靠它了！10个Python实战项目+5张Python图谱打包给你！
- ## [PCA(Principal Component Analysis)降维算法讲解](https://blog.csdn.net/Stydwn/article/details/117092562)
- > PCA(Principal Component Analysis)降维算法讲解
- ## [BurpSuite使用——HTTP](https://blog.csdn.net/weixin_44309905/article/details/116946038)
- > BurpSuite使用——HTTP
- ## [think-queue处理延时任务事件](https://blog.csdn.net/qq_34050360/article/details/116986237)
- > think-queue处理延时任务事件
- ## [“妈我不想去上课！”“不行你是老师！”](https://blog.csdn.net/hihell/article/details/117024130)
- > “妈我不想去上课！”“不行你是老师！”
+ ## [xcode调试可执行程序](https://blog.csdn.net/momo0853/article/details/117075118)
+ > xcode调试可执行程序
+ ## [C++ 继承 王叔叔直呼内行](https://blog.csdn.net/weixin_46274168/article/details/116592728)
+ > C++ 继承 王叔叔直呼内行
+ ## [二、swagger用法与swagger-ui使用](https://blog.csdn.net/btt2013/article/details/116808822)
+ > 二、swagger用法与swagger-ui使用
+ ## [poco常用语法合集](https://blog.csdn.net/zmzsoftware/article/details/117087588)
+ > poco常用语法合集
+ ## [第十二章：使用C语言(Python语言)操作Sqlserver2019数据库](https://blog.csdn.net/xw1680/article/details/116612691)
+ > 第十二章：使用C语言(Python语言)操作Sqlserver2019数据库
+ ## [C++学习（第5天）--通讯录管理系统](https://blog.csdn.net/qq_39346534/article/details/116950065)
+ > C++学习（第5天）--通讯录管理系统
  ## [520还在画玫瑰？教你用MATLAB画个玫瑰花球](https://blog.csdn.net/slandarer/article/details/117048623)
  > 520还在画玫瑰？教你用MATLAB画个玫瑰花球
  ## [在校大学生想当程序员，听老叔这番话，你会少走很多弯路【18年开发经验分享】](https://blog.csdn.net/zhiguigu/article/details/117000711)
  > 在校大学生想当程序员，听老叔这番话，你会少走很多弯路【18年开发经验分享】
  ## [520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）](https://blog.csdn.net/linxinfa/article/details/117014562)
  > 520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）
+ ## [“妈我不想去上课！”“不行你是老师！”](https://blog.csdn.net/hihell/article/details/117024130)
+ > “妈我不想去上课！”“不行你是老师！”
  ## [别在再满屏的 if、else 了，试试策略模式，真香！！](https://blog.csdn.net/youanyyou/article/details/116931663)
  > 别在再满屏的 if、else 了，试试策略模式，真香！！
  ## [大学四年因为知道了这30个超强Java自学网站，毕业直接让我月薪过万！](https://blog.csdn.net/sinat_33921105/article/details/116957717)
  > 大学四年因为知道了这30个超强Java自学网站，毕业直接让我月薪过万！
-# 人工智能 
- ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
- > 分布式数据一致性思考-B端系统一致性
- ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
- > 技术经理成长复盘-关于晋升
- ## [NVIDIA之硬件编解码模块NVCODEC](https://blog.csdn.net/zong596568821xp/article/details/116531122)
- > NVIDIA之硬件编解码模块NVCODEC
- ## [巨头王炸不断，硬核解读芯片技术路线](https://blog.csdn.net/BEYONDMA/article/details/116562254)
- > 巨头王炸不断，硬核解读芯片技术路线
- ## [ORACLE数据库应用开发三十忌！助你涨薪10k的二十年经验教训总结，华为工程师也曾栽过跟头，近万字长文吐血推荐！！建议收藏！](https://blog.csdn.net/LaoYuanPython/article/details/116693170)
- > ORACLE数据库应用开发三十忌！助你涨薪10k的二十年经验教训总结，华为工程师也曾栽过跟头，近万字长文吐血推荐！！建议收藏！
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [大教堂终将倒下，但集市永存](https://blog.csdn.net/TiDB_PingCAP/article/details/116793414)
- > 大教堂终将倒下，但集市永存
- ## [Flutter 动态化新知识](https://blog.csdn.net/Tencent_TEG/article/details/116810929)
- > Flutter 动态化新知识
- ## [最全自动驾驶技术架构和综述](https://blog.csdn.net/gshengod/article/details/116838951)
- > 最全自动驾驶技术架构和综述
- ## [Python 之父爆料：明年至少令 Python 提速 1 倍！](https://blog.csdn.net/chinesehuazhou2/article/details/116897485)
- > Python 之父爆料：明年至少令 Python 提速 1 倍！
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [25种代码坏味道总结+优化示例](https://blog.csdn.net/weiwenhou/article/details/116900974)
- > 25种代码坏味道总结+优化示例
- ## [Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/116905607)
- > Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定
- ## [远程软件工程师的10个最佳实践](https://blog.csdn.net/wireless_com/article/details/116905657)
- > 远程软件工程师的10个最佳实践
- ## [Apache Spark 3.1 中 Structured Streaming 方面的改进](https://blog.csdn.net/w397090770/article/details/116905880)
- > Apache Spark 3.1 中 Structured Streaming 方面的改进
 # PM 
  ## [作为SaaS产品经理 要时刻保持敬畏心](http://www.chanpin100.com/article/115694)
  > 作为SaaS产品经理，要时刻保持敬畏心。为什么这么说呢？我将结合自己的工作经历发表一下自己的看法，有不同观点的小伙伴也可以提出来哦，大家一起交流学习。
