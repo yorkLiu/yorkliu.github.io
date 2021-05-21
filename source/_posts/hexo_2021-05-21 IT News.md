@@ -1,27 +1,66 @@
 ---
 title: 2021-05-21 IT News
 copyright: true
-date: 2021-05-21 10:00:58
+date: 2021-05-21 12:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [@设计师 关于3D打印的知识都在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=dFTG87qkStTAGRkTk9oOeGrQsy4eyBdC7S-p8-4Ne8Ai9UIXkBzevlrN2GX*KKk-vpEZqB6z9F41tUF-VDAb7I*lcslruWLqz0FL*ygnseCpp0ygajjqnP9RxqjqNSYI&new=1)
+ ## [@设计师 关于3D打印的知识都在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=dFTG87qkStTAGRkTk9oOeGrQsy4eyBdC7S-p8-4Ne8Ai9UIXkBzevlrN2GX*KKk-ahvSrrkd815O-55pF8DpLuwxXb2LqLDJkr06kPpB7vjIQIlC2IAuIC0UhxvPVtqT&new=1)
  > “之前为大家介绍关于3D打印文章的投票中向大家询问设计工作中用到3D打印的情况81%的投票者表示设计工作中有借助3D打印3D打印凭借快速、灵活易用的形式可以很好的辅助我们的设计工作··今天为你详细介绍2021 TC...
- ## [华为申报项目入围 2021数博会领先科技成果奖终审](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=KAy1bSorCvl2NYgz08qnzj7dIgYd8UTFJXsCm7Kr1*zu1ynBYiEoGgj0-sh8VwP*Y2VQhjHo*mdgT*eJV4gRTV1HoFDqPHmYDjO4sdZ4BGM=&new=1)
+ ## [一批3D打印新品发布会，南极熊现场直播](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=2-luL4JxkuWJ41sxX9-vY*bTpi6DkMoF*vTNxSLx38eyUTcNMnugyXMJ5lEq9O2VwRihpXX1AB-V2-wTQiRaFWQII3ktsd*DG7OnpteR3AYUmGY2qOAWbkFDWYbJCGi*&new=1)
+ > 2021亚洲3D打印、增材制造展览会 (TCT Asia)将于2021年5月26日-28日在国家会展中心（上海）7.1馆举办，南极熊作为官方战略媒体，将会全程报道本次展会。同时，南极熊还现场直播展会的盛况。下面是其中近20场发布...
+ ## [Apiiro在2021年RSA大会创新沙盒竞赛中被评为“最具创新力的初创企业”](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=iNBSQotXWRHnntdGXG2f0A4SvlMgimDN-CXkkySzQLIqbu4aK*GjY*mYB4yDwt*Im*v8WXSwtz0gjmzccc9BU2a8oVLf4nFA2L8WobIZsObJ2YXpyJS6SqUCcDPuVlK1&new=1)
+ > 2021 RSA ConferenceRSA Conference是面向网络安全社区的全球顶级系列盛会和全年学习平台。RSAC让安全产业人士齐聚一堂，共同探讨当前和未来焦点，同时与专家交流，收获不偏不倚的内容和想法，帮助个人和公司提...
+ ## [突然宣布，退出市场!网友：各种考试报名咋办…](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=3hWFfaJilSOGLX3ICzf02E2xRefY-NM*1lz6GNukDb7BCg9M5c-tGKa9294iuPBlsIffStOs3ISb5U3ohjojcc52vtv9u8J2bpcX-Mw9JEPPvOU1F7gSdt7gGYG113i*&new=1)
+ > 把“浙江之声”设为星标，更容易找到我们哦~我心中的共同富裕你来说，我来说；共同富裕一起说。高质量发展建设共同富裕示范区，有你，有我，也有他。关于“共同富裕”， 你有什么好故事？快快告诉我们吧！关注浙...
+ ## [华为申报项目入围 2021数博会领先科技成果奖终审](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=KAy1bSorCvl2NYgz08qnzj7dIgYd8UTFJXsCm7Kr1*yZ0IOVEdCtSoA4ovL3x8-U5iW8Yho5s74-BUauCZyDqdgfbGjWKJraV2ssKYb*YIM=&new=1)
  > 本报讯 5月20日，记者从2021中国国际大数据产业博览会执委会办公室数博发布组获悉，华为技术有限公司申报的“华为云GaussDB（DWS）实时数仓：实时数据分析技术”项目，入围2021数博会领先科技成果奖终审。　...
- ## [一个时代的终结!别了，IE浏览器!网友：各种考试报名咋办…](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=5NkFne1Qcfg5Oj2sYn0WeyYEmD3cr9rlM95ZosqRliSjadKPAigAuUu50sCgxPEOufISM7KOonTC4o4iDJ56ockKfNRYWdCz7EswS1m38BvE*gcAntrgE0DIQ5p7ZabR&new=1)
+ ## [中金|十年展望III：打破汽车行业的边界](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=khzWbKsPhlcNaeF3ggtUJZyi6Ya*1AYaxjn8SDpjH3BWNiOfrnHldBzM7F7HvQDlPqLM8LpF1NzXJvys-9H74MeBqsQ6o7oMZMqj8WpE-al5ovMmiQEvxEE-zxQyA4NK&new=1)
+ > 我们在《十年展望II：汽车行业的蝴蝶效应》中对汽车行业长期竞争格局做出了判断，认为终局仍将保持竞争生态多样性、留有较多参与者。汽车作为多数居民资产中，仅次于房地产的第二大品类，在移动互联网红利消退的...
+ ## [一个时代的终结!别了，IE浏览器!网友：各种考试报名咋办…](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=5NkFne1Qcfg5Oj2sYn0WeyYEmD3cr9rlM95ZosqRliSjadKPAigAuUu50sCgxPEOwT6FnyoTnfndB*OC83qR9CPjI9q3eDfgLNP15TBwZ6wTS7UG476*Y1AdYqLdz0y*&new=1)
  > 在超过25年后，微软终于要在明年淘汰掉IE 浏览器（Internet Explorer）了再见了，IE浏览器！据华尔街日报中文网报道，微软表示，其浏览器Internet Explorer(简称：IE)将基本淘汰，标志着又一款数字产品将退出历
- ## [来不及标题了!速看，报告中国联通大料!](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=vxTSpiHHToVLf6hON0PGSWmRz6mlcViIyMaCkU1te3TfFu3ZsYuP9U0K7HGEaUDO0o3z2DsrThbwyAgnN6*8FDrivY4*vmMYXzCAtdHGUWja0PElt9*Tz1w9LRPEN80g&new=1)
+ ## [来不及标题了!速看，报告中国联通大料!](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=vxTSpiHHToVLf6hON0PGSWmRz6mlcViIyMaCkU1te3TfFu3ZsYuP9U0K7HGEaUDOOimCZ2RdN2l6VcIp0BhlZEoHtPUa5-kSh16c5isrONyr-bIdZ3UdBEuLalc6zkNY&new=1)
  > 有没有那么一瞬间，你觉得世界特别需要你？上班时客户来电不停，生怕错过了哪一通；中午还在开会，没空接听外卖小哥的电话；更别提那些不时突袭的广告推销电话……不管你是否愿意，就是这些电话“特别需要你”。...
- ## [一个时代彻底终结!别了，IE浏览器!曾占95%市场份额，网友：各种考试报名咋整?](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=LlssI9oaaFgO4n6pwbuJzN6BjfNfrLKo0YopxQwTGCgDPjEcUtaopBjTqY68d2*iwWzjgGxRZu6vcgOEayx**sscoNpn7gm2GJacVVWS6eHz1M7fNliKBlYP9Dla8z59&new=1)
+ ## [一个时代彻底终结!别了，IE浏览器!曾占95%市场份额，网友：各种考试报名咋整?](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=LlssI9oaaFgO4n6pwbuJzN6BjfNfrLKo0YopxQwTGCgDPjEcUtaopBjTqY68d2*il*m48g2v6aZT3j4rf05cFaLOQ1rsVZE*bCnIN8o4vpM0pG4wUB2n8DBY*EWpJhSR&new=1)
  > 中国基金报 泰勒时代的眼泪，终于到了告别的时候了。在超过25年后，微软终于要在明年退役IE浏览器（Internet Explorer）。再见了，IE浏览器！当地时间5月19日，微软公司表示，从明年6月15日起，其浏览器Internet...
- ## [今天|重量级大咖齐聚天津!未来就在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=CvDePak8U2K6wOM8p6Pz3*0IfQ9g5iS3tB45Xc8JVetmd7HKUBFmk87vfjm1SI83U8CaULC9Eh-Pkn4UHsFB6wNouLQZlvO1wdCMLKFLMnzrKx7zFEDA1sFQUnIOShtA&new=1)
+ ## [今天|重量级大咖齐聚天津!未来就在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=CvDePak8U2K6wOM8p6Pz3*0IfQ9g5iS3tB45Xc8JVetmd7HKUBFmk87vfjm1SI83*lhU9jIxTL7iSPU6vcOuUHTk84T*9wLPHtQny1OfDmC1DSRGbAFPquLG9w3JS0a0&new=1)
  > 渤海之滨，海河之畔全球的目光聚焦今天第五届世界智能大会在天津盛大开幕！第五届世界智能大会开幕式之后进入了精彩的高峰会环节雷军、杨元庆、刘庆峰、周鸿祎等各界重量级大咖悉数亮相嘉宾们围绕智能制造产业发...
- ## [5G 真的有宣传中的那么厉害吗?无人驾驶、智能家居、远程医疗等必须得有 5G 才能实现吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=sNpN8Z7jj4D7t*3GlCx*hAmz-IlO8QQ5jY-uo9JsavCq96Nm3JjWbwW**uUIgDVgWbgQjfcNoLSi7bWFLvyCVJncSubu2kKjsei9Od5CQ1v3zXj2a*ZPDTklyFXHhgmg&new=1)
+ ## [5G 真的有宣传中的那么厉害吗?无人驾驶、智能家居、远程医疗等必须得有 5G 才能实现吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=sNpN8Z7jj4D7t*3GlCx*hAmz-IlO8QQ5jY-uo9JsavCq96Nm3JjWbwW**uUIgDVgrBYfk9PHEuyag5iI1n6D0jnoY6DxH-au0SxWs9LUEvNYwRBnXnH47f7jA4WtiCDb&new=1)
  > 1.此前5G被过度宣传的原因，估计通信行业内的人都清楚是谁起的头，直到因为众所周知的原因导致有企业的收入下降、营销费用被削减，5G的宣传热度才下降，再加上前财长楼继伟站出来说话，对5G理性思考的观点才多了...
- ## [今天这场重量级高峰会上，“大咖”们都说了什么……](http://mp.weixin.qq.com/s?src=11&timestamp=1621562405&ver=3081&signature=fP*U79Mxy65Js5TBLjtMUme9BOgK-YiQYHqd5rrJ8NO497rzCVex5*MNOhhD4rW4tLqVR36lc-XJhg-nr9TkucrTJLJDU0u1mCR8Y3fD*J2Gfd9gqagzTKd2TkclIWIl&new=1)
+ ## [今天这场重量级高峰会上，“大咖”们都说了什么……](http://mp.weixin.qq.com/s?src=11&timestamp=1621567804&ver=3081&signature=fP*U79Mxy65Js5TBLjtMUme9BOgK-YiQYHqd5rrJ8NO497rzCVex5*MNOhhD4rW4-g7OdJMJMV75dF7ZPQOg*W4bZ031nXpGmxbbcf*XeGXSvRa5ZY2UWvAw1QvvtEO5&new=1)
  > 相约520第五届世界智能大会今天在天津正式开幕在今天的高峰会上这些大咖发表了精彩演讲听听他们都说了什么↓周济：智能制造是第四次工业革命的核心技术中国工程院院士、国家制造强国建设战略咨询委员会主任周济...
+# IT 技术 
+ ## [1小时，不会代码的我如何完成  网易云音乐 大作业网页制作？（IVX 第2篇）](https://blog.csdn.net/A757291228/article/details/117044269)
+ > 1小时，不会代码的我如何完成  网易云音乐 大作业网页制作？（IVX 第2篇）
+ ## [生产JIRA修改家目录](https://blog.csdn.net/qq_42534026/article/details/116599905)
+ > 生产JIRA修改家目录
+ ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
+ > 
+ ## [xcode调试可执行程序](https://blog.csdn.net/momo0853/article/details/117075118)
+ > xcode调试可执行程序
+ ## [C++ 继承 王叔叔直呼内行](https://blog.csdn.net/weixin_46274168/article/details/116592728)
+ > C++ 继承 王叔叔直呼内行
+ ## [二、swagger用法与swagger-ui使用](https://blog.csdn.net/btt2013/article/details/116808822)
+ > 二、swagger用法与swagger-ui使用
+ ## [poco常用语法合集](https://blog.csdn.net/zmzsoftware/article/details/117087588)
+ > poco常用语法合集
+ ## [第十二章：使用C语言(Python语言)操作Sqlserver2019数据库](https://blog.csdn.net/xw1680/article/details/116612691)
+ > 第十二章：使用C语言(Python语言)操作Sqlserver2019数据库
+ ## [C++学习（第5天）--通讯录管理系统](https://blog.csdn.net/qq_39346534/article/details/116950065)
+ > C++学习（第5天）--通讯录管理系统
+ ## [【图像识别】基于k-means聚类的手势识别matlab 源码](https://blog.csdn.net/weixin_50197058/article/details/117089878)
+ > 【图像识别】基于k-means聚类的手势识别matlab 源码
+ ## [学了pandas，就根本停不下来......](https://blog.csdn.net/hpl980342791/article/details/117060152)
+ > 学了pandas，就根本停不下来......
+ ## [转行或实习生参加前端面试前要明白个道理：程序员解决的问题，大多不是程序问题...](https://blog.csdn.net/Kepler_II/article/details/117083044)
+ > 转行或实习生参加前端面试前要明白个道理：程序员解决的问题，大多不是程序问题...
+ ## [进字节了，谈谈被捞六七次终于拿到offer总结出的经验教训，与大家共勉](https://blog.csdn.net/weixin_50333534/article/details/117092280)
+ > 进字节了，谈谈被捞六七次终于拿到offer总结出的经验教训，与大家共勉
+ ## [520还在画玫瑰？教你用MATLAB画个玫瑰花球](https://blog.csdn.net/slandarer/article/details/117048623)
+ > 520还在画玫瑰？教你用MATLAB画个玫瑰花球
+ ## [520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）](https://blog.csdn.net/linxinfa/article/details/117014562)
+ > 520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）
 # 人工智能 
  ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
  > 分布式数据一致性思考-B端系统一致性
@@ -54,6 +93,22 @@ categories: IT NEWS
  ## [Apache Spark 3.1 中 Structured Streaming 方面的改进](https://blog.csdn.net/w397090770/article/details/116905880)
  > Apache Spark 3.1 中 Structured Streaming 方面的改进
 # PM 
+ ## [产品经理面试前都需要做些什么（下）](http://www.chanpin100.com/article/115710)
+ > 在上一篇文章当中，我们为大家介绍了“产品经理面试前都需要做些什么”的相关介绍，本文将继续为大家进行相关介绍。
+ ## [C端产品经理在不同的生命周期需要做什么？（上）](http://www.chanpin100.com/article/115712)
+ > 今天我们来聊聊：C端产品经理在不同的生命周期需要做什么？在解决这个问题之前，我们先要明白C端产品的生命周期包含哪些阶段。需求调研、竞品分析，产品规划，产品设计、跟进开发、测试上线、冷启动期以及运营推广和迭代优化等是C端产品的生命周期。
+ ## [华为消费者业务总裁发声 产品缺货严重 对不起消费者的期盼](http://www.chanpin100.com/article/115709)
+ > 昨天晚上，华为消费者业务总裁余承东发了一条朋友圈，表达了他对消费者的歉意。
+ ## [被抖音整治的内容转战小红书 揭秘炫富黑产笔记](http://www.chanpin100.com/article/115708)
+ > 15万住一晚酒店、199万坐月子等炫富视频已经基本消失在抖音平台上。经过一段时间的整顿，抖音的炫富氛围收敛了很多，很多人拍手称快，网上各种资产过亿，开法拉利的人摇摆过市，成年人的心态很难保持健康，更不用说正在培养三观的孩子了。
+ ## [斗鱼上赌输140万 获12万余退款 这钱该退吗？](http://www.chanpin100.com/article/115707)
+ > 2020年11月，上海的张女士发现儿子在过去的一年里曾在斗鱼平台上购买鱼丸。一年半内，张女士30岁的儿子先后参与了多个电视节目的“预言”竞猜，前后输掉了140万元。
+ ## [传特斯拉将在今年下半年开始生产Cybertruck](http://www.chanpin100.com/article/115706)
+ > 特斯拉(TSLA.US)在发给订单持有人的信息中确认，Cybertruck将于2021年下半年开始生产。这个消息可能意味着德州超级工厂的建设正按计划进行，生产电动皮卡的设备安装和准备工作可能很快就要开始了。
+ ## [产品经理面试前都需要做些什么（上）](http://www.chanpin100.com/article/115704)
+ > 每一个人不可能永远只呆在同一家公司，这是社会共识。产品经理在想要换做的时候，面试前都需要做些什么呢？请看本文中分享的内容吧！
+ ## [再见了 IE浏览器明年退役](http://www.chanpin100.com/article/115703)
+ > 近日，微软公司在其官方技术论坛上宣布，将在2022年6月15日取消Windows10的个人版IE浏览器。因为企业的需求，LTSC的长期服务版本Windows10将会被保留。
  ## [怎么向盲人描述黄色？](http://www.chanpin100.com/article/115693)
  > 据说，这是某大厂的面试题，那么我们就当做一个产品问题来分析。分析这个问题的第一步是明确用户：盲人分先天失明和后天失明，前者一出生就被上帝在眼前遮住了帘忘了掀开，后者则是后天生活中遭遇事故而失明。
  ## [「重磅」微信小程序再也不能打开APP了](http://www.chanpin100.com/article/115697)
@@ -76,19 +131,5 @@ categories: IT NEWS
  > 随着互联网时代的一步步发展，产品经理岗位可以算得上是发展前景最好的职业之一了，作为一名产品经理，一定要掌握一些常见专业术语，不然到时开展工作的时候，这也不知那也不知，会被取笑的。好了，接下来请看本文”产品经理常见术语之鲶鱼效应的含义是什么“的内容吧。
  ## [产品经理应该如何快速测评新算法？掌握这几步！（下）](http://www.chanpin100.com/article/115687)
  > 产品经理应该如何快速测评新算法？这篇文章来分享最后几个步骤，也是非常关键的哦！大家耐心的看完，一定会有所收获，产品人就是要不断学习。
- ## [创客匠人知识付费系统 不懂线上运营照样轻松做知识付费!](http://www.chanpin100.com/article/115619)
- > 互联网时代，各行各业都争先恐后转战互联网市场，这几年大火的知识付费正是顺势而起。很多创业者看中了知识付费市场的大好趋势，蠢蠢欲动，想入局知识付费无奈缺乏互联网运营思维和平台工具，不知道从何下手，这个怎么破?今天教大家运用创客匠人知识付费系统一步步破局解决。
- ## [产品经理常见术语之病毒式营销的含义是什么？](http://www.chanpin100.com/article/115684)
- > 今天我们继续为大家分享产品经理的常见专业术语，在前面的文章中，我们给大家介绍了”马太效应“、”羊群效应“以及”霍桑效应“的含义是什么，本文再来给大家讲一下什么是”病毒式营销“，希望可以帮助到你。
- ## [产品经理应该如何快速测评新算法？掌握这几步！（中）](http://www.chanpin100.com/article/115683)
- > 这篇文章继续聊聊：产品经理应该如何快速测评新算法？之前分享了一些基本步骤，下面介绍接下来的步骤，都非常重要哦，所以要完整的看完！
- ## [产品经理常见术语之霍桑效应的含义是什么？](http://www.chanpin100.com/article/115682)
- > 产品经理这个职业在现在的互联网时代里可以算是一个非常热门抢手的岗位了，那么产品经理应该掌握的术语都有哪些？接下来本文就给大家介绍一下产品经理常见术语”霍桑效应“的含义是什么。
- ## [素质教育发展加速度 在线教育模式成主流](http://www.chanpin100.com/article/115618)
- > 据教育部官网消息，教育部近日发布通知，决定成立教育部中国书法教育指导委员会、教育部中国武术教育指导委员会、教育部中国戏曲教育指导委员会。
- ## [产品经理常见术语之羊群效应的含义是什么？](http://www.chanpin100.com/article/115681)
- > 随着互联网的迅速发展， 越来越多的人开始选择产品经理这个岗位，因为它不仅发展前景很好而且薪资也不低，那么作为产品经理来说，都需要掌握哪些常见的术语呢？接下来本文就给大家介绍一下产品经理常见术语”羊群效应“的含义。
- ## [产品经理应该如何快速测评新算法？掌握这几步！（上）](http://www.chanpin100.com/article/115680)
- > 产品离不开算法，这也是产品经理头疼的事情之一，那么产品经理应该如何快速测评新算法呢？只需掌握这几步即可！来具体的看一下吧！
 
     
