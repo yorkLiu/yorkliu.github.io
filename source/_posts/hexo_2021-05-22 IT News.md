@@ -1,50 +1,21 @@
 ---
 title: 2021-05-22 IT News
 copyright: true
-date: 2021-05-22 09:02:25
+date: 2021-05-22 10:01:47
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [这个充满时代记忆和“谩骂”的浏览器，终于要说再见了。](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=458yG7QLH0toJlbcaGW2Jq6gtkRdKZSLfRx9K311E23FqCMbAYFMW5maWEJqm5xaUSAMF4jKCSAi8aprfFE3-loWvrD71GEHR3wnFUp0J8nTr-gYG*jJBh2Z50Zb-Rk2&new=1)
+ ## [这个充满时代记忆和“谩骂”的浏览器，终于要说再见了。](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=458yG7QLH0toJlbcaGW2Jq6gtkRdKZSLfRx9K311E23FqCMbAYFMW5maWEJqm5xa4*rRuu8WALXdsyFeE0bL0A*30-4a7Zd8EQG3BnFzucIhlqvkNp1BWZy-LxqRkCo1&new=1)
  > 相信看过昨天大新闻的差友应该都知道，微软终于决定将会在 2022 年 6 月 15 日全面停止对 IE 浏览器的支持，转而使用 Edge 浏览器。没错，那个诞生于 1995 年至今已经 26 岁的 “ 上古浏览器 ”，要正式离开我们...
- ## [解读亚太5G行业应用发展：生态合作是关键，中国经验可复制](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=-feCoeaOiA4pIThddW4gW8vhOi308mwvJ*xEstLuXRxkoMCuGzX2i22uJxZ7o2ZF4fSHA7bBf9S5j7iafgCdht*n4k25y815EV58UkhDbp*xIjjjM2ged4VxkICkZyNc&new=1)
+ ## [华为企业业务样本：“煤炭军团”的进击](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=1O4s28xr34orP9ybueQW83*yQ*mnmx7CSHV*UNbGyWKOwHd2H7vdDi1WU8u72aWnHlic3ssSqZKbCujBLGojAz2u0JslG9hRP8Z0n2xkxOA=&new=1)
+ > 经济观察报 记者 沈怡然 5月17日，一位来自山西的嘉宾李明（化名），专门从山西飞到深圳参加华为中国生态大会，自称在当地的好几座矿场有人脉关系，他期待和华为一道做一笔煤炭生意。今年2月，华为内部成立了一...
+ ## [解读亚太5G行业应用发展：生态合作是关键，中国经验可复制](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=-feCoeaOiA4pIThddW4gW8vhOi308mwvJ*xEstLuXRxkoMCuGzX2i22uJxZ7o2ZFw*nWJL4xEKQ24c95VyH85vMulT49qZFj4ft0QyNHnvskfI2meEPk8NSawpwtviIp&new=1)
  > 5月20日，GSMA与华为联合举办了“亚太5G行业论坛”。在此次论坛上，亚太政府（马来西亚MCMC通信委员会、香港贸易发展局）、运营商（中国移动、印尼Telkomsel、菲律宾Globe，马来西亚Maxis）、方案生态伙伴（华为...
- ## [同时进入汽车行业，才刚开始华为就已碾压小米](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=9lQ659O9PEF2ZCeULfClXz4IAcd78BoZGDtO-tNzFXcQ62*xNdtumsfkch1xme*Cqppq767ozlX9780xWq0WOsjkW6Gc*lxKPi7SrFVCtId3qQHnoBOJqPfqx6Kkkybv&new=1)
- > 华为在上海车展发布了首款车型赛力斯华为智选SF5，随后放开预订，仅仅一个月时间预定量已达到6500辆，这时候不免让人想起曾经的对手小米，小米汽车到底何时启航呢？华为发展汽车业务可谓迅驰如风，在去年三季度...
- ## [爆：中国电信员工总数变化，十年间竟然..](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=qqTWI9DQiZ2rYBG0YI5vtABVYHHM6q4JCdju2jtnel27hjQ95kkZNbdIb8aDKvsmr*xKzr85LhLa7dw8Wz2B8xEOXShPLBStyojjR*Ev6aHj1H-QuqSoikEKvI-e9rzF&new=1)
+ ## [爆：中国电信员工总数变化，十年间竟然..](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=qqTWI9DQiZ2rYBG0YI5vtABVYHHM6q4JCdju2jtnel27hjQ95kkZNbdIb8aDKvsm74a1rfGCSQm*EFSkdZ7*kRztqflsMAd*W1LfFe520iutQOPWw-JJ8f92odbBVVrA&new=1)
  > 据中国电信近年财报信息显示：截至到2020年年底，中国电信公司员工总数为28.1192万名。截至到2019年底，中国电信的员工总数为28.1215万名。截至到2018年底，中国电信的员工总数为28.0747万名。截至到2017年底，...
-# IT 技术 
- ## [前女友发来加密的 “520快乐.pdf“，我用python破解开之后，却发现。。。](https://blog.csdn.net/weixin_42350212/article/details/117031929)
- > 前女友发来加密的 “520快乐.pdf“，我用python破解开之后，却发现。。。
- ## [浏览器-DOM树](https://blog.csdn.net/baidu_38242832/article/details/117003116)
- > 浏览器-DOM树
- ## [没有项目经验的应届生如何进大厂？](https://blog.csdn.net/weixin_52710450/article/details/117087682)
- > 没有项目经验的应届生如何进大厂？
- ## [值类型和引用类型原理](https://blog.csdn.net/spw55381155/article/details/116765011)
- > 值类型和引用类型原理
- ## [QT使用QtMultimedia进行音视频播放出错](https://blog.csdn.net/Ternence_zq/article/details/115709566)
- > QT使用QtMultimedia进行音视频播放出错
- ## [SpringBoot+Mybatis +vue 实现登录 注册 还有验证码的。](https://blog.csdn.net/weixin_41290863/article/details/116806838)
- > SpringBoot+Mybatis +vue 实现登录 注册 还有验证码的。
- ## [【内容创业】内容运营，你可以试试这 3 项小调整](https://blog.csdn.net/liwei16611/article/details/117066649)
- > 【内容创业】内容运营，你可以试试这 3 项小调整
- ## [python3+selenium4自动化测试环境搭建-基础篇1](https://blog.csdn.net/qq_18298049/article/details/117001377)
- > python3+selenium4自动化测试环境搭建-基础篇1
- ## [【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！](https://blog.csdn.net/qq_42366672/article/details/117077450)
- > 【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！
- ## [运维是不是IT行业里技术含量最低的岗位？](https://blog.csdn.net/yuanziok/article/details/117083402)
- > 运维是不是IT行业里技术含量最低的岗位？
- ## [年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！](https://blog.csdn.net/Java_Caiyo/article/details/117073777)
- > 年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！
- ## [Python实现地图可视化 folium](https://blog.csdn.net/weixin_45750972/article/details/117088924)
- > Python实现地图可视化 folium
- ## [520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）](https://blog.csdn.net/linxinfa/article/details/117014562)
- > 520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）
- ## [吐血整理 python最全习题100道（含答案）持续更新题目，建议收藏！](https://blog.csdn.net/weixin_43865008/article/details/116997922)
- > 吐血整理 python最全习题100道（含答案）持续更新题目，建议收藏！
- ## [毕业两年的愣头青竟然拿到阿里、字节offer，原来是看了这份BAT面试核心知识点](https://blog.csdn.net/javassb/article/details/117075335)
- > 毕业两年的愣头青竟然拿到阿里、字节offer，原来是看了这份BAT面试核心知识点
+ ## [同时进入汽车行业，才刚开始华为就已碾压小米](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=9lQ659O9PEF2ZCeULfClXz4IAcd78BoZGDtO-tNzFXcQ62*xNdtumsfkch1xme*CdbXPsYdp-IhMfXpdwO5HnN-AgzZubBOrf4FKKrv0a887cdc3nrMZ-4CUtu-26d5V&new=1)
+ > 华为在上海车展发布了首款车型赛力斯华为智选SF5，随后放开预订，仅仅一个月时间预定量已达到6500辆，这时候不免让人想起曾经的对手小米，小米汽车到底何时启航呢？华为发展汽车业务可谓迅驰如风，在去年三季度...
 # 人工智能 
  ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
  > 分布式数据一致性思考-B端系统一致性
