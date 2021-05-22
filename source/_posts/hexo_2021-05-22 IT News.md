@@ -1,21 +1,64 @@
 ---
 title: 2021-05-22 IT News
 copyright: true
-date: 2021-05-22 10:01:47
+date: 2021-05-22 12:02:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [这个充满时代记忆和“谩骂”的浏览器，终于要说再见了。](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=458yG7QLH0toJlbcaGW2Jq6gtkRdKZSLfRx9K311E23FqCMbAYFMW5maWEJqm5xa4*rRuu8WALXdsyFeE0bL0A*30-4a7Zd8EQG3BnFzucIhlqvkNp1BWZy-LxqRkCo1&new=1)
+ ## [后发赶超的精彩一跃](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=fBdnhik8s6mVwcs-EATCWuPvKZwUBE8uu2nmLyjAaxvb*H-zC19utXilrDxRCUXEpxJt6sRIlL4rlwDaSQjhkIJX5GItj152uxd*gVLGwTA=&new=1)
+ > ■编者按　　作为全国首个国家大数据综合试验区，贵州坚定不移实施大数据战略行动，在全国范围内形成辐射带动和示范引领效应，大数据成为新时代贵州经济社会高质量发展的新动能和世界认识贵州的新名片。当前...
+ ## [通知：我们将现场报道/直播200多家3D打印厂商](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=XKRmr9uVz44JQFzb6futsIcW-yotDfOdTXvJRuiPBJ58FTF6t7b9jnLGZ9l*g*HxDsKo-s7nb0owH2u4AywUaEtmK5qhjHjnYXq6XKaUbNf07OClmc355QMjVOfjBlGl&new=1)
+ > 2021亚洲3D打印、增材制造展览会 (TCT Asia)将于2021年5月26日-28日在国家会展中心（上海）7.1馆举办，南极熊作为官方战略合作媒体，将会全程现场报道/直播本次展会上的200多家3D打印展商，为未能到现场的观众开...
+ ## [最新进展!SK海力士就收购英特尔NAND闪存和SSD业务获得欧盟批准](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=xXoPbMT-6vVhWmNIxxl6aDDlJb-uIk-5a0*3A-dn5PnPQCW4pJuCQ2Rwe3gRfKzq0A43Q0qYC-20I8K4IcWgH4r9eju5-FX5Al57hy15H7-nNDi-2Z*TgLyuCQjBINPD&new=1)
+ > SK海力士就拟收购英特尔NAND闪存和SSD业务的交易获得了欧洲联盟委员会（European Commission）的无条件批准。这是继去年美国联邦贸易委员会（U.S Federal Trade Commission，简称FTC）的批准以及
+ ## [只要5元|AdGuard告别广告烦扰和隐私泄露，无需浏览器插件运行脚本](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=FRief5y2MDfMVmiKZHcPz*D3scY-ciLYhHyXhg7GqxVgLuGoi5b09V11I*f5Rpiol2HjWPskkK*i8Vo8z-HpyOBn6uF7AogXR6dOycD4U9XxvXTJk07MfEbYS2RPZBXK&new=1)
+ > AdGuard 是强大的广告拦截专家，可帮助你清除浏览器页面广告、保护隐私防止追踪，让你不再受恶意软件的困扰、还可以替代油猴插件来安装运行浏览器脚本。- 强大的广告拦截高效阻挡各种类型的广告、减少页面加载时...
+ ## [库克出庭作证：开放 App Store 损害用户利益；高通：优先保障车厂芯片；微软正式抛弃 IE 浏览器|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=rdsf9q30eeeFqLXcm0utUVmhFE959HvTYBDt3ApL2ij9NE6R14O8Zb8bb4tbdlW0Bm92H04QnpQad3kEEVVyBlru6gLkZMsFfQTbHkXaIYvFdzV*D6zlCgGyNlPWXzS5&new=1)
+ > 库克法庭作证 称开放 App Store 损害消费者利益5 月 22 日消息，苹果 CEO 蒂姆·库克于当地时间周五出庭作证，驳斥了 Epic Games 有关 App Store 是垄断业务的说法。库克在证词中说，过去 10 年 App
+ ## [BOSS直聘递交招股书月活达3060万；SK海力士收购英特尔闪存业务获批准；特斯拉上调多款车型售价|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=VktKhWIe3ZFgc2rYtu0C93HW85mL6AOwQQqeEn7snYlIFH-fSVBdc9iAGA2j4gJ3Re*EOYaDqY9GbLbymAf-bx7fWjAGlgGfLFSNNzoZpqlAeKlMctjm3OHYp20sGpxi&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【BOSS直聘递交招股书 月活达3060万】BOSS直聘正式向美国证券交易委员会提交招股书。BOSS直聘计划在纳斯达克挂牌上市，代码BZ。高...
+ ## [这个充满时代记忆和“谩骂”的浏览器，终于要说再见了。](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=458yG7QLH0toJlbcaGW2Jq6gtkRdKZSLfRx9K311E21xFeuRMUJBwZj7*imkOvlmWBnlh7MrET2hCUiapULqewLnKurTqE62uaqSZYhoPvAnXHsdAAT8supuMY1KooCf&new=1)
  > 相信看过昨天大新闻的差友应该都知道，微软终于决定将会在 2022 年 6 月 15 日全面停止对 IE 浏览器的支持，转而使用 Edge 浏览器。没错，那个诞生于 1995 年至今已经 26 岁的 “ 上古浏览器 ”，要正式离开我们...
- ## [华为企业业务样本：“煤炭军团”的进击](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=1O4s28xr34orP9ybueQW83*yQ*mnmx7CSHV*UNbGyWKOwHd2H7vdDi1WU8u72aWnHlic3ssSqZKbCujBLGojAz2u0JslG9hRP8Z0n2xkxOA=&new=1)
+ ## [华为企业业务样本：“煤炭军团”的进击](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=1O4s28xr34orP9ybueQW83*yQ*mnmx7CSHV*UNbGyWLh57qXDrjqcEwu1K0mwq01e59*92M4fVA0xmERtVEPGRHyrEhZYvzYi-ONKIcP5lg=&new=1)
  > 经济观察报 记者 沈怡然 5月17日，一位来自山西的嘉宾李明（化名），专门从山西飞到深圳参加华为中国生态大会，自称在当地的好几座矿场有人脉关系，他期待和华为一道做一笔煤炭生意。今年2月，华为内部成立了一...
- ## [解读亚太5G行业应用发展：生态合作是关键，中国经验可复制](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=-feCoeaOiA4pIThddW4gW8vhOi308mwvJ*xEstLuXRxkoMCuGzX2i22uJxZ7o2ZFw*nWJL4xEKQ24c95VyH85vMulT49qZFj4ft0QyNHnvskfI2meEPk8NSawpwtviIp&new=1)
+ ## [解读亚太5G行业应用发展：生态合作是关键，中国经验可复制](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=-feCoeaOiA4pIThddW4gW8vhOi308mwvJ*xEstLuXRxwRTSkLY5A57eIch0hLrI6tQXfejuSHkSpzQ9rRbHGLWaEtqdc7IS8BB60qaW4fHcLyKpnfnKp9o5ZHwwDWuM3&new=1)
  > 5月20日，GSMA与华为联合举办了“亚太5G行业论坛”。在此次论坛上，亚太政府（马来西亚MCMC通信委员会、香港贸易发展局）、运营商（中国移动、印尼Telkomsel、菲律宾Globe，马来西亚Maxis）、方案生态伙伴（华为...
- ## [爆：中国电信员工总数变化，十年间竟然..](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=qqTWI9DQiZ2rYBG0YI5vtABVYHHM6q4JCdju2jtnel27hjQ95kkZNbdIb8aDKvsm74a1rfGCSQm*EFSkdZ7*kRztqflsMAd*W1LfFe520iutQOPWw-JJ8f92odbBVVrA&new=1)
+ ## [爆：中国电信员工总数变化，十年间竟然..](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=qqTWI9DQiZ2rYBG0YI5vtABVYHHM6q4JCdju2jtnel0DetMhqRPWwu2r8rVfuWM9BMLoADGzYjW*H1xCe6p3RhkgqD83oywxsmdV*SWh8UeTPcMgT1fe-PjMl2b*8g0j&new=1)
  > 据中国电信近年财报信息显示：截至到2020年年底，中国电信公司员工总数为28.1192万名。截至到2019年底，中国电信的员工总数为28.1215万名。截至到2018年底，中国电信的员工总数为28.0747万名。截至到2017年底，...
- ## [同时进入汽车行业，才刚开始华为就已碾压小米](http://mp.weixin.qq.com/s?src=11&timestamp=1621648804&ver=3083&signature=9lQ659O9PEF2ZCeULfClXz4IAcd78BoZGDtO-tNzFXcQ62*xNdtumsfkch1xme*CdbXPsYdp-IhMfXpdwO5HnN-AgzZubBOrf4FKKrv0a887cdc3nrMZ-4CUtu-26d5V&new=1)
+ ## [同时进入汽车行业，才刚开始华为就已碾压小米](http://mp.weixin.qq.com/s?src=11&timestamp=1621656004&ver=3083&signature=9lQ659O9PEF2ZCeULfClXz4IAcd78BoZGDtO-tNzFXf-a0kIH9wXJB97yZO4qYCJ8BXBi6GywEGKJ-5TFHwjHskJEBigDwrIV5DaidnyUOhLg92xkIqFfs8W-3Ng5K60&new=1)
  > 华为在上海车展发布了首款车型赛力斯华为智选SF5，随后放开预订，仅仅一个月时间预定量已达到6500辆，这时候不免让人想起曾经的对手小米，小米汽车到底何时启航呢？华为发展汽车业务可谓迅驰如风，在去年三季度...
+# IT 技术 
+ ## [【程序员薪资】2021年04月新鲜出炉，看看你拖后腿了吗？](https://blog.csdn.net/weixin_39032019/article/details/117130162)
+ > 【程序员薪资】2021年04月新鲜出炉，看看你拖后腿了吗？
+ ## [0-4 Vue：数据响应式（响应式、set、篡改API）](https://blog.csdn.net/qq_40282016/article/details/116855692)
+ > 0-4 Vue：数据响应式（响应式、set、篡改API）
+ ## [用 Python 写的文档批量翻译工具，效果竟然超越付费软件？](https://blog.csdn.net/aaahtml/article/details/116782283)
+ > 用 Python 写的文档批量翻译工具，效果竟然超越付费软件？
+ ## [vue.js的简单应用](https://blog.csdn.net/m0_38084879/article/details/117071495)
+ > vue.js的简单应用
+ ## [C++单例模式的实现（懒汉式、饿汉式）](https://blog.csdn.net/m0_46308273/article/details/117088976)
+ > C++单例模式的实现（懒汉式、饿汉式）
+ ## [史上最详细阿里云服务器上Docker部署vue项目 实战 每一步都带详细图解！！！](https://blog.csdn.net/weixin_45821811/article/details/117000900)
+ > 史上最详细阿里云服务器上Docker部署vue项目 实战 每一步都带详细图解！！！
+ ## [idea搭建ssm（Spring+Spring Mvc+Mybatis）](https://blog.csdn.net/qq_41607217/article/details/117045394)
+ > idea搭建ssm（Spring+Spring Mvc+Mybatis）
+ ## [深度学习核心技术精讲100篇（三十二）-网易实时数仓实战应用](https://blog.csdn.net/wenyusuran/article/details/108384096)
+ > 深度学习核心技术精讲100篇（三十二）-网易实时数仓实战应用
+ ## [不用买硬件，1s体验鸿蒙系统！(IMX6ULL QEMU运行鸿蒙系统)](https://blog.csdn.net/thisway_diy/article/details/117125670)
+ > 不用买硬件，1s体验鸿蒙系统！(IMX6ULL QEMU运行鸿蒙系统)
+ ## [【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！](https://blog.csdn.net/qq_42366672/article/details/117077450)
+ > 【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！
+ ## [年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！](https://blog.csdn.net/Java_Caiyo/article/details/117073777)
+ > 年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！
+ ## [运维是不是IT行业里技术含量最低的岗位？](https://blog.csdn.net/yuanziok/article/details/117083402)
+ > 运维是不是IT行业里技术含量最低的岗位？
+ ## [CXY521.COM 网站刚上线，就被大家搞崩了！](https://blog.csdn.net/ityouknow/article/details/117050025)
+ > CXY521.COM 网站刚上线，就被大家搞崩了！
+ ## [毕业两年的愣头青竟然拿到阿里、字节offer，原来是看了这份BAT面试核心知识点](https://blog.csdn.net/javassb/article/details/117075335)
+ > 毕业两年的愣头青竟然拿到阿里、字节offer，原来是看了这份BAT面试核心知识点
+ ## [5.20，摊牌了！](https://blog.csdn.net/u011012932/article/details/117094756)
+ > 5.20，摊牌了！
 # 人工智能 
  ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
  > 分布式数据一致性思考-B端系统一致性
