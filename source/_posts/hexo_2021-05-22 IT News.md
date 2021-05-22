@@ -1,50 +1,81 @@
 ---
 title: 2021-05-22 IT News
 copyright: true
-date: 2021-05-22 08:01:48
+date: 2021-05-22 09:02:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [这个充满时代记忆和“谩骂”的浏览器，终于要说再见了。](http://mp.weixin.qq.com/s?src=11&timestamp=1621641605&ver=3083&signature=458yG7QLH0toJlbcaGW2Jq6gtkRdKZSLfRx9K311E23FqCMbAYFMW5maWEJqm5xaGs4JFw9OD2w5LG-sNtXyNuTqhH2UXcNyO2Xk-jEMtV0GyIxThysH95LqgqQ-J6*U&new=1)
+ ## [这个充满时代记忆和“谩骂”的浏览器，终于要说再见了。](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=458yG7QLH0toJlbcaGW2Jq6gtkRdKZSLfRx9K311E23FqCMbAYFMW5maWEJqm5xaUSAMF4jKCSAi8aprfFE3-loWvrD71GEHR3wnFUp0J8nTr-gYG*jJBh2Z50Zb-Rk2&new=1)
  > 相信看过昨天大新闻的差友应该都知道，微软终于决定将会在 2022 年 6 月 15 日全面停止对 IE 浏览器的支持，转而使用 Edge 浏览器。没错，那个诞生于 1995 年至今已经 26 岁的 “ 上古浏览器 ”，要正式离开我们...
- ## [解读亚太5G行业应用发展：生态合作是关键，中国经验可复制](http://mp.weixin.qq.com/s?src=11&timestamp=1621641605&ver=3083&signature=-feCoeaOiA4pIThddW4gW8vhOi308mwvJ*xEstLuXRxkoMCuGzX2i22uJxZ7o2ZFdzyXMgG*deDov2imLjFWJWl1LwsWMfDx5k*F-LNdEGdBI6LDGoKpnNfuGyuQYfTs&new=1)
+ ## [解读亚太5G行业应用发展：生态合作是关键，中国经验可复制](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=-feCoeaOiA4pIThddW4gW8vhOi308mwvJ*xEstLuXRxkoMCuGzX2i22uJxZ7o2ZF4fSHA7bBf9S5j7iafgCdht*n4k25y815EV58UkhDbp*xIjjjM2ged4VxkICkZyNc&new=1)
  > 5月20日，GSMA与华为联合举办了“亚太5G行业论坛”。在此次论坛上，亚太政府（马来西亚MCMC通信委员会、香港贸易发展局）、运营商（中国移动、印尼Telkomsel、菲律宾Globe，马来西亚Maxis）、方案生态伙伴（华为...
- ## [同时进入汽车行业，才刚开始华为就已碾压小米](http://mp.weixin.qq.com/s?src=11&timestamp=1621641605&ver=3083&signature=9lQ659O9PEF2ZCeULfClXz4IAcd78BoZGDtO-tNzFXcQ62*xNdtumsfkch1xme*ClMyIqSfDeVgsDmmQuAlksYhxNEIbtcQshWYxqYvCXsOKzdYsqS7ZeONDkZ26f7w1&new=1)
+ ## [同时进入汽车行业，才刚开始华为就已碾压小米](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=9lQ659O9PEF2ZCeULfClXz4IAcd78BoZGDtO-tNzFXcQ62*xNdtumsfkch1xme*Cqppq767ozlX9780xWq0WOsjkW6Gc*lxKPi7SrFVCtId3qQHnoBOJqPfqx6Kkkybv&new=1)
  > 华为在上海车展发布了首款车型赛力斯华为智选SF5，随后放开预订，仅仅一个月时间预定量已达到6500辆，这时候不免让人想起曾经的对手小米，小米汽车到底何时启航呢？华为发展汽车业务可谓迅驰如风，在去年三季度...
- ## [爆：中国电信员工总数变化，十年间竟然..](http://mp.weixin.qq.com/s?src=11&timestamp=1621641605&ver=3083&signature=qqTWI9DQiZ2rYBG0YI5vtABVYHHM6q4JCdju2jtnel27hjQ95kkZNbdIb8aDKvsmULdK4yqURf7UpQNAljqtnCMsNQCTeXvssJsJwS8WZKiIkZqvmURAFAymOVW7bCFb&new=1)
+ ## [爆：中国电信员工总数变化，十年间竟然..](http://mp.weixin.qq.com/s?src=11&timestamp=1621645204&ver=3083&signature=qqTWI9DQiZ2rYBG0YI5vtABVYHHM6q4JCdju2jtnel27hjQ95kkZNbdIb8aDKvsmr*xKzr85LhLa7dw8Wz2B8xEOXShPLBStyojjR*Ev6aHj1H-QuqSoikEKvI-e9rzF&new=1)
  > 据中国电信近年财报信息显示：截至到2020年年底，中国电信公司员工总数为28.1192万名。截至到2019年底，中国电信的员工总数为28.1215万名。截至到2018年底，中国电信的员工总数为28.0747万名。截至到2017年底，...
 # IT 技术 
  ## [前女友发来加密的 “520快乐.pdf“，我用python破解开之后，却发现。。。](https://blog.csdn.net/weixin_42350212/article/details/117031929)
  > 前女友发来加密的 “520快乐.pdf“，我用python破解开之后，却发现。。。
- ## [0-4 Vue：数据响应式（响应式、set、篡改API）](https://blog.csdn.net/qq_40282016/article/details/116855692)
- > 0-4 Vue：数据响应式（响应式、set、篡改API）
- ## [用 Python 写的文档批量翻译工具，效果竟然超越付费软件？](https://blog.csdn.net/aaahtml/article/details/116782283)
- > 用 Python 写的文档批量翻译工具，效果竟然超越付费软件？
- ## [vue.js的简单应用](https://blog.csdn.net/m0_38084879/article/details/117071495)
- > vue.js的简单应用
- ## [C++单例模式的实现（懒汉式、饿汉式）](https://blog.csdn.net/m0_46308273/article/details/117088976)
- > C++单例模式的实现（懒汉式、饿汉式）
- ## [史上最详细阿里云服务器上Docker部署vue项目 实战 每一步都带详细图解！！！](https://blog.csdn.net/weixin_45821811/article/details/117000900)
- > 史上最详细阿里云服务器上Docker部署vue项目 实战 每一步都带详细图解！！！
- ## [idea搭建ssm（Spring+Spring Mvc+Mybatis）](https://blog.csdn.net/qq_41607217/article/details/117045394)
- > idea搭建ssm（Spring+Spring Mvc+Mybatis）
- ## [深度学习核心技术精讲100篇（三十二）-网易实时数仓实战应用](https://blog.csdn.net/wenyusuran/article/details/108384096)
- > 深度学习核心技术精讲100篇（三十二）-网易实时数仓实战应用
+ ## [浏览器-DOM树](https://blog.csdn.net/baidu_38242832/article/details/117003116)
+ > 浏览器-DOM树
+ ## [没有项目经验的应届生如何进大厂？](https://blog.csdn.net/weixin_52710450/article/details/117087682)
+ > 没有项目经验的应届生如何进大厂？
+ ## [值类型和引用类型原理](https://blog.csdn.net/spw55381155/article/details/116765011)
+ > 值类型和引用类型原理
+ ## [QT使用QtMultimedia进行音视频播放出错](https://blog.csdn.net/Ternence_zq/article/details/115709566)
+ > QT使用QtMultimedia进行音视频播放出错
+ ## [SpringBoot+Mybatis +vue 实现登录 注册 还有验证码的。](https://blog.csdn.net/weixin_41290863/article/details/116806838)
+ > SpringBoot+Mybatis +vue 实现登录 注册 还有验证码的。
+ ## [【内容创业】内容运营，你可以试试这 3 项小调整](https://blog.csdn.net/liwei16611/article/details/117066649)
+ > 【内容创业】内容运营，你可以试试这 3 项小调整
+ ## [python3+selenium4自动化测试环境搭建-基础篇1](https://blog.csdn.net/qq_18298049/article/details/117001377)
+ > python3+selenium4自动化测试环境搭建-基础篇1
  ## [【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！](https://blog.csdn.net/qq_42366672/article/details/117077450)
  > 【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！
  ## [运维是不是IT行业里技术含量最低的岗位？](https://blog.csdn.net/yuanziok/article/details/117083402)
  > 运维是不是IT行业里技术含量最低的岗位？
  ## [年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！](https://blog.csdn.net/Java_Caiyo/article/details/117073777)
  > 年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！
- ## [【图像分割】基于分水岭算法的图像分割matlab源码](https://blog.csdn.net/weixin_50197058/article/details/117050136)
- > 【图像分割】基于分水岭算法的图像分割matlab源码
- ## [哈希表基本功能实现](https://blog.csdn.net/qq_45859087/article/details/117070949)
- > 哈希表基本功能实现
+ ## [Python实现地图可视化 folium](https://blog.csdn.net/weixin_45750972/article/details/117088924)
+ > Python实现地图可视化 folium
  ## [520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）](https://blog.csdn.net/linxinfa/article/details/117014562)
  > 520程序员的浪漫，给CSDN近两万的粉丝比心心（python爬虫 | Unity循环复用列表 | 头像加载与缓存）
- ## [别在再满屏的 if、else 了，试试策略模式，真香！！](https://blog.csdn.net/youanyyou/article/details/116931663)
- > 别在再满屏的 if、else 了，试试策略模式，真香！！
+ ## [吐血整理 python最全习题100道（含答案）持续更新题目，建议收藏！](https://blog.csdn.net/weixin_43865008/article/details/116997922)
+ > 吐血整理 python最全习题100道（含答案）持续更新题目，建议收藏！
+ ## [毕业两年的愣头青竟然拿到阿里、字节offer，原来是看了这份BAT面试核心知识点](https://blog.csdn.net/javassb/article/details/117075335)
+ > 毕业两年的愣头青竟然拿到阿里、字节offer，原来是看了这份BAT面试核心知识点
+# 人工智能 
+ ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
+ > 分布式数据一致性思考-B端系统一致性
+ ## [技术经理成长复盘-关于晋升](https://blog.csdn.net/linsongbin1/article/details/113934241)
+ > 技术经理成长复盘-关于晋升
+ ## [NVIDIA之硬件编解码模块NVCODEC](https://blog.csdn.net/zong596568821xp/article/details/116531122)
+ > NVIDIA之硬件编解码模块NVCODEC
+ ## [巨头王炸不断，硬核解读芯片技术路线](https://blog.csdn.net/BEYONDMA/article/details/116562254)
+ > 巨头王炸不断，硬核解读芯片技术路线
+ ## [ORACLE数据库应用开发三十忌](https://blog.csdn.net/LaoYuanPython/article/details/116693170)
+ > ORACLE数据库应用开发三十忌
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [大教堂终将倒下，但集市永存](https://blog.csdn.net/TiDB_PingCAP/article/details/116793414)
+ > 大教堂终将倒下，但集市永存
+ ## [Flutter 动态化新知识](https://blog.csdn.net/Tencent_TEG/article/details/116810929)
+ > Flutter 动态化新知识
+ ## [最全自动驾驶技术架构和综述](https://blog.csdn.net/gshengod/article/details/116838951)
+ > 最全自动驾驶技术架构和综述
+ ## [Python 之父爆料：明年至少令 Python 提速 1 倍！](https://blog.csdn.net/chinesehuazhou2/article/details/116897485)
+ > Python 之父爆料：明年至少令 Python 提速 1 倍！
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/116905607)
+ > Pylance 性能更新，微软新的VS Code Python 插件已趋于稳定
+ ## [远程软件工程师的10个最佳实践](https://blog.csdn.net/wireless_com/article/details/116905657)
+ > 远程软件工程师的10个最佳实践
+ ## [Apache Spark 3.1 中 Structured Streaming 方面的改进](https://blog.csdn.net/w397090770/article/details/116905880)
+ > Apache Spark 3.1 中 Structured Streaming 方面的改进
+ ## [研发工具一体化：低代码引发的效能演进](https://blog.csdn.net/gmszone/article/details/116906153)
+ > 研发工具一体化：低代码引发的效能演进
 # PM 
  ## [产品经理有效沟通宝典 帮你突破自我提升价值！](http://www.chanpin100.com/article/115746)
  > 对于产品经理来说，沟通能力是非常重要的，因为产品经理会与各种各样的角色接触，这样就避免不了进行沟通。那么什么是有效的沟通呢？就是在最短的时间内，让别人知道你所表达的意思。
