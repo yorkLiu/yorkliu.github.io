@@ -1,24 +1,26 @@
 ---
 title: 2021-05-23 IT News
 copyright: true
-date: 2021-05-23 09:01:31
+date: 2021-05-23 10:02:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [对不起IE，我欠你一声谢谢](http://mp.weixin.qq.com/s?src=11&timestamp=1621731604&ver=3085&signature=QmvKhsNMxk8*xvWRpRarFsZjynr1cZv0CzJS3PjrAW3JuMApktGZLnukm4pYAW*3deBoVcUyyFp7F8aGrvW7cOictOtdwD3Xm*c4UyLIL4EEN0myBqGb9OgeoislSRk5&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨TSknight微软公司于5月19日正式宣布将在2022年6月15日正式关闭IE浏览器，届时更新了最新Windows系统的用户将无法在新系统上启用IE浏览...
- ## [小鹏一季度软件收入超去年一半，多方发力下“软件商店”成车企聚宝盆?|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1621731604&ver=3085&signature=q2Dl-IRMjdcw4lbzrClqZeR59gI2COKLCRUbpzdBPQJhr-qhXZT4SPrdMPshmboC0KOd7*wX*AxxC9pAJdXgK39*-GNacDaCgLOfAD52bSdHPRby291qw9QbtiIDlqjM&new=1)
- > 摘要：显然，软件收入的增速在不断加快。在新造车企业对付费软件服务的普及之下，“汽车软件商店”正在快速成为特斯拉、蔚来等新造车企业的盈利增长点。文 | 周菊 胡耀丹（实习生）在“软件定义汽车”的产业定义...
- ## [世界智能大会给天津带来什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1621731604&ver=3085&signature=EAIXlCuW*Q88Rcw5tcYTBFyTvIKzDJsebL3m4-Yel4OenrEmMX0yFQi2JSnREJ0W3242mvH36BPaUo9nV2rsV2jOkFvPGGYNWJZFUgmraUi9YUH1Hbei5nt9y37mvDNU&new=1)
+ ## [世界智能大会给天津带来什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1621735204&ver=3085&signature=EAIXlCuW*Q88Rcw5tcYTBFyTvIKzDJsebL3m4-Yel4OenrEmMX0yFQi2JSnREJ0WM0qI6BERlntQftmoxRtxuM8ZgZP-KRXbnRcBgKusbYTcGzxZBrIBRwuVbJ-8v1Zn&new=1)
  > 智能科技，“520”今天下午，第五届世界智能大会举行闭幕式，一场年度智能科技盛宴徐徐接近尾声。大会期间，来自全球智能科技领域的领军人物分享了最新的睿智观点，提出了洞悉发展方向的见解主张，让本届大会成...
- ## [运营商集体发力云网融合，智能云网或是最正确选择](http://mp.weixin.qq.com/s?src=11&timestamp=1621731604&ver=3085&signature=5hLlMaTSY6I0JBUiqODEDoiKECPesD6u5usM9dRPiqglDxiUCyGcWRuGEy9h7XfDIZuvbaeaeysgpmMcJdjkMrigwGiCDxlbGwQ30ppAvbYvMk24BXvuC-9McMLCysm-&new=1)
+ ## [运营商集体发力云网融合，智能云网或是最正确选择](http://mp.weixin.qq.com/s?src=11&timestamp=1621735204&ver=3085&signature=5hLlMaTSY6I0JBUiqODEDoiKECPesD6u5usM9dRPiqglDxiUCyGcWRuGEy9h7XfDM0TAESWHw25ozTvq6Zh10zPpjtN3i4vyYIG4Lo8vvMsUUgwNvRPHw7gnSiU256eM&new=1)
  > 5月20日，三大运营商发布4月运营数据。从数据来看，三大运营商5G、固网宽带业务保持高速增长势头。尽管对业务贡献大的多是个人消费者和家庭用户，但我们从此前年度财报上可以发现，运营商面向政企的toB业务，成...
- ## [IE 浏览器进入死亡倒计时，Microsoft Edge 能否接过大旗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621731604&ver=3085&signature=Lm2St4jwZ1FTMM3E4iZWnM3jOaE-kyMDXkAnJKDUM5q4nqTprDJWJUzsSMVje30gNlVocqXO2nakZDYwYzcKXW3hMecV4VDnpSdJGsm28CaSPRL3Uy5px99ifWJSCEo6&new=1)
+ ## [微软CEO评论“盖茨事件”；亚马逊关闭Prime Now平台；拼多多百亿补贴开设“官方合作旗舰店”入口|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1621735204&ver=3085&signature=aeNyp8X6*hQcUZoofOEnSyfhGjSyN1vYEBz34dBaKg2L4wlIBp7KeLGZaIDJYjT3d8fOJNipj1LbBDJ51P2oByOABjFz7tmq*r4eIXQXevTev6x8Y3I3PUgcGyoflEGg&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【微软CEO纳德拉：高管不能滥用权力】据外媒报道，微软CEO萨蒂亚·纳德拉针对“盖茨事件”日前表示，高管不能滥用权力，我们需要让...
+ ## [小鹏一季度软件收入超去年一半，多方发力下“软件商店”成车企聚宝盆?|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1621735204&ver=3085&signature=q2Dl-IRMjdcw4lbzrClqZeR59gI2COKLCRUbpzdBPQJhr-qhXZT4SPrdMPshmboC3TIhVB7CUDSk7MwTjwUoBryBQ2G38XzIyQOjOnKO2-fChmslkCzpuC2jT6kmC-Lo&new=1)
+ > 摘要：显然，软件收入的增速在不断加快。在新造车企业对付费软件服务的普及之下，“汽车软件商店”正在快速成为特斯拉、蔚来等新造车企业的盈利增长点。文 | 周菊 胡耀丹（实习生）在“软件定义汽车”的产业定义...
+ ## [IE 浏览器进入死亡倒计时，Microsoft Edge 能否接过大旗?](http://mp.weixin.qq.com/s?src=11&timestamp=1621735204&ver=3085&signature=Lm2St4jwZ1FTMM3E4iZWnM3jOaE-kyMDXkAnJKDUM5q4nqTprDJWJUzsSMVje30g-TzG5aCKu7gtN-TkQW*6yIQdASgA-RdOQPluOA9sWRz3-53DJha1UGYYocunTr1H&new=1)
  > 微软的浏览器之路可谓是大起大落。就像很多逐渐远离人们视线的老产品一样，Internet Explorer 虽然没有直接宣告死亡，但基本已经名存实亡。它依然存活的理由在于，一些传统网站还要依靠它才能运行，而随着继任者...
+ ## [对不起IE，我欠你一声谢谢](http://mp.weixin.qq.com/s?src=11&timestamp=1621735204&ver=3085&signature=QmvKhsNMxk8*xvWRpRarFsZjynr1cZv0CzJS3PjrAW3JuMApktGZLnukm4pYAW*3vkUMxdpSmiH2aGqWnEkpM7DTTPIU5QXIrdryeUkBKkvyuPJLdvDxF0cl5O183MW1&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨TSknight微软公司于5月19日正式宣布将在2022年6月15日正式关闭IE浏览器，届时更新了最新Windows系统的用户将无法在新系统上启用IE浏览...
 # IT 技术 
- ## [超详细的 MySQL 学习教程(多实例、附练习、视频讲解持续更新)](https://blog.csdn.net/xw1680/article/details/117157206)
- > 超详细的 MySQL 学习教程(多实例、附练习、视频讲解持续更新)
+ ## [如果编程语言是一门武功绝学](https://blog.csdn.net/weixin_41055260/article/details/117164747)
+ > 如果编程语言是一门武功绝学
  ## [Opencv-图像操作与处理入门基本知识（一）](https://blog.csdn.net/HG0724/article/details/116290698)
  > Opencv-图像操作与处理入门基本知识（一）
  ## [\[JAVA代码审计\]OFCMS路径遍历漏洞](https://blog.csdn.net/solitudi/article/details/117047070)
@@ -37,16 +39,16 @@ categories: IT NEWS
  > 全网最全python小白体系练手项目200例（附源代码），练完可显著提升python水平（持续更新中）
  ## [【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！](https://blog.csdn.net/qq_42366672/article/details/117077450)
  > 【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！
+ ## [《精品毕设》java ssm springboot二手物品商城项目（完整源码+sql+论文）主要功能:登录、注册、商品浏览、分类、模糊查找、轮播图、热销商品、购物车、订单、订单流程控制、用户管理](https://blog.csdn.net/weixin_39709134/article/details/117170796)
+ > 《精品毕设》java ssm springboot二手物品商城项目（完整源码+sql+论文）主要功能:登录、注册、商品浏览、分类、模糊查找、轮播图、热销商品、购物车、订单、订单流程控制、用户管理
+ ## [打怪升级之小白的大数据之旅(五十三)＜Hadoop最后一个模块--Yarn＞](https://blog.csdn.net/Li_G_yuan/article/details/117040395)
+ > 打怪升级之小白的大数据之旅(五十三)＜Hadoop最后一个模块--Yarn＞
  ## [不用买硬件，1s体验鸿蒙系统！(IMX6ULL QEMU运行鸿蒙系统)](https://blog.csdn.net/thisway_diy/article/details/117125670)
  > 不用买硬件，1s体验鸿蒙系统！(IMX6ULL QEMU运行鸿蒙系统)
  ## [年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！](https://blog.csdn.net/Java_Caiyo/article/details/117073777)
  > 年前刷完了这份足足485页的“1000道Java工程师面经”，成功上岸！
- ## [吐血整理 python最全习题100道（含答案）持续更新题目，建议收藏！](https://blog.csdn.net/weixin_43865008/article/details/116997922)
- > 吐血整理 python最全习题100道（含答案）持续更新题目，建议收藏！
  ## [运维是不是IT行业里技术含量最低的岗位？](https://blog.csdn.net/yuanziok/article/details/117083402)
  > 运维是不是IT行业里技术含量最低的岗位？
- ## [盘点微软使用火热的编程语言！程序员：你看我还有机会吗？](https://blog.csdn.net/qq_42366672/article/details/117121019)
- > 盘点微软使用火热的编程语言！程序员：你看我还有机会吗？
 # 人工智能 
  ## [分布式数据一致性思考-B端系统一致性](https://blog.csdn.net/believer123/article/details/107434967)
  > 分布式数据一致性思考-B端系统一致性
