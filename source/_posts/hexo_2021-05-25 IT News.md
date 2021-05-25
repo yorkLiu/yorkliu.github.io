@@ -1,21 +1,27 @@
 ---
 title: 2021-05-25 IT News
 copyright: true
-date: 2021-05-25 09:00:59
+date: 2021-05-25 10:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [凉了!这款APP将退出历史!很多人用过](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=9gVTmQhbdThIwLyGA0HU4lPdIlzTV1rsbZr1Xu7y8uMfPsoBo9hNKwj2*L2yZnm44LWamzD7Y9rixVtByW*W*tOeAYQ54utIzyaKSV-qx6vflmalIQCL*xsc7VHFoFLv&new=1)
- > 相信小伙伴对这个图标并不陌生吧，微软宣布要在2022年退役IE浏览器，从明年6月15日起，大多数Win10将不再支持IE，爷青结。也就是说Internet explorer将退出舞台成为历史，由微软2015年上线的Edge浏览器代替，是...
- ## [四大运营商惊了!刚刚传来大消息，行业又有重大调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=V3bKtJwH0tZGcwsj2AiOz29S5WiKM8XG*w1N0R386ZcHebowZe7tlPQwVi7N7P9JZRxeksiiQSmD1dg8BXH*FV8EpavZKFQ64NzCGH54qCuVnZEVXogHihJmwAFmOoIz&new=1)
- > 我们通信人都很清楚，现在很多企业都在向着智慧家庭的方向转型发展，包括BAT在内的一众互联网巨头也在纷纷加入战局，随着移动互联网、物联网IOT等信息技术的发展，5G技术的日益成熟，似乎“家庭入口”这个词被越...
- ## [正式启动!东华大学第六届国际青年尚实论坛来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=oB4YrkSISLezQS7xffiL1GZ4i40f2c0EVUAc4T1VOvms6uQ6J4LQ5mxSfPLotgXirDVThY-4eFWsJWi2Jg4oog1GDCCxZHglaE560MJKd2FjScFqCScr5ZcNsdoaNxfG&new=1)
- > 第六届国际青年学者尚实论坛正式启动！日程安排2021.7.12论坛开幕式2021.7.12-14分论坛以各学科安排为准东华大学国际青年学者尚实论坛旨在为校内外青年学者搭建学术交流的平台，通过主题讲座、学术报告等交流活...
- ## [强推5G工业互联网，或扼杀中国制造，各方需慎重慎重](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=k54*j*HrWaNI2W*3Gm2NYJwAnRXSC3DXuqFkkL*l349LeBs20H36aYEWIQk*Y4GcOUYJmvdF2evZBo-gqATihqE2DVzT0*xD32PbFBbnshMtMDveDehFA*ts3tTTlXeD&new=1)
- > 5G是当下的热点，不过如今的5G正面临找不到杀手级应用的问题，业界人士认为5G工业互联网或许会是其中的一个方向，不过柏铭科技认为强推5G工业互联网非但不能助推中国制造，反而可能扼杀中国制造。4G的兴起让移动...
- ## [高通推出骁龙7c第2代计算平台，扩展计算平台产品组合](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=yC3kjBT37Yea5CBDd33XHogWU18uIVkSb1*pePHODODTu-nlA7Cuu5B-v3d4aA1eml0SFancVLKx0JKLKAy5S1ru6GNMNHx0fMViZkkw8FgAY*vZCgz1VRF4ed2m-Mnd&new=1)
+ ## [高通推出骁龙7c第2代计算平台，扩展计算平台产品组合](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=yC3kjBT37Yea5CBDd33XHogWU18uIVkSb1*pePHODODTu-nlA7Cuu5B-v3d4aA1eZSiRlaqQ0Eqsg6svIqtV4HUrqDAgDKkob6yeCeFJ6CHjTd5pdckcI0SxXaRlcm61&new=1)
  > Qualcomm要闻—新一代计算平台为入门级笔记本电脑提供卓越的性能、能效和特性，规模化扩展始终在线、始终连接的PC生态高通技术公司今日推出高通骁龙7c第2代计算平台，作为公司第2代入门级平台，该平台将为始终在...
+ ## [强推5G工业互联网，或扼杀中国制造，各方需慎重慎重](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=k54*j*HrWaNI2W*3Gm2NYJwAnRXSC3DXuqFkkL*l349LeBs20H36aYEWIQk*Y4GcJxWy6OPjSgg*n5kRvFysDV49dGUBVsyOMl05ndNNti6jAObRBFL9VRcI5wcgETbt&new=1)
+ > 5G是当下的热点，不过如今的5G正面临找不到杀手级应用的问题，业界人士认为5G工业互联网或许会是其中的一个方向，不过柏铭科技认为强推5G工业互联网非但不能助推中国制造，反而可能扼杀中国制造。4G的兴起让移动...
+ ## [两个项目入围终审](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=tZrg4XSSM78kObnqiz6ekwNLngNubI3lHP18PqLgei0MXGuy8kOfofUHlLbFrZcU0oXueRYw8AFWV4s3zrR-HhLXKpuLrV*n34xQsmPNKjI=&new=1)
+ > 本报讯 5月24日，记者从2021中国国际大数据产业博览会执委会办公室数博发布组获悉，新型商业查询工具“天眼查”项目和数据中心双层双联微模块项目入围数博会领先科技成果奖终审，最终获奖结果将于2021数...
+ ## [市场分析|1Q21全球Open RAN收入同比增长五倍](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=UUWzrjhzM758l8KREorAdCmJ4lYUE6FRpei-qV*jopg6PSqiiRLF3DAZ4woT2*ovkD6DISrm0orJnaDHh*mksdj2iBvdaSIld-qIoUcSgRrFlmxbIbZ40q2qsNcezAal&new=1)
+ > 新闻导读2021年第一季度，Open RAN投资激增。Dell&x27;Oro初步估计，Open RAN总收入同比增长了大约五倍。该调研公司目前预计2021年Open RAN收入将接近翻番。ICC讯     2021年第一季度，Open RAN投资
+ ## [\[报告\]2021中国车企数字化转型发展现状与趋势(附33页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=gjsyaq2*mFZoUIDFAN2E1MaFQdCJyWRfFI0DElVkPoWlfP346EmH0yX3VvTNxVGRuDgviDOiil8bS0IY2XKGvzdHVrSGzbsSw6oxPR9qzJ7au*L4p*51PF-S4gh567Nk&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│同济大学本报告共计：33页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [凉了!这款APP将退出历史!很多人用过](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=9gVTmQhbdThIwLyGA0HU4lPdIlzTV1rsbZr1Xu7y8uMfPsoBo9hNKwj2*L2yZnm431BDweyAlj03CuorIvDk7CS8Gj3itzb-cgEX4bSQ1DLC7um4Af9bCkCQYN3W96QA&new=1)
+ > 相信小伙伴对这个图标并不陌生吧，微软宣布要在2022年退役IE浏览器，从明年6月15日起，大多数Win10将不再支持IE，爷青结。也就是说Internet explorer将退出舞台成为历史，由微软2015年上线的Edge浏览器代替，是...
+ ## [四大运营商惊了!刚刚传来大消息，行业又有重大调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=V3bKtJwH0tZGcwsj2AiOz29S5WiKM8XG*w1N0R386ZcHebowZe7tlPQwVi7N7P9JI9yar3kklqbqBW602fwFXfdvX1VkranAphSqpBykyiSLQBxOLk5MM*dwTELKdYom&new=1)
+ > 我们通信人都很清楚，现在很多企业都在向着智慧家庭的方向转型发展，包括BAT在内的一众互联网巨头也在纷纷加入战局，随着移动互联网、物联网IOT等信息技术的发展，5G技术的日益成熟，似乎“家庭入口”这个词被越...
+ ## [正式启动!东华大学第六届国际青年尚实论坛来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1621908004&ver=3089&signature=oB4YrkSISLezQS7xffiL1GZ4i40f2c0EVUAc4T1VOvms6uQ6J4LQ5mxSfPLotgXiCh2bYn8bsBF6bqBffMX8lVpmFvNGA68cziZbf9uuTC0KB7qNHdaE-UubmVRVa2TF&new=1)
+ > 第六届国际青年学者尚实论坛正式启动！日程安排2021.7.12论坛开幕式2021.7.12-14分论坛以各学科安排为准东华大学国际青年学者尚实论坛旨在为校内外青年学者搭建学术交流的平台，通过主题讲座、学术报告等交流活...
 # IT 技术 
  ## [Python 从菜鸟到大咖的必经之路](https://blog.csdn.net/xw1680/article/details/117177154)
  > Python 从菜鸟到大咖的必经之路
@@ -33,20 +39,20 @@ categories: IT NEWS
  > 为php8安装xmlrpc扩展
  ## [【安全】【信息搜集】网站篇-指纹识别](https://blog.csdn.net/qqchaozai/article/details/117173753)
  > 【安全】【信息搜集】网站篇-指纹识别
+ ## [【毕业表白季】用python为女生宿舍全体学姐 开发一个拼图游戏吧](https://blog.csdn.net/weixin_42350212/article/details/117231108)
+ > 【毕业表白季】用python为女生宿舍全体学姐 开发一个拼图游戏吧
+ ## [最容易进的大厂工作，百度经典百题](https://blog.csdn.net/hebtu666/article/details/117235317)
+ > 最容易进的大厂工作，百度经典百题
+ ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
+ > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
+ ## [Spring IOC详解 以及 Bean生命周期详细过程  可以硬刚面试官的文章](https://blog.csdn.net/qq_27184497/article/details/117173285)
+ > Spring IOC详解 以及 Bean生命周期详细过程  可以硬刚面试官的文章
  ## [【Python脚本】得王者金币，王者大佬快来带我飞](https://blog.csdn.net/yunyun889901/article/details/117172269)
  > 【Python脚本】得王者金币，王者大佬快来带我飞
  ## [【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！](https://blog.csdn.net/qq_42366672/article/details/117077450)
  > 【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！
- ## [进阶学习6：JavaScript异步编程——Promise、链式调用、异常处理、静态方法、并行执行、执行时序、宏任务微任务理解](https://blog.csdn.net/qq_43106115/article/details/117193117)
- > 进阶学习6：JavaScript异步编程——Promise、链式调用、异常处理、静态方法、并行执行、执行时序、宏任务微任务理解
  ## [Linux基础篇——Linux磁盘操作（磁盘基础知识、分类、分区、挂载、卸载、扩容）详解](https://blog.csdn.net/LXWalaz1s1s/article/details/115841831)
  > Linux基础篇——Linux磁盘操作（磁盘基础知识、分类、分区、挂载、卸载、扩容）详解
- ## [Java集合面试经典50问](https://blog.csdn.net/weixin_45366499/article/details/117157489)
- > Java集合面试经典50问
- ## [一篇神文就把java多线程，锁，JMM，JUC和高并发设计模式讲明白了](https://blog.csdn.net/Javachichi/article/details/117200742)
- > 一篇神文就把java多线程，锁，JMM，JUC和高并发设计模式讲明白了
- ## [Spring IOC详解 以及 Bean生命周期详细过程  可以硬刚面试官的文章](https://blog.csdn.net/qq_27184497/article/details/117173285)
- > Spring IOC详解 以及 Bean生命周期详细过程  可以硬刚面试官的文章
 # 人工智能 
  ## [如何应用 SOLID 原则整理 React  代码之单一原则](https://blog.csdn.net/qq_22833925/article/details/117004448)
  > 如何应用 SOLID 原则整理 React  代码之单一原则
@@ -79,6 +85,8 @@ categories: IT NEWS
  ## [python mysql图书爬虫可视化源码+论文（原价1.3k）](https://blog.csdn.net/qq_31293575/article/details/117173356)
  > python mysql图书爬虫可视化源码+论文（原价1.3k）
 # PM 
+ ## [友盟+《小程序用户增长白皮书》：从五个角度入手分析小程序数据](http://www.chanpin100.com/article/115705)
+ > 友盟+小程序统计的【场景来源】功能页面，为开发者提供多平台（支付宝、微信）的全部场景值，支持多时间颗粒度下查看新增和活跃用户量、打开次数、停留时长等核心流量和活跃指标；提供全部场景来源的实时数据，方便产品上线…
  ## [B端产品经理要如何提升业务领域专业能力？](http://www.chanpin100.com/article/115790)
  > B端产品经理要如何提升业务领域专业能力？这是许多产品经理都头疼的事情，小编就结合自己的经验，给出自己的一点看法，大家仅作参考哦！
  ## [B端产品经理应该如何学习设计复杂软件系统？（下）](http://www.chanpin100.com/article/115789)
@@ -113,7 +121,5 @@ categories: IT NEWS
  > 经常会有人问：为什么B端产品领域学习材料非常少？其实我也发现了这个问题，于是仔细的思考了一下。造成这种现象的原因，我认为有以下几点：
  ## [什么是非功能性需求？如何定义非功能性需求？](http://www.chanpin100.com/article/115774)
  > 对于产品经理来说，非功能性需求这个词并不陌生，那么到底什么是非功能性需求呢？如何定义非功能性需求？这篇文章就跟大家简单的聊一下。
- ## [有的人做产品经理 最后就选择放弃了](http://www.chanpin100.com/article/115773)
- > 因为做产品经理自媒体的原因，光自己微信好友2个人号就有超过1万的互联网从业者保持着联系。这段时间，我翻看了恐怖的朋友圈。发现曾经在一线城市做互联网的产品、运营、设计微信好友，不知不觉在朋友圈打着卖车、卖奶粉、等各种各类商品的&quot;生意”了。
 
     
