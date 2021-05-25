@@ -1,52 +1,52 @@
 ---
 title: 2021-05-25 IT News
 copyright: true
-date: 2021-05-25 08:00:57
+date: 2021-05-25 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [强推5G工业互联网，或扼杀中国制造，各方需慎重慎重](http://mp.weixin.qq.com/s?src=11&timestamp=1621899004&ver=3089&signature=k54*j*HrWaNI2W*3Gm2NYJwAnRXSC3DXuqFkkL*l348QD6c*8*2wTxR*XWuQC6ugudma5R1eN2Hr7hR1OIR8rtV6LLGHWzapkeLeI1QauCR-wDmlNXUtnS3MKgbogLXK&new=1)
- > 5G是当下的热点，不过如今的5G正面临找不到杀手级应用的问题，业界人士认为5G工业互联网或许会是其中的一个方向，不过柏铭科技认为强推5G工业互联网非但不能助推中国制造，反而可能扼杀中国制造。4G的兴起让移动...
- ## [凉了!这款APP将退出历史!很多人用过](http://mp.weixin.qq.com/s?src=11&timestamp=1621899004&ver=3089&signature=9gVTmQhbdThIwLyGA0HU4lPdIlzTV1rsbZr1Xu7y8uP*ZLirLHaTbtFH3MzdTWXd9BdZfFxv6Igf4aMSWj8chV59NLLfwhdORXOrBVWK5u6UGEKjZNcQLJXSyZjQ-TCR&new=1)
+ ## [凉了!这款APP将退出历史!很多人用过](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=9gVTmQhbdThIwLyGA0HU4lPdIlzTV1rsbZr1Xu7y8uMfPsoBo9hNKwj2*L2yZnm44LWamzD7Y9rixVtByW*W*tOeAYQ54utIzyaKSV-qx6vflmalIQCL*xsc7VHFoFLv&new=1)
  > 相信小伙伴对这个图标并不陌生吧，微软宣布要在2022年退役IE浏览器，从明年6月15日起，大多数Win10将不再支持IE，爷青结。也就是说Internet explorer将退出舞台成为历史，由微软2015年上线的Edge浏览器代替，是...
- ## [四大运营商惊了!刚刚传来大消息，行业又有重大调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1621899004&ver=3089&signature=V3bKtJwH0tZGcwsj2AiOz29S5WiKM8XG*w1N0R386ZeAESzZ0zl9WuwUN-kQtHz*WJMes*CoJvycEKe8SA8fzG1R5Wn*3G2Lq63v6125nBZx3XiaqGqmCF923krf8poj&new=1)
+ ## [四大运营商惊了!刚刚传来大消息，行业又有重大调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=V3bKtJwH0tZGcwsj2AiOz29S5WiKM8XG*w1N0R386ZcHebowZe7tlPQwVi7N7P9JZRxeksiiQSmD1dg8BXH*FV8EpavZKFQ64NzCGH54qCuVnZEVXogHihJmwAFmOoIz&new=1)
  > 我们通信人都很清楚，现在很多企业都在向着智慧家庭的方向转型发展，包括BAT在内的一众互联网巨头也在纷纷加入战局，随着移动互联网、物联网IOT等信息技术的发展，5G技术的日益成熟，似乎“家庭入口”这个词被越...
- ## [正式启动!东华大学第六届国际青年尚实论坛来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1621899004&ver=3089&signature=oB4YrkSISLezQS7xffiL1GZ4i40f2c0EVUAc4T1VOvm0n1h4trK*c33kKGWkRJMZw*-w508xqilcIxsG2ug2WUrzDEEgK*04VLeWWsniTDmQWmILtZ3nxzUWFU64q12W&new=1)
+ ## [正式启动!东华大学第六届国际青年尚实论坛来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=oB4YrkSISLezQS7xffiL1GZ4i40f2c0EVUAc4T1VOvms6uQ6J4LQ5mxSfPLotgXirDVThY-4eFWsJWi2Jg4oog1GDCCxZHglaE560MJKd2FjScFqCScr5ZcNsdoaNxfG&new=1)
  > 第六届国际青年学者尚实论坛正式启动！日程安排2021.7.12论坛开幕式2021.7.12-14分论坛以各学科安排为准东华大学国际青年学者尚实论坛旨在为校内外青年学者搭建学术交流的平台，通过主题讲座、学术报告等交流活...
- ## [高通推出骁龙7c第2代计算平台，扩展计算平台产品组合](http://mp.weixin.qq.com/s?src=11&timestamp=1621899004&ver=3089&signature=yC3kjBT37Yea5CBDd33XHogWU18uIVkSb1*pePHODODfZC7uyE6yUiqy*-suln6FkGyyoDbDo4NSnaSW8nYIR5nu5WN2HN7FksaLT8kXOEavfmykLs3qmmVGCKWofyot&new=1)
+ ## [强推5G工业互联网，或扼杀中国制造，各方需慎重慎重](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=k54*j*HrWaNI2W*3Gm2NYJwAnRXSC3DXuqFkkL*l349LeBs20H36aYEWIQk*Y4GcOUYJmvdF2evZBo-gqATihqE2DVzT0*xD32PbFBbnshMtMDveDehFA*ts3tTTlXeD&new=1)
+ > 5G是当下的热点，不过如今的5G正面临找不到杀手级应用的问题，业界人士认为5G工业互联网或许会是其中的一个方向，不过柏铭科技认为强推5G工业互联网非但不能助推中国制造，反而可能扼杀中国制造。4G的兴起让移动...
+ ## [高通推出骁龙7c第2代计算平台，扩展计算平台产品组合](http://mp.weixin.qq.com/s?src=11&timestamp=1621902605&ver=3089&signature=yC3kjBT37Yea5CBDd33XHogWU18uIVkSb1*pePHODODTu-nlA7Cuu5B-v3d4aA1eml0SFancVLKx0JKLKAy5S1ru6GNMNHx0fMViZkkw8FgAY*vZCgz1VRF4ed2m-Mnd&new=1)
  > Qualcomm要闻—新一代计算平台为入门级笔记本电脑提供卓越的性能、能效和特性，规模化扩展始终在线、始终连接的PC生态高通技术公司今日推出高通骁龙7c第2代计算平台，作为公司第2代入门级平台，该平台将为始终在...
 # IT 技术 
  ## [Python 从菜鸟到大咖的必经之路](https://blog.csdn.net/xw1680/article/details/117177154)
  > Python 从菜鸟到大咖的必经之路
- ## [【死磕前端】javascript知识点详细讲解 • 第2篇《作用域与作用域链》](https://blog.csdn.net/weixin_56134381/article/details/116165358)
- > 【死磕前端】javascript知识点详细讲解 • 第2篇《作用域与作用域链》
- ## [物联网需要什么样的UI交互方式？](https://blog.csdn.net/HaaSTech/article/details/117198358)
- > 物联网需要什么样的UI交互方式？
- ## [001-VUE---入门以及常用指令](https://blog.csdn.net/allurelover/article/details/117016973)
- > 001-VUE---入门以及常用指令
- ## [计算机视觉（一）—— 基础介绍](https://blog.csdn.net/HUAI_BI_TONG/article/details/117002344)
- > 计算机视觉（一）—— 基础介绍
- ## [万能文件在线预览项目，开源！](https://blog.csdn.net/weixin_41701290/article/details/117043295)
- > 万能文件在线预览项目，开源！
- ## [python3+selenium4自动化测试-浏览器常用基本操作-基础篇3](https://blog.csdn.net/qq_18298049/article/details/117048850)
- > python3+selenium4自动化测试-浏览器常用基本操作-基础篇3
- ## [2021-05-19：给定一个非负数组成的数组，长度一定大于1，想知道数组中哪两个数&的结果最大。返回这个最大结果。时间复杂度O(N)，额外空间复杂度O(1)。](https://blog.csdn.net/weixin_48502062/article/details/117047607)
- > 2021-05-19：给定一个非负数组成的数组，长度一定大于1，想知道数组中哪两个数&amp;的结果最大。返回这个最大结果。时间复杂度O(N)，额外空间复杂度O(1)。
+ ## [Python入门之开发环境配置：Anaconda与PyCharm的安装详解](https://blog.csdn.net/didi_ya/article/details/116997732)
+ > Python入门之开发环境配置：Anaconda与PyCharm的安装详解
+ ## [Django博文数据可视化、simple-ui优化、导入导出插件](https://blog.csdn.net/qq_31910669/article/details/116936938)
+ > Django博文数据可视化、simple-ui优化、导入导出插件
+ ## [转行或实习生进入前端行业前要明白个道理：程序员解决的问题，大多不是程序问题...](https://blog.csdn.net/Kepler_II/article/details/117083044)
+ > 转行或实习生进入前端行业前要明白个道理：程序员解决的问题，大多不是程序问题...
+ ## [【疑难解决】编译EasyPlayer项目H265播放器通过webpack合并报错ERROR的处理办法](https://blog.csdn.net/weixin_43194037/article/details/116989063)
+ > 【疑难解决】编译EasyPlayer项目H265播放器通过webpack合并报错ERROR的处理办法
+ ## [各类图像处理算子（卷积核）](https://blog.csdn.net/qq_35415875/article/details/117026550)
+ > 各类图像处理算子（卷积核）
+ ## [为php8安装xmlrpc扩展](https://blog.csdn.net/my1114/article/details/117217292)
+ > 为php8安装xmlrpc扩展
+ ## [【安全】【信息搜集】网站篇-指纹识别](https://blog.csdn.net/qqchaozai/article/details/117173753)
+ > 【安全】【信息搜集】网站篇-指纹识别
  ## [【Python脚本】得王者金币，王者大佬快来带我飞](https://blog.csdn.net/yunyun889901/article/details/117172269)
  > 【Python脚本】得王者金币，王者大佬快来带我飞
  ## [【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！](https://blog.csdn.net/qq_42366672/article/details/117077450)
  > 【520表白】C语言开发《浪漫流星雨》表白程序，源码来了！
+ ## [进阶学习6：JavaScript异步编程——Promise、链式调用、异常处理、静态方法、并行执行、执行时序、宏任务微任务理解](https://blog.csdn.net/qq_43106115/article/details/117193117)
+ > 进阶学习6：JavaScript异步编程——Promise、链式调用、异常处理、静态方法、并行执行、执行时序、宏任务微任务理解
  ## [Linux基础篇——Linux磁盘操作（磁盘基础知识、分类、分区、挂载、卸载、扩容）详解](https://blog.csdn.net/LXWalaz1s1s/article/details/115841831)
  > Linux基础篇——Linux磁盘操作（磁盘基础知识、分类、分区、挂载、卸载、扩容）详解
  ## [Java集合面试经典50问](https://blog.csdn.net/weixin_45366499/article/details/117157489)
  > Java集合面试经典50问
- ## [ARM探索之旅 | 一、带你认识ARM Cortex-M阵营](https://blog.csdn.net/Mculover666/article/details/117199632)
- > ARM探索之旅 | 一、带你认识ARM Cortex-M阵营
- ## [太厉害了，终于有人能把文件上传漏洞讲的明明白白了](https://blog.csdn.net/weixin_44519789/article/details/116570426)
- > 太厉害了，终于有人能把文件上传漏洞讲的明明白白了
- ## [27岁只会“功能测试“(点点点)，面临公司的“淘汰”？沉淀一年我能继续做测试！](https://blog.csdn.net/qq_52879678/article/details/117163548)
- > 27岁只会“功能测试“(点点点)，面临公司的“淘汰”？沉淀一年我能继续做测试！
+ ## [一篇神文就把java多线程，锁，JMM，JUC和高并发设计模式讲明白了](https://blog.csdn.net/Javachichi/article/details/117200742)
+ > 一篇神文就把java多线程，锁，JMM，JUC和高并发设计模式讲明白了
+ ## [Spring IOC详解 以及 Bean生命周期详细过程  可以硬刚面试官的文章](https://blog.csdn.net/qq_27184497/article/details/117173285)
+ > Spring IOC详解 以及 Bean生命周期详细过程  可以硬刚面试官的文章
 # 人工智能 
  ## [如何应用 SOLID 原则整理 React  代码之单一原则](https://blog.csdn.net/qq_22833925/article/details/117004448)
  > 如何应用 SOLID 原则整理 React  代码之单一原则
