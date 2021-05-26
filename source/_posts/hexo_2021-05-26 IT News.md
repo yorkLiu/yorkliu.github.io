@@ -1,52 +1,52 @@
 ---
 title: 2021-05-26 IT News
 copyright: true
-date: 2021-05-26 08:01:00
+date: 2021-05-26 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [互联网的尽头是「元宇宙」](http://mp.weixin.qq.com/s?src=11&timestamp=1621985404&ver=3091&signature=-beGTGg5FNDCv*O7n6ChIKij1xYB9Op3vHQq6cZ2ykmb9S*zGyBDYO9KuImoufFaKh8oYFzzGS*q0RjoIHdHO*wWNuiNcr8CIq14Hz66ga2SZ--FTFQYc8Rjyv5*SE21&new=1)
- > 从技术层面上，我们似乎正在向理想中的元宇宙不断靠近。但要取代现代互联网成为全新平台，元宇宙还有很长的路要走。作者｜黄泽正赛车手帕西瓦尔按下按钮，《回到未来》中的德劳瑞恩DMC-12出现在了纽约街头。当他...
- ## [鸿蒙系统6月2号发布；字节跳动涉嫌抄袭；](http://mp.weixin.qq.com/s?src=11&timestamp=1621985404&ver=3091&signature=N1QLjqc02jPKZtpGqghW-AfGEzMtPz7k0k73AErSSyeZeXCG5sJnIWNeFJi0amxDx*zHx6usnj6wMrPGBa7-JahWQVALh9Xzh4XKgUvdBK4VCNBfTwjuOEk*CONE7C34&new=1)
- > 鸿蒙系统将在6月2日发布华为将在 6 月 2 日晚 8 时举行线上发布会，正式公布可以覆盖手机等移动终端的鸿蒙操作系统。这也是继 2019 年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。目前业界对鸿蒙操作系...
- ## [比特币·魔戒·马斯克](http://mp.weixin.qq.com/s?src=11&timestamp=1621985404&ver=3091&signature=EukP9rl2f03ABG2s1FsDDC*BBPKMVnuuLnATiCF-5mmEyvIhsrBljZlIkkTmQ9s4iZuURF9VvBSA9qNuhvac*hTH0*eRr4uUaesDV8X3tn*-WwFesSxzc3izKiwOCH5r&new=1)
- > 马斯克戴上了魔戒，他能抵挡住诱惑吗？作者：冯诺编辑：陈书敏本文经授权转载自微信公众号：量子学派（ID：quantumschool）马斯克戴上了魔戒电影《指环王》中的人类英雄阿拉贡，这样评价九大「戒灵」：他们曾经...
- ## [高通推出Windows 10 on ARM骁龙开发套件](http://mp.weixin.qq.com/s?src=11&timestamp=1621985404&ver=3091&signature=pQhKxWvoHTd6WyGXA3SCQBDqJpF5oB3y0dv3i00XtwxZphQE*KYMTYVYUazSUqluz2q62-iB5rZhWeAqPHK5qjsJTNtQLkPFuU2bZmjuYTNXDtA84PSANitZ7kUrMe*Z&new=1)
+ ## [高通推出Windows 10 on ARM骁龙开发套件](http://mp.weixin.qq.com/s?src=11&timestamp=1621989004&ver=3091&signature=pQhKxWvoHTd6WyGXA3SCQBDqJpF5oB3y0dv3i00XtwxZphQE*KYMTYVYUazSUqluKmVqhVSv-M53kaYbiYhlhlPO0Vrg7jzdArdZDteyO4sBLAF*byKvz7e1Y0Ajod8q&new=1)
  > 高通近日推出与微软合作打造的Windows 10 on ARM骁龙开发套件，便于开发者以低成本对相关应用进行重新编译、优化、测试，对整体解决方案进行认证、验证，以确保基于骁龙平台的Windows 10 PC能够提供优良的用户体...
- ## [华为鸿蒙开源，OPPO公关粗鄙言论将自己置于舆论风暴中](http://mp.weixin.qq.com/s?src=11&timestamp=1621985404&ver=3091&signature=S-PsVU2r2KZk1-0PpadlGOzrPvqLvUs8FcdanDe8oN3yc6JvXNdkzhyEmEIj4sn3djKEpa85ZnSCWHxrB*sCITUjVXLFfn9v*lYs0docopbl2KqNdfLwj3HXhXEt9vY5&new=1)
+ ## [比特币·魔戒·马斯克](http://mp.weixin.qq.com/s?src=11&timestamp=1621989004&ver=3091&signature=EukP9rl2f03ABG2s1FsDDC*BBPKMVnuuLnATiCF-5mmEyvIhsrBljZlIkkTmQ9s4ZH8wHse3OLj9TNjD9DeL*WGgb9Wk4p-ExUC46JSXXKVoQKYs3mFz3w8oMhXIq5nx&new=1)
+ > 马斯克戴上了魔戒，他能抵挡住诱惑吗？作者：冯诺编辑：陈书敏本文经授权转载自微信公众号：量子学派（ID：quantumschool）马斯克戴上了魔戒电影《指环王》中的人类英雄阿拉贡，这样评价九大「戒灵」：他们曾经...
+ ## [互联网的尽头是「元宇宙」](http://mp.weixin.qq.com/s?src=11&timestamp=1621989004&ver=3091&signature=-beGTGg5FNDCv*O7n6ChIKij1xYB9Op3vHQq6cZ2ykmb9S*zGyBDYO9KuImoufFasD*R3h6m8Mn8KMYvUN*cbSmShh-ZM8EFSBHdPZXsuo34kuUBWRE8755F7AtD4t02&new=1)
+ > 从技术层面上，我们似乎正在向理想中的元宇宙不断靠近。但要取代现代互联网成为全新平台，元宇宙还有很长的路要走。作者｜黄泽正赛车手帕西瓦尔按下按钮，《回到未来》中的德劳瑞恩DMC-12出现在了纽约街头。当他...
+ ## [华为鸿蒙开源，OPPO公关粗鄙言论将自己置于舆论风暴中](http://mp.weixin.qq.com/s?src=11&timestamp=1621989004&ver=3091&signature=S-PsVU2r2KZk1-0PpadlGOzrPvqLvUs8FcdanDe8oN3yc6JvXNdkzhyEmEIj4sn3F-xQTEgUymLSdpbCEk9pN6LUSur2KhgDgmeB*kTpEP-98oOR8DwqleewYizN94VT&new=1)
  > 在华为宣布鸿蒙系统开源，希望国内手机企业予以支持的时候，众多国产手机企业纷纷保持沉默，不过据称是OPPO公关的人士却发表一番颇为不妥的言论，甚至附带的图片带着粗俗的句子，让人质疑向来坚持本分的OPPO这是...
+ ## [鸿蒙系统6月2号发布；字节跳动涉嫌抄袭；](http://mp.weixin.qq.com/s?src=11&timestamp=1621989004&ver=3091&signature=N1QLjqc02jPKZtpGqghW-AfGEzMtPz7k0k73AErSSyeZeXCG5sJnIWNeFJi0amxDdje9Gd4r7zUKm9fiF08HR5wuu9ms3bcWbjZ71LPD*tsZ8SWNd3VyQHGsVV1vpsmP&new=1)
+ > 鸿蒙系统将在6月2日发布华为将在 6 月 2 日晚 8 时举行线上发布会，正式公布可以覆盖手机等移动终端的鸿蒙操作系统。这也是继 2019 年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。目前业界对鸿蒙操作系...
 # IT 技术 
- ## [（Java实习生）每日10道面试题打卡——Java基础知识篇2](https://blog.csdn.net/weixin_43591980/article/details/117215356)
- > （Java实习生）每日10道面试题打卡——Java基础知识篇2
- ## [基于STM32的智能语音识别的柔光台灯设计方案](https://blog.csdn.net/weixin_45596076/article/details/117127993)
- > 基于STM32的智能语音识别的柔光台灯设计方案
- ## [goLang简单聊天室](https://blog.csdn.net/a568283992/article/details/117199968)
- > goLang简单聊天室
- ## [ECharts学习笔记](https://blog.csdn.net/cnds123321/article/details/109104658)
- > ECharts学习笔记
- ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
- > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
- ## [windows下GDAL安装开发指南](https://blog.csdn.net/jimo_lonely/article/details/117265247)
- > windows下GDAL安装开发指南
- ## [C开发OPC客户端实现OPCDA与KepServer通讯](https://blog.csdn.net/xiaochenXIHUA/article/details/117035998)
- > C开发OPC客户端实现OPCDA与KepServer通讯
- ## [JeecgBoot-antd JeecgVue前端国际化](https://blog.csdn.net/qq727013465/article/details/117264460)
- > JeecgBoot-antd JeecgVue前端国际化
+ ## [JavaScript是解释型语言--V8、JIT](https://blog.csdn.net/ligang2585116/article/details/117263599)
+ > JavaScript是解释型语言--V8、JIT
+ ## [C中异步socket](https://blog.csdn.net/weixin_44201102/article/details/117224252)
+ > C中异步socket
+ ## [Spring Boot - 自动配置实现原理](https://blog.csdn.net/yangshangwei/article/details/116887020)
+ > Spring Boot - 自动配置实现原理
+ ## [Vite 实现原理](https://blog.csdn.net/weixin_38550182/article/details/116714630)
+ > Vite 实现原理
+ ## [chrome更新后，再次使用selenium打开chrome却发现闪退了？全网最详细教程，肯定能帮到你！](https://blog.csdn.net/ljhsq/article/details/117201292)
+ > chrome更新后，再次使用selenium打开chrome却发现闪退了？全网最详细教程，肯定能帮到你！
+ ## [基于 vue-element-admin 的项目总结](https://blog.csdn.net/chuenst/article/details/117065028)
+ > 基于 vue-element-admin 的项目总结
+ ## [（十二）Javaweb（jQury事件、事件冒泡、事件对象）](https://blog.csdn.net/weixin_48102099/article/details/117260266)
+ > （十二）Javaweb（jQury事件、事件冒泡、事件对象）
+ ## [webpack使用入门（配置loader：style、css、url、file、babel；plugin：html-webpack、mini-css-extract、clean-webpack）](https://blog.csdn.net/AIWWY/article/details/116852963)
+ > webpack使用入门（配置loader：style、css、url、file、babel；plugin：html-webpack、mini-css-extract、clean-webpack）
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
  ## [心情不好的时候，用 Python 画棵樱花树送给自己吧](https://blog.csdn.net/j1231230/article/details/116980258)
  > 心情不好的时候，用 Python 画棵樱花树送给自己吧
- ## [【Linux从青铜到王者】第一篇:Linux常见指令](https://blog.csdn.net/qq_44918090/article/details/117226250)
- > 【Linux从青铜到王者】第一篇:Linux常见指令
  ## [学妹深夜私聊我，为了满足她！我写了一份15万字的零基础Java自学电子书！免费让你白嫖！](https://blog.csdn.net/sinat_33921105/article/details/117256041)
  > 学妹深夜私聊我，为了满足她！我写了一份15万字的零基础Java自学电子书！免费让你白嫖！
+ ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
+ > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
+ ## [【Linux从青铜到王者】第一篇:Linux常见指令](https://blog.csdn.net/qq_44918090/article/details/117226250)
+ > 【Linux从青铜到王者】第一篇:Linux常见指令
  ## [蓝桥杯单片机第三届国赛题目-门禁系统](https://blog.csdn.net/qq_37429313/article/details/117233039)
  > 蓝桥杯单片机第三届国赛题目-门禁系统
  ## [三年自动化测试这水平？我还不如去招应届生](https://blog.csdn.net/m0_56736369/article/details/117232392)
  > 三年自动化测试这水平？我还不如去招应届生
- ## [Linux基础篇——Linux磁盘操作（磁盘基础知识、分类、分区、挂载、卸载、扩容）详解](https://blog.csdn.net/LXWalaz1s1s/article/details/115841831)
- > Linux基础篇——Linux磁盘操作（磁盘基础知识、分类、分区、挂载、卸载、扩容）详解
 # 人工智能 
  ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
  > 最菜/高级的莫名其妙C程序
