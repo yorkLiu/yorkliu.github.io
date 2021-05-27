@@ -1,20 +1,20 @@
 ---
 title: 2021-05-27 IT News
 copyright: true
-date: 2021-05-27 08:00:59
+date: 2021-05-27 09:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刘鹤出席2021中国国际大数据产业博览会开幕式](http://mp.weixin.qq.com/s?src=11&timestamp=1622071804&ver=3093&signature=Er4b6irn0ylwmfgWcal*ZFNBHCV-gMqIVjdsEOojBOUU0mt-1JCPPzItL3lEl91Mvrh9KLhRaHbCx13IAPI7MagAqxLiD8CxgMEidgrw9c8=&new=1)
- > 新华社贵阳5月26日电 2021中国国际大数据产业博览会开幕式26日在贵州贵阳举行，中共中央政治局委员、国务院副总理刘鹤以视频方式出席并讲话。　　刘鹤指出，习近平总书记高度重视大数据产业发展，指出要推动...
- ## [对话华为马洪波：面向未来，5G 加速移动网络，乃至社会碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1622071804&ver=3093&signature=-Olcca9mechl3AtK3bhZLl*2HqjZ81DD3vCBHKsSG8zd3mr6PuBhnJKaczE5qTXrUwGUdHzoaZPhVD7LKD6Y5NPifutwCgzbDVdFcUtmvvpU9-equaeAH8sPRraqcnco&new=1)
- > 从2019年韩国5G首商用开始，关于5G基站能耗的讨论，一直伴随5G发展。尤其5G建设初期，一度被称之为“电老虎”。通信圈人都知道，5G其实比4G更节能、更绿色，而大多数人关注的是总体能耗。就在5月24日的中国移动...
- ## [华为鲁勇：5G 数智化转型新动能，倡议四大方向持续创新](http://mp.weixin.qq.com/s?src=11&timestamp=1622071804&ver=3093&signature=PAJkDhY5vVhHmL9bYUDstKm3Bwhqe4efpqfMwTPupVRAILx*aZxPLDgURHuhw6bXmeycXZKXrQ-IVnfpw7zLN0CAQJvIqKLRceoO9rJB6wqnpQaASjVNJ1bqoSi16kU2&new=1)
- > 2021年5月26-28日，2021中国国际大数据产业博览会在贵阳盛大举行。开幕首日，以“科创中国：数智化转型 5G+万物致新”为主题的高端对话在贵阳国际生态会议中心举办。本次高端对话围绕智能制造、数字科技创新、5G...
- ## [华为生态观：有能有为者，自可从0到N](http://mp.weixin.qq.com/s?src=11&timestamp=1622071804&ver=3093&signature=JhVIXpF8TLgxO5M5NXAhBK9PK5BxKWo4rq-tKubpd2-7FIgjuoRq1UeLYo8SSlbNJErN1ANsCAPGk6-L3tramYJaOWBsvgrh3dVRrzEGtbHpsgHMchUaHB4wQ-l7GhAK&new=1)
+ ## [华为生态观：有能有为者，自可从0到N](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=JhVIXpF8TLgxO5M5NXAhBK9PK5BxKWo4rq-tKubpd2-7FIgjuoRq1UeLYo8SSlbN6JMZftUlnF6S6ScfihsgTHM7S4T8OlX57rkB5wbHkj-9RB*mbRs0TSlGakJiCBCN&new=1)
  > ——本文作者 至顶网 高飞如果说一定要用一些关键词来形容信息技术产业的明显特征，那么“生态”一词一定名列前茅。任何新技术的崛起，会带来引领性的公司，也会伴随着一个生态圈的繁荣壮大。1981年，IBM在业内...
- ## [特斯拉Autopilot将停用雷达，仅靠视觉实现自动驾驶是“技术成熟”还是“引火烧身”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622071804&ver=3093&signature=A7LoqT6uRV33LWgb8BdErOBmIxTDl3w64icak0J*ujoKa57Ks*1b9n4A9BIRhsMCgsALeMqry4xR0N2WFvf9-FqaEPnZcm7tKosDu6lPLKAZA7KsJUtOnu8dk458dNoX&new=1)
+ ## [对话华为马洪波：面向未来，5G 加速移动网络，乃至社会碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=-Olcca9mechl3AtK3bhZLl*2HqjZ81DD3vCBHKsSG8zd3mr6PuBhnJKaczE5qTXr-NztTNQq1xnidItfAafGCZaNNJiGGkuxm32*zmS-6UR9DVxfvJ*U4PjwNlgmlJkd&new=1)
+ > 从2019年韩国5G首商用开始，关于5G基站能耗的讨论，一直伴随5G发展。尤其5G建设初期，一度被称之为“电老虎”。通信圈人都知道，5G其实比4G更节能、更绿色，而大多数人关注的是总体能耗。就在5月24日的中国移动...
+ ## [刘鹤出席2021中国国际大数据产业博览会开幕式](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=Er4b6irn0ylwmfgWcal*ZFNBHCV-gMqIVjdsEOojBOV4Lpj*abRSjuceKrQL9x807cVEPLyNrD1MJXhoKunjXblKIpRtH3dmRpMhRzxa8T0=&new=1)
+ > 新华社贵阳5月26日电 2021中国国际大数据产业博览会开幕式26日在贵州贵阳举行，中共中央政治局委员、国务院副总理刘鹤以视频方式出席并讲话。　　刘鹤指出，习近平总书记高度重视大数据产业发展，指出要推动...
+ ## [华为鲁勇：5G 数智化转型新动能，倡议四大方向持续创新](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=PAJkDhY5vVhHmL9bYUDstKm3Bwhqe4efpqfMwTPupVRAILx*aZxPLDgURHuhw6bXnQXw-yJd-CWagmUpeD8hwqOdmXk17SgjnpktfryX-pA7p4*-NrdOQP4yJrL3YClC&new=1)
+ > 2021年5月26-28日，2021中国国际大数据产业博览会在贵阳盛大举行。开幕首日，以“科创中国：数智化转型 5G+万物致新”为主题的高端对话在贵阳国际生态会议中心举办。本次高端对话围绕智能制造、数字科技创新、5G...
+ ## [特斯拉Autopilot将停用雷达，仅靠视觉实现自动驾驶是“技术成熟”还是“引火烧身”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=A7LoqT6uRV33LWgb8BdErOBmIxTDl3w64icak0J*ujoKa57Ks*1b9n4A9BIRhsMC7QR8nrz4jSM-zFzt0GeEJsdJYuX9N6*OPOF9YtIwPo-0K77recQe5Di7Qlhiyb2R&new=1)
  > 当前业界公认的自动驾驶技术路线，是将摄像头、雷达和激光雷达三大传感器相结合，以获得优势互补之效。然而，特斯拉却即将打破这一路线，宣称将停止使用雷达，一时间引发了业界关注。文丨AutoR智驾  伊丽特斯拉...
 # IT 技术 
  ## [前女友婚礼，python破解婚礼现场的WIFI，把名称改成了](https://blog.csdn.net/weixin_42350212/article/details/117260497)
@@ -35,18 +35,18 @@ categories: IT NEWS
  > 影视管理系统-七星修改二开米酷影视7.2完整版源码
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
- ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
- > 手把手教你做出数据可视化项目（三）3D地球旋转
  ## [二面京东被问到Java 反射，我直呼好家伙，这我不是必过吗？](https://blog.csdn.net/wj1314250/article/details/117264941)
  > 二面京东被问到Java 反射，我直呼好家伙，这我不是必过吗？
+ ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
+ > 手把手教你做出数据可视化项目（三）3D地球旋转
  ## [【Linux从青铜到王者】第一篇:Linux常见指令](https://blog.csdn.net/qq_44918090/article/details/117226250)
  > 【Linux从青铜到王者】第一篇:Linux常见指令
  ## [心情不好的时候，用 Python 画棵樱花树送给自己吧](https://blog.csdn.net/j1231230/article/details/116980258)
  > 心情不好的时候，用 Python 画棵樱花树送给自己吧
- ## [《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）](https://blog.csdn.net/weixin_39709134/article/details/117266374)
- > 《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）
  ## [字节跳动换老板了，我面试也扑街了...](https://blog.csdn.net/YoungOne2333/article/details/117227655)
  > 字节跳动换老板了，我面试也扑街了...
+ ## [《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）](https://blog.csdn.net/weixin_39709134/article/details/117266374)
+ > 《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）
 # 人工智能 
  ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
  > 最菜/高级的莫名其妙C程序
