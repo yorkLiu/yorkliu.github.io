@@ -1,52 +1,60 @@
 ---
 title: 2021-05-27 IT News
 copyright: true
-date: 2021-05-27 09:00:56
+date: 2021-05-27 10:01:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为生态观：有能有为者，自可从0到N](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=JhVIXpF8TLgxO5M5NXAhBK9PK5BxKWo4rq-tKubpd2-7FIgjuoRq1UeLYo8SSlbN6JMZftUlnF6S6ScfihsgTHM7S4T8OlX57rkB5wbHkj-9RB*mbRs0TSlGakJiCBCN&new=1)
+ ## [专访|绍兴中科通信：2022年落成全新产业园 迎接未来双千兆市场机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=7GI5U319zzLny7afVHJSQLc9lOpqaJB3wTi51IvIeaH8Nx8zvpXXbMatNfqfv8ujQqPtQ3Lss4P*SGiJPgSLD4ib4VyMznekdZnbrXAccnYH3yOxpjs8LnhIlRmLr5y2&new=1)
+ > 导读2020年是绍兴中科通信的发展里程碑，产品在运营商5G网络、新一代光纤接入和数据中心等多个市场实现高速增长，营收创下历史记录，并获得2020年国家级专精特新“小巨人”企业。2021年，公司斥资1.2亿元规划建...
+ ## [\[报告\]大众汽车MEB平台深度分析(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=jB0qy1-OlSwVmFyxRf9jC1RIzmNYyf39BqI8YAUXO-0osQL7TeKnEUD*i2K5kqBhaHJ-4DW9tWsm4HFKFMDnmu8iQ6wb1FfOOFRl0eRi2Tp2RZUQVsGtZK9Mdh7oaTKP&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│吉晟资本本报告共计：35页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [华曙高科发布8激光金属3D打印机FS721M、2激光高分子光纤烧结设备](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=slGQd2KK5c4IA-QLTC5bH7drlk9XPDZYnp5Sqe5wbqdNoZ0NtC7Ilc4MFdQLMS71bjJ8HiivD-3ysmYTUt9m-S0*oe2hPtSQ0cfQ6Y6aV129fjRUsDzYUGJZyx8JHop8&new=1)
+ > 2021亚洲3D打印、增材制造展览会 (TCT Asia)于2021年5月26日-28日在国家会展中心（上海）7.1馆隆重举办。作为官方战略合作媒体，南极熊将会全程现场报道（地址https://www.nanjixiong.com/foru
+ ## [7点见|网易云音乐赴港上市；传台积电代工苹果A15芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=hOqvOrF5dGxd0XCr-Fhr11-D3xEl5MJksIFEaWBZ2v4lL*evgX-pAQL9m5zpmhY41Jui6rYndYZrOvY1mSath-TU*Phb9zBVwvlBYuxwk23pOF8-QOgEa1qSWQPlVxN6&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！消息称苹果A15处理器已由台积电代工生产 用于iPhone 13据来自供应链的消息称，苹果供应商台积电已经开始为其代工生产A15处理器，该处理器将用于iPhone 13上。预计iPhone...
+ ## [华为生态观：有能有为者，自可从0到N](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=JhVIXpF8TLgxO5M5NXAhBK9PK5BxKWo4rq-tKubpd28kcmb1z-KAyL7SVOn4O2HPyAxf4t3dlR3VW7n-OArxDqUUMlp2OeE-3JlQe3ODf-cRCeWsbPGbsQ8So62JdY0I&new=1)
  > ——本文作者 至顶网 高飞如果说一定要用一些关键词来形容信息技术产业的明显特征，那么“生态”一词一定名列前茅。任何新技术的崛起，会带来引领性的公司，也会伴随着一个生态圈的繁荣壮大。1981年，IBM在业内...
- ## [对话华为马洪波：面向未来，5G 加速移动网络，乃至社会碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=-Olcca9mechl3AtK3bhZLl*2HqjZ81DD3vCBHKsSG8zd3mr6PuBhnJKaczE5qTXr-NztTNQq1xnidItfAafGCZaNNJiGGkuxm32*zmS-6UR9DVxfvJ*U4PjwNlgmlJkd&new=1)
+ ## [对话华为马洪波：面向未来，5G 加速移动网络，乃至社会碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=-Olcca9mechl3AtK3bhZLl*2HqjZ81DD3vCBHKsSG8wtyNSqivxqu*9dmNDcaYcWr00j6jYKZBY*SXkGp6pclKTfgUiPQzGplPTFDfq0gbfVhpxB5R693-2soC*A4a6x&new=1)
  > 从2019年韩国5G首商用开始，关于5G基站能耗的讨论，一直伴随5G发展。尤其5G建设初期，一度被称之为“电老虎”。通信圈人都知道，5G其实比4G更节能、更绿色，而大多数人关注的是总体能耗。就在5月24日的中国移动...
- ## [刘鹤出席2021中国国际大数据产业博览会开幕式](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=Er4b6irn0ylwmfgWcal*ZFNBHCV-gMqIVjdsEOojBOV4Lpj*abRSjuceKrQL9x807cVEPLyNrD1MJXhoKunjXblKIpRtH3dmRpMhRzxa8T0=&new=1)
+ ## [刘鹤出席2021中国国际大数据产业博览会开幕式](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=Er4b6irn0ylwmfgWcal*ZFNBHCV-gMqIVjdsEOojBOX6lp8b-T6AAjzYgJyhojEDdkoatf2K5jNv1r-sVmMJJ34eFpoN3mGBStuCTSOKcPo=&new=1)
  > 新华社贵阳5月26日电 2021中国国际大数据产业博览会开幕式26日在贵州贵阳举行，中共中央政治局委员、国务院副总理刘鹤以视频方式出席并讲话。　　刘鹤指出，习近平总书记高度重视大数据产业发展，指出要推动...
- ## [华为鲁勇：5G 数智化转型新动能，倡议四大方向持续创新](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=PAJkDhY5vVhHmL9bYUDstKm3Bwhqe4efpqfMwTPupVRAILx*aZxPLDgURHuhw6bXnQXw-yJd-CWagmUpeD8hwqOdmXk17SgjnpktfryX-pA7p4*-NrdOQP4yJrL3YClC&new=1)
+ ## [华为鲁勇：5G 数智化转型新动能，倡议四大方向持续创新](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=PAJkDhY5vVhHmL9bYUDstKm3Bwhqe4efpqfMwTPupVRgCu8Csew6uaFW90RX4XpYOMWZjCvZYXQNxryXmsq6LxpK8UHIyushmnswK*NZW6Fm9OLNpVK8clPIludvx-8v&new=1)
  > 2021年5月26-28日，2021中国国际大数据产业博览会在贵阳盛大举行。开幕首日，以“科创中国：数智化转型 5G+万物致新”为主题的高端对话在贵阳国际生态会议中心举办。本次高端对话围绕智能制造、数字科技创新、5G...
- ## [特斯拉Autopilot将停用雷达，仅靠视觉实现自动驾驶是“技术成熟”还是“引火烧身”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622075404&ver=3093&signature=A7LoqT6uRV33LWgb8BdErOBmIxTDl3w64icak0J*ujoKa57Ks*1b9n4A9BIRhsMC7QR8nrz4jSM-zFzt0GeEJsdJYuX9N6*OPOF9YtIwPo-0K77recQe5Di7Qlhiyb2R&new=1)
+ ## [特斯拉Autopilot将停用雷达，仅靠视觉实现自动驾驶是“技术成熟”还是“引火烧身”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622080804&ver=3093&signature=A7LoqT6uRV33LWgb8BdErOBmIxTDl3w64icak0J*ujqne4c3CjRmF3RZtSSzuD1FaXZtMQtbY*p4RBMtNycJGk8-N5qF3zDXUoraclai-5Y*rUFmSOc2B53XWuFK3TWx&new=1)
  > 当前业界公认的自动驾驶技术路线，是将摄像头、雷达和激光雷达三大传感器相结合，以获得优势互补之效。然而，特斯拉却即将打破这一路线，宣称将停止使用雷达，一时间引发了业界关注。文丨AutoR智驾  伊丽特斯拉...
 # IT 技术 
  ## [前女友婚礼，python破解婚礼现场的WIFI，把名称改成了](https://blog.csdn.net/weixin_42350212/article/details/117260497)
  > 前女友婚礼，python破解婚礼现场的WIFI，把名称改成了
- ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
- > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
- ## [一：Tomcat核心组件及应用架构详解](https://blog.csdn.net/Xx__WangQi/article/details/117046625)
- > 一：Tomcat核心组件及应用架构详解
- ## [webpack深入学习，搭建和优化react项目。](https://blog.csdn.net/SaRAku/article/details/117261496)
- > webpack深入学习，搭建和优化react项目。
- ## [webpack从入门到精通](https://blog.csdn.net/u010682774/article/details/117221097)
- > webpack从入门到精通
- ## [\[Golang\]函数详解](https://blog.csdn.net/weixin_43519514/article/details/117034291)
- > \[Golang\]函数详解
- ## [2021宁波市第四届网络安全大赛](https://blog.csdn.net/m0_51078229/article/details/117187720)
- > 2021宁波市第四届网络安全大赛
- ## [影视管理系统-七星修改二开米酷影视7.2完整版源码](https://blog.csdn.net/Abbbbb11/article/details/117293747)
- > 影视管理系统-七星修改二开米酷影视7.2完整版源码
+ ## [STM32语音识别的智能蓝牙音箱](https://blog.csdn.net/weixin_45596076/article/details/117128140)
+ > STM32语音识别的智能蓝牙音箱
+ ## [精选力扣500题 第16题 LeetCode 1. 两数之和【c++详细题解】](https://blog.csdn.net/weixin_45629285/article/details/117186758)
+ > 精选力扣500题 第16题 LeetCode 1. 两数之和【c++详细题解】
+ ## [UI设计培训之用户画像-带你认清的你的用户](https://blog.csdn.net/qinge_Crazy/article/details/117261778)
+ > UI设计培训之用户画像-带你认清的你的用户
+ ## [Webpack打包工具安装使用介绍](https://blog.csdn.net/qq_42707967/article/details/117170690)
+ > Webpack打包工具安装使用介绍
+ ## [【力扣笔记43】字符串相乘](https://blog.csdn.net/bestzy6/article/details/117112804)
+ > 【力扣笔记43】字符串相乘
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
+ ## [c++并发编程04-同步与异步](https://blog.csdn.net/FairLikeSnow/article/details/117234785)
+ > c++并发编程04-同步与异步
  ## [二面京东被问到Java 反射，我直呼好家伙，这我不是必过吗？](https://blog.csdn.net/wj1314250/article/details/117264941)
  > 二面京东被问到Java 反射，我直呼好家伙，这我不是必过吗？
  ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
  > 手把手教你做出数据可视化项目（三）3D地球旋转
+ ## [HTTP数据包分析](https://blog.csdn.net/weixin_50464560/article/details/117266044)
+ > HTTP数据包分析
+ ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
+ > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
+ ## [战争英雄、同性恋和计算机科学的奠基人](https://blog.csdn.net/coderising/article/details/117267812)
+ > 战争英雄、同性恋和计算机科学的奠基人
  ## [【Linux从青铜到王者】第一篇:Linux常见指令](https://blog.csdn.net/qq_44918090/article/details/117226250)
  > 【Linux从青铜到王者】第一篇:Linux常见指令
  ## [心情不好的时候，用 Python 画棵樱花树送给自己吧](https://blog.csdn.net/j1231230/article/details/116980258)
  > 心情不好的时候，用 Python 画棵樱花树送给自己吧
- ## [字节跳动换老板了，我面试也扑街了...](https://blog.csdn.net/YoungOne2333/article/details/117227655)
- > 字节跳动换老板了，我面试也扑街了...
- ## [《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）](https://blog.csdn.net/weixin_39709134/article/details/117266374)
- > 《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）
 # 人工智能 
  ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
  > 最菜/高级的莫名其妙C程序
@@ -79,6 +87,8 @@ categories: IT NEWS
  ## [厉害了！Spring Boot 2.5正式发布](https://blog.csdn.net/hollis_chuang/article/details/117203181)
  > 厉害了！Spring Boot 2.5正式发布
 # PM 
+ ## [舞蹈教育行业现状分析 未来如何转型突破？](http://www.chanpin100.com/article/115809)
+ > 舞蹈教育是目前很受欢迎的一个素质教育赛道，它与美术教育、音乐教育并列为素质教育三巨头，共同占据主要市场份额。目前市场上的艺术机构大多都包含舞蹈培训，而舞蹈课所带来的收入基本上能够占大多数艺术教培机构的50%甚至以上，由此可见舞蹈培训的受欢迎程度。
  ## [产品经理应该如何判断一个需求是不是有价值的？（下）](http://www.chanpin100.com/article/115878)
  > 产品经理应该如何判断一个需求是不是有价值的？上一篇文章我们总结了有价值需求的一些特点，这篇文章我将分享无价值需求的几个特点，大家可以简单的看看。
  ## [产品经理应该如何判断一个需求是不是有价值的？（上）](http://www.chanpin100.com/article/115877)
@@ -115,7 +125,5 @@ categories: IT NEWS
  > 随着人工智能的不断发展，越来越多的人选择做AI产品经理，想要顺利成为一名AI产品经理的第一步就是要通过面试，那么在AI产品经理面试过程中要如何做自我介绍呢？下面请看本文的具体内容吧。
  ## [MVP：如何识别产品机会 确保做正确的事？](http://www.chanpin100.com/article/115791)
  > 当出现新型购买者群，或者有消费者没有满足的需求，或者出现满足消费者需求的新方法、新手段或新工艺时，就有了市场机会。市场机会筛选是通过对可选的市场机会进行筛选确定具体创业活动的方法。
- ## [AI产品经理应该具备的能力 你身上有几条？](http://www.chanpin100.com/article/115863)
- > 现在，人工智能是很火爆的一个行当，很多人都想进军到AI产品经理领域，那么你是否知道AI产品经理应该具备的能力都有哪些？你身上具备几条呢？大家都可以好好自查一下。
 
     
