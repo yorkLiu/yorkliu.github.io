@@ -1,62 +1,70 @@
 ---
 title: 2021-05-27 IT News
 copyright: true
-date: 2021-05-27 12:01:24
+date: 2021-05-27 17:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“十佳大数据案例”揭晓](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=Whwk4tar4fw49rn1ofhOdeks7mjkEJPQ6fqJtKAnOxpk51E6JGBiCW9r3QvwY-h0UA4oZI1IHr7k06yz87hnEs9WJJPXS--JZNDV4qYxnoE=&new=1)
+ ## [\[观察\]新华三：智慧政务应用先行，推进数字政府“蝶变”](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=r7mwBzvBDS9m3797qjCZFfODkFu-c1m1tQmUXEBG8YgsHwDYgj*NUsmuAHjuJjLAhEJvEgHZVNncl7yLfy1BpTLFPDl9QkRYPJOVmYwfh3EZLt*xCpn5gErAbMuN6W-P&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！众所周知，近年来数字政府建设在疫情防控、优化营商环境、改进政务服务、加强社会治理等方面发挥了关键的作用，成为推进国家治理现代化的重要途径。而展望“十四五”，加快数...
+ ## [中国联通李福昌详解5G演进：为后5G时代发展提供新动能](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=j--r0gMm9HjS*i29uDYnNdbT6hxyxnwD8mSPuzUDoT7-Bos2T2FAxC5s8DF3HCgichOccCr*dXKQASXxnRSJsz4nmsxbewulYiREEDX5kE10BE2OC786vHEqUk2q4bGh&new=1)
+ > 3GPP近日将5G演进名称确定为5G-Advanced之后，也为未来十年的5G发展指明了方向。5G持续演进，成为全球运营商发展5G的必由之路。在近日举行的“中国联通&amp;华为 5G-Advanced技术联合创新发布会”上，双方联合提出了...
+ ## [6GHz频段对于5G到底有多重要?](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=Ko6lMsTglYFMqxUfNLAmU4k6-xBiiFV8fWK0jVlOmJ5t8-MiHoGNlBsg0IJ70OdBAMoVirpOma6qIqOQppOLJ8NGWj0ZKclUZKebTGZEaeKxWUDQPoZoDNYJlNW739ds&new=1)
+ > | 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：网优雇佣军本文来源：网优雇佣军(hr_opt)杂谈投稿邮箱：631255063@qq.com呼吁更多伙伴加入6GHz IMT产业推动工作，来共同推动未来十年移动通信可持续性发
+ ## [“十佳大数据案例”揭晓](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=Whwk4tar4fw49rn1ofhOdeks7mjkEJPQ6fqJtKAnOxpopW9RQ1FAPaKBQt17cWhyOpaSlJ1hu7lXqXwT2SXAmg7WS6dGjiyeuYf8RU7dwNo=&new=1)
  > 本报讯 5月26日，由中国国际大数据产业博览会组委会主办，国家工业信息安全发展研究中心承办的大数据产业发展系列研究成果发布会暨数博会“十佳大数据案例”揭晓活动（以下简称“发布会”）在2021中国国...
- ## [7点见|网易云音乐赴港上市；传台积电代工苹果A15芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=hOqvOrF5dGxd0XCr-Fhr11-D3xEl5MJksIFEaWBZ2v4lL*evgX-pAQL9m5zpmhY4m3AIKyEjT6ha1fhQAweDrGf6v1SWpg9v2d6nymV548oPePBubz9BegYc1q3EfsGE&new=1)
+ ## [企业端到端加密正在兴起](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=DRJ0WPPPePtWxiP91DqZ3TF3hK-yGBIPQogT8X25mwwzgifaHC8uvAnzJAp37nc59Oq4GRJm4o-cx*Jv1KlrC6N7ejGL3kxZ7s2n9y9aBi1oQElFXbSCpu09jiQtLj-d&new=1)
+ > 关键讯息，D1时间送达！随着冠状病毒疫情仍在重塑劳动力模式，并且加快数字化转型的步伐，企业端到端加密的好处正在显现。因为端到端加密将加密密钥存储在用户设备上而不是服务器上，所以在攻击和破坏期间不可能...
+ ## [7点见|网易云音乐赴港上市；传台积电代工苹果A15芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=hOqvOrF5dGxd0XCr-Fhr11-D3xEl5MJksIFEaWBZ2v4FC-yz*KFF11R4KzCTfKAeAt9svhTn-CcaTxF9X1QZpBT5zNdFQkuOfD4vCGOrTthojCL0bkPWo-aruiq970lN&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！消息称苹果A15处理器已由台积电代工生产 用于iPhone 13据来自供应链的消息称，苹果供应商台积电已经开始为其代工生产A15处理器，该处理器将用于iPhone 13上。预计iPhone...
- ## [专访|绍兴中科通信：2022年落成全新产业园 迎接未来双千兆市场机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=7GI5U319zzLny7afVHJSQLc9lOpqaJB3wTi51IvIeaH8Nx8zvpXXbMatNfqfv8uj*ycE8houZxn-*eWNLV2fPJEeXHpka*iPIFAwY2lIVT84jbsstUW6ZzcVXRDR-COe&new=1)
+ ## [专访|绍兴中科通信：2022年落成全新产业园 迎接未来双千兆市场机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=7GI5U319zzLny7afVHJSQLc9lOpqaJB3wTi51IvIeaHrYlvPOAnHihwXwsJQnZ2u3PJHirDzpEZe3n3Y2Xu55vSOw3fLwWgA7HJj*hG2D4wMDyaSy-UxXz-kwQprjwxI&new=1)
  > 导读2020年是绍兴中科通信的发展里程碑，产品在运营商5G网络、新一代光纤接入和数据中心等多个市场实现高速增长，营收创下历史记录，并获得2020年国家级专精特新“小巨人”企业。2021年，公司斥资1.2亿元规划建...
- ## [华曙高科发布8激光金属3D打印机FS721M、2激光高分子光纤烧结设备](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=slGQd2KK5c4IA-QLTC5bH7drlk9XPDZYnp5Sqe5wbqdNoZ0NtC7Ilc4MFdQLMS717beHGxH17NedkQYSf*Vm5QWR3cqQvbOVhhBtaY-fosWOmsd6ahGDBvYCu1DSZfdq&new=1)
+ ## [华曙高科发布8激光金属3D打印机FS721M、2激光高分子光纤烧结设备](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=slGQd2KK5c4IA-QLTC5bH7drlk9XPDZYnp5Sqe5wbqecUKau5lguUFeDzJydmXl8pitT9he*NwgSWwd51IcSrfyZav2WvbfIk78L1mZae3DeKB8nBar4zFym8Yt0Vcs5&new=1)
  > 2021亚洲3D打印、增材制造展览会 (TCT Asia)于2021年5月26日-28日在国家会展中心（上海）7.1馆隆重举办。作为官方战略合作媒体，南极熊将会全程现场报道（地址https://www.nanjixiong.com/foru
- ## [\[报告\]大众汽车MEB平台深度分析(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=jB0qy1-OlSwVmFyxRf9jC1RIzmNYyf39BqI8YAUXO-0osQL7TeKnEUD*i2K5kqBhwK1ivRiz2V5kAe34EqH3SnGw8osgYxWuV4-fWjzXngbVrwAPX8HLp12iawiJRDoN&new=1)
+ ## [\[报告\]大众汽车MEB平台深度分析(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=jB0qy1-OlSwVmFyxRf9jC1RIzmNYyf39BqI8YAUXO-05n0pMyxEm*k9WrNiwexHL8Us5846h2hw8pbJZeUJzqryH1q5qwehOKes*7LUbmRwaNdIAj8in2XILe4mSnGnc&new=1)
  > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│吉晟资本本报告共计：35页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
- ## [华为生态观：有能有为者，自可从0到N](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=JhVIXpF8TLgxO5M5NXAhBK9PK5BxKWo4rq-tKubpd28kcmb1z-KAyL7SVOn4O2HPY-x05NI0alRrzxUsoceS3owmhdgvRycludq0eLskhyqTI7sjjv7T*OWkw9ueFrwS&new=1)
+ ## [华为生态观：有能有为者，自可从0到N](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=JhVIXpF8TLgxO5M5NXAhBK9PK5BxKWo4rq-tKubpd2*ymtJCXVtosUVbqFeeN44QM8rEh7AyBfm5e2G1JirNZydKPHE5T-M0n0R-dF-O4oHPjv9t5T6dxLaMaCOQ2-1n&new=1)
  > ——本文作者 至顶网 高飞如果说一定要用一些关键词来形容信息技术产业的明显特征，那么“生态”一词一定名列前茅。任何新技术的崛起，会带来引领性的公司，也会伴随着一个生态圈的繁荣壮大。1981年，IBM在业内...
- ## [对话华为马洪波：面向未来，5G 加速移动网络，乃至社会碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=-Olcca9mechl3AtK3bhZLl*2HqjZ81DD3vCBHKsSG8wtyNSqivxqu*9dmNDcaYcWm8n*pmQU0yFxl-y39tOSLb0TuccKPMw9tg8wLyglT4La6BSeYuSJgIApsQwGVw1T&new=1)
+ ## [对话华为马洪波：面向未来，5G 加速移动网络，乃至社会碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=-Olcca9mechl3AtK3bhZLl*2HqjZ81DD3vCBHKsSG8xkYwm*2Dy7-oGJZrEubRgxizX6zEeJo6p-bpMm*A0N9K0k8FezM2IPWBX14eZGJo-kFdvOZlYcQeE4eIHWV8U-&new=1)
  > 从2019年韩国5G首商用开始，关于5G基站能耗的讨论，一直伴随5G发展。尤其5G建设初期，一度被称之为“电老虎”。通信圈人都知道，5G其实比4G更节能、更绿色，而大多数人关注的是总体能耗。就在5月24日的中国移动...
- ## [刘鹤出席2021中国国际大数据产业博览会开幕式](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=Er4b6irn0ylwmfgWcal*ZFNBHCV-gMqIVjdsEOojBOW1Zva6xTvv7Gv3X67zAPdwuP1-knu4pETSb0uBknx-fwa17CZD7*yBnHms9pqsaVE=&new=1)
+ ## [刘鹤出席2021中国国际大数据产业博览会开幕式](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=Er4b6irn0ylwmfgWcal*ZFNBHCV-gMqIVjdsEOojBOVIKCkvThn4juIWexLKBXT2CuX8xmUASb4-eIeBMbvz-vOVunVvLlRP1ZLKv1911mo=&new=1)
  > 新华社贵阳5月26日电 2021中国国际大数据产业博览会开幕式26日在贵州贵阳举行，中共中央政治局委员、国务院副总理刘鹤以视频方式出席并讲话。　　刘鹤指出，习近平总书记高度重视大数据产业发展，指出要推动...
- ## [华为鲁勇：5G 数智化转型新动能，倡议四大方向持续创新](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=PAJkDhY5vVhHmL9bYUDstKm3Bwhqe4efpqfMwTPupVRgCu8Csew6uaFW90RX4XpYqKJqOPQ1-CfSJkqf-N1s*eNMNDJUPNN7WpHZk9tSCbUlns9Z*1FJWwXIEl0Nyj3x&new=1)
+ ## [华为鲁勇：5G 数智化转型新动能，倡议四大方向持续创新](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=PAJkDhY5vVhHmL9bYUDstKm3Bwhqe4efpqfMwTPupVRHi4fYN7E0clxz3-V-3cF3V-LanYlJFOEG02tsxN0trCHmEIt-kCGgk459hyS6SIJzo-6hyy*Jk2HltJRoeqLi&new=1)
  > 2021年5月26-28日，2021中国国际大数据产业博览会在贵阳盛大举行。开幕首日，以“科创中国：数智化转型 5G+万物致新”为主题的高端对话在贵阳国际生态会议中心举办。本次高端对话围绕智能制造、数字科技创新、5G...
- ## [特斯拉Autopilot将停用雷达，仅靠视觉实现自动驾驶是“技术成熟”还是“引火烧身”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622088004&ver=3093&signature=A7LoqT6uRV33LWgb8BdErOBmIxTDl3w64icak0J*ujqne4c3CjRmF3RZtSSzuD1FAEojCwGKxB5FvDQoDq*1f69sFzcTJFIjHOiPmdIWbTdnAly6b53V7mpsczJXjhPG&new=1)
+ ## [特斯拉Autopilot将停用雷达，仅靠视觉实现自动驾驶是“技术成熟”还是“引火烧身”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622104204&ver=3093&signature=A7LoqT6uRV33LWgb8BdErOBmIxTDl3w64icak0J*ujrdp7yyxpttUjWZqZReDy4YfIILpZhipCnJrq9-iMAD5*Vc5*aON5cQZqCBOc*kcpYi-gviZ82DA-eAz*O3*Q0Y&new=1)
  > 当前业界公认的自动驾驶技术路线，是将摄像头、雷达和激光雷达三大传感器相结合，以获得优势互补之效。然而，特斯拉却即将打破这一路线，宣称将停止使用雷达，一时间引发了业界关注。文丨AutoR智驾  伊丽特斯拉...
 # IT 技术 
  ## [前女友婚礼，python破解婚礼现场的WIFI，把名称改成了](https://blog.csdn.net/weixin_42350212/article/details/117260497)
  > 前女友婚礼，python破解婚礼现场的WIFI，把名称改成了
- ## [STM32语音识别的智能蓝牙音箱](https://blog.csdn.net/weixin_45596076/article/details/117128140)
- > STM32语音识别的智能蓝牙音箱
- ## [精选力扣500题 第16题 LeetCode 1. 两数之和【c++详细题解】](https://blog.csdn.net/weixin_45629285/article/details/117186758)
- > 精选力扣500题 第16题 LeetCode 1. 两数之和【c++详细题解】
- ## [UI设计培训之用户画像-带你认清的你的用户](https://blog.csdn.net/qinge_Crazy/article/details/117261778)
- > UI设计培训之用户画像-带你认清的你的用户
- ## [Webpack打包工具安装使用介绍](https://blog.csdn.net/qq_42707967/article/details/117170690)
- > Webpack打包工具安装使用介绍
- ## [【力扣笔记43】字符串相乘](https://blog.csdn.net/bestzy6/article/details/117112804)
- > 【力扣笔记43】字符串相乘
+ ## [3分钟，让虚拟机跑起Python](https://blog.csdn.net/weixin_42313749/article/details/117262264)
+ > 3分钟，让虚拟机跑起Python
+ ## [我用python写了一个模拟鼠标的软件](https://blog.csdn.net/qq_21579045/article/details/117168759)
+ > 我用python写了一个模拟鼠标的软件
+ ## [JavaScript必看十道面试题](https://blog.csdn.net/Z_hai_yan/article/details/117092018)
+ > JavaScript必看十道面试题
+ ## [杨校老师课堂之DeDeCMS建站_程序安装](https://blog.csdn.net/kese7952/article/details/117248667)
+ > 杨校老师课堂之DeDeCMS建站_程序安装
+ ## [AI落地步入深水区 , 旷视、依图、云从、商汤该学会赚钱了](https://blog.csdn.net/sinat_32970179/article/details/117234262)
+ > AI落地步入深水区 , 旷视、依图、云从、商汤该学会赚钱了
+ ## [新手学Python之学习官网教程(八:Errors and Exceptions)](https://blog.csdn.net/herosunly/article/details/117064837)
+ > 新手学Python之学习官网教程(八:Errors and Exceptions)
+ ## [一文搞明白Python多线程编程：threading库](https://blog.csdn.net/weixin_44604541/article/details/117251428)
+ > 一文搞明白Python多线程编程：threading库
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
- ## [c++并发编程04-同步与异步](https://blog.csdn.net/FairLikeSnow/article/details/117234785)
- > c++并发编程04-同步与异步
+ ## [听说你想面对监狱编程，你，够格吗？](https://blog.csdn.net/Yxh666/article/details/117283182)
+ > 听说你想面对监狱编程，你，够格吗？
  ## [漂亮姐姐要我帮他用Python去照片水印，事后给我福利~](https://blog.csdn.net/yunyun889901/article/details/117293044)
  > 漂亮姐姐要我帮他用Python去照片水印，事后给我福利~
- ## [二面京东被问到Java 反射，我直呼好家伙，这我不是必过吗？](https://blog.csdn.net/wj1314250/article/details/117264941)
- > 二面京东被问到Java 反射，我直呼好家伙，这我不是必过吗？
+ ## [如何使用MATLAB绘制绕线画？附带颜色渲染](https://blog.csdn.net/slandarer/article/details/117304136)
+ > 如何使用MATLAB绘制绕线画？附带颜色渲染
+ ## [第一次拖锡焊接](https://blog.csdn.net/lyndon_li/article/details/116874577)
+ > 第一次拖锡焊接
+ ## [从零开始部署到上线：手把手教你搭建属于自己的个人博客网站！](https://blog.csdn.net/weixin_45574790/article/details/117304918)
+ > 从零开始部署到上线：手把手教你搭建属于自己的个人博客网站！
  ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
  > 手把手教你做出数据可视化项目（三）3D地球旋转
- ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
- > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
- ## [【Linux从青铜到王者】第一篇:Linux常见指令](https://blog.csdn.net/qq_44918090/article/details/117226250)
- > 【Linux从青铜到王者】第一篇:Linux常见指令
- ## [WEB安全之：密码穷举破解](https://blog.csdn.net/f_carey/article/details/117289625)
- > WEB安全之：密码穷举破解
- ## [《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）](https://blog.csdn.net/weixin_39709134/article/details/117266374)
- > 《Java精品毕设》 基于java ssm springboot+mybatis酒庄内部管理系统  （源码+sql+论文）
 # 人工智能 
  ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
  > 最菜/高级的莫名其妙C程序
@@ -89,45 +97,45 @@ categories: IT NEWS
  ## [厉害了！Spring Boot 2.5正式发布](https://blog.csdn.net/hollis_chuang/article/details/117203181)
  > 厉害了！Spring Boot 2.5正式发布
 # PM 
- ## [抖音升级未成年保护措施 迎来最严格的青少年模式](http://www.chanpin100.com/article/115887)
- > 五月二十六日，抖音宣布了未成年人保护措施的升级，14岁以下的实名认证用户将直接进入青少年模式，14-18岁的实名认证用户在使用抖音时将得到更多的保护，这项措施将从六月开始实施。抖音未成年保护专项负责人表示，“届时将迎来抖音最严格的青少年模式”。
- ## [产品经理常见面试问题大全之基础能力考察篇（上）](http://www.chanpin100.com/article/115885)
- > 在面试中，关于产品经理基础能力的考察也是必不可少的。那么，面试中遇到这种类型的问题时该怎样作答呢？请看本文“产品经理常见面试问题大全之基础能力考察篇（上）”中的内容吧！
- ## [链家和房东故意隐瞒 出租赵英俊生前住所](http://www.chanpin100.com/article/115886)
- > 五月二十五日，杨和苏发文称，在不知情的情况下租住了赵英俊生前居住的房屋，“身为老北漂的我，租了新家，高兴地搬出去了。突然间知道这里是我十分敬重的圈内老大哥刚刚离世的居所，在房内刚办完送别仪式。我感情上的复杂之处就在于，一方面能看到老大哥曾经的住处我觉得深有感触，而且还意外地发现我们俩是一天的生日。”
- ## [大连宝马撞行人致5死 嫌疑人被批捕](http://www.chanpin100.com/article/115884)
- > 2021年5月26日，大连市检察机关以涉嫌以危险方法危害公共安全罪批准逮捕大连“5.22”案的犯罪嫌疑人刘某。此案还在进一步审理中。
- ## [小米中国区总裁卢伟冰 全球手机缺芯至少影响未来一年](http://www.chanpin100.com/article/115883)
- > 从去年底开始，全球芯片短缺的问题仍然没有得到缓解的迹象。手机缺芯到底会持续多久？小米集团中国区总裁卢伟冰26日对缺芯一事作出回应。
- ## [又摊上事了！特斯拉或面临10亿元巨额索赔！](http://www.chanpin100.com/article/115882)
- > 根据美国福克斯网站的报道，近日，挪威一家法院判决特斯拉赔偿30名ModelS车主，以每人16,000美元(约合10.25万元人民币)的标准，原因是降低电池容量和充电速度。
- ## [产品经理常见面试问题大全之必问问题篇](http://www.chanpin100.com/article/115881)
- > 产品经理在面试的时候必问的问题指定有自我介绍和项目介绍，那么对于这两个问题该如何作答呢？请看本文“产品经理常见面试问题大全之必问问题篇”中的内容吧！
- ## [舞蹈教育行业现状分析 未来如何转型突破？](http://www.chanpin100.com/article/115809)
- > 舞蹈教育是目前很受欢迎的一个素质教育赛道，它与美术教育、音乐教育并列为素质教育三巨头，共同占据主要市场份额。目前市场上的艺术机构大多都包含舞蹈培训，而舞蹈课所带来的收入基本上能够占大多数艺术教培机构的50%甚至以上，由此可见舞蹈培训的受欢迎程度。
- ## [产品经理应该如何判断一个需求是不是有价值的？（下）](http://www.chanpin100.com/article/115878)
- > 产品经理应该如何判断一个需求是不是有价值的？上一篇文章我们总结了有价值需求的一些特点，这篇文章我将分享无价值需求的几个特点，大家可以简单的看看。
- ## [产品经理应该如何判断一个需求是不是有价值的？（上）](http://www.chanpin100.com/article/115877)
- > 需求这个词是产品经理听得最多的，筛选出一些有意义有价值的需求也是产品经理的必备技能。那么产品经理应该如何判断一个需求是不是有价值的呢？一般来说，有价值的需求都有以下这两个特点。
- ## [【六一·儿童节】节日营销方案来啦！助力教培机构拉新引流销量暴涨！](http://www.chanpin100.com/article/115801)
- > 2021年六一·儿童节即将到来，作为一年中最童趣、最活泼的节日，当然也是教培机构、教育企业不容错过的重要营销节点。
- ## [B端产品经理真的不需要关注用户体验吗？（下）](http://www.chanpin100.com/article/115876)
- > B端产品经理真的不需要关注用户体验吗？这篇文章我们继续来聊这个话题。其实B端产品经理真的不用管用户体验吗？这显然是不可能的，因为一个产品存在，就必然会涉及到用户体验。
- ## [有了创客匠人\[随堂互动\] 视频课程不再枯燥](http://www.chanpin100.com/article/115797)
- > 随着互联网+5G的迅速发展，越来越多的人通过在线课程提升自己，学习一个知识一个技能一门语言等。但是大多数人认为单单看视频课程来学习是枯燥的、乏味的。因此，越来多的用户希望视频课程能够有更多的互动。
- ## [拼多多“大视频”：旧酒新瓶能否胜于快抖？](http://www.chanpin100.com/article/115794)
- > 变革，是行业发展的永恒主题，电商江湖的变革从未停止。随着时代的变迁，仅依靠图文形式传达信息的方式已无法满足市场需求。而“短视频+直播+电商”模式的出现，将商品的信息以视频或直播的形式传达到消费者眼前。
- ## [B端产品经理真的不需要关注用户体验吗？（上）](http://www.chanpin100.com/article/115875)
- > 今天我们来讨论一个话题：B端产品经理真的不需要关注用户体验吗？可能不同的人有不同的看法。小编就结合自己的经验发表一下自己的观点，大家也可以补充或者纠正。
- ## [市场产品经理应该如何评估产品的成功程度？](http://www.chanpin100.com/article/115872)
- > 市场产品经理应该如何评估产品的成功程度？大家可能会觉得这个问题很简单，一个产品成功与否不是很直接就看出来了吗？其实这个过程也是有技巧的，小编就简单的说一下。
- ## [AI产品经理面试中都会问哪些个人相关问题？](http://www.chanpin100.com/article/115871)
- > 随着人工智能的不断发展，AI产品经理成为了热门岗位，那么对于想要成为AI产品经理的同学来说，要如何顺利通过面试呢？接下来请看本文小编关于AI产品经理面试中个人相关问题的分享，希望可以帮助到你。
- ## [4大套路 搞定公众号Logo头像设计](http://www.chanpin100.com/article/115793)
- > 一个好看有吸引力的公众号Logo设计对于账户活跃度更加重要了，甚至会左右用户是否会打开阅读文章。今天和大家分享，关于公众号Logo头像设计的4大实用套路！
- ## [市场产品经理要明确产品的定位 并制作说明文档](http://www.chanpin100.com/article/115870)
- > 对于市场产品经理来说，明确产品的定位是非常重要的，并且还要制作说明文档，这样才能保持信息一致性。接下来，我们就具体的分析一下。
- ## [AI产品经理面试中如何回答工作经历？](http://www.chanpin100.com/article/115869)
- > 随着目前互联网领域的不断迅速发展，AI产品经理已经成为了一个非常热门抢手的岗位，越来越多的人想要转行到这个领域，那么今天本文就来继续为大家分享一下AI产品经理面试题目吧，希望大家都可以顺利通过面试成为一名AI产品经理，本文主要来讲一下面试中如何回答工作经历这个问题。
+ ## [养老行业垂直内容电商领域产品探索分析](http://www.chanpin100.com/article/115874)
+ > 中国有2.6亿的60岁以上中老年人群，每天生活中对于衣食住行有巨大的需求。聚焦到礼物这个小场景，每个人一年至少会有2~3次收到子女的礼物，分别是生日、母亲/父亲节、重阳节、春节等。本文基于此，通过截止2015年5月20日的数据资料对现在的市场进行简单的分析探索。
+ ## [如何理解广义上的AI产品经理？](http://www.chanpin100.com/article/115911)
+ > 上一篇文章，我们简要分析了一下如何理解狭义上的AI产品经理，接下来本文再给大家讲解一下广义上的AI产品经理要如何去理解，希望小编的分享能对大家有所帮助！
+ ## [互联网时代 在线教育直播受广大师生认可](http://www.chanpin100.com/article/115873)
+ > 随着互联网技术的快速发展以及民众观念的改变，在线教育近年来发展势头渐猛。经过2020年疫情期间“停课不停学”的助推，在线教育渗透率进一步提升，行业获得爆发式增长，用户规模达到3.51亿人，市场规模预计达到4858亿元。
+ ## [如何评估一款社区产品的好坏？（下）](http://www.chanpin100.com/article/115910)
+ > 如何评估一款社区产品的好坏？这篇文章我们继续介绍最后三个方面的内容：功能、调性以及定位。这些都是评估社区好坏的重要标准，一起来看看吧！
+ ## [斯图飞腾Stratifyd：超级自动化开启未来工作新模式](http://www.chanpin100.com/article/115864)
+ > 超级自动化就是利用人工智能、机器学习和RPA等不同类型的新兴技术，将大多数业务流程数字化和自动化的过程。
+ ## [工业绿色发展可视化管理——高炉炼铁厂可视化系统](http://www.chanpin100.com/article/115851)
+ > 伴随着带宽的提升，网络信息飞速发展，能源管控上与实时预警在工业互联网中也占着举足轻重的地位。高炉作为钢铁产业十分重要的一环，它的数据监控和预警提示有着极为重要的价值和意义。使用Hightopo（以下简称 HT ) 提供的技术通过 2/3D 融合搭建的高炉炉体三维热力图监控系统。
+ ## [如何评估一款社区产品的好坏？（中）](http://www.chanpin100.com/article/115908)
+ > 今天我们继续来聊聊这个话题：如何评估一款社区产品的好坏？上一篇文章我们从内容方面进行了简单的介绍，这篇文章小编将从互动和用户这两个方面进行分析。
+ ## [信用卡APP数字化洞察 深耕场景服务及运营一体化](http://www.chanpin100.com/article/115847)
+ > 银行作为数字金融服务的主要提供方，尤其支持消费的信用卡应用，将生活场景作为银行构建与用户金融服务连接的核心触点显得尤为必要。为持续加强APP与信用卡业务、用户及商户的连接，打造信用卡APP场景服务生态成为发展趋势。
+ ## [如何理解狭义上的AI产品经理？](http://www.chanpin100.com/article/115906)
+ > 现在AI产品经理很火爆，很多人都想转型成为一名AI产品经理，那么大家对AI产品经理是否足够了解呢？今天本文就来一起探讨一下如何理解狭义上的AI产品经理！
+ ## [如何评估一款社区产品的好坏？（上）](http://www.chanpin100.com/article/115907)
+ > 随着互联网的发展，社区产品越来越多，那么如何评估一款社区产品的好坏呢？总的来说，可以从六个方面来进行评估：内容、互动、用户、功能、调性和定位。这篇文章我们主要从内容方面来进行介绍。
+ ## [可视化管理水泥工厂 精准狙击运维漏洞抢先布局千万市场](http://www.chanpin100.com/article/115839)
+ > Hightopo 可视化监控系统可以帮助工厂进行空间节能，判断系统工作状态，实现状态检修，故障检修等功能，做好设备全生命周期管理。同时可分批对其质量进行检验及复验，根据反馈结果优化生产过程。支撑企业安全生产、合理高效用能，提升产品品质。
+ ## [想转型AI产品经理？先搞明白AI产业结构！](http://www.chanpin100.com/article/115905)
+ > 现在人工智能技术发展得越来越成熟了，也逐渐成为白热化领域，许多人都想要转型成为AI产品经理，赶上时代的步伐，小编认为不管转型到哪个行业，都先要搞清楚这个行业再转行，而不是盲目地跟随别人的脚步！想要转型AI产品经理，首先你要搞明白AI产业结构再谈转行，下面请看小编的分析。
+ ## [8种与UX无关的技能 却能让你成为更好的UX设计师](http://www.chanpin100.com/article/115836)
+ > 我知道这是一个较常用的技能，但许多优秀的UI/UX设计师并不具备强大的Photoshop和Illustrator的能力，甚至你可以在完全不了解这些工具的情况下成为一名UI/UX设计师。
+ ## [如何处理B端产品的个性化需求？（下）](http://www.chanpin100.com/article/115904)
+ > 如何处理B端产品的个性化需求？上一篇文章我们介绍了定义需求和归纳属性两个步骤，这篇文章我们继续分析一下聚合模型和需求判断这两个方面，感兴趣的同学可以看看。
+ ## [如何处理B端产品的个性化需求？（上）](http://www.chanpin100.com/article/115903)
+ > 如何处理B端产品的个性化需求？简单的说，可以分为四个步骤：需求定义、归纳属性、聚合模型、需求判断。下面我们就具体的介绍一下，希望对大家有所帮助。
+ ## [重磅！神策数据品牌零售行业解决方案全新上线！](http://www.chanpin100.com/article/115820)
+ > 神策数据正式推出品牌零售行业解决方案，并上线官网全面公开，助力更多品牌零售企业构建消费者数据平台（CDP），实现全域消费者数字化运营闭环。
+ ## [简单聊聊B端产品的需求闭环](http://www.chanpin100.com/article/115901)
+ > 今天我们来聊聊：B端产品的需求闭环--需求圈层，对于产品经理来说，经常会有各种各样的需求，那么怎么形成一个需求圈呢？接下来我们一起具体的看看！
+ ## [5G时代下 打造安全高效的智慧矿山](http://www.chanpin100.com/article/115813)
+ > 选矿技术在冶金、煤炭、化工、建材和环保等部门都得到应用，对国民经济的发展意义重大。Hightopo 运用丰富的 2/3D 组态搭建出一个选矿工艺流程可视化。
+ ## [AI产品经理面试中都会问哪些开放式问题？](http://www.chanpin100.com/article/115902)
+ > 在前面几篇文章中，我们给大家分别讲解了AI产品经理面试中会问到的自我介绍、对产品经理的认识、工作经历和个人相关问题等的回答，接下来小编再来讲一讲AI产品经理面试中都会问哪些开放式问题吧，希望大家都能好好准备面试，正式成为一名AI产品经理！
+ ## [作为一个高级产品经理 应该具备哪些必备技能？](http://www.chanpin100.com/article/115900)
+ > 相信各位产品人的目标就是成为一个高级产品经理，那么作为一个高级产品经理，应该具备哪些必备技能呢？小编简单整理了一下，感兴趣的可以了解一下。
 
     
