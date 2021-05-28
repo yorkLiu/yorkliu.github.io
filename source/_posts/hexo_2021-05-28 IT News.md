@@ -1,24 +1,28 @@
 ---
 title: 2021-05-28 IT News
 copyright: true
-date: 2021-05-28 09:01:02
+date: 2021-05-28 10:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [豪赌比特币，特斯拉二季度利润将受重创?](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=bEITxdndU2VC*WZCpeGURGI60EIVJnf8jmZ1ZUgCxPia22N3cyP5-B9Z0-hGZ06Yhq0B36efDhDErJhK2yGei4ixFtopioHyVz-UP6vjdB4vQB9OBcuowvcmf6UCrS8y&new=1)
- > “ 特斯拉对其比特币投资所使用的特殊会计规则之下，该公司很可能将被迫在第二季度财报中计入一笔“减值”。如果比特币价格还能够保持当下大约3.8万美元的水平，打击预计将不算太大，但是即便如此，为了抵消账面...
- ## [又一家企业从华为衰退中获益，联想营收大幅增长、净利倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=DQWljL6nYuxd3mg1MZI2fhETFwRwhWrrsbH-ZznyGXCd1mnD5vQ5bKhfXuWCk3TYR7UfyEdvniBawOk-ygzuRpvPEmKogWERTQAg4unW5M16kj0Z0-3xVoZGFwYKizwM&new=1)
+ ## [7点见|贝索斯7月卸任亚马逊CEO；理想将接手北京现代第一工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=dif08oXpEaHHd06*aLUYM425oKMQUAkXG1fxoABDlVXI6Oa5Q039WJxReEMHVN4Ficbi4UCyiSkREsmKB9LkAfiWVSCEAQKMWQHGcR5OqJfaN5f48lEFU8CxvUaNcI1Z&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！贝索斯将于7月5日卸任亚马逊CEO：由云计算负责人贾西接任美国当地时间周三，亚马逊创始人杰夫·贝索斯宣布将于7月5日卸任首席执行官一职，届时该公司的云计算负责人安迪...
+ ## [又一家企业从华为衰退中获益，联想营收大幅增长、净利倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=DQWljL6nYuxd3mg1MZI2fhETFwRwhWrrsbH-ZznyGXCd1mnD5vQ5bKhfXuWCk3TY6WBvATt9m04LcmYRjLx5Yk581vXcN4eNLsvhgDDoSSoIlSE1Wi*hZoob7N*dVJnr&new=1)
  > 联想公布了20/21财年第四财季（今年一季度）的业绩，业绩显示营收同比增长48%，净利润大幅增长数倍，柏铭科技认为这主要是因为它受益于华为在国内PC和服务器市场的衰退。联想公布的今年一季度业绩显示，营收同比...
- ## [朱咏雷：奋力开创智慧广电发展新局面](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=kh2QCTjOQSPx7fkcLi-wAzHxAQCvNyg4YqUVWrn0hcl99AKwRVX8MiumyQVtzoZFhM3JYz32wJrcLBSv7tkxul-foyGTIACUKem*j-yPPoRdvBuzhrZVxBFpU59Z6CtL&new=1)
+ ## [朱咏雷：奋力开创智慧广电发展新局面](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=kh2QCTjOQSPx7fkcLi-wAzHxAQCvNyg4YqUVWrn0hcl99AKwRVX8MiumyQVtzoZFyiqX*GKgpMhsBr3yuXgUSya2RQtIY5mSNR7OMK7Hrbk-VL4R0xNK7434TapIjrmr&new=1)
  > 编者按5月27日，国家广播电视总局副局长、党组成员朱咏雷参加第28届中国国际广播电视信息网络展览会（CCBN2021）并发表主旨演讲，强调深化创新驱动，加强引领支撑，奋力开创智慧广电发展新局面。本届展会以“智...
- ## [信创数字大脑，让城市发展充满智慧和温度](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=4sShOQtZzjyg8rXxDIpBHPvdmUTr8Xle4FpUsKfAGsUtiBL9YLl7995XxMqVfGOIzihbjqepHSHwNiauuWs24su3FfYVyeTqy-BpkiqBFlVjLjoYFUhQQ2rCcJObRyNk&new=1)
+ ## [\[报告\]2021年中国线控系统系列研究：探讨转向控制系统在自动驾驶中的重要性(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=l49T5RAzt1mJ23WdgETVMZvwlSPyLoppATVQrZVPXfDxeRryjRBGdOZgbkR6a-TllGhTNTR8a7Ygt4KmxmGsHs0wJVU9gIdMkv7Wr4Lx2SoYURJMsMrwu4svtvSOCT4S&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│吉晟资本本报告共计：35页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [豪赌比特币，特斯拉二季度利润将受重创?](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=bEITxdndU2VC*WZCpeGURGI60EIVJnf8jmZ1ZUgCxPia22N3cyP5-B9Z0-hGZ06YT2LjxVb0lnlVMtED3s4PR0gTu-UKg0*qQ1iFRblbpVZgSnykXDneFI7-pudi2Ljn&new=1)
+ > “ 特斯拉对其比特币投资所使用的特殊会计规则之下，该公司很可能将被迫在第二季度财报中计入一笔“减值”。如果比特币价格还能够保持当下大约3.8万美元的水平，打击预计将不算太大，但是即便如此，为了抵消账面...
+ ## [信创数字大脑，让城市发展充满智慧和温度](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=4sShOQtZzjyg8rXxDIpBHPvdmUTr8Xle4FpUsKfAGsUtiBL9YLl7995XxMqVfGOIFNMEQr5kPUMLdNe2yK3mXBjlSTqDVPH7ZLX4-GYRm7fhpL7ywP7HYtZPRiPho8Ku&new=1)
  > 撰文 | 懂懂   编辑 | 秦言来源：懂懂笔记城市生活已成为快节奏的代名词，为了充分利用时间，我们更多会选择网上生活方式。但当我们适应了互联网速度，再回到需要排长队，并且一趟趟跑现场提交资料办事的场景时...
- ## [广西“双千兆”先行一步：千兆光网与5G同等重要、协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=3iA2RqP6NqixxeSNCgAcpx2hGaK13IZ1UrsFa9bYnXc9Nxa-8lSjlYvP0AbE6ZaJnTJamlvsibiUUMGE15extzaAJNTg74bG8xtNP8xWkZMCB1BwVWE7ZTRUPEND0ZgY&new=1)
+ ## [广西“双千兆”先行一步：千兆光网与5G同等重要、协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=3iA2RqP6NqixxeSNCgAcpx2hGaK13IZ1UrsFa9bYnXc9Nxa-8lSjlYvP0AbE6ZaJWd8IglY3Ft*OMcqp-dqnkRiBPwIlfRH5AN8cPSvP5l-lvkVgKM6HGc11TQYpAMVF&new=1)
  > 在当前数字化时代，以5G与千兆光网为代表的“双千兆”网络，能为用户提供无处不在的千兆能力，如同双引擎，相互协调，推动各行业加速进入数字时代。我国高度重视“双千兆”网络发展，多次强调加强“双千兆”网络...
 # IT 技术 
- ## [深度学习100例-卷积神经网络（VGG-16）识别海贼王草帽一伙 | 第6天](https://blog.csdn.net/qq_38251616/article/details/117331631)
- > 深度学习100例-卷积神经网络（VGG-16）识别海贼王草帽一伙 | 第6天
+ ## [生产问题：面试官你别再问解决过什么生产问题了！](https://blog.csdn.net/shengqianfeng/article/details/117333544)
+ > 生产问题：面试官你别再问解决过什么生产问题了！
  ## [《老猿Python精品文章》专栏文章目录](https://blog.csdn.net/LaoYuanPython/article/details/117307074)
  > 《老猿Python精品文章》专栏文章目录
  ## [windows10中安装anaconda和pytorch](https://blog.csdn.net/Rong_Gong/article/details/117340217)
@@ -33,10 +37,12 @@ categories: IT NEWS
  > C语言---简单五子棋小游戏
  ## [VS2017+Qt5+Opencv3.4调用摄像头拍照并存储](https://blog.csdn.net/zuoyou_yi/article/details/117338900)
  > VS2017+Qt5+Opencv3.4调用摄像头拍照并存储
- ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
- > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
  ## [女友加班发自拍IT男友用30行python代码发现惊天秘密](https://blog.csdn.net/lujohn3li/article/details/117305583)
  > 女友加班发自拍IT男友用30行python代码发现惊天秘密
+ ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
+ > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
+ ## [2021计算机科学专业世界排名重磅出炉！今年排名大洗牌](https://blog.csdn.net/csdnstudent/article/details/117333187)
+ > 2021计算机科学专业世界排名重磅出炉！今年排名大洗牌
  ## [听说你想面对监狱编程，你，够格吗？](https://blog.csdn.net/Yxh666/article/details/117283182)
  > 听说你想面对监狱编程，你，够格吗？
  ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
@@ -45,8 +51,6 @@ categories: IT NEWS
  > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
  ## [第一次拖锡焊接](https://blog.csdn.net/lyndon_li/article/details/116874577)
  > 第一次拖锡焊接
- ## [漂亮姐姐要我帮他用Python去照片水印，事后给我福利~](https://blog.csdn.net/yunyun889901/article/details/117293044)
- > 漂亮姐姐要我帮他用Python去照片水印，事后给我福利~
 # 人工智能 
  ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
  > 最菜/高级的莫名其妙C程序
@@ -79,6 +83,8 @@ categories: IT NEWS
  ## [让看代码成为一种享受！   使用Carbon生成漂亮的代码图片](https://blog.csdn.net/fyfugoyfa/article/details/117136424)
  > 让看代码成为一种享受！   使用Carbon生成漂亮的代码图片
 # PM 
+ ## [日常吐槽系列~画饼篇](http://www.chanpin100.com/article/115927)
+ > 所谓梦想，是我们内心对美好生活的向往，是我们愿意努力和奋斗的目标。每当迷茫时指引我们前进方向，每当失落时鼓励我们奋发图强。所谓画饼，是他人虚无缥缈的许诺和敷衍，是他人为对抗不确定性的折中。每当心力交瘁时引诱你再继续，每当筋疲力尽时忽悠你还幻想。
  ## [好产品的五大法则 你知道是什么吗？（下）](http://www.chanpin100.com/article/115926)
  > 上一篇文章我们介绍了需求定位法则、客户关注法则和价值显化法则，这篇文章我们简单介绍一下场景欲望法则和决策动机法则，小伙伴们可以接着往下看。
  ## [好产品的五大法则 你知道是什么吗？（上）](http://www.chanpin100.com/article/115924)
@@ -117,7 +123,5 @@ categories: IT NEWS
  > 随着互联网的发展，社区产品越来越多，那么如何评估一款社区产品的好坏呢？总的来说，可以从六个方面来进行评估：内容、互动、用户、功能、调性和定位。这篇文章我们主要从内容方面来进行介绍。
  ## [可视化管理水泥工厂 精准狙击运维漏洞抢先布局千万市场](http://www.chanpin100.com/article/115839)
  > Hightopo 可视化监控系统可以帮助工厂进行空间节能，判断系统工作状态，实现状态检修，故障检修等功能，做好设备全生命周期管理。同时可分批对其质量进行检验及复验，根据反馈结果优化生产过程。支撑企业安全生产、合理高效用能，提升产品品质。
- ## [想转型AI产品经理？先搞明白AI产业结构！](http://www.chanpin100.com/article/115905)
- > 现在人工智能技术发展得越来越成熟了，也逐渐成为白热化领域，许多人都想要转型成为AI产品经理，赶上时代的步伐，小编认为不管转型到哪个行业，都先要搞清楚这个行业再转行，而不是盲目地跟随别人的脚步！想要转型AI产品经理，首先你要搞明白AI产业结构再谈转行，下面请看小编的分析。
 
     
