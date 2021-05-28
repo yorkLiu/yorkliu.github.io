@@ -1,24 +1,24 @@
 ---
 title: 2021-05-28 IT News
 copyright: true
-date: 2021-05-28 08:02:43
+date: 2021-05-28 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [广西“双千兆”先行一步：千兆光网与5G同等重要、协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1622160004&ver=3095&signature=3iA2RqP6NqixxeSNCgAcpx2hGaK13IZ1UrsFa9bYnXc9Nxa-8lSjlYvP0AbE6ZaJCUrxWnf7Q1MXb0PECrYmgBF3JWqBVAJzU2l2VmmqWSsX3kvrjoOYRgT99U2hbxyk&new=1)
- > 在当前数字化时代，以5G与千兆光网为代表的“双千兆”网络，能为用户提供无处不在的千兆能力，如同双引擎，相互协调，推动各行业加速进入数字时代。我国高度重视“双千兆”网络发展，多次强调加强“双千兆”网络...
- ## [豪赌比特币，特斯拉二季度利润将受重创?](http://mp.weixin.qq.com/s?src=11&timestamp=1622160004&ver=3095&signature=bEITxdndU2VC*WZCpeGURGI60EIVJnf8jmZ1ZUgCxPia22N3cyP5-B9Z0-hGZ06YHhpBmB6xeHLlo*nKuFW5eHoYT5IWWW*ADx34fQO5SXGwcr8iGp0cE*XbTI9d4jZv&new=1)
+ ## [豪赌比特币，特斯拉二季度利润将受重创?](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=bEITxdndU2VC*WZCpeGURGI60EIVJnf8jmZ1ZUgCxPia22N3cyP5-B9Z0-hGZ06Yhq0B36efDhDErJhK2yGei4ixFtopioHyVz-UP6vjdB4vQB9OBcuowvcmf6UCrS8y&new=1)
  > “ 特斯拉对其比特币投资所使用的特殊会计规则之下，该公司很可能将被迫在第二季度财报中计入一笔“减值”。如果比特币价格还能够保持当下大约3.8万美元的水平，打击预计将不算太大，但是即便如此，为了抵消账面...
- ## [信创数字大脑，让城市发展充满智慧和温度](http://mp.weixin.qq.com/s?src=11&timestamp=1622160004&ver=3095&signature=4sShOQtZzjyg8rXxDIpBHPvdmUTr8Xle4FpUsKfAGsUtiBL9YLl7995XxMqVfGOINiZmnCNMtqtDuk1UWpgRpcVcByC-dPdbAu5Ah4gVcAwuWOA19N87s-OJmGIsAeRd&new=1)
- > 撰文 | 懂懂   编辑 | 秦言来源：懂懂笔记城市生活已成为快节奏的代名词，为了充分利用时间，我们更多会选择网上生活方式。但当我们适应了互联网速度，再回到需要排长队，并且一趟趟跑现场提交资料办事的场景时...
- ## [朱咏雷：奋力开创智慧广电发展新局面](http://mp.weixin.qq.com/s?src=11&timestamp=1622160004&ver=3095&signature=kh2QCTjOQSPx7fkcLi-wAzHxAQCvNyg4YqUVWrn0hcl99AKwRVX8MiumyQVtzoZFFu5EU81XzuGgnyjYITxeKSa6fIPE54fuGgzFt7qiqhuVnWJ2W6-y821UYLFUdAS6&new=1)
- > 编者按5月27日，国家广播电视总局副局长、党组成员朱咏雷参加第28届中国国际广播电视信息网络展览会（CCBN2021）并发表主旨演讲，强调深化创新驱动，加强引领支撑，奋力开创智慧广电发展新局面。本届展会以“智...
- ## [又一家企业从华为衰退中获益，联想营收大幅增长、净利倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1622160004&ver=3095&signature=DQWljL6nYuxd3mg1MZI2fhETFwRwhWrrsbH-ZznyGXCd1mnD5vQ5bKhfXuWCk3TYrfLb6ifzXlo9sEyEmFfz7tfKDfkkYs2yb-bT1p-OQ7plEAYJz5MBw3El0T-M18RZ&new=1)
+ ## [又一家企业从华为衰退中获益，联想营收大幅增长、净利倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=DQWljL6nYuxd3mg1MZI2fhETFwRwhWrrsbH-ZznyGXCd1mnD5vQ5bKhfXuWCk3TYR7UfyEdvniBawOk-ygzuRpvPEmKogWERTQAg4unW5M16kj0Z0-3xVoZGFwYKizwM&new=1)
  > 联想公布了20/21财年第四财季（今年一季度）的业绩，业绩显示营收同比增长48%，净利润大幅增长数倍，柏铭科技认为这主要是因为它受益于华为在国内PC和服务器市场的衰退。联想公布的今年一季度业绩显示，营收同比...
+ ## [朱咏雷：奋力开创智慧广电发展新局面](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=kh2QCTjOQSPx7fkcLi-wAzHxAQCvNyg4YqUVWrn0hcl99AKwRVX8MiumyQVtzoZFhM3JYz32wJrcLBSv7tkxul-foyGTIACUKem*j-yPPoRdvBuzhrZVxBFpU59Z6CtL&new=1)
+ > 编者按5月27日，国家广播电视总局副局长、党组成员朱咏雷参加第28届中国国际广播电视信息网络展览会（CCBN2021）并发表主旨演讲，强调深化创新驱动，加强引领支撑，奋力开创智慧广电发展新局面。本届展会以“智...
+ ## [信创数字大脑，让城市发展充满智慧和温度](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=4sShOQtZzjyg8rXxDIpBHPvdmUTr8Xle4FpUsKfAGsUtiBL9YLl7995XxMqVfGOIzihbjqepHSHwNiauuWs24su3FfYVyeTqy-BpkiqBFlVjLjoYFUhQQ2rCcJObRyNk&new=1)
+ > 撰文 | 懂懂   编辑 | 秦言来源：懂懂笔记城市生活已成为快节奏的代名词，为了充分利用时间，我们更多会选择网上生活方式。但当我们适应了互联网速度，再回到需要排长队，并且一趟趟跑现场提交资料办事的场景时...
+ ## [广西“双千兆”先行一步：千兆光网与5G同等重要、协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1622161804&ver=3095&signature=3iA2RqP6NqixxeSNCgAcpx2hGaK13IZ1UrsFa9bYnXc9Nxa-8lSjlYvP0AbE6ZaJnTJamlvsibiUUMGE15extzaAJNTg74bG8xtNP8xWkZMCB1BwVWE7ZTRUPEND0ZgY&new=1)
+ > 在当前数字化时代，以5G与千兆光网为代表的“双千兆”网络，能为用户提供无处不在的千兆能力，如同双引擎，相互协调，推动各行业加速进入数字时代。我国高度重视“双千兆”网络发展，多次强调加强“双千兆”网络...
 # IT 技术 
- ## [前女友婚礼，python破解婚礼现场的WIFI，把名称改成了](https://blog.csdn.net/weixin_42350212/article/details/117260497)
- > 前女友婚礼，python破解婚礼现场的WIFI，把名称改成了
+ ## [深度学习100例-卷积神经网络（VGG-16）识别海贼王草帽一伙 | 第6天](https://blog.csdn.net/qq_38251616/article/details/117331631)
+ > 深度学习100例-卷积神经网络（VGG-16）识别海贼王草帽一伙 | 第6天
  ## [《老猿Python精品文章》专栏文章目录](https://blog.csdn.net/LaoYuanPython/article/details/117307074)
  > 《老猿Python精品文章》专栏文章目录
  ## [windows10中安装anaconda和pytorch](https://blog.csdn.net/Rong_Gong/article/details/117340217)
@@ -37,14 +37,14 @@ categories: IT NEWS
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
  ## [女友加班发自拍IT男友用30行python代码发现惊天秘密](https://blog.csdn.net/lujohn3li/article/details/117305583)
  > 女友加班发自拍IT男友用30行python代码发现惊天秘密
- ## [有了它，再也不怕 C++ 内存泄露了！](https://blog.csdn.net/u011012932/article/details/117309556)
- > 有了它，再也不怕 C++ 内存泄露了！
  ## [听说你想面对监狱编程，你，够格吗？](https://blog.csdn.net/Yxh666/article/details/117283182)
  > 听说你想面对监狱编程，你，够格吗？
  ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
  > 手把手教你做出数据可视化项目（三）3D地球旋转
  ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
  > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
+ ## [第一次拖锡焊接](https://blog.csdn.net/lyndon_li/article/details/116874577)
+ > 第一次拖锡焊接
  ## [漂亮姐姐要我帮他用Python去照片水印，事后给我福利~](https://blog.csdn.net/yunyun889901/article/details/117293044)
  > 漂亮姐姐要我帮他用Python去照片水印，事后给我福利~
 # 人工智能 
