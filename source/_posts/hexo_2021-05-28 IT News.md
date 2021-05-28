@@ -1,56 +1,68 @@
 ---
 title: 2021-05-28 IT News
 copyright: true
-date: 2021-05-28 10:01:04
+date: 2021-05-28 12:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [7点见|贝索斯7月卸任亚马逊CEO；理想将接手北京现代第一工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=dif08oXpEaHHd06*aLUYM425oKMQUAkXG1fxoABDlVXI6Oa5Q039WJxReEMHVN4Ficbi4UCyiSkREsmKB9LkAfiWVSCEAQKMWQHGcR5OqJfaN5f48lEFU8CxvUaNcI1Z&new=1)
+ ## [日本多个政府部门遭遇黑客攻击，大量数据泄漏](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=7ES462z3IyHuyYkO9hQzNL-JoTQ*HCrnwzx42qUPQoeY-qGJjKmDWomaMloHubSAsuTENySfc-S3XsZg3t9qwdRRNNjvL9TbjsbvP9u4idMQ3pzC6gS0WSEYbjqs9s0Y&new=1)
+ > 富士通开发的ProjectWEB软件被日本政府机构和企业广泛使用。截至2009年，该工具已被大约7,800个项目使用。富士通指出，攻击者获得了对使用ProjectWEB项目的未经授权的访问，并窃取了一些客户数据。富士通Project...
+ ## [专访|旭创研究院郑学哲博士：聚焦光学技术创新 把握未来需求焦点](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=X7sfUCizI2ycRRqK9x5XC*Zhe324FIkg-sB86g69ZE7ruiAp8FkZeMIhxFrsdZRIc6SyUGnVcSMbMaVDK79q2IMl7ETliSm7HNu-4A6bJUBxzDqVkLrp33cKXi-jFAxO&new=1)
+ > 导读全球领先的光模块制造商苏州旭创科技是产业界的顶尖代表之一，2020年在业绩收入和产品出货方面创下历史发展新记录。同时，面对市场需求的增长和未来技术的演变，旭创科技成立企业研究院，致力于探索光通讯相...
+ ## [拜登将提 6 万亿美元搞基建；马斯克的地下隧道试下月开放；任天堂计划或 9 月发新款 Switch|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=h9Lmf-6u36V8kp7WRYbJ0*3dh8t5GmL4d*3hixJgl9p1dAp8d6Be*xsoOqaaWOwZZ-leyP9o-woJKS0HuCXdEFO2xap*0JqXTp*kWCEelI59Ey-uWbYC0DvTcPySqJxo&new=1)
+ > 拜登将提出规模为 6 万亿美元的预算方案，以提振基建5 月 27 日消息，媒体获取的一份文件显示，美国总统拜登计划 2022 财年将规模为 6 万亿美元的预算资金用于基础设施、教育和医疗保健方面。预计将于周五提出该...
+ ## [联想集团20/21财年营业额突破4100亿；中国电影市场2021年度总票房(含预售)突破250亿元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=cWWMfhv9piLIXT8ydlsbEjKO7Y*nP4iEQ0RjdMOZIxjM6AQfReWGl35zBmlbAnA7dsQFIxVjl4YN0xE9dtRQ88qyxqYbbg1WoUN86XZsVQQsjuMHcq7QK5LV6Ze4HuNB&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【联想集团20/21财年营业额突破4100亿】联想集团（HKSE：992）（ADR：LNVGY）今日公布截至2021年3月31日的2020/21财年第
+ ## [PEEK材料3D打印隐形冠军远铸智能，引领高性能多材料工业FDM生产级应用潮流](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=hfYDpCXD91dCy9wWvhnbSahL*CMJt4jnbAhu0Nr7zd8*Ec05z4Xs1zAr-eI3d7MXXExkMDbiyxbgpTC88Bq7G7lQFiJXFfFnUE-6PVk9wvFr54CGy0lDMYsPLO2nBw2X&new=1)
+ > 2021亚洲3D打印、增材制造展览会 (TCT Asia)于2021年5月26日-28日在国家会展中心（上海）7.1馆隆重举办。作为官方战略合作媒体，南极熊将会全程现场报道（地址https://www.nanjixiong.com/foru
+ ## [里定医疗发布 多光子超声乳腺成像智能诊断集成系统](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=ehMX6KSwfKlRsZtWGA5jGPovzFoh-4Y*zy-y6TDCBufKabXftI2eoShKvEynHTQxvYWsMDsgBEDgn1SUkQYGaaU5KU5oGbXbwrKFyggPXpM=&new=1)
+ > 本报讯 5月27日，贵州里定医疗网络科技股份有限公司发布多光子超声乳腺成像智能诊断集成系统。　　自2009年成立以来，里定医疗深耕妇幼健康领域，成长为国家高新技术企业。面对基层乳腺癌筛查面临的困境，里...
+ ## [7点见|贝索斯7月卸任亚马逊CEO；理想将接手北京现代第一工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=dif08oXpEaHHd06*aLUYM425oKMQUAkXG1fxoABDlVUrB1MzNyTT4o8UOwF3VE27ZRkLmqu0p-2vUD5b7a3843Q1twHEQHJEF*KglgfaTvN5Ygqcy94Oqp2Dc2SW79ia&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！贝索斯将于7月5日卸任亚马逊CEO：由云计算负责人贾西接任美国当地时间周三，亚马逊创始人杰夫·贝索斯宣布将于7月5日卸任首席执行官一职，届时该公司的云计算负责人安迪...
- ## [又一家企业从华为衰退中获益，联想营收大幅增长、净利倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=DQWljL6nYuxd3mg1MZI2fhETFwRwhWrrsbH-ZznyGXCd1mnD5vQ5bKhfXuWCk3TY6WBvATt9m04LcmYRjLx5Yk581vXcN4eNLsvhgDDoSSoIlSE1Wi*hZoob7N*dVJnr&new=1)
+ ## [又一家企业从华为衰退中获益，联想营收大幅增长、净利倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=DQWljL6nYuxd3mg1MZI2fhETFwRwhWrrsbH-ZznyGXA*qwtB5IwRLxp6TuiorXMyXsNiaz5kSrOc2WNx8178UMr1FDq86qvws5KwascJ8lGxUkT-hVt*ppAr2EP8YfBW&new=1)
  > 联想公布了20/21财年第四财季（今年一季度）的业绩，业绩显示营收同比增长48%，净利润大幅增长数倍，柏铭科技认为这主要是因为它受益于华为在国内PC和服务器市场的衰退。联想公布的今年一季度业绩显示，营收同比...
- ## [朱咏雷：奋力开创智慧广电发展新局面](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=kh2QCTjOQSPx7fkcLi-wAzHxAQCvNyg4YqUVWrn0hcl99AKwRVX8MiumyQVtzoZFyiqX*GKgpMhsBr3yuXgUSya2RQtIY5mSNR7OMK7Hrbk-VL4R0xNK7434TapIjrmr&new=1)
+ ## [朱咏雷：奋力开创智慧广电发展新局面](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=kh2QCTjOQSPx7fkcLi-wAzHxAQCvNyg4YqUVWrn0hcnHhR7g6VI5UDMNOvnq2WcPI5v*WkUKk6tLf1zjW6l3qZGoeb2Sdch4vYbjebvDQo2HCeotaK5Ai6USSqV6K6zF&new=1)
  > 编者按5月27日，国家广播电视总局副局长、党组成员朱咏雷参加第28届中国国际广播电视信息网络展览会（CCBN2021）并发表主旨演讲，强调深化创新驱动，加强引领支撑，奋力开创智慧广电发展新局面。本届展会以“智...
- ## [\[报告\]2021年中国线控系统系列研究：探讨转向控制系统在自动驾驶中的重要性(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=l49T5RAzt1mJ23WdgETVMZvwlSPyLoppATVQrZVPXfDxeRryjRBGdOZgbkR6a-TllGhTNTR8a7Ygt4KmxmGsHs0wJVU9gIdMkv7Wr4Lx2SoYURJMsMrwu4svtvSOCT4S&new=1)
+ ## [\[报告\]2021年中国线控系统系列研究：探讨转向控制系统在自动驾驶中的重要性(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=l49T5RAzt1mJ23WdgETVMZvwlSPyLoppATVQrZVPXfBoCRVKnJXex7mZ70495bIh5lFuSEfI5IWiiAg6pE5uOljUx8efEfpDEZ2n4JPiCy5e7vRMoTaE2rRfEfSoW28E&new=1)
  > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│吉晟资本本报告共计：35页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
- ## [豪赌比特币，特斯拉二季度利润将受重创?](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=bEITxdndU2VC*WZCpeGURGI60EIVJnf8jmZ1ZUgCxPia22N3cyP5-B9Z0-hGZ06YT2LjxVb0lnlVMtED3s4PR0gTu-UKg0*qQ1iFRblbpVZgSnykXDneFI7-pudi2Ljn&new=1)
+ ## [豪赌比特币，特斯拉二季度利润将受重创?](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=bEITxdndU2VC*WZCpeGURGI60EIVJnf8jmZ1ZUgCxPjJFCPxUkVnPPDfWGNpPdyv6qXFdt3hwTS*FrB4*DUbjz9QafOtiAwUqF18s9kdfEQlZt8FYYlwKT4lLPx3lePG&new=1)
  > “ 特斯拉对其比特币投资所使用的特殊会计规则之下，该公司很可能将被迫在第二季度财报中计入一笔“减值”。如果比特币价格还能够保持当下大约3.8万美元的水平，打击预计将不算太大，但是即便如此，为了抵消账面...
- ## [信创数字大脑，让城市发展充满智慧和温度](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=4sShOQtZzjyg8rXxDIpBHPvdmUTr8Xle4FpUsKfAGsUtiBL9YLl7995XxMqVfGOIFNMEQr5kPUMLdNe2yK3mXBjlSTqDVPH7ZLX4-GYRm7fhpL7ywP7HYtZPRiPho8Ku&new=1)
+ ## [信创数字大脑，让城市发展充满智慧和温度](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=4sShOQtZzjyg8rXxDIpBHPvdmUTr8Xle4FpUsKfAGsXpXp7wUCv9JqkHMPmoaHjvku61oKpBXu8e7prU6nDD9uAeuMW8peDwx8tGdRTv6NQxGcI*Tnpe2yGkLEF97tzC&new=1)
  > 撰文 | 懂懂   编辑 | 秦言来源：懂懂笔记城市生活已成为快节奏的代名词，为了充分利用时间，我们更多会选择网上生活方式。但当我们适应了互联网速度，再回到需要排长队，并且一趟趟跑现场提交资料办事的场景时...
- ## [广西“双千兆”先行一步：千兆光网与5G同等重要、协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1622167204&ver=3095&signature=3iA2RqP6NqixxeSNCgAcpx2hGaK13IZ1UrsFa9bYnXc9Nxa-8lSjlYvP0AbE6ZaJWd8IglY3Ft*OMcqp-dqnkRiBPwIlfRH5AN8cPSvP5l-lvkVgKM6HGc11TQYpAMVF&new=1)
+ ## [广西“双千兆”先行一步：千兆光网与5G同等重要、协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1622174404&ver=3095&signature=3iA2RqP6NqixxeSNCgAcpx2hGaK13IZ1UrsFa9bYnXcjbOMIpwxtBibhS1TaV0f2JUQLBo4C8IpznmtGi8OVL87f*QMAnBRe0GvJt0yIJC*vPEfOdAU5UoUYVNyb3KXp&new=1)
  > 在当前数字化时代，以5G与千兆光网为代表的“双千兆”网络，能为用户提供无处不在的千兆能力，如同双引擎，相互协调，推动各行业加速进入数字时代。我国高度重视“双千兆”网络发展，多次强调加强“双千兆”网络...
 # IT 技术 
- ## [生产问题：面试官你别再问解决过什么生产问题了！](https://blog.csdn.net/shengqianfeng/article/details/117333544)
- > 生产问题：面试官你别再问解决过什么生产问题了！
- ## [《老猿Python精品文章》专栏文章目录](https://blog.csdn.net/LaoYuanPython/article/details/117307074)
- > 《老猿Python精品文章》专栏文章目录
- ## [windows10中安装anaconda和pytorch](https://blog.csdn.net/Rong_Gong/article/details/117340217)
- > windows10中安装anaconda和pytorch
- ## [接口自动化（ 一 Postman）](https://blog.csdn.net/HONGTester/article/details/117327145)
- > 接口自动化（ 一 Postman）
- ## [第一个安卓项目 | 中国象棋demo学习](https://blog.csdn.net/yantuguiguziPGJ/article/details/117138022)
- > 第一个安卓项目 | 中国象棋demo学习
- ## [腾讯国风AI虚拟人学会作诗书法，背靠开源模型SongNet](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/117120152)
- > 腾讯国风AI虚拟人学会作诗书法，背靠开源模型SongNet
- ## [C语言---简单五子棋小游戏](https://blog.csdn.net/qq_52001969/article/details/117259151)
- > C语言---简单五子棋小游戏
- ## [VS2017+Qt5+Opencv3.4调用摄像头拍照并存储](https://blog.csdn.net/zuoyou_yi/article/details/117338900)
- > VS2017+Qt5+Opencv3.4调用摄像头拍照并存储
+ ## [前女友婚礼，python破解婚礼现场的WIFI，把名称改成了](https://blog.csdn.net/weixin_42350212/article/details/117260497)
+ > 前女友婚礼，python破解婚礼现场的WIFI，把名称改成了
+ ## [R语言有限混合模型(FMM,finite mixture model)及其EM算法聚类分析间歇泉喷发时间](https://blog.csdn.net/qq_19600291/article/details/117335082)
+ > R语言有限混合模型(FMM,finite mixture model)及其EM算法聚类分析间歇泉喷发时间
+ ## [C  HalconDotNet 工业视觉处理](https://blog.csdn.net/code_long/article/details/117256563)
+ > C  HalconDotNet 工业视觉处理
+ ## [【C语言进阶学习笔记】一、数据的存储（总结篇+思维导图+浮点型部分内容）](https://blog.csdn.net/QIYICat/article/details/117334646)
+ > 【C语言进阶学习笔记】一、数据的存储（总结篇+思维导图+浮点型部分内容）
+ ## [golang学习十:网络编程](https://blog.csdn.net/qq_35709559/article/details/117201252)
+ > golang学习十:网络编程
+ ## [python爬取爱xx热门电影](https://blog.csdn.net/weixin_47514459/article/details/117001761)
+ > python爬取爱xx热门电影
+ ## [Java程序员两次美团面试失败后，只剩这份学习笔记了（含泪整理）](https://blog.csdn.net/javassb/article/details/117034154)
+ > Java程序员两次美团面试失败后，只剩这份学习笔记了（含泪整理）
+ ## [Metapath2vec 的python简单实现](https://blog.csdn.net/xiadada2/article/details/117295281)
+ > Metapath2vec 的python简单实现
  ## [女友加班发自拍IT男友用30行python代码发现惊天秘密](https://blog.csdn.net/lujohn3li/article/details/117305583)
  > 女友加班发自拍IT男友用30行python代码发现惊天秘密
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
  ## [2021计算机科学专业世界排名重磅出炉！今年排名大洗牌](https://blog.csdn.net/csdnstudent/article/details/117333187)
  > 2021计算机科学专业世界排名重磅出炉！今年排名大洗牌
+ ## [你想知道的手势识别都在这里](https://blog.csdn.net/weixin_45304503/article/details/117308306)
+ > 你想知道的手势识别都在这里
  ## [听说你想面对监狱编程，你，够格吗？](https://blog.csdn.net/Yxh666/article/details/117283182)
  > 听说你想面对监狱编程，你，够格吗？
+ ## [腾讯架构师带我写代码 —— vue真实企业实战分享](https://blog.csdn.net/qq_35942348/article/details/117307350)
+ > 腾讯架构师带我写代码 —— vue真实企业实战分享
  ## [手把手教你做出数据可视化项目（三）3D地球旋转](https://blog.csdn.net/diviner_s/article/details/117233251)
  > 手把手教你做出数据可视化项目（三）3D地球旋转
- ## [有些段子，外行人根本看不懂，只有程序员看了会狂笑不止](https://blog.csdn.net/zhiguigu/article/details/117222360)
- > 有些段子，外行人根本看不懂，只有程序员看了会狂笑不止
- ## [第一次拖锡焊接](https://blog.csdn.net/lyndon_li/article/details/116874577)
- > 第一次拖锡焊接
 # 人工智能 
  ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
  > 最菜/高级的莫名其妙C程序
@@ -83,6 +95,14 @@ categories: IT NEWS
  ## [让看代码成为一种享受！   使用Carbon生成漂亮的代码图片](https://blog.csdn.net/fyfugoyfa/article/details/117136424)
  > 让看代码成为一种享受！   使用Carbon生成漂亮的代码图片
 # PM 
+ ## [面试拿到高薪的秘诀  小白也能玩转职场！](http://www.chanpin100.com/article/115933)
+ > 有没有小伙伴正在找工作的呀？是不是非常头疼？想拿高薪又担心能力不足？薪资太低又不想去？今天小编给大家整理了一些面试技巧，希望能帮助到正在找工作的同学们。
+ ## [产品经理面试求职误区之不懂得灵活运用自己的现有资源和经历](http://www.chanpin100.com/article/115931)
+ > 很多产品经理在面试中不懂得灵活运用自己的现有资源和经历，那么，该如何避免这种误区呢？请看本文“产品经理面试求职误区之不懂得灵活运用自己的现有资源和经历”中的全部吧！
+ ## [产品经理面试求职误区之不清楚岗位能力需求](http://www.chanpin100.com/article/115929)
+ > 产品经理在面试的时候，很容易就走进误区之中。那么，该如何提前规避呢？下边就来看本文“产品经理面试求职误区之不清楚岗位能力需求”中的内容吧！
+ ## [【产品经理免费公开课】溪流终成高山 职场逆袭大会](http://www.chanpin100.com/article/115928)
+ > 自身学历很一般又想逆袭进大厂的应届生该怎样做呢？互联网行业的求职技巧又有哪些呢？怎样才能把握住互联网风口高薪就业呢？本期免费公开课“溪流终成高山 职场逆袭大会”就来为大家揭晓上述内容，感兴趣的快来报名吧！
  ## [日常吐槽系列~画饼篇](http://www.chanpin100.com/article/115927)
  > 所谓梦想，是我们内心对美好生活的向往，是我们愿意努力和奋斗的目标。每当迷茫时指引我们前进方向，每当失落时鼓励我们奋发图强。所谓画饼，是他人虚无缥缈的许诺和敷衍，是他人为对抗不确定性的折中。每当心力交瘁时引诱你再继续，每当筋疲力尽时忽悠你还幻想。
  ## [好产品的五大法则 你知道是什么吗？（下）](http://www.chanpin100.com/article/115926)
@@ -115,13 +135,5 @@ categories: IT NEWS
  > 伴随着带宽的提升，网络信息飞速发展，能源管控上与实时预警在工业互联网中也占着举足轻重的地位。高炉作为钢铁产业十分重要的一环，它的数据监控和预警提示有着极为重要的价值和意义。使用Hightopo（以下简称 HT ) 提供的技术通过 2/3D 融合搭建的高炉炉体三维热力图监控系统。
  ## [如何评估一款社区产品的好坏？（中）](http://www.chanpin100.com/article/115908)
  > 今天我们继续来聊聊这个话题：如何评估一款社区产品的好坏？上一篇文章我们从内容方面进行了简单的介绍，这篇文章小编将从互动和用户这两个方面进行分析。
- ## [信用卡APP数字化洞察 深耕场景服务及运营一体化](http://www.chanpin100.com/article/115847)
- > 银行作为数字金融服务的主要提供方，尤其支持消费的信用卡应用，将生活场景作为银行构建与用户金融服务连接的核心触点显得尤为必要。为持续加强APP与信用卡业务、用户及商户的连接，打造信用卡APP场景服务生态成为发展趋势。
- ## [如何理解狭义上的AI产品经理？](http://www.chanpin100.com/article/115906)
- > 现在AI产品经理很火爆，很多人都想转型成为一名AI产品经理，那么大家对AI产品经理是否足够了解呢？今天本文就来一起探讨一下如何理解狭义上的AI产品经理！
- ## [如何评估一款社区产品的好坏？（上）](http://www.chanpin100.com/article/115907)
- > 随着互联网的发展，社区产品越来越多，那么如何评估一款社区产品的好坏呢？总的来说，可以从六个方面来进行评估：内容、互动、用户、功能、调性和定位。这篇文章我们主要从内容方面来进行介绍。
- ## [可视化管理水泥工厂 精准狙击运维漏洞抢先布局千万市场](http://www.chanpin100.com/article/115839)
- > Hightopo 可视化监控系统可以帮助工厂进行空间节能，判断系统工作状态，实现状态检修，故障检修等功能，做好设备全生命周期管理。同时可分批对其质量进行检验及复验，根据反馈结果优化生产过程。支撑企业安全生产、合理高效用能，提升产品品质。
 
     
