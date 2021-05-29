@@ -1,50 +1,19 @@
 ---
 title: 2021-05-29 IT News
 copyright: true
-date: 2021-05-29 08:01:09
+date: 2021-05-29 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [当网络攻击手段日新月异，企业云安全如何保障?](http://mp.weixin.qq.com/s?src=11&timestamp=1622246404&ver=3097&signature=48BctRDSho9M6zTU4R9oE8W8anuF8DWg3x1k79nvqI4u72emgEwN3Y4Ms6sdqNoivCI9gu-8IiPskmK1d-Xz95cPxdQZ9WgMFhsy-Z2N-s5M8FO7-uaw5FC*74iy2F2i&new=1)
+ ## [当网络攻击手段日新月异，企业云安全如何保障?](http://mp.weixin.qq.com/s?src=11&timestamp=1622248204&ver=3097&signature=48BctRDSho9M6zTU4R9oE8W8anuF8DWg3x1k79nvqI4u72emgEwN3Y4Ms6sdqNoiTRvFQOgn*bKImS5xqwRvf89n8Su25WQchZSQwUtp-l0QiDMkQNg2itdazIbhi9O0&new=1)
  > 近年来，云计算产业在中国得到了蓬勃发展。无论是安全服务提供商还是广大企业用户，对于云安全的重视程度也随之水涨船高。那么问题就来了：面对日新月异、种类繁多的网络攻击，企业如何才能获得可靠的云安全保障...
- ## [半导体巨擎赛灵思在华首次展示智能汽车布局：从底层加速汽车智能进化](http://mp.weixin.qq.com/s?src=11&timestamp=1622246404&ver=3097&signature=99IQ1lB5UZ1fourEOTaT*7I20PjbMsZhx5UDThciC5WA9V*SVRwdAk9A3Hp*cJL*FDfOo6KRSMBpyUyg6r5r*VNk-9zIbOUdAo90tMbV6bIlnflR5*vawAkJV9L3R*wP&new=1)
- > 赛灵思在汽车行业是不知不觉中成为了类似于Tier2级别的供应商。但是汽车数字化和智能化的过程中，赛灵思已经悄悄成为了汽车的神经与大脑的基础，这当然也是未来一切智能功能的基础。而伴随着赛灵思进入AMD阵营，...
- ## [时空数据，赋能未来——北斗产业新应用观察](http://mp.weixin.qq.com/s?src=11&timestamp=1622246404&ver=3097&signature=VN5UXjYkV0xtbll8LSNQeG5em1G7eDD4aSALEo*3HtARsYWLhZns99mCknBwOU*vPrA-3uwx7VDJOm9F7GUyZDFZ*25ZoYKjUtcvxYUP8II=&new=1)
- > 新华社南昌5月28日电 新华社记者胡锦武、郭杰文、顾天成　　“北斗+交通运输”“北斗+农林牧渔”“北斗+智能生态”……为期３天的第十二届中国卫星导航年会28日在江西南昌落幕，其间不仅让数万名参展观众畅...
- ## [官宣!《新程序员·开发者黄金十年》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1622246404&ver=3097&signature=t6KvlJtpt*AzFBCoJU9q0hHN9*2hoR6R7JlD8fwBZZmLneM0WK90wZ1-H*4OlrAkEjwq5*tVR5xLUvNb7Ga6RfsvaIx-xzPJq8CXr50-LGz*UrSLPk6CXqcL6LJaFhUF&new=1)
+ ## [官宣!《新程序员·开发者黄金十年》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1622248204&ver=3097&signature=t6KvlJtpt*AzFBCoJU9q0hHN9*2hoR6R7JlD8fwBZZmLneM0WK90wZ1-H*4OlrAk4A8a*p9waPqq41GVSTMN7m2ydWyCwPMvMBWSpdPdcvrZTeLxCkch68P5fmhd3Zyp&new=1)
  > “在互联网还不发达的时代，就是《程序员》伴我成长的。”“怀念啊，曾经《程序员》的日子。”“我是看着《程序员》长大的，大二时买了创刊号。”“这可是我们这一代人大学时候满满的回忆，也是当时寝室中传阅最...
-# IT 技术 
- ## [世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？](https://blog.csdn.net/kexuanxiu1163/article/details/117337879)
- > 世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？
- ## [【机器学习】模型的过拟合，欠拟合以及评估方法](https://blog.csdn.net/weixin_43454320/article/details/117202320)
- > 【机器学习】模型的过拟合，欠拟合以及评估方法
- ## [Python第三方的库requests做接口测试](https://blog.csdn.net/weixin_50829653/article/details/117374597)
- > Python第三方的库requests做接口测试
- ## [Vue.js 学习笔记十一：Webpack之webpack 配置 plugin，mode](https://blog.csdn.net/qq_27875933/article/details/117016094)
- > Vue.js 学习笔记十一：Webpack之webpack 配置 plugin，mode
- ## [AsyncTask学习与实战](https://blog.csdn.net/hl1hl/article/details/117050715)
- > AsyncTask学习与实战
- ## [react踩坑](https://blog.csdn.net/qq_45704048/article/details/117368996)
- > react踩坑
- ## [基于Golang实现数据配置中心（meta-config）：一](https://blog.csdn.net/u012737673/article/details/117110041)
- > 基于Golang实现数据配置中心（meta-config）：一
- ## [C 在wpf中如何使用image](https://blog.csdn.net/mazhiyuan1981/article/details/116998666)
- > C 在wpf中如何使用image
- ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
- > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
- ## [女友加班发自拍IT男友用30行python代码发现惊天秘密](https://blog.csdn.net/lujohn3li/article/details/117305583)
- > 女友加班发自拍IT男友用30行python代码发现惊天秘密
- ## [神经网络学习小记录57——各类激活函数Activation Functions介绍与优缺点分析](https://blog.csdn.net/weixin_44791964/article/details/117338865)
- > 神经网络学习小记录57——各类激活函数Activation Functions介绍与优缺点分析
- ## [python表白玫瑰花绘制——情人节表白](https://blog.csdn.net/weixin_44044161/article/details/117338282)
- > python表白玫瑰花绘制——情人节表白
- ## [Python新手的奇技淫巧，掌握在手的充实感](https://blog.csdn.net/yunyun889901/article/details/117331611)
- > Python新手的奇技淫巧，掌握在手的充实感
- ## [2021计算机科学专业世界排名重磅出炉！今年排名大洗牌](https://blog.csdn.net/csdnstudent/article/details/117333187)
- > 2021计算机科学专业世界排名重磅出炉！今年排名大洗牌
- ## [STM32程序下载的三种方式](https://blog.csdn.net/wsq_666/article/details/117322542)
- > STM32程序下载的三种方式
+ ## [时空数据，赋能未来——北斗产业新应用观察](http://mp.weixin.qq.com/s?src=11&timestamp=1622248204&ver=3097&signature=VN5UXjYkV0xtbll8LSNQeG5em1G7eDD4aSALEo*3HtAX15P-s1gYG1Z5ZDmpUN9Ox1WgK9w7RM*mOKOdcEvv0swnTRGxSqCuogiikdVX9uA=&new=1)
+ > 新华社南昌5月28日电 新华社记者胡锦武、郭杰文、顾天成　　“北斗+交通运输”“北斗+农林牧渔”“北斗+智能生态”……为期３天的第十二届中国卫星导航年会28日在江西南昌落幕，其间不仅让数万名参展观众畅...
+ ## [半导体巨擎赛灵思在华首次展示智能汽车布局：从底层加速汽车智能进化](http://mp.weixin.qq.com/s?src=11&timestamp=1622248204&ver=3097&signature=99IQ1lB5UZ1fourEOTaT*7I20PjbMsZhx5UDThciC5WA9V*SVRwdAk9A3Hp*cJL*tkA0wdyJdapW2cBRlGyh5kMKGsP8CQybjDRrzGd9HSiHD*FielcthIfPVMKs7ISc&new=1)
+ > 赛灵思在汽车行业是不知不觉中成为了类似于Tier2级别的供应商。但是汽车数字化和智能化的过程中，赛灵思已经悄悄成为了汽车的神经与大脑的基础，这当然也是未来一切智能功能的基础。而伴随着赛灵思进入AMD阵营，...
 # 人工智能 
  ## [谈谈 React 新出的 Server Components](https://blog.csdn.net/justjavac/article/details/111601818)
  > 谈谈 React 新出的 Server Components
