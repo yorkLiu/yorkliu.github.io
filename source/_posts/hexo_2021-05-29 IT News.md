@@ -1,58 +1,72 @@
 ---
 title: 2021-05-29 IT News
 copyright: true
-date: 2021-05-29 12:00:58
+date: 2021-05-29 17:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [线下展会，市民畅享科技大餐](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=w2INtdLc3YDt5kSHscDjZszB58TjyGZ79G6PjWL8jLwT9y30RCSFlJ3Wub*SyjMs8bwY9vKM5RkyjXUkXS6EbzUF5xILFjfoSWq1C6lnEpA=&new=1)
+ ## [广电总局表彰虚拟现实视频、超高清视频等5类96个优秀项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=5rFTjfCQPsttEad2zunm01ltnyssNSRckB9ly14TKPeEHl7zbEfY6wnmyXbidGsvQHY77nSdBFe4jf*Z5C2wVIwz0EtrDXTNrtlGGlut1T5XeK5lj7w5Dskfb-64hGT-&new=1)
+ > 广电总局共评选出互动视频、沉浸式视频、虚拟现实视频、云游戏、超高清视频等5类96个优秀项目，分获一、二、三等奖和优秀奖，包括《中央广播电视总台5G+VR融合制播系统——春节联欢晚会 (2017- 2021)节目VR制作...
+ ## [绿色召集令——聚力创赢，共赴绿色能源新征程!](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=HATWx6H3ohUkCbs58P7cyY7kw0gPD*ty4q-aEXVG5Ri7odT4*C-6ggVYc3ADebVsjY8HhykU2mNsi5DfpDOmusSh9Ubkk9MifOd*FCOAmej2LLiRYYdTXQRgk*tbfAja&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！申耀的科技观察，由科技与汽车跨界自媒体人申斯基创办，18年企业级科技媒体工作经验，专注企业数字化、产业智能化、智慧城市、汽车科技内容的观察和思考。
+ ## [\[报告\]2021年中国新能源汽车行业洞察(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=9nqsDtjVECRLYOKsb7BSGSspburWOtIrN9gmrS-MXZhzuvNlhir8XAbTls7aIkLqKAZATl3bfU-ElG*hSHXlt6MlkhFBrd8M2Ub8CjtzdqL6J5f*1Y5qEmJKwuASpyI5&new=1)
+ > 新能源车大势将至，造车新势力差异化突围。以下为报告节选：......文│Mob研究院本报告共计：44页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [最受关注展项出炉，2021年北京科技周闭幕不落幕!](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=JV1ytgFSeC5j82DO8i3XMZ1riLHVHIK2ou9JQN-Q5U8OwQ-h6Nypi5lOrwwUEZorcD9gKgnzVe8zsg3HYMYKrZ3SF2fPFmR*rUlJLgJqAZoGouzCD2CvX080QRGxBkbJ&new=1)
+ > 5月28日下午，2021年北京科技周闭幕式在中关村国家自主创新示范区展示中心举行。北京市科委、中关村管委会相关负责人介绍了本届北京科技周举办情况以及最受关注的展项。市科委、中关村管委会二级巡视员王建新出...
+ ## [3D打印成果展示](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=rTsDO0MvGm9l7ukBC11cGl3o2UDTER9Cs3LnJ7QJBtYeExqTIyJ6159R1qnp0wwqxbuuR0waBYdl86BZRo9Z9BLzSNjzCC24KMJwwh-dG2uHXi4e*ekg3hQJm121XtN4&new=1)
+ > 随着科学技术的发展，生产完成了从工厂业手工向机器大工业的过渡，从而改变了人们生活与工作方式。在日新月异的信息化、智能化浪潮中，人们个性化的需求意见日渐增长。未来的产业将是生产那些个性化的产品，...
+ ## [数字让监管更加智慧 上交所成功举办首届全行业技术大会](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=VN5UXjYkV0xtbll8LSNQeG5em1G7eDD4aSALEo*3HtB1E1o38eq0**vl02hBUhLIswpUDhM2*FDe8K2rHMyBSk1xe91iGydlTY8x2Tg-WdY=&new=1)
+ > 5月28日，上交所成功举办主题为“数字赋能，守正创新”的首届全行业技术大会。中国证监会副主席赵争平出席大会并致辞指出，证监会高度重视资本市场科技化转型与发展，确定了“数字让监管更加智慧”的愿景。...
+ ## [汉朔科技和微软(中国)联合推动 IoT+AI 赋能全球零售](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=quZ*lm0kvzt5AxcMdBxO3nC3fTCUkN7rKfLOaOgNZDnRMsvMHqTobTyye-hFxK44WoVPP*BlpQKwYudHG4xFDztXFXruifGpmC3fGzlqf3BI1YWY-*qhAWkVsWJGL0eO&new=1)
+ > （本文阅读时间：4分钟）2021年5月20日，全球领先的零售数字化解决方案供应商汉朔与微软（中国）在北京举行战略合作备忘录签约仪式，以进一步推动其在零售行业的全球布局和数字化战略。根据战略合作备忘录，汉朔...
+ ## [线下展会，市民畅享科技大餐](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=w2INtdLc3YDt5kSHscDjZszB58TjyGZ79G6PjWL8jLwaMvAt4k9NNU-kPX-lNCU*YKBw4Itvplwt2LcAKMkZ1BrczHe8HlMR6ZG0a4lZs*U=&new=1)
  > 5月28日，是2021中国国际大数据产业博览会线下展最后一天，也是免费向市民开放的公众日。趁此机会，记者继续带您探秘国际综合馆（W1馆）、数字应用馆（W2馆）、前沿技术馆（E1馆）、智慧产业馆（E2馆）4...
- ## [占据市场最新赛道，“中国制造”机器人迎来爆发期](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=-E4y0d9fEzR7ZhKFpW2MFtSVtMI3DSs4i8sjBmd*3VMy*kx5hHeH9EsMMWdVgc11zUOtW*OgGyZOsMcQ5Tp*L3eUbrRdgyWb1TxuYxP5CMQ=&new=1)
+ ## [占据市场最新赛道，“中国制造”机器人迎来爆发期](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=-E4y0d9fEzR7ZhKFpW2MFtSVtMI3DSs4i8sjBmd*3VMahLwlkJXMc2Z04xByzwc3nBVSg0ydXDQbk*bSRV*lIQFR3ofbElAFzGjfqSoy3bI=&new=1)
  > 【环球时报记者 邢晓婧 杨沙沙】配餐机器人、迎宾机器人、扫地机器人……不知不觉间，中国老百姓对出现在餐馆、医院、火车站、养老院等场景的机器人逐渐习以为常，甚至家中也出现扫地、娱乐等家用机器人。有统计...
- ## [大型金属3D打印厂商钢研极光亮相TCT，展示强大的生产服务能力](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=0I-ANeyapFX5AHTE4bu7XDz4DO-ywnH-qALcI1eVA54Ax6*KxOgI*pchIGU2*r4ev23BBbH1zWkMJzPzLQlO5MtqaTxjvqjAb5*YReFgF6gVFuKM3yCVJcRZl0chfTbc&new=1)
+ ## [大型金属3D打印厂商钢研极光亮相TCT，展示强大的生产服务能力](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=0I-ANeyapFX5AHTE4bu7XDz4DO-ywnH-qALcI1eVA548zmQI4xjZKHLgFBSYiBip6*YTe1mrTCVYUowp800rBnwD*jjwywvx3JRyR7-owQeclxW5OdNsER6UCwnzW63T&new=1)
  > 2021亚洲3D打印、增材制造展览会 (TCT Asia)于2021年5月26日-28日在国家会展中心（上海）7.1馆隆重举办。作为官方战略合作媒体，南极熊将会全程现场报道（地址https://www.nanjixiong.com/foru
- ## [半导体巨擎赛灵思在华首次展示智能汽车布局：从底层加速汽车智能进化](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=99IQ1lB5UZ1fourEOTaT*7I20PjbMsZhx5UDThciC5U3UqZsUtWnGOGY*iEKSk*5AK4pPDOHIMkOTARleTjVq-7fFdgfXb1Pnr2L0EM4iwykpmSZrUhAccLR7f8VUMCF&new=1)
+ ## [半导体巨擎赛灵思在华首次展示智能汽车布局：从底层加速汽车智能进化](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=99IQ1lB5UZ1fourEOTaT*7I20PjbMsZhx5UDThciC5VYA2s3yftpTGdx*g5B30aDwEM2SNXH7ToaMp6eJTw7*axJqhlsbFhmyyefIqil*UC35hMTxyIlyVNABxrUeJ0x&new=1)
  > 赛灵思在汽车行业是不知不觉中成为了类似于Tier2级别的供应商。但是汽车数字化和智能化的过程中，赛灵思已经悄悄成为了汽车的神经与大脑的基础，这当然也是未来一切智能功能的基础。而伴随着赛灵思进入AMD阵营，...
- ## [官宣!《新程序员·开发者黄金十年》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=t6KvlJtpt*AzFBCoJU9q0hHN9*2hoR6R7JlD8fwBZZmBxFcX2secucqVmFtQyfNJ30p7ry95cXlrPHseFQBB4E5b269dDASMGeM5qDZabHgNvlYw5LDeCLoAlKdjVV6A&new=1)
+ ## [官宣!《新程序员·开发者黄金十年》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=t6KvlJtpt*AzFBCoJU9q0hHN9*2hoR6R7JlD8fwBZZmBGp5chXlxmU5hkv2I77zoEDoN*BR2IyNVMSnp8QKgvSHIWsWQWIVTq6y4t*sbHHejf-ietSAl7Ii27na9A29F&new=1)
  > “在互联网还不发达的时代，就是《程序员》伴我成长的。”“怀念啊，曾经《程序员》的日子。”“我是看着《程序员》长大的，大二时买了创刊号。”“这可是我们这一代人大学时候满满的回忆，也是当时寝室中传阅最...
- ## [当网络攻击手段日新月异，企业云安全如何保障?](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=48BctRDSho9M6zTU4R9oE8W8anuF8DWg3x1k79nvqI4hFsJIxufryrPDqXAujoIWwA5l8rUifgEIYgzinMD5uBmuPW5zY*iPHC9cBZWv4Hh3oo*4hd9EeXi71QlQJo05&new=1)
+ ## [当网络攻击手段日新月异，企业云安全如何保障?](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=48BctRDSho9M6zTU4R9oE8W8anuF8DWg3x1k79nvqI7syR5DwaYwWmJPhCVQKV5BVHliImQmEgh8uomdyJfaUPctwlp0Q4EunAnkWoNpmtRiakKa1wzEPBms*ZGtn0Jq&new=1)
  > 近年来，云计算产业在中国得到了蓬勃发展。无论是安全服务提供商还是广大企业用户，对于云安全的重视程度也随之水涨船高。那么问题就来了：面对日新月异、种类繁多的网络攻击，企业如何才能获得可靠的云安全保障...
- ## [经观头条|鸿蒙“补天裂”：华为能撬动苹果和谷歌的基本盘吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=2Xj7SwKNYOmopzbxAjpffF7dA*jd1BZo3eQmK2HQTm2lM3t44IgelthGsLx1MSboqfNRY0h67G15GAfoXwecmMAmrSOrBKZuuoaaddZMxl8=&new=1)
+ ## [经观头条|鸿蒙“补天裂”：华为能撬动苹果和谷歌的基本盘吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=2Xj7SwKNYOmopzbxAjpffF7dA*jd1BZo3eQmK2HQTm2p*eulkUsixJIyqFe51ILWAcolYF7KQBAwqEmy0-F*U6XEx3qKBzx0xp79ohifjJQ=&new=1)
  > 经济观察报 记者 沈怡然 5月25日，华为宣布鸿蒙2.0（HarmonyOS2.0）系统将在今年6月2日面向全球正式发布，当日，华为新浪微博账号上发布了一段视频短片，下方有网民评论，他们期待着国产操作系统的到来。鸿蒙，...
- ## [时空数据，赋能未来——北斗产业新应用观察](http://mp.weixin.qq.com/s?src=11&timestamp=1622259003&ver=3097&signature=VN5UXjYkV0xtbll8LSNQeG5em1G7eDD4aSALEo*3HtDoJzPeLifNo7-NW6mOwk9gA7nqlmIQSCe8axg0--St-fofhryfQ4S0XqcFmu0fgwM=&new=1)
+ ## [时空数据，赋能未来——北斗产业新应用观察](http://mp.weixin.qq.com/s?src=11&timestamp=1622277004&ver=3097&signature=VN5UXjYkV0xtbll8LSNQeG5em1G7eDD4aSALEo*3HtBhouBZOLk-j9OBSw58zvdHaXxWaCqxV-MOIZIY5f5cyT*jsAo3377JesBPCenp8is=&new=1)
  > 新华社南昌5月28日电 新华社记者胡锦武、郭杰文、顾天成　　“北斗+交通运输”“北斗+农林牧渔”“北斗+智能生态”……为期３天的第十二届中国卫星导航年会28日在江西南昌落幕，其间不仅让数万名参展观众畅...
-# IT 技术 
- ## [世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？](https://blog.csdn.net/kexuanxiu1163/article/details/117337879)
- > 世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？
- ## [作为过来人学Python现在给想自学入门的建议](https://blog.csdn.net/yunyun889901/article/details/117232122)
- > 作为过来人学Python现在给想自学入门的建议
- ## [ant-design实现主题暗黑主题 和 亮色主题的 切换（实现网站黑白皮肤）](https://blog.csdn.net/qq_41499782/article/details/117015678)
- > ant-design实现主题暗黑主题 和 亮色主题的 切换（实现网站黑白皮肤）
- ## [springboot之validator校验](https://blog.csdn.net/qq_43265564/article/details/117366485)
- > springboot之validator校验
- ## [使用vue3+vite+typescript编写一个网易云首页轮播插件](https://blog.csdn.net/weixin_42341232/article/details/117365225)
- > 使用vue3+vite+typescript编写一个网易云首页轮播插件
- ## [代码构建与webpack知识点](https://blog.csdn.net/Sunday97/article/details/117332050)
- > 代码构建与webpack知识点
- ## [Compose搭档 — ViewModel、LiveData](https://blog.csdn.net/u010976213/article/details/117284079)
- > Compose搭档 — ViewModel、LiveData
- ## [学Python基础面向对象看这一篇文章就够了【全网首推】](https://blog.csdn.net/A_7878520/article/details/117199095)
- > 学Python基础面向对象看这一篇文章就够了【全网首推】
- ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
- > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
- ## [女友加班发自拍IT男友用30行python代码发现惊天秘密](https://blog.csdn.net/lujohn3li/article/details/117305583)
- > 女友加班发自拍IT男友用30行python代码发现惊天秘密
- ## [python表白玫瑰花绘制——情人节表白](https://blog.csdn.net/weixin_44044161/article/details/117338282)
- > python表白玫瑰花绘制——情人节表白
- ## [2021计算机科学专业世界排名重磅出炉！今年排名大洗牌](https://blog.csdn.net/csdnstudent/article/details/117333187)
- > 2021计算机科学专业世界排名重磅出炉！今年排名大洗牌
- ## [MATLAB表白玫瑰花绘制——旋转玫瑰、蓝色玫瑰](https://blog.csdn.net/weixin_44044161/article/details/117337870)
- > MATLAB表白玫瑰花绘制——旋转玫瑰、蓝色玫瑰
- ## [从零开始，耗时两年，19岁小伙自制一块32位Risc-V处理器，可玩「贪吃蛇」](https://blog.csdn.net/update7/article/details/117326544)
- > 从零开始，耗时两年，19岁小伙自制一块32位Risc-V处理器，可玩「贪吃蛇」
- ## [腾讯架构师带我写代码 —— vue真实企业实战分享](https://blog.csdn.net/qq_35942348/article/details/117307350)
- > 腾讯架构师带我写代码 —— vue真实企业实战分享
+# 人工智能 
+ ## [谈谈 React 新出的 Server Components](https://blog.csdn.net/justjavac/article/details/111601818)
+ > 谈谈 React 新出的 Server Components
+ ## [最菜/高级的莫名其妙C程序](https://blog.csdn.net/sxhelijian/article/details/111872893)
+ > 最菜/高级的莫名其妙C程序
+ ## [\[译\] 编写AndroidStudio插件(一):创建一个基本插件](https://blog.csdn.net/mq2553299/article/details/112971685)
+ > \[译\] 编写AndroidStudio插件(一):创建一个基本插件
+ ## [Python玩转emoji表情   一行代码的事儿！](https://blog.csdn.net/fyfugoyfa/article/details/115679607)
+ > Python玩转emoji表情   一行代码的事儿！
+ ## [给 Android 和 iOS 开发人员不一样的 Flutter 基础讲解](https://blog.csdn.net/ZuoYueLiang/article/details/116155237)
+ > 给 Android 和 iOS 开发人员不一样的 Flutter 基础讲解
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [Java 学习到什么程度可以找第一份工作？](https://blog.csdn.net/hjue/article/details/116982851)
+ > Java 学习到什么程度可以找第一份工作？
+ ## [离职后为讨薪资删公司数据，一技术开发工程师被判 11 个月](https://blog.csdn.net/csdnsevenn/article/details/117136910)
+ > 离职后为讨薪资删公司数据，一技术开发工程师被判 11 个月
+ ## [祝融有可能带“鸿蒙”上火星吗？](https://blog.csdn.net/BEYONDMA/article/details/117151186)
+ > 祝融有可能带“鸿蒙”上火星吗？
+ ## [超猛tuntap虚拟网卡实现超猛UDP隧道](https://blog.csdn.net/dog250/article/details/117151763)
+ > 超猛tuntap虚拟网卡实现超猛UDP隧道
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [Spring Native实战(畅快体验79毫秒启动springboot应用)](https://blog.csdn.net/boling_cavalry/article/details/117153661)
+ > Spring Native实战(畅快体验79毫秒启动springboot应用)
+ ## [\[译\] 编写AndroidStudio插件(五):本地化和通知](https://blog.csdn.net/mq2553299/article/details/113126241)
+ > \[译\] 编写AndroidStudio插件(五):本地化和通知
+ ## [\[译\] 编写AndroidStudio插件(二):持久化数据](https://blog.csdn.net/mq2553299/article/details/112994042)
+ > \[译\] 编写AndroidStudio插件(二):持久化数据
+ ## [高效开发：如何使用@Tranactional注解保证本地事务一致性](https://blog.csdn.net/qq_36963950/article/details/117164114)
+ > 高效开发：如何使用@Tranactional注解保证本地事务一致性
 # PM 
  ## [现在进入互联网产品经理岗位 还有机会吗？](http://www.chanpin100.com/article/115968)
  > 现在进入互联网产品经理岗位，还有机会吗？各位产品人应该深有体会，这个行业现在越来越难做，想要升职加薪更是难上加难，那么，这个岗位真的没有任何机会了吗？
