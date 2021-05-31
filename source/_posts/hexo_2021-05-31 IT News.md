@@ -1,52 +1,52 @@
 ---
 title: 2021-05-31 IT News
 copyright: true
-date: 2021-05-31 08:00:58
+date: 2021-05-31 09:03:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G泡沫严重，5G用户数竟然比5G手机累计销量多近1.5亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1622417404&ver=3101&signature=2KGEtezZE-lLcn91V6Yok*9LwNRYCm-ov01xc5v0q-znhosi3TgBqdL*JnR3hd2cScX8vH5SGbE2l4mu*kR8AzH9-LP-Lk6Ak79t*xvq7iITXhuhYiyeTbXYzoJBHABa&new=1)
- > 三大运营商都公布了截至4月份的数据，数据显示它们的5G用户数合计已达到4.2亿，然而根据信通院公布的中国市场累计5G手机销量却只有2.7亿台左右，这意味着其中有1.5亿或35.7%的用户并非真正的5G用户。运营商公布...
- ## [\[本周小结\]中国移动明确十年期6G研究规划；中国广电：两年内实现700MHz 5G全覆盖；10亿台/套终端!北斗5G交相辉映](http://mp.weixin.qq.com/s?src=11&timestamp=1622417404&ver=3101&signature=AYJnPt*ntinH*3daSEYzdneHLm2c4bkWeJ8jzY494-EYLZPfUiX846BGPCASdjFqhUikwFwYLdpi8U1HECWG-9fClmotYNj0fxYDImYzVpljpCOyGp*6GYX6zRXlTox7&new=1)
- > 周报WEEKLY本周热点有中国移动明确十年期6G研究规划；中国广电：两年内实现700MHz 5G全覆盖；10亿台/套终端！北斗5G交相辉映• 第141期 •中国移动明确十年期6G研究规划5月28日在近日举行的“2021年科技工作者日...
- ## [\[报告\]MPV洞察2021版(附21页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622417404&ver=3101&signature=ZEGGS3kI-SVr3IBzwWqL0c5URmsW0P0Krc7tYPY02*-ey8DdLGNX1Zjh-5z458LOI1*7FravQh0O-*zXvsYGA11eXKqotP3V25rBgJ39mv02wr*WaIjywfdoOuuUDthb&new=1)
+ ## [\[报告\]MPV洞察2021版(附21页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622422804&ver=3101&signature=ZEGGS3kI-SVr3IBzwWqL0c5URmsW0P0Krc7tYPY02*87y-0mp3Zkbd3c8w0rbrdwRUwL44AF9OVbZhIeI*ZQQqQrcRFB35dJbtMElbXIGMIV-sUzxvxAM6IobW3aaTOW&new=1)
  > 2016-2020年，MPV终端销量遭遇大幅下滑，从240万辆跌至99.89万辆, 市占率仅剩5%。期间五菱宏光S仍旧领军中国MPV车市，但年销量由50多万辆跌破20万辆，宝骏730由36万辆跌至5.29万辆。MPV为何下滑？新增长点在商用
- ## [全屋智能应该是什么样的?Aqara交了一份答卷](http://mp.weixin.qq.com/s?src=11&timestamp=1622417404&ver=3101&signature=JMqg7dz6C*JYKDr5hmh8*a6LuOw2ZugU71GnekiSEDkcHliQvLEnlLHGC-T-NBxAURGSXbT73z6JhI1cjVNkExmWNx6339cwDKS57CmWmwfls4L-MRZoEV17691MIygv&new=1)
+ ## [全屋智能应该是什么样的?Aqara交了一份答卷](http://mp.weixin.qq.com/s?src=11&timestamp=1622422804&ver=3101&signature=JMqg7dz6C*JYKDr5hmh8*a6LuOw2ZugU71GnekiSEDkLTdmq95GRu-3gdJW8d0nrpQCIYd80YLPJr-Z*UtDf7YQlGnoekb-ZCxznEt25dzuRhv4kH3Tay*oE*Q12bStK&new=1)
  > 绿米联创是如何用这十一年的时间，在智能家居这一片有待开发的蛮荒之地，摸索出属于自己的一条路。5月25日，Aqara 召开了品牌创立以来的第1场发布会，这是它成立的第5年，也是其公司绿米联创成立的第11个年头。...
- ## [人人都在谈的Metaverse，究竟是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1622417404&ver=3101&signature=hu2nJvYoFPmKJNaDAXfyNs9BA7mma3M5Rmd7l5Dvi2D*lgKjfHZF4wJc3R0ncbXtVhgruJyV3PwaDfdMcUQWSk7niz2opLIujUSr8Z56*bpe8zyqohxrAy7GMNexHkIR&new=1)
+ ## [5G泡沫严重，5G用户数竟然比5G手机累计销量多近1.5亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1622422804&ver=3101&signature=2KGEtezZE-lLcn91V6Yok*9LwNRYCm-ov01xc5v0q-zXsRjGWfpVVRNRH5AMXDRhAOgK05v4-naPp7wS9wboSGYdsf-Uzi6yHdWy-6*36MAiOOFQceefXoasJOsrmqNc&new=1)
+ > 三大运营商都公布了截至4月份的数据，数据显示它们的5G用户数合计已达到4.2亿，然而根据信通院公布的中国市场累计5G手机销量却只有2.7亿台左右，这意味着其中有1.5亿或35.7%的用户并非真正的5G用户。运营商公布...
+ ## [\[本周小结\]中国移动明确十年期6G研究规划；中国广电：两年内实现700MHz 5G全覆盖；10亿台/套终端!北斗5G交相辉映](http://mp.weixin.qq.com/s?src=11&timestamp=1622422804&ver=3101&signature=AYJnPt*ntinH*3daSEYzdneHLm2c4bkWeJ8jzY494-H2s8NZWsoP6sqp0oRjb5RQi7u0IPWTvswUC9-02L5ziaP-MRBrQeFVPMqj7KaOl3y-gr*MaJvEbo11D0faZMJD&new=1)
+ > 周报WEEKLY本周热点有中国移动明确十年期6G研究规划；中国广电：两年内实现700MHz 5G全覆盖；10亿台/套终端！北斗5G交相辉映• 第141期 •中国移动明确十年期6G研究规划5月28日在近日举行的“2021年科技工作者日...
+ ## [人人都在谈的Metaverse，究竟是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1622422804&ver=3101&signature=hu2nJvYoFPmKJNaDAXfyNs9BA7mma3M5Rmd7l5Dvi2AVKEoebp-qnSlDkKOnjDCXe5HKhzWH9wtcbIpSHuQBE5oZD35MMr7SS9foDslzvzf7EZaUEXclUEPLx3VxtnIR&new=1)
  > 在近期，身处游戏行业之中，你很难不听到Metaverse这个词。虽然是一个已经存在近30年的在科幻小说中诞生的词汇，并且实际在现实世界中也有了多年的探索，但是这个词在近期的火热应该主要归功于Roblox上市前的造...
 # IT 技术 
- ## [学会调试，让你也成为改bug能手](https://blog.csdn.net/qq_42253797/article/details/117374873)
- > 学会调试，让你也成为改bug能手
- ## [看《设计模式》的随笔](https://blog.csdn.net/Fei_Yang_YF/article/details/117049428)
- > 看《设计模式》的随笔
- ## [C简化让你懂得构建平台的第二定律](https://blog.csdn.net/weixin_46931877/article/details/117248639)
- > C简化让你懂得构建平台的第二定律
- ## [Python入门你要懂哪些？这篇文章讲清楚了！](https://blog.csdn.net/weixin_52710450/article/details/117328257)
- > Python入门你要懂哪些？这篇文章讲清楚了！
- ## [狄克斯特拉（Dijkstra）算法原理详细解释与实现(python)](https://blog.csdn.net/qq_41687938/article/details/117404232)
- > 狄克斯特拉（Dijkstra）算法原理详细解释与实现(python)
- ## [golang的并发控制技术及原理（一：channel,waitgroup,context）](https://blog.csdn.net/qq1319713925/article/details/117277448)
- > golang的并发控制技术及原理（一：channel,waitgroup,context）
- ## [155个JavaScript基础问题（21-25）](https://blog.csdn.net/sinat_41696687/article/details/117401095)
- > 155个JavaScript基础问题（21-25）
- ## [漂亮姐姐要我帮他用Python去照片水印，事后给我福利~](https://blog.csdn.net/yunyun889901/article/details/117293044)
- > 漂亮姐姐要我帮他用Python去照片水印，事后给我福利~
+ ## [日常Java练习题（每天进步一点点系列）](https://blog.csdn.net/weixin_43883917/article/details/117398101)
+ > 日常Java练习题（每天进步一点点系列）
+ ## [现阶段 Android 行业真的凉了吗？到底该不该继续学习深耕？](https://blog.csdn.net/u012165769/article/details/117264827)
+ > 现阶段 Android 行业真的凉了吗？到底该不该继续学习深耕？
+ ## [百度校招历年经典面试题汇总：Java开发岗](https://blog.csdn.net/hebtu666/article/details/117396809)
+ > 百度校招历年经典面试题汇总：Java开发岗
+ ## [Upload-labs Pass-05 .user.ini文件上传](https://blog.csdn.net/u014029795/article/details/117252533)
+ > Upload-labs Pass-05 .user.ini文件上传
+ ## [SpringBoot 异常处理](https://blog.csdn.net/weixin_43487782/article/details/117407186)
+ > SpringBoot 异常处理
+ ## [KMM 入门（三）平台差异化实现](https://blog.csdn.net/yuanguozhengjust/article/details/117407543)
+ > KMM 入门（三）平台差异化实现
+ ## [\[Golang\]面向对象营养餐，一文管够（封装，继承，多态）](https://blog.csdn.net/weixin_43519514/article/details/117188714)
+ > \[Golang\]面向对象营养餐，一文管够（封装，继承，多态）
+ ## [吴恩达深度学习 C2_W1](https://blog.csdn.net/weixin_55835175/article/details/117393917)
+ > 吴恩达深度学习 C2_W1
+ ## [第一次尝试为Apache顶级开源项目贡献代码](https://blog.csdn.net/prestigeding/article/details/117407456)
+ > 第一次尝试为Apache顶级开源项目贡献代码
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
- ## [云服务器续费太贵，直接在家搭一台，再也不受约束了](https://blog.csdn.net/lyndon_li/article/details/116875583)
- > 云服务器续费太贵，直接在家搭一台，再也不受约束了
- ## [女朋友问小灰：什么是数据仓库？什么是数据湖？什么是智能湖仓？](https://blog.csdn.net/bjweimengshu/article/details/117376564)
- > 女朋友问小灰：什么是数据仓库？什么是数据湖？什么是智能湖仓？
  ## [想要精通Python，必须收藏好这二十个库](https://blog.csdn.net/lland5201314/article/details/117338093)
  > 想要精通Python，必须收藏好这二十个库
+ ## [云服务器续费太贵，直接在家搭一台，再也不受约束了](https://blog.csdn.net/lyndon_li/article/details/116875583)
+ > 云服务器续费太贵，直接在家搭一台，再也不受约束了
+ ## [这样学习Linux，楼下王大爷都已经入门了，你还不来？](https://blog.csdn.net/weixin_44940405/article/details/117081644)
+ > 这样学习Linux，楼下王大爷都已经入门了，你还不来？
+ ## [女朋友问小灰：什么是数据仓库？什么是数据湖？什么是智能湖仓？](https://blog.csdn.net/bjweimengshu/article/details/117376564)
+ > 女朋友问小灰：什么是数据仓库？什么是数据湖？什么是智能湖仓？
  ## [能够有效提升开发效率的 20 余款 VSCode 插件（多图带效果展示）](https://blog.csdn.net/weixin_42938619/article/details/117378185)
  > 能够有效提升开发效率的 20 余款 VSCode 插件（多图带效果展示）
- ## [2021计算机科学专业世界排名重磅出炉！今年排名大洗牌](https://blog.csdn.net/csdnstudent/article/details/117333187)
- > 2021计算机科学专业世界排名重磅出炉！今年排名大洗牌
- ## [python表白玫瑰花绘制——情人节表白](https://blog.csdn.net/weixin_44044161/article/details/117338282)
- > python表白玫瑰花绘制——情人节表白
 # 人工智能 
  ## [谈谈 React 新出的 Server Components](https://blog.csdn.net/justjavac/article/details/111601818)
  > 谈谈 React 新出的 Server Components
