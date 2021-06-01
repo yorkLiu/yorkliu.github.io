@@ -1,52 +1,58 @@
 ---
 title: 2021-06-01 IT News
 copyright: true
-date: 2021-06-01 09:00:58
+date: 2021-06-01 10:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为数字经济保驾护航：《数据安全白皮书》在数博会上发布](http://mp.weixin.qq.com/s?src=11&timestamp=1622507404&ver=3103&signature=XDzs1Oc2CUxrbYyU0JSPHQiZ3M6ddET-1xkNFCuBhrbNurLUNUkJNhUOximU5GdVnlTWH2xTECyNYD8lmtI1borjoiLyF3GaEkpQOHKy2P0Oi8S8SS-21Cz3CmB*LYwr&new=1)
+ ## [AI完胜分析师 人机结合或成投资进化方向](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=anLfVPFmS5TxZ7HtZd0RNf1Ccc5erENm3PDQvUm5cl2T-ej9RwdsDZD*rPTmFFKjctVbru5Fv8HaQXtk7YZPH8lW1XuU6KJ21c9DZpOqBoQ=&new=1)
+ > 2016年战胜世界围棋高手李世石后，“阿尔法狗”（AlphaGo）们仍在各战场征伐。今年，AI（人工智能）与证券分析师也进行了一场巅峰对决，人工智能又一次完胜，并达到了83%的高胜率。业内人士认为，和AI围棋一...
+ ## [数融万企 智联万物](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=ueMDU3dy2q2Cwx7qZ*KsaK*fI2mrYc*SuEtJmEic4GL*ie6BeKOmMeVf3NcVCZi5kj0vrS6db6P0b0bGnBd9X0BSPd4v3n9dRAiPWm*FY7g=&new=1)
+ > 抬臂、触体、扫描……一台5G远程超声机器人自动对体验者进行检查，而操控机器人的医生却在千里之外的北京进行远程诊断。这台在2021数博会上亮相的远程超声机器人，是由贵阳高新区企业贵州华大基因科技有限公...
+ ## [2021OPTINET|光电器件发展论坛即将举办](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=eH28OkfYfxp3tum367t1xsPfK3jRtVZjv7tNNXwTslkSFdXZVG1AhyZISgamoQAd7rinWmNkwcjJTLnszUDVJiUALrBaniS0gRvH2TjNXBBaFrNlb5oJKAtWgEgfD5KI&new=1)
+ > 新闻导读6月16-17日2021年中国光网络研讨会即将在北京粤财JW万豪酒店召开，业界顶尖专家将汇聚一堂，共同探讨光通信技术以及各个系统、子系统、模块、组件和DCI最新发展和演进趋势。ICC讯 为了支持和满足5G、云...
+ ## [为数字经济保驾护航：《数据安全白皮书》在数博会上发布](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=XDzs1Oc2CUxrbYyU0JSPHQiZ3M6ddET-1xkNFCuBhradG0eYcsza*J7JKV8HQnMWEHDb6t6CRM6WmaiJhWRxmITpEo1YeY3cK8Vb9FMdshoby4fbTvAbR0biG1KaN2C3&new=1)
  > 当数据成为新型生产要素，数字经济迎来蓬勃发展，如何全方位构筑数据安全、为数字经济保驾护航，也被提升到了国家战略的高度。2021年5月27日，在贵阳2021中国国际大数据产业博览会（简称“数博会”）现场，国家...
- ## [再见了!IE浏览器](http://mp.weixin.qq.com/s?src=11&timestamp=1622507404&ver=3103&signature=Pr7ih-P0CqJ4VIoy0Hdkx40dcUuD9upZX8DR*8mdwoRcE84PQ18zIy4eQMT42Ne-Pe1yAMFLy2pFuoc-loA1SgPykqiGyk3NanuzoSeKK-OqNirGQgqKwM2UTpNtadGd&new=1)
+ ## [再见了!IE浏览器](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=Pr7ih-P0CqJ4VIoy0Hdkx40dcUuD9upZX8DR*8mdwoQ4hrmV7-pEICbLFlk4IzywgdtENwUrRs64K6C4rxmQ6VUyloCuRvWUgd0Z5WRH9UEAcWXlVFs6NTLI3IJUfni9&new=1)
  > 提到IE浏览器，人们往往想到的是......然而，在发行在超过25年后，微软终于要在明年淘汰掉IE 浏览器（Internet Explorer）了。据华尔街日报中文网报道，微软表示，其浏览器Internet Explorer(简称：IE)将
- ## [5G发展困难，贪婪的手机企业不愿降价，运营商无奈再开4G价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1622507404&ver=3103&signature=p-mRH97Qd8P8Knh5o7LJ6M1WoIxDOJXFa92OMytHJGsuX7iGFQNQmNyj78-iWIAyIfUC1dAWklOFsQylVTMopoNbomedHQIWFMxp8n2wQiTcXs9K6LetEyVhHtIsxI3R&new=1)
+ ## [5G发展困难，贪婪的手机企业不愿降价，运营商无奈再开4G价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=p-mRH97Qd8P8Knh5o7LJ6M1WoIxDOJXFa92OMytHJGvus49sMinTXDuSiCfxuOsiOcS51FR1g*nYlcDZj00sa0kFpeW5xQqXakAO6xiEys2xB*KrGuRUGlydIPnC4NS-&new=1)
  > 近日有媒体报道指运营商纷纷推出4G套餐，降低4G流量费和语音通话费用，在当下5G时代已在进行之时运营商重推4G套餐，或许是因为5G的发展面临困难所致。运营商公布的5G用户数与中国的5G手机累计销量存在1.5亿的差...
- ## [广电总局：强化对移动互联网、网络原创节目、短视频等方面的监管](http://mp.weixin.qq.com/s?src=11&timestamp=1622507404&ver=3103&signature=oj7fIjZWM9gz7*xKCRVtIwOCBE5zkz1XlvAeJpyh3tT-QRt6OORXcw1qrlfUpDfLAY8G48401h9MowYtJnwBeEt3mzLZa-wTcb4FfGLe7Bdy9zlc*1uKaE-rLjm96Yjk&new=1)
+ ## [广电总局：强化对移动互联网、网络原创节目、短视频等方面的监管](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=oj7fIjZWM9gz7*xKCRVtIwOCBE5zkz1XlvAeJpyh3tRWWAfcdFDHzd*JDZDPK3T8Fa*Fyv6r6H-pp8Op*njFmIWtyYlKwNcDdDFo2orLD0dMNTOG3zqJHJ6kBmN50cvw&new=1)
  > 力争广播电视和网络视听科技工作取得积累性突破，国家广播电视总局副局长、党组成员朱咏雷要求：一、大力提升媒体融合效能，持续推进媒体融合向纵深发展；二、打造智慧广电网络，建设广播电视和网络视听新型基础...
- ## [威联通推出双口万兆网卡新品QXG-10G2T-X710](http://mp.weixin.qq.com/s?src=11&timestamp=1622507404&ver=3103&signature=auUTJpyszKqzZv-dFDE0ET3Akfh91Jsfk3AHxBa5M*0xEgwzA6Yq-hg7kRNcJQ4kLbc3z6blFbF*YOD1e3hDFKQWFt1s4LnJZmd8mrv7U9h9ye0n9I53TN*kF-PjQn50&new=1)
+ ## [威联通推出双口万兆网卡新品QXG-10G2T-X710](http://mp.weixin.qq.com/s?src=11&timestamp=1622511004&ver=3103&signature=auUTJpyszKqzZv-dFDE0ET3Akfh91Jsfk3AHxBa5M*2JU-m3pBhRDrJNVrwHUftvGDli0cv1APAK8PrBMlFDApeI4TSHXe897Okp*rz*KlOnnHoyfbknG1vglC3A4JIv&new=1)
  > 近日，威联通（QNAP）推出了面向双口万兆网卡新品QXG-10G2T-X710，基于英特尔以太网控制器，采用PCIe 3.0接口（兼容 PCIe 2.0），可以实现双口万兆（10 GbE）扩展。威联通QXG-10G2T-X710向下兼容5
 # IT 技术 
  ## [女友晚安之后依然在线：python男友用20行代码监控查岗](https://blog.csdn.net/weixin_42350212/article/details/117260436)
  > 女友晚安之后依然在线：python男友用20行代码监控查岗
- ## [WordPress非组件实现文章阅读次数-不会php还逞强不用组件的我把网站给玩坏了 (￣ー￣〃)](https://blog.csdn.net/xiangwangxiangwang/article/details/117416278)
- > WordPress非组件实现文章阅读次数-不会php还逞强不用组件的我把网站给玩坏了 (￣ー￣〃)
- ## [搭建项目前端环境](https://blog.csdn.net/qq_46112274/article/details/117371133)
- > 搭建项目前端环境
- ## [\[网鼎杯 2020 朱雀组\]phpweb](https://blog.csdn.net/LYJ20010728/article/details/117267250)
- > \[网鼎杯 2020 朱雀组\]phpweb
- ## [Android——Handler详解](https://blog.csdn.net/ly0724ok/article/details/117324053)
- > Android——Handler详解
- ## [Swift 系统内置UITableViewCell样式及动态使用Cell](https://blog.csdn.net/kicinio/article/details/117196508)
- > Swift 系统内置UITableViewCell样式及动态使用Cell
- ## [用最简单的白话教你入门python爬虫(一)](https://blog.csdn.net/qqshenbaobao/article/details/117430479)
- > 用最简单的白话教你入门python爬虫(一)
- ## [Metapath2vec 的python简单实现](https://blog.csdn.net/xiadada2/article/details/117295281)
- > Metapath2vec 的python简单实现
+ ## [155个JavaScript基础问题（26-30）](https://blog.csdn.net/sinat_41696687/article/details/117422078)
+ > 155个JavaScript基础问题（26-30）
+ ## [26键-键盘输入设计—Axure 9](https://blog.csdn.net/zcl050505/article/details/117357659)
+ > 26键-键盘输入设计—Axure 9
+ ## [\[PHP代码审计\]SEACMS命令执行漏洞](https://blog.csdn.net/solitudi/article/details/117413102)
+ > \[PHP代码审计\]SEACMS命令执行漏洞
+ ## [MyBatis系列第八篇:MyBatis工作原理](https://blog.csdn.net/qq_29445811/article/details/117286842)
+ > MyBatis系列第八篇:MyBatis工作原理
+ ## [Effective c++第五章(条款26-条款30)](https://blog.csdn.net/wode_0828/article/details/117190094)
+ > Effective c++第五章(条款26-条款30)
+ ## [深度学习核心技术精讲100篇（四十二）-Seq2seq框架下的文本生成](https://blog.csdn.net/wenyusuran/article/details/108388839)
+ > 深度学习核心技术精讲100篇（四十二）-Seq2seq框架下的文本生成
+ ## [python 实验八 函数 （下）](https://blog.csdn.net/m0_51346837/article/details/117257067)
+ > python 实验八 函数 （下）
  ## [18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/117389742)
  > 18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家
- ## [太棒了 | 手把手教你用Python做一个 “举牌小人” 生成器！](https://blog.csdn.net/weixin_41261833/article/details/117404957)
- > 太棒了 | 手把手教你用Python做一个 “举牌小人” 生成器！
+ ## [教授说：“无论面试考研最好还是了解ping原理”——原来是真的！](https://blog.csdn.net/jiahuiandxuehui/article/details/117414119)
+ > 教授说：“无论面试考研最好还是了解ping原理”——原来是真的！
+ ## [痴迷技术，青春无悔，我那不务正业的大学时光！](https://blog.csdn.net/Mculover666/article/details/117422447)
+ > 痴迷技术，青春无悔，我那不务正业的大学时光！
  ## [这样学习Linux，楼下王大爷都已经入门了，你还不来？](https://blog.csdn.net/weixin_44940405/article/details/117081644)
  > 这样学习Linux，楼下王大爷都已经入门了，你还不来？
  ## [泪目！跳槽太不容易，挂了8家公司，终于收获字节offer](https://blog.csdn.net/javassb/article/details/117399854)
  > 泪目！跳槽太不容易，挂了8家公司，终于收获字节offer
- ## [六一福利！最详细的MySQL面试题合集！](https://blog.csdn.net/weixin_43591980/article/details/117396718)
- > 六一福利！最详细的MySQL面试题合集！
  ## [为了追学姐，用python把她的照片做成了拼图游戏，她看了...](https://blog.csdn.net/weixin_42350212/article/details/117231108)
  > 为了追学姐，用python把她的照片做成了拼图游戏，她看了...
- ## [想要精通Python，必须收藏好这二十个库](https://blog.csdn.net/lland5201314/article/details/117338093)
- > 想要精通Python，必须收藏好这二十个库
+ ## [太棒了 | 手把手教你用Python做一个 “举牌小人” 生成器！](https://blog.csdn.net/weixin_41261833/article/details/117404957)
+ > 太棒了 | 手把手教你用Python做一个 “举牌小人” 生成器！
 # 人工智能 
  ## [谈谈 React 新出的 Server Components](https://blog.csdn.net/justjavac/article/details/111601818)
  > 谈谈 React 新出的 Server Components
@@ -83,6 +89,8 @@ categories: IT NEWS
  > 升职加薪是每个职场人的共同目标，那么到底怎么做才能快速晋升呢？今天我们就来聊聊这个话题。在小编看来，想要升职加薪就必须做到以下几点。
  ## [互联网时代 产品经理如何抓住新机遇？](http://www.chanpin100.com/article/115974)
  > 产品经理要负责产品的整个生命周期，实现商业目标，其实这并不是一件容易的事情，需要花费超级多的精力，还要掌握各种技能。如果对于这个行业没有足够的热情，或许很难坚持下去（当然，工资足够高的人除外）。
+ ## [做产品还画不好流程图？](http://www.chanpin100.com/article/115982)
+ > 要想画好流程图不仅仅是会用工具就行了，需要做好前期准备、确定流程图的类型、把控好颗粒度的粗细，本文主要围绕这三点来说说如何画好流程图。
  ## [产品经理应该如何培养创新力？（下）](http://www.chanpin100.com/article/116018)
  > 产品经理应该如何培养创新力？上一篇文章我们介绍了跨界迁移转换和先解构再组合这两个方面的能力，这篇文章我们介绍最后一个方面的内容：趋势性预判。要做到趋势性预判，就要掌握以下几个步骤。
  ## [产品经理应该如何培养创新力？（上）](http://www.chanpin100.com/article/116017)
@@ -117,7 +125,5 @@ categories: IT NEWS
  > 这篇文章给大家分享一个面试的小技巧：如何进行自我介绍？这基本上是每个面试官都会准备的问题，所以大家一定要做好准备，给面试官留下一个好的印象。一个完整的自我介绍主要包括以下三个方面。
  ## [电商产品经理应了解的常见运营模式之采买模式](http://www.chanpin100.com/article/116000)
  > 当下随着互联网的蓬勃发展，电商行业已经发展得非常火热，越来越多人选择从事电商产品经理这个职业，那么你知道电商产品经理应了解的常见运营模式都有哪些吗？本文给大家介绍一下采买模式。
- ## [外包产品经理如何参与甲方日常运营？](http://www.chanpin100.com/article/115999)
- > 外包产品经理如何参与甲方日常运营？相信这是许多外包产品经理都非常头疼的事情。今天小编就结合自己的工作经验，给大家提供一个小小的方法，能够让你参与到甲方的日常运营。
 
     
