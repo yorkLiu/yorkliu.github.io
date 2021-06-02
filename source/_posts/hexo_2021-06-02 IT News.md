@@ -1,21 +1,21 @@
 ---
 title: 2021-06-02 IT News
 copyright: true
-date: 2021-06-02 08:01:13
+date: 2021-06-02 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [有了这项黑科技的加持，同时拥有好视力&好成绩](http://mp.weixin.qq.com/s?src=11&timestamp=1622590205&ver=3105&signature=cihmY0*bCnFo1D-O5waAGXH4ayom9LtguC-OPE2BrWq0jULFdHbu*1kKgaHQ947kEn-KMTrmVWaK1FtYYHZMG0it6J6JgiIx2uT9XXCb0GdVuU2P6rHvqqTgESGHvnqr&new=1)
- > 对于大多数中国式家庭来说，辅导作业已经成了几乎所有家庭中的主要矛盾点。就连平常光鲜亮丽的明星们也不能免俗——孙俪、岳云鹏等众多耳熟能详的明星都曾在微博吐槽过辅导作业相关的问题。更有数据调查显示，父...
- ## [GrowingIO张溪梦：数据驱动增长，连接产生价值](http://mp.weixin.qq.com/s?src=11&timestamp=1622590205&ver=3105&signature=IfogASqRd-FUH0DmPZJz1TdYl0F9h5q4R9vw6X8Fn2-kCsKmme5AUyCBZFD*VfHQpoCztnE2rjXvKvrmCx1fgd7jOXMf0jH5eE2LWJ2y9pbk4vjLT0MzlapVH-1Af8lU&new=1)
- > 近年来，随着云计算、大数据、人工智能等新兴技术的飞速发展，企业数字化的主阵地也从办公和生产逐步延伸到了营销和运营。那么对于企业来说，怎样才能用好这些新兴技术，更快更好地推动企业数字化转型呢？一家令...
- ## [英特尔宣布5G解决方案Intel 5G Solution 5000](http://mp.weixin.qq.com/s?src=11&timestamp=1622590205&ver=3105&signature=weGZ2QisDJtyYb*6KuUjEp87RnPK66MuwFF4JIZVg8g0fhBliOx5Xo9iYddsjc0LD0PXnx-qlDI2nR20Abl*FBL6C9*M44OBGDBQ6A1jmAqi-diEa0cXxd2PtSL9pmkc&new=1)
- > 英特尔（Intel）和联发科（MediaTek）合作推出5G解决方案Intel 5G Solution 5000，其采用M.2接口，使用PCIe 3.0协议，提供Windows、Chrome OS和Linux系统支持。Intel 5G So
- ## [重磅!中国电信集团管理层人事调整](http://mp.weixin.qq.com/s?src=11&timestamp=1622590205&ver=3105&signature=20ClQzWp0amLKJze-0YH*MtPRfoetLtRohm8siqzmxbiQqP7cPogtCDJbDBT3cWdfH*Hd6nRWh2JLHAu*GrjnyWCvW-2BFCM5tuVGsBf-LNS509VYSfRHmvp2ORtyLX6&new=1)
+ ## [重磅!中国电信集团管理层人事调整](http://mp.weixin.qq.com/s?src=11&timestamp=1622593804&ver=3105&signature=20ClQzWp0amLKJze-0YH*MtPRfoetLtRohm8siqzmxbiQqP7cPogtCDJbDBT3cWdIWeMHChAjAobX0SnJdHNMJ-8oOlnwK54PNpxh6o*GjjB*9VP6WNFSU4mxe2diCWA&new=1)
  > 运营商情报获悉，5月31日上午，广东电信总经理唐珂升任中国电信集团副总经理一职，至此，填补上中国电信副总的空缺。个人简历纵观唐珂的职场生涯，多部门多岗位的角色担任，使其拥有了丰富的管理经验和资深财务...
- ## [再获Gartner“客户之选”大奖：华为数通彰显“夺冠”精神](http://mp.weixin.qq.com/s?src=11&timestamp=1622590205&ver=3105&signature=bH6T*X2t-PAfo53cLwtnNgiwLvuf1UUWaU6NG4WZuJlEb-gcH4IuTkTIUIJAyaSljOsHdCvX-s3NPBP86Zj5P4fhMfrTiKjsb3BovRtVJ2FSrJjIgrY1rvYgDIFV-qvh&new=1)
+ ## [有了这项黑科技的加持，同时拥有好视力&好成绩](http://mp.weixin.qq.com/s?src=11&timestamp=1622593804&ver=3105&signature=cihmY0*bCnFo1D-O5waAGXH4ayom9LtguC-OPE2BrWq0jULFdHbu*1kKgaHQ947kkSg1Da4foC*7aXXVpAmruCGtsGxo1S6l-NP2ddv07vSBsY2kdeZgPTkr5njILNnl&new=1)
+ > 对于大多数中国式家庭来说，辅导作业已经成了几乎所有家庭中的主要矛盾点。就连平常光鲜亮丽的明星们也不能免俗——孙俪、岳云鹏等众多耳熟能详的明星都曾在微博吐槽过辅导作业相关的问题。更有数据调查显示，父...
+ ## [英特尔宣布5G解决方案Intel 5G Solution 5000](http://mp.weixin.qq.com/s?src=11&timestamp=1622593804&ver=3105&signature=weGZ2QisDJtyYb*6KuUjEp87RnPK66MuwFF4JIZVg8g0fhBliOx5Xo9iYddsjc0LzJhowVa3RirXqYWJL0YDrZKEQmAVFktiiE*mfGKNnwvjg9ar1LsusLzhpnCy2xoR&new=1)
+ > 英特尔（Intel）和联发科（MediaTek）合作推出5G解决方案Intel 5G Solution 5000，其采用M.2接口，使用PCIe 3.0协议，提供Windows、Chrome OS和Linux系统支持。Intel 5G So
+ ## [再获Gartner“客户之选”大奖：华为数通彰显“夺冠”精神](http://mp.weixin.qq.com/s?src=11&timestamp=1622593804&ver=3105&signature=bH6T*X2t-PAfo53cLwtnNgiwLvuf1UUWaU6NG4WZuJlEb-gcH4IuTkTIUIJAyaSl73kuq0ULczqXexq6xM*AfPewDHNhf4cVR4zRvN*ttQVgRY2wP7tX8*RAHkOzxFU1&new=1)
  > 去年上映的《夺冠》电影，让许多人更深刻感受到中国女排夺冠之路的艰辛。从2008年北京奥运会中国女排被美国女排击败，到2016年里约奥运会战胜东道主巴西队获得奥运会金牌，这一历程使我们深知，要夺冠不仅需敢拼...
+ ## [GrowingIO张溪梦：数据驱动增长，连接产生价值](http://mp.weixin.qq.com/s?src=11&timestamp=1622593804&ver=3105&signature=IfogASqRd-FUH0DmPZJz1TdYl0F9h5q4R9vw6X8Fn2-kCsKmme5AUyCBZFD*VfHQ15qCeqqe8Po0KGY5bpHkoHOHv*qOXBvt5C5XvRFZg0a96d-b40S2KdaTFAS-DXlr&new=1)
+ > 近年来，随着云计算、大数据、人工智能等新兴技术的飞速发展，企业数字化的主阵地也从办公和生产逐步延伸到了营销和运营。那么对于企业来说，怎样才能用好这些新兴技术，更快更好地推动企业数字化转型呢？一家令...
 # IT 技术 
  ## [女友晚安之后依然在线：python男友用20行代码写了个小工具](https://blog.csdn.net/weixin_42350212/article/details/117260436)
  > 女友晚安之后依然在线：python男友用20行代码写了个小工具
@@ -35,14 +35,14 @@ categories: IT NEWS
  > Vue学习笔记
  ## [18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/117389742)
  > 18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家
- ## [痴迷技术，青春无悔，我那不务正业的大学时光！](https://blog.csdn.net/Mculover666/article/details/117422447)
- > 痴迷技术，青春无悔，我那不务正业的大学时光！
  ## [软件测试工程师：别让 “假努力” 毁了你！在该努力的年纪选择 “安逸”](https://blog.csdn.net/weixin_50829653/article/details/117421587)
  > 软件测试工程师：别让 “假努力” 毁了你！在该努力的年纪选择 “安逸”
- ## [这样学习Linux，楼下王大爷都已经入门了，你还不来？](https://blog.csdn.net/weixin_44940405/article/details/117081644)
- > 这样学习Linux，楼下王大爷都已经入门了，你还不来？
+ ## [痴迷技术，青春无悔，我那不务正业的大学时光！](https://blog.csdn.net/Mculover666/article/details/117422447)
+ > 痴迷技术，青春无悔，我那不务正业的大学时光！
  ## [Linux必知必会的基本命令和部署项目流程](https://blog.csdn.net/qq_43941925/article/details/117379051)
  > Linux必知必会的基本命令和部署项目流程
+ ## [这样学习Linux，楼下王大爷都已经入门了，你还不来？](https://blog.csdn.net/weixin_44940405/article/details/117081644)
+ > 这样学习Linux，楼下王大爷都已经入门了，你还不来？
  ## [强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！](https://blog.csdn.net/m0_50855872/article/details/117420936)
  > 强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！
  ## [知乎热议：大专程序员有机会进大厂吗？新人程序员想进大厂有哪些建议？](https://blog.csdn.net/Androiddddd/article/details/117423616)
