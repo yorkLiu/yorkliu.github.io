@@ -1,21 +1,23 @@
 ---
 title: 2021-06-03 IT News
 copyright: true
-date: 2021-06-03 08:00:58
+date: 2021-06-03 09:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [震撼!华为鸿蒙OS来了，手机即日起可升级!这些上市公司已成合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1622676604&ver=3107&signature=FYI4y1YDHtL2QE-b1ZoUhlkKuJdj*CFMRvjgBTEJJYym7zHfvdhSNs*Ba1Tt1D5UAx2l0wjMXGZ-fjWAmObxcLBiy87FqPqifJtvW3DfO0hsMK7FqlsTznp8GX8NVzO1&new=1)
- > 权威、深度、实用的财经资讯都在这里6月2日晚，华为HarmonyOS 2（鸿蒙操作系统2.0版本）终于揭开面纱！华为消费者业务总裁余承东在HarmonyOS 2及华为全场景新品发布会上正式发布了HarmonyOS 2，并宣布将于6月2日...
- ## [混沌初开：全新HarmonyOS 2正式到来!](http://mp.weixin.qq.com/s?src=11&timestamp=1622676604&ver=3107&signature=vIe2Xh1Iof1UdMr3rQ9fg7tKdJS5AgUGcP68oV7cTC*jvVyasWzGYW5HWwFgwm8FoqaOhVS13EZPL6yjAf0-isTQFHYA0DxfuA6piyVUG62usUj*X1xOGyUx15BjF8Ht&new=1)
- > 作者 | Carol出品 | CSDN（ID：CSDNnews）6月2日晚20:00，华为HarmonyOS 2及华为全场景新品发布会如期召开。发布会上，重磅发布了万众瞩目的HarmonyOS 2正式版，这意味着蛰伏多年、潜心钻研的Harm
- ## [中国唯一!世界第三，深度解密鸿蒙系统的星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1622676604&ver=3107&signature=4E2ooikOW48igii5iruAY-JBMauuvNvSmI2TgisT02wQxRQVsTl2DlTzHgEfVvSZzNKrFLYAxDbm7TLHRiCTHtgW23O6LgIUhdWXlh*ScOuIr2EP5lLfVCT70ZLlzEA4&new=1)
- > 万物互联时代，没有人会是一座孤岛。作者 | 云鹏编辑 | 心缘智东西6月2日晚间消息，刚刚，华为正式发布了鸿蒙操作系统（HarmonyOS，后文简称鸿蒙OS），鸿蒙OS可以搭载在任何IoT设备上，所有设备统一语言，打通体...
- ## [没有人会是一座孤岛，鸿蒙肇判，风气始开](http://mp.weixin.qq.com/s?src=11&timestamp=1622676604&ver=3107&signature=wiS*dk3kCNjUhC1QzyH-dyiGMNBAIQR38IVfGhF-x8NDVgag16tYkP6zxNe34XzBp0zzp9FfedVFj4RheKCOVobyZO54nvYvd2Y66RoDluMphoBJr5fs*tYN-p5G4Umk&new=1)
+ ## [没有人会是一座孤岛，鸿蒙肇判，风气始开](http://mp.weixin.qq.com/s?src=11&timestamp=1622680204&ver=3107&signature=wiS*dk3kCNjUhC1QzyH-dyiGMNBAIQR38IVfGhF-x8MNiNaCeDlBCn5rPIzl6npn47nKi7sLZri4le15PbdjX1NFaDruF0zd*loNaEuF4EdU39tawJ6G70FhgV9Fjb9D&new=1)
  > HarmonyOS目标打破全球设备的“孤岛”状态，将全人类与万物共同联接成一个智慧化“大陆“。作 者 丨 宿艺编 辑 丨 子淇“没有谁是一座孤岛/在大海里独踞/每个人都像一块小小的泥土/连接成整个陆地”。 16世纪英...
- ## [华为强力回应美国!华为鸿蒙正式发布：打破20年系统垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1622676604&ver=3107&signature=cl6xpE5KGRokdFhST8z9HtCG6Xxi1gurcLEKUuKncsoR49gOrIMOgg6pVRyzaUkTKR7qRu8Px9EcLmaDf0rRk1luYRORr0IrF*3x-KbuO6C21eWGEPjmfEKAO7ujQTOx&new=1)
+ ## [震撼!华为鸿蒙OS来了，手机即日起可升级!这些上市公司已成合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1622680204&ver=3107&signature=FYI4y1YDHtL2QE-b1ZoUhlkKuJdj*CFMRvjgBTEJJYxmW9LDNfHuVg-6*kcIrhCyVTPSxPfhSScE2h4ucQsR-IH4pH3m2MgEdER8u21fR2MUgIj01kaubQCDyC54gjbP&new=1)
+ > 权威、深度、实用的财经资讯都在这里6月2日晚，华为HarmonyOS 2（鸿蒙操作系统2.0版本）终于揭开面纱！华为消费者业务总裁余承东在HarmonyOS 2及华为全场景新品发布会上正式发布了HarmonyOS 2，并宣布将于6月2日...
+ ## [华为强力回应美国!华为鸿蒙正式发布：打破20年系统垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1622680204&ver=3107&signature=cl6xpE5KGRokdFhST8z9HtCG6Xxi1gurcLEKUuKncsqzbaxWDufNG6qNHsJZeqbdWO1JKzZSS6iopXXcrwgK1RuPV4Ua*Qrapa*YNN-Ykt2MOzG0cz8R42vLr-Ol1lX*&new=1)
  > 6月2日鸿蒙迎来重磅消息，鸿蒙操作系统正式在华为设备上搭载，这是全球第一款运行的物联网操作系统，这也意味着中国在操作软件上，首次实现领先，取得了先发的优势。鸿蒙不只是华为的鸿蒙，鸿蒙的成败也不止是华...
+ ## [混沌初开：全新HarmonyOS 2正式到来!](http://mp.weixin.qq.com/s?src=11&timestamp=1622680204&ver=3107&signature=vIe2Xh1Iof1UdMr3rQ9fg7tKdJS5AgUGcP68oV7cTC8wanNL6T2-*Ql1g9kxN7hi4p1gLT89QxxmE77P9fkmgpEkK74nq*fOqMbCOW2vWK2AQ5TEu1zjAfZi0hXz10R3&new=1)
+ > 作者 | Carol出品 | CSDN（ID：CSDNnews）6月2日晚20:00，华为HarmonyOS 2及华为全场景新品发布会如期召开。发布会上，重磅发布了万众瞩目的HarmonyOS 2正式版，这意味着蛰伏多年、潜心钻研的Harm
+ ## [鸿蒙来了!快看你的手机啥时候升级](http://mp.weixin.qq.com/s?src=11&timestamp=1622680204&ver=3107&signature=cY17O6XEJBcoV4Q2of4QHTfbGs9PnrkoTMJTL4wjv7YqVIkfZjoHs3qOcJPNszqDsQRD4AiG-F67sOKQp*ibOzTW-pju0enziqZpG5juQfHtprJb*kKb6nwSOTnOtsbM&new=1)
+ > 6月2日晚，华为正式发布HarmonyOS 2（鸿蒙），这意味着“鸿蒙手机”已经变成面向市场的正式产品。这个新的操作系统将打通手机、电脑、平板、电视、无人驾驶、车机设备、智能穿戴等。在当天的线上发布会上，华为...
+ ## [中国唯一!世界第三，深度解密鸿蒙系统的星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1622680204&ver=3107&signature=4E2ooikOW48igii5iruAY-JBMauuvNvSmI2TgisT02xexMSTZx7TyFF9gC8iVgx1FKqRXxu9yH6tF44MqMNUtJiiwrLf*BYPkj*ncApmR51QFTyKHC1euGroUfRYOafl&new=1)
+ > 万物互联时代，没有人会是一座孤岛。作者 | 云鹏编辑 | 心缘智东西6月2日晚间消息，刚刚，华为正式发布了鸿蒙操作系统（HarmonyOS，后文简称鸿蒙OS），鸿蒙OS可以搭载在任何IoT设备上，所有设备统一语言，打通体...
 # IT 技术 
  ## [女友晚安之后依然在线：python男友用20行代码写了个小工具](https://blog.csdn.net/weixin_42350212/article/details/117260436)
  > 女友晚安之后依然在线：python男友用20行代码写了个小工具
@@ -33,20 +35,20 @@ categories: IT NEWS
  > 高保真保险行业后台管理原型、微保CRM客户管理、代理人列表、需求书列表、认证审核、代理人资格认证、MDRT认证、保险产品、保险产品附加险、费率、医疗险、养老险、重疾险、主险、保费、意外险、教育险
  ## [Hyperledger Fabric 智能合约实战 (2)软件安装Docker、 Docker-composer、go](https://blog.csdn.net/thefist11cc/article/details/117451017)
  > Hyperledger Fabric 智能合约实战 (2)软件安装Docker、 Docker-composer、go
+ ## [王炸！！Spring 终于对 JVM 动手了…](https://blog.csdn.net/youanyyou/article/details/117447200)
+ > 王炸！！Spring 终于对 JVM 动手了…
  ## [艰辛挺过字节Android研发岗4轮面试，收到sp offer（月薪45k）！揭秘字节面试流程及考点](https://blog.csdn.net/YoungOne2333/article/details/117451544)
  > 艰辛挺过字节Android研发岗4轮面试，收到sp offer（月薪45k）！揭秘字节面试流程及考点
  ## [18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/117389742)
  > 18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家
- ## [4-2 Python面试常考算法](https://blog.csdn.net/u014257214/article/details/117452786)
- > 4-2 Python面试常考算法
  ## [强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！](https://blog.csdn.net/m0_50855872/article/details/117420936)
  > 强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！
  ## [软件测试工程师：别让 “假努力” 毁了你！在该努力的年纪选择 “安逸”](https://blog.csdn.net/weixin_50829653/article/details/117421587)
  > 软件测试工程师：别让 “假努力” 毁了你！在该努力的年纪选择 “安逸”
+ ## [4-2 Python面试常考算法](https://blog.csdn.net/u014257214/article/details/117452786)
+ > 4-2 Python面试常考算法
  ## [痴迷技术，青春无悔，我那不务正业的大学时光！](https://blog.csdn.net/Mculover666/article/details/117422447)
  > 痴迷技术，青春无悔，我那不务正业的大学时光！
- ## [Linux必知必会的基本命令和部署项目流程](https://blog.csdn.net/qq_43941925/article/details/117379051)
- > Linux必知必会的基本命令和部署项目流程
 # 人工智能 
  ## [细谈Go变量的内存分布](https://blog.csdn.net/i6448038/article/details/116854699)
  > 细谈Go变量的内存分布
