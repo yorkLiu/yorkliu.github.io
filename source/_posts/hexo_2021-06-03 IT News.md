@@ -1,61 +1,108 @@
 ---
 title: 2021-06-03 IT News
 copyright: true
-date: 2021-06-03 10:00:59
+date: 2021-06-03 12:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [7点见|华为鸿蒙操作系统正式发布；特斯拉在美召回近6000辆汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=We8rUncNdl3LKZZ97EmXC52696xGEtrgswCH*naNTdWXsruTbEkB0QGR9vexAWweLgbH0v9AQjkXb5o-9ND4wxkuzOqjDDGegBDTwFbwHeW-TT7UWJ9DXlak8XXw7oMM&new=1)
+ ## [微软 6 月 24 日发下一代 Windows；字节海外产品广告收入：每日 900 万美元；华为发搭载鸿蒙系统新品|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=utQaM7tQ8Va3YrL5caetBs2GUS8XlaqyMqAhUJ*O3IaJ7DkXxxuI8R-EgFBlbgyfw8qsMByxihzhcKiBG3Wkw7i9LyVh7rr4VtABTddYlC0JyeFj2Zu*O2iJEp1eBFIn&new=1)
+ > 微软将于 6 月 24 日公布下一代 Windows 系统6 月 3 日凌晨，微软宣布将于 6 月 24 日发布「下一代 Windows 」。微软 CEO 萨提亚·纳德拉在一周前非正式地表示，下一代 Windows 将推出重大改进，无论对开
+ ## [集中式还是分布式?账务类数据库架构的选型](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=vIe2Xh1Iof1UdMr3rQ9fg7tKdJS5AgUGcP68oV7cTC8yXV79e0aPeZufB0GwlwYBQ435PLE1nlwxt1CMV4l6ezITWlEPoW5X9yQcvmKr1vzZEWscQs*IqU5IOa0k0DI*&new=1)
+ > 近年来，分布式数据库已经成为了行业中默认的主流技术方向，仿佛只要一款数据库不是分布式架构，即丧失了其技术先进性，无法承载未来业务的发展。这种观点对于“大数据”时代的海量数据需求完全正确，但是，在“...
+ ## [专访铂力特薛蕾：大生产时代，几十台金属机是3D打印工厂的起点](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=Y9GD4GTKp9-Snbg1xhPfe3hPnJ1l1y6X7GmGDoJrPE13TbByJBn90ICV0YFPSW4F0LE-bEcCSN0ZkWRoX094*tUuqGhPeB9LK7feetgxg86cZiLZzOVGT6pC-xexdMxd&new=1)
+ > 南极熊导读：2021年5月26日，在2021 TCT亚洲3D打印展上，金属3D打印专家铂力特（688333）发布了10激光器的金属3D打印机BLT-S800。这款设备的成形尺寸为800×800×600mm，BLT-S800最大的特点是大尺寸
+ ## [美国：2021 年提升您的职业生涯的10 项网络安全认证标准](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=dP2Ao0difzGDpyhpzaRmbzPjVp*hx2iy9EifzRsLCrCUTM3zjx1UVCl2aqKpmGu1QwI51PILTjqciep7snMU-uk26i4uIbRaSlCJ-3GcEQgOpHSzDsl-dYl5TO704EYG&new=1)
+ > 前情提要     进入 2021 年，因疫情原因，美国公司的远程工作条件依然任重而道远，网络安全仍然是企业的首要任务之一，因此对网络安全专家的需求没有放缓的迹象。美国劳工统计局预测，从 2019 年到 2029 年，信...
+ ## [证券时报头版评论：请给鸿蒙多点儿耐心；联想刘军：过去四年已积累超1.4亿会员；特斯拉法务部开通官方微博|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=cisQDgbBs1IH*wVXV1b3HH4qQMaZ5q5gW5j1ym2GalAzBlHFqwPL4MEisF42I3b-tSuFv-0XHhgQLDjXBezXiNxFg9OJjDWhoJpBF33ec3CB34-EMLTbCufXhxbsHSLY&new=1)
+ > Hello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【华为发布多款搭载鸿蒙新产品，“百”款设备启动升级】6月2日，华为发布多款搭载HarmonyOS 2的新产品，包括HUAWEI Mate 40系列新版本、Mate X2...
+ ## [7点见|华为鸿蒙操作系统正式发布；特斯拉在美召回近6000辆汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=We8rUncNdl3LKZZ97EmXC52696xGEtrgswCH*naNTdVksk*0JXp1vmxd9sNx8JDkVPPwtqNMKSq8sqXem0jnnKUMS88286CHHZzw-0k8*nHTMG3LHpNw9u-BuQqF-OmX&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！华为宣布HarmonyOS 2操作系统正式发布北京时间6月2日，华为举行新品发布会，正式宣布HarmonyOS操作系统正式发布。这意味着搭载HarmonyOS系统的智能手机已经变成面向市场...
- ## [乌当区多家企业入围](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=fjtlNQZtq*b5Xqgi50ptwtT3e4*hC6GUJMwoPNhwffXS1jNfJRr4AEWO8D4eCOOOhTE049fB9Rup7A4OFBk6WSVFDCzM**u6TEIWSEhF7As=&new=1)
+ ## [乌当区多家企业入围](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=fjtlNQZtq*b5Xqgi50ptwtT3e4*hC6GUJMwoPNhwffUauE5WI90A4V69f48o2qN9LEHIp0fPMrW-wsUGBhnzKUUf2Q9JUXx7TGFUfnm5vfc=&new=1)
  > 本报讯 近日，省科技厅对2020年度贵州省科学技术奖评审结果进行公示，乌当区多家企业名列其中。　　其中，贵州师范学院联合贵州大学及湘潭大学研发的“分数阶微分方程定性分析和控制”项目获得省自然科学一...
- ## [“中国版操作系统”来了!华为“鸿蒙系”浮出，手机友商将如何站队](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=mI5xenaQ584VTrOPNIDZB1SvSTXSyUbngcao8BTUjxyXFOc8DgCq1q0756nbXF0duQQXtjsYbF0HlQsivfhhfvs4bJjPH-C9dyy0GDFXpg1qDdmuHF7ro-uWSl3vyoPi&new=1)
+ ## [“中国版操作系统”来了!华为“鸿蒙系”浮出，手机友商将如何站队](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=mI5xenaQ584VTrOPNIDZB1SvSTXSyUbngcao8BTUjxwjswVbs*PPcrzSdy7zx0dzJwOYH1Lz0a8ZjQ4-w2ZWk8wK3lUGNZxia*pGFNbV3TG*TAxen6mu6YFChFGqrXMH&new=1)
  > 华夏时报记者 卢晓 北京报道华为的鸿蒙系统（Harmony OS）终于对外揭开面纱。6月2日晚间，华为正式对外发布了鸿蒙操作系统。“过去我们解决了安卓系统越来越卡顿的问题，鸿蒙系统则解决了不同硬件间的简单连接。...
- ## [没有人会是一座孤岛，鸿蒙肇判，风气始开](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=wiS*dk3kCNjUhC1QzyH-dyiGMNBAIQR38IVfGhF-x8MNiNaCeDlBCn5rPIzl6npnhIqP2lFaLmhnVFv2-w0evWBlgQ2SAkjaPCJGeaxhzN1wUQcJ9brDM0QWzx9AErmY&new=1)
+ ## [没有人会是一座孤岛，鸿蒙肇判，风气始开](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=wiS*dk3kCNjUhC1QzyH-dyiGMNBAIQR38IVfGhF-x8MdI6z75aPPMNIQwTetVtcjo-nJxbyIHjwDBa39m*fY0gl6ze8WbAF4yZQ21KmXekMPIFC9Pdpu5rUEIMTNqItz&new=1)
  > HarmonyOS目标打破全球设备的“孤岛”状态，将全人类与万物共同联接成一个智慧化“大陆“。作 者 丨 宿艺编 辑 丨 子淇“没有谁是一座孤岛/在大海里独踞/每个人都像一块小小的泥土/连接成整个陆地”。 16世纪英...
- ## [震撼!华为鸿蒙OS来了，手机即日起可升级!这些上市公司已成合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=FYI4y1YDHtL2QE-b1ZoUhlkKuJdj*CFMRvjgBTEJJYxmW9LDNfHuVg-6*kcIrhCymjHO6J5msK*EAaEfzecrmddP270HzGMgGdprrTy8WgjsBM1SHcA7SEe2tjETsq0p&new=1)
+ ## [震撼!华为鸿蒙OS来了，手机即日起可升级!这些上市公司已成合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=FYI4y1YDHtL2QE-b1ZoUhlkKuJdj*CFMRvjgBTEJJYzxaMnOllzH-VItu9gAf5SpmWArhZRV-b-yJmvPzG00YQjTY01rvcfuwpNSYNH0wEZsy1HdVWfjlTN18lasyFuh&new=1)
  > 权威、深度、实用的财经资讯都在这里6月2日晚，华为HarmonyOS 2（鸿蒙操作系统2.0版本）终于揭开面纱！华为消费者业务总裁余承东在HarmonyOS 2及华为全场景新品发布会上正式发布了HarmonyOS 2，并宣布将于6月2日...
- ## [华为强力回应美国!华为鸿蒙正式发布：打破20年系统垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=cl6xpE5KGRokdFhST8z9HtCG6Xxi1gurcLEKUuKncsqzbaxWDufNG6qNHsJZeqbdi*RIATZCCL7FvYAbkhDJEVayVwUb6T3V-By2meBGZVsL2ohGbo-qGEt-2nvq2zAs&new=1)
+ ## [华为强力回应美国!华为鸿蒙正式发布：打破20年系统垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=cl6xpE5KGRokdFhST8z9HtCG6Xxi1gurcLEKUuKncsovKuEMe3d1Knn70Pvwmgw2HsIiqP5Vy4I9CDD4HuKgEGjNjfGO0WZGYoXYF4Qsd328xekB-qK9L1fPU4XR3CTm&new=1)
  > 6月2日鸿蒙迎来重磅消息，鸿蒙操作系统正式在华为设备上搭载，这是全球第一款运行的物联网操作系统，这也意味着中国在操作软件上，首次实现领先，取得了先发的优势。鸿蒙不只是华为的鸿蒙，鸿蒙的成败也不止是华...
- ## [混沌初开：全新HarmonyOS 2正式到来!](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=vIe2Xh1Iof1UdMr3rQ9fg7tKdJS5AgUGcP68oV7cTC8wanNL6T2-*Ql1g9kxN7hi2EyjfPdujz2rih9LjkwWnYXU2uV1EOo2tglriPFu-qS0stxv2O08S8Re9UdFNi3G&new=1)
+ ## [混沌初开：全新HarmonyOS 2正式到来!](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=vIe2Xh1Iof1UdMr3rQ9fg7tKdJS5AgUGcP68oV7cTC*wpftsTh1GmizTxw-pMUchFvdEs7EKQVmkVT72mvGTIWQ*HLd86inZXBIzNsB7I5jgntm2AkcsGev-*pOKEADI&new=1)
  > 作者 | Carol出品 | CSDN（ID：CSDNnews）6月2日晚20:00，华为HarmonyOS 2及华为全场景新品发布会如期召开。发布会上，重磅发布了万众瞩目的HarmonyOS 2正式版，这意味着蛰伏多年、潜心钻研的Harm
- ## [鸿蒙来了!快看你的手机啥时候升级](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=cY17O6XEJBcoV4Q2of4QHTfbGs9PnrkoTMJTL4wjv7YqVIkfZjoHs3qOcJPNszqDF9NNoITu3hqqBEjjIGsCLG1K5nR5QLnRaGFvOrsLUg6WJKHppL0aUFlQMz3-a4sF&new=1)
+ ## [鸿蒙来了!快看你的手机啥时候升级](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=cY17O6XEJBcoV4Q2of4QHTfbGs9PnrkoTMJTL4wjv7Ytx2oAIPsfGEe0y4AaIPVBAZjwwoNC0iQhzu3Z409leht7FzcLsreLo3FSYcwJsyTR5TnWYC7tPmO0ZucStZDO&new=1)
  > 6月2日晚，华为正式发布HarmonyOS 2（鸿蒙），这意味着“鸿蒙手机”已经变成面向市场的正式产品。这个新的操作系统将打通手机、电脑、平板、电视、无人驾驶、车机设备、智能穿戴等。在当天的线上发布会上，华为...
- ## [中国唯一!世界第三，深度解密鸿蒙系统的星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1622683804&ver=3107&signature=4E2ooikOW48igii5iruAY-JBMauuvNvSmI2TgisT02xexMSTZx7TyFF9gC8iVgx1SsQwE1jL8OdKmb8Jl74sFb2L2*3SF6*lsiRPHsfVB0z350-9xymyGz8zct*k10Rt&new=1)
+ ## [中国唯一!世界第三，深度解密鸿蒙系统的星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1622691004&ver=3107&signature=4E2ooikOW48igii5iruAY-JBMauuvNvSmI2TgisT02xsD6yOdUNeRNXNny4GDC1kUsvyXfkyWPebPHEXfHssQlUflWRSbDGjOJvEbQ0TviO92GNqz2ZB-FHEf0Ffn1fY&new=1)
  > 万物互联时代，没有人会是一座孤岛。作者 | 云鹏编辑 | 心缘智东西6月2日晚间消息，刚刚，华为正式发布了鸿蒙操作系统（HarmonyOS，后文简称鸿蒙OS），鸿蒙OS可以搭载在任何IoT设备上，所有设备统一语言，打通体...
 # IT 技术 
  ## [女友晚安之后依然在线：python男友用20行代码写了个小工具](https://blog.csdn.net/weixin_42350212/article/details/117260436)
  > 女友晚安之后依然在线：python男友用20行代码写了个小工具
- ## [史上最全C/C++思维导图，B站疯传，快收藏！！（附配套学习视频）](https://blog.csdn.net/gjggj/article/details/117329133)
- > 史上最全C/C++思维导图，B站疯传，快收藏！！（附配套学习视频）
- ## [从零开始带你一步一步使用YOLOv3训练自己的数据](https://blog.csdn.net/red_stone1/article/details/117425017)
- > 从零开始带你一步一步使用YOLOv3训练自己的数据
- ## [打包优化（一）——脚手架项目默认命令 & 自己node+express实现服务器](https://blog.csdn.net/weixin_44867717/article/details/117433778)
- > 打包优化（一）——脚手架项目默认命令 &amp; 自己node+express实现服务器
- ## [CSS的伪类和伪元素，满满干货指导](https://blog.csdn.net/m0_57771583/article/details/117482608)
- > CSS的伪类和伪元素，满满干货指导
- ## [2021蓝桥杯省赛B组c/c++部分题目](https://blog.csdn.net/weixin_43850253/article/details/117479501)
- > 2021蓝桥杯省赛B组c/c++部分题目
- ## [高保真保险行业后台管理原型、微保CRM客户管理、代理人列表、需求书列表、认证审核、代理人资格认证、MDRT认证、保险产品、保险产品附加险、费率、医疗险、养老险、重疾险、主险、保费、意外险、教育险](https://blog.csdn.net/PM_beichen/article/details/117441772)
- > 高保真保险行业后台管理原型、微保CRM客户管理、代理人列表、需求书列表、认证审核、代理人资格认证、MDRT认证、保险产品、保险产品附加险、费率、医疗险、养老险、重疾险、主险、保费、意外险、教育险
- ## [Hyperledger Fabric 智能合约实战 (2)软件安装Docker、 Docker-composer、go](https://blog.csdn.net/thefist11cc/article/details/117451017)
- > Hyperledger Fabric 智能合约实战 (2)软件安装Docker、 Docker-composer、go
- ## [串口屏开发之新手入门引导——嵌入式小白也能开发出靓丽的UI界面](https://blog.csdn.net/w464960660/article/details/117435389)
- > 串口屏开发之新手入门引导——嵌入式小白也能开发出靓丽的UI界面
+ ## [Python|了解自己密码难度等级](https://blog.csdn.net/gschen_cn/article/details/117408509)
+ > Python|了解自己密码难度等级
+ ## [学习笔记（九）——JSON 和 AJAX](https://blog.csdn.net/qq_46485161/article/details/117404885)
+ > 学习笔记（九）——JSON 和 AJAX
+ ## [NX二次开发(C)-UIStyler-枚举](https://blog.csdn.net/yang19861007/article/details/117221443)
+ > NX二次开发(C)-UIStyler-枚举
+ ## [Node.js+Vue+mysql项目实战入门之环境搭建，项目创建-附github地址](https://blog.csdn.net/weixin_42565135/article/details/117398528)
+ > Node.js+Vue+mysql项目实战入门之环境搭建，项目创建-附github地址
+ ## [20210601-C++面试](https://blog.csdn.net/qq_35927741/article/details/117449718)
+ > 20210601-C++面试
+ ## [Angular 快速搭建在线 Markdown 编辑器](https://blog.csdn.net/dz1822802785/article/details/117470799)
+ > Angular 快速搭建在线 Markdown 编辑器
+ ## [php编译时没有phpize文件的解决办法](https://blog.csdn.net/weixin_41635750/article/details/117377373)
+ > php编译时没有phpize文件的解决办法
  ## [快速学完OpenCV+python计算机视觉图像处理（四）](https://blog.csdn.net/weixin_41529012/article/details/117479111)
  > 快速学完OpenCV+python计算机视觉图像处理（四）
- ## [毕业季，用MATLAB制作一款环形相册吧 !](https://blog.csdn.net/slandarer/article/details/117451019)
- > 毕业季，用MATLAB制作一款环形相册吧 !
- ## [艰辛挺过字节Android研发岗4轮面试，收到sp offer（月薪45k）！揭秘字节面试流程及考点](https://blog.csdn.net/YoungOne2333/article/details/117451544)
- > 艰辛挺过字节Android研发岗4轮面试，收到sp offer（月薪45k）！揭秘字节面试流程及考点
- ## [20+免费精美响应式Html5 网站模板01(含源码)](https://blog.csdn.net/qq_44273429/article/details/117460213)
- > 20+免费精美响应式Html5 网站模板01(含源码)
+ ## [我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！](https://blog.csdn.net/AI19970205/article/details/117417156)
+ > 我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！
  ## [18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/117389742)
  > 18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家
- ## [王炸！！Spring 终于对 JVM 动手了…](https://blog.csdn.net/youanyyou/article/details/117447200)
- > 王炸！！Spring 终于对 JVM 动手了…
+ ## [强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！](https://blog.csdn.net/m0_50855872/article/details/117420936)
+ > 强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！
+ ## [艰辛挺过字节Android研发岗4轮面试，收到sp offer（月薪45k）！揭秘字节面试流程及考点](https://blog.csdn.net/YoungOne2333/article/details/117451544)
+ > 艰辛挺过字节Android研发岗4轮面试，收到sp offer（月薪45k）！揭秘字节面试流程及考点
+ ## [4-2 Python面试常考算法](https://blog.csdn.net/u014257214/article/details/117452786)
+ > 4-2 Python面试常考算法
+ ## [软件测试工程师：别让 “假努力” 毁了你！在该努力的年纪选择 “安逸”](https://blog.csdn.net/weixin_50829653/article/details/117421587)
+ > 软件测试工程师：别让 “假努力” 毁了你！在该努力的年纪选择 “安逸”
+# 人工智能 
+ ## [细谈Go变量的内存分布](https://blog.csdn.net/i6448038/article/details/116854699)
+ > 细谈Go变量的内存分布
+ ## [官宣！《新程序员·开发者黄金十年》正式发布](https://blog.csdn.net/csdnnews/article/details/117376769)
+ > 官宣！《新程序员·开发者黄金十年》正式发布
+ ## [让我们用 SQL 开发一个图形数据库吧！](https://blog.csdn.net/horses/article/details/117410446)
+ > 让我们用 SQL 开发一个图形数据库吧！
+ ## [开源Marlin2.x源代码架构学习笔记](https://blog.csdn.net/morixinguan/article/details/117433549)
+ > 开源Marlin2.x源代码架构学习笔记
+ ## [18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/117389742)
+ > 18年程序员生涯，读了200多本编程书，挑出一些精华分享给大家
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [越来越卷，教你使用Python实现卷积神经网络（CNN）](https://blog.csdn.net/weixin_44510615/article/details/117409037)
+ > 越来越卷，教你使用Python实现卷积神经网络（CNN）
+ ## [硬核图解，再填猛男，YOLO详解！](https://blog.csdn.net/c406495762/article/details/117434351)
+ > 硬核图解，再填猛男，YOLO详解！
+ ## [死磕算法！35篇算法设计实例+6本必读书打包送你](https://blog.csdn.net/weixin_52710450/article/details/117417086)
+ > 死磕算法！35篇算法设计实例+6本必读书打包送你
+ ## [痴迷技术，青春无悔，我那不务正业的大学时光！](https://blog.csdn.net/Mculover666/article/details/117422447)
+ > 痴迷技术，青春无悔，我那不务正业的大学时光！
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [面试官问我有环链表中怎么找到入口，本以为很简单当场却想傻了](https://blog.csdn.net/qq_40693171/article/details/117406085)
+ > 面试官问我有环链表中怎么找到入口，本以为很简单当场却想傻了
+ ## [小白问哪种编程语言最好，二当家呵呵一笑，当然是......](https://blog.csdn.net/leyi520/article/details/117418543)
+ > 小白问哪种编程语言最好，二当家呵呵一笑，当然是......
+ ## [张伟伟-层次3 DCGAN动漫图像生成](https://blog.csdn.net/m0_37758063/article/details/116765933)
+ > 张伟伟-层次3 DCGAN动漫图像生成
+ ## [论文阅读|《 基于强化学习的自适应遗传算法求解柔性作业车间调度问题》](https://blog.csdn.net/crazy_girl_me/article/details/117448080)
+ > 论文阅读|《 基于强化学习的自适应遗传算法求解柔性作业车间调度问题》
 # PM 
+ ## [教你轻松打造一份邀约不断的简历 冲击高薪！](http://www.chanpin100.com/article/116120)
+ > 在职场中，跳槽是一件再正常不过的事情了，毕竟人往高处走嘛，谁都想越混越好。那么，跳槽的第一步当然是准备简历了，产品经理要如何打造一份邀约不断的简历呢？
+ ## [产品经理面试之HR常问问题分享（五）](http://www.chanpin100.com/article/116119)
+ > 在面试中，第一步肯定是要与HR先进行交涉的。那么，HR常问的问题到底会有哪些呢？请看本文“产品经理面试之HR常问问题分享（五）”中分享的内容吧！
+ ## [产品经理面试之HR常问问题分享（四）](http://www.chanpin100.com/article/116116)
+ > 既然来参加公司的产品经理面试，那对于公司产品方面的问题也是必不可少的。遇到这种类型的问题该怎么回答呢？请看本文“产品经理面试之HR常问问题分享（四）”中的内容吧！
  ## [日常吐槽系列~时间篇](http://www.chanpin100.com/article/116106)
  > 滴滴！这轻微却刺耳的声音将小明从梦境中拉醒，惯性的眯着眼拿起手机心里嘀咕着这么早，直到看见时间的那一刻他才感觉世界很美。
  ## [电商产品经理必懂专业术语（十一）](http://www.chanpin100.com/article/116111)
@@ -88,9 +135,5 @@ categories: IT NEWS
  > 这是一份三大知名互联网企业对产品经理岗位的要求调研，如果你想要冲击大厂，那就接着往下看吧。三大知名互联网企业对于产品经理的能力要求还是有所区别的。
  ## [搞定数据分析输入的'三步走'方针](http://www.chanpin100.com/article/116095)
  > 在信息化时代中，数据越来越多，使用的门槛越来越低，工作中强调的是用数据来说话，依赖数据来决策；你是否遇到数据被挑战，连带结论一起被质疑。
- ## [一个程序员眼中的数据中台-数据服务篇](http://www.chanpin100.com/article/116052)
- > 数据服务是在数据中台落地的一个对外输出数据的环节，数据分析师或算法工程师产出的结果数据可以方便提供给前台业务或公司外部的系统，也可以承载部分的数据交换任务。可以根据具体的业务特点来配置适合的数据传输方式。
- ## [B端产品经理与技术 懂与怎么懂](http://www.chanpin100.com/article/116094)
- > B端产品经理需要懂技术，在互联网行业已经是一个共识。毕竟互联网行业，也只是软件行业的一个细分，也逃不掉软件研发的一些固有规律。
 
     
