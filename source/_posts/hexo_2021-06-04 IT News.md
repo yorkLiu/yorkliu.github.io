@@ -1,50 +1,52 @@
 ---
 title: 2021-06-04 IT News
 copyright: true
-date: 2021-06-04 08:00:59
+date: 2021-06-04 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国占 47%!2020 年苹果App Store销售额高达 6430 亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1622763005&ver=3109&signature=Ds7Sg-Gwq38EJzkQrYfe*CkcLfPdQeiywHusSfvT04tldRaW3a5qBpQBRXO9BplIoZb19Tg6b*bZaawIMmdoxRWtn7Ybz1zWlYV-V-KtmPmQogrCb*ssqhSTz4F9060h&new=1)
- > 苹果资讯频道是微信里最热的、粉丝最多的苹果类公众号！这里苹果迷的聚集地！查苹果保修、查苹果序列号、查iPhone报价、苹果iPhone估价、买卖二手iPhone、iPhone回收、鉴别苹果山寨机、找回丢失的iPhone，在这里...
- ## [吸睛又吸金!华为鸿蒙来了，10只概念股应声涨停，超5.5亿元资金追捧这4只个股!](http://mp.weixin.qq.com/s?src=11&timestamp=1622763005&ver=3109&signature=bpVQ*yHa*9IdsR0UBam-ir7jK4qW1KJwFxjn74remnNbO7Srbh0*VPmj1aCfe06ACdRwvTjXNuRxxMf6iHSX1ufd7zAqUnI5rMUBF0XYq33xqWRRz1LrItKiFT82HM8A&new=1)
- > 文 | 张颖6月2日晚间，华为正式发了鸿蒙操作系统2.0（HarmonyOS），该系统可以搭载在任何loT设备上，将所有设备统一语言，打通生态系统实现万物互联。    这一消息如同一剂强心针瞬间引爆A股市场，6月3日早...
- ## [为什么我会觉得，HarmonyOS 才能开启未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1622763005&ver=3109&signature=ikuEHCgRzi5AVTOzXK6uFCe4E8L5Gzfq5zFBb**-Q7IgUEkgkWLCpMDJtL3h-AanVt8OVNDaDjkyq8QJl*tNSEvd-9PLAJ6i5YqFXtuqyEsUiRldml*nruFJm3SZOMhY&new=1)
+ ## [鸿蒙：华为的“鱼和熊掌”](http://mp.weixin.qq.com/s?src=11&timestamp=1622766604&ver=3109&signature=rz1ncQpmMfAEcJvLKnqpU22ldnSL5XDyKsqg6**4A1vM1yH23BS0wJcuqtAJQADWLW1P7slBUKryBB8KmGxuDPnmQ1obmCgWGR9cFfQ7uSymAHI*mNkZo7RMlvH*WgHX&new=1)
+ > 鸿蒙系统正以与预期大体同步的速度，取得明显的进展。这已经说明，操作系统技术并不是一个不可逾越的门槛。作者：邹卫国封图：东方IC导读壹  || 华为将未来几十年的愿景，概括为智能社会。智能社会的描画下，新...
+ ## [为什么我会觉得，HarmonyOS 才能开启未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1622766604&ver=3109&signature=ikuEHCgRzi5AVTOzXK6uFCe4E8L5Gzfq5zFBb**-Q7IgUEkgkWLCpMDJtL3h-Aan7dCOhZgkAwJyWGlYfqdxDAIrPvgi5wzXoCAus1vYTVtDg-1Fp9XB8sfTFdpJLx6s&new=1)
  > HarmonyOS 缘起HarmonyOS 2 终于在万众期待中登场了。正如布局 5G 那样，HarmonyOS（鸿蒙操作系统）的诞生，恰恰说明了华为对于未来科技发展的方向进行了较为准确的研判，科技领域，尤其是消费电子领域，新的变...
- ## [中国移动70亿元GPON家庭网关大单落幕：谁是黑马?谁是赢家?](http://mp.weixin.qq.com/s?src=11&timestamp=1622763005&ver=3109&signature=JADyO0OojgUFIji-uzYggza7YoEtW*DyDbksJi1mKbsl-SlsG3*-CyEwXhmLgtPFqqVYyk6g-m2OfzYwr16bnIxKebOwojBhcc1St0eirAV0DocUIconUOGBUWfyxTDY&new=1)
+ ## [中国占 47%!2020 年苹果App Store销售额高达 6430 亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1622766604&ver=3109&signature=Ds7Sg-Gwq38EJzkQrYfe*CkcLfPdQeiywHusSfvT04tldRaW3a5qBpQBRXO9BplIfH7jN9xNjRsNOsq3QIjnnxuwFxB-KcE8pTjzLSFot-xTHP3Id03yJmIJckAOc96W&new=1)
+ > 苹果资讯频道是微信里最热的、粉丝最多的苹果类公众号！这里苹果迷的聚集地！查苹果保修、查苹果序列号、查iPhone报价、苹果iPhone估价、买卖二手iPhone、iPhone回收、鉴别苹果山寨机、找回丢失的iPhone，在这里...
+ ## [吸睛又吸金!华为鸿蒙来了，10只概念股应声涨停，超5.5亿元资金追捧这4只个股!](http://mp.weixin.qq.com/s?src=11&timestamp=1622766604&ver=3109&signature=bpVQ*yHa*9IdsR0UBam-ir7jK4qW1KJwFxjn74remnNbO7Srbh0*VPmj1aCfe06AFMUIaFRjpnn48kbno*ZuIFndiEkfOig66IgzjCGxfhXKl9sci1qRPK33ZuyckSEN&new=1)
+ > 文 | 张颖6月2日晚间，华为正式发了鸿蒙操作系统2.0（HarmonyOS），该系统可以搭载在任何loT设备上，将所有设备统一语言，打通生态系统实现万物互联。    这一消息如同一剂强心针瞬间引爆A股市场，6月3日早...
+ ## [中国移动70亿元GPON家庭网关大单落幕：谁是黑马?谁是赢家?](http://mp.weixin.qq.com/s?src=11&timestamp=1622766604&ver=3109&signature=JADyO0OojgUFIji-uzYggza7YoEtW*DyDbksJi1mKbsl-SlsG3*-CyEwXhmLgtPFWyUEiXOPaKDMcOKd4TyNJ7GQysAMbkLl4-BCMtoT3IMfR9feWxSftYdjyEcckqlR&new=1)
  > 6月3日，中国移动公示《2020年至2021年智能家庭网关产品集中采购-公开部分》中标候选人。采购包三10G GPON-双频WiFi6智能家庭网关，中选候选人依次为:深圳创维数字技术有限公司，中选份额为32.26%; 华为技术有限...
 # IT 技术 
- ## [华为鸿蒙系统 Harmony OS 发布会观看总结](https://blog.csdn.net/qq_15071263/article/details/117484989)
- > 华为鸿蒙系统 Harmony OS 发布会观看总结
- ## [地方旅游产业运行监测与应急指挥平台、旅游资源管理平台、旅游产业监测平台、旅游应急指挥平台、旅游资源统计、旅游线路数据、旅游产业可视化大屏、餐饮场所数据、游客流量监测、景区数据监测、视频监控、环境监测](https://blog.csdn.net/PM_beichen/article/details/117249144)
- > 地方旅游产业运行监测与应急指挥平台、旅游资源管理平台、旅游产业监测平台、旅游应急指挥平台、旅游资源统计、旅游线路数据、旅游产业可视化大屏、餐饮场所数据、游客流量监测、景区数据监测、视频监控、环境监测
- ## [JVM万字详解，复习必备。](https://blog.csdn.net/qq_45661125/article/details/117432447)
- > JVM万字详解，复习必备。
- ## [IDEA+Dubbo+Zookeeper+SpringBoot 整合详细教程](https://blog.csdn.net/JAYU_37/article/details/117486815)
- > IDEA+Dubbo+Zookeeper+SpringBoot 整合详细教程
- ## [Photoshop基础知识之图层](https://blog.csdn.net/u011513460/article/details/115801951)
- > Photoshop基础知识之图层
- ## [高保真保险行业后台管理原型、微保CRM客户管理、代理人列表、需求书列表、认证审核、代理人资格认证、MDRT认证、保险产品、保险产品附加险、费率、医疗险、养老险、重疾险、主险、保费、意外险、教育险](https://blog.csdn.net/PM_beichen/article/details/117441772)
- > 高保真保险行业后台管理原型、微保CRM客户管理、代理人列表、需求书列表、认证审核、代理人资格认证、MDRT认证、保险产品、保险产品附加险、费率、医疗险、养老险、重疾险、主险、保费、意外险、教育险
- ## [超硬核！苏州同程旅游学长给我的全面的面试知识库](https://blog.csdn.net/weixin_46931877/article/details/117378068)
- > 超硬核！苏州同程旅游学长给我的全面的面试知识库
- ## [Java面向对象内存分析](https://blog.csdn.net/m0_46672151/article/details/117365296)
- > Java面向对象内存分析
- ## [嵌入式软件架构设计](https://blog.csdn.net/maodewen11/article/details/117449220)
- > 嵌入式软件架构设计
+ ## [【Java面试题总结 7】Spring框架综合篇（附答案）](https://blog.csdn.net/guorui_java/article/details/117375355)
+ > 【Java面试题总结 7】Spring框架综合篇（附答案）
+ ## [20210601-C++面试](https://blog.csdn.net/qq_35927741/article/details/117449718)
+ > 20210601-C++面试
+ ## [python表白玫瑰花绘制——情人节表白](https://blog.csdn.net/weixin_44044161/article/details/117338282)
+ > python表白玫瑰花绘制——情人节表白
+ ## [VS2017下创建C++动态库导出符合并完成调用测试(DLL可供C调用)](https://blog.csdn.net/xiaolong1126626497/article/details/117223128)
+ > VS2017下创建C++动态库导出符合并完成调用测试(DLL可供C调用)
+ ## [PyQT学习之Stacked Widget控件](https://blog.csdn.net/m0_37633929/article/details/117372700)
+ > PyQT学习之Stacked Widget控件
+ ## [\[强化学习导论阅读笔记-1\]什么是强化学习](https://blog.csdn.net/thehappysheep/article/details/117528647)
+ > \[强化学习导论阅读笔记-1\]什么是强化学习
+ ## [前端面试Vue 高频原理篇+详细解答，还有105道vue面试题集合](https://blog.csdn.net/weixin_52546522/article/details/117404903)
+ > 前端面试Vue 高频原理篇+详细解答，还有105道vue面试题集合
+ ## [golang快速入门（六）特有程序结构](https://blog.csdn.net/loveyouandc/article/details/117464736)
+ > golang快速入门（六）特有程序结构
  ## [快速学完OpenCV+python计算机视觉图像处理（四）](https://blog.csdn.net/weixin_41529012/article/details/117479111)
  > 快速学完OpenCV+python计算机视觉图像处理（四）
  ## [我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！](https://blog.csdn.net/AI19970205/article/details/117417156)
  > 我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！
  ## [基础入门爬虫：教你怎么用Python爬取爱奇艺热门电影](https://blog.csdn.net/yunyun889901/article/details/117483502)
  > 基础入门爬虫：教你怎么用Python爬取爱奇艺热门电影
+ ## [java基础大总结](https://blog.csdn.net/Augenstern_QXL/article/details/117482673)
+ > java基础大总结
  ## [指针的这些知识你知道吗？C语言超硬核指针进阶版3w+字详解+指针笔试题画图+文字详细讲解](https://blog.csdn.net/attemptendeavor/article/details/117479280)
  > 指针的这些知识你知道吗？C语言超硬核指针进阶版3w+字详解+指针笔试题画图+文字详细讲解
+ ## [王炸！！Spring 终于对 JVM 动手了…](https://blog.csdn.net/youanyyou/article/details/117447200)
+ > 王炸！！Spring 终于对 JVM 动手了…
  ## [学习Linux你要是不知道这些，那你可能真的都算不上入门！](https://blog.csdn.net/weixin_44940405/article/details/117476790)
  > 学习Linux你要是不知道这些，那你可能真的都算不上入门！
- ## [强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！](https://blog.csdn.net/m0_50855872/article/details/117420936)
- > 强烈推荐！CSDN浏览器助手，让你的浏览器上10个档次！
 # 人工智能 
  ## [细谈Go变量的内存分布](https://blog.csdn.net/i6448038/article/details/116854699)
  > 细谈Go变量的内存分布
