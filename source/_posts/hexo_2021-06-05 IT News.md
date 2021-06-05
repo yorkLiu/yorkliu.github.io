@@ -1,54 +1,60 @@
 ---
 title: 2021-06-05 IT News
 copyright: true
-date: 2021-06-05 10:01:19
+date: 2021-06-05 12:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeZ9FSb8yytUSu-K1PYmgS9Ll5-sy3*SxEJNB0wTauyzbqqzBiE6nugmX-drsGUV5firb8V*3ZQF35aiT1c05Kt9&new=1)
+ ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeYwA-cO4XC*xz8pZvnamxLsqmJ3jUenJGGku1c2WxLPRZT1Zdl6GlA8VJhb4JgWY-4-dJtyWnEkr26NDoNZjpUJ&new=1)
  > 做为半导体工艺生产的核心装备，光刻机这几年成为热点，华为最大的难题就是先进芯片无法生产出来，这需要解决光刻机的问题。日前华为旗下的哈勃投资公司开始投资这个领域了，入股了科益虹源公司。从企查查信息来...
- ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47wgjlvU6QIC-q6IhSKV85mE770POAEqfADt7FgQL*x2izrILEdN7xthxZLjsMrBeXoec0gsRbvO7v8fbScPAI*p&new=1)
- > 说“VR元年”是个被炒烂的概念，都算是客气了。2012年Oculus Rift惊艳亮相的时候，是人们第一次意识到消费级VR产品的可能性。一时间，像是HTC Vive这样的早期产品一窝蜂涌入市场，市场营销活动铺天盖地，看起来...
- ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h7mICWeRWssJKKnjJVUg8fy9n0hCKQcEvvNyOr6ExFTqqDX0ozb0rUj*OxS3-cnIq9hAUEwA9a8CO9qzoa-ZqTA&new=1)
- > 摘要：上汽智己的数据交易模式是否能成为行业趋势？在用户数据安全和智能驾驶技术发展需求之间，是否还有其他可行的数据共享模式？留给整个行业寻找解决方案的时间已经不多了。 文 | 周菊像一粒石子，网信办在今...
- ## [美国“不小心”泄露了一件武器，全球百万人都……](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=dOTfrEgd4t0rBgcclaKxKAU*RVUe0IFj-LBFd*7PZvkixfjODqq0WTpLiPZ6fIIrxDdUbpnv3R6HdIOSNEgCbKu12OPrBySDjpdCJqJvu7WZGJ4x8X6fJH2UUFt9yhSj&new=1)
+ ## [美国“不小心”泄露了一件武器，全球百万人都……](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=dOTfrEgd4t0rBgcclaKxKAU*RVUe0IFj-LBFd*7PZvmZulSIlcRfLI0DMBKE7ccCoHyh6fDn1nDrEjuAlMCyIZHflF19z*nOTRoOOV8Ep1txCu*Dy1i13GiBTwFcS9ef&new=1)
  > 近日，美国联邦调查局（FBI）发布安全通告指出，勒索软件团伙Conti试图攻击破坏十多家美国医疗和应急机构的网络。近年来，勒索软件组织危害席卷全球，诸多国家、企业机构受到重创。 就在5月初，美国多个州进入紧...
- ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbGZKtKvNTP4BPjFmj8aBiDZhVqxsPn681QOT70QB2IXtCDhXLnYLEPiRVcjvAJdgVRhlE5B4j*pVpRveITmN78D&new=1)
+ ## [专访阿博格：精确控制液滴，打通3D打印原型与注塑生产](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=VXzpX1G-lSw9eQM2r8wp5P9ZCoIufBL0aWFP*T*Y71lZLHTo0tLJa1YaUCwNfvcwVGfC2vuMQ79Ptkhr95pg51omtQbzEi*A3oI0HAqoulHsiXZCHgwy3MfPV8GTSUuZ&new=1)
+ > 导读：你是否也曾设想过拥有这样一台3D打印机，可以缩短原型验证和注塑生产之间的距离，没错，阿博格提供的就是这样一款设备，可以直接用注塑的颗粒材料来打印，让你轻松打通打样和批量生产。2021年5月27日，在2...
+ ## [苹果仍未放弃类 AirPower 充电器；BOSS直聘更新招股书；武汉建成中国首个全5G接入开放道路自动驾驶示范区|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=szNWJyuKJ4vff71Ix83sxG01vMUVlniXGapg3Qe4sS2mZ8YIz37rpLnN4JVWJ41XasEZbSUV0u4Cr2XBhLGr1hY9BHfQ-nTqpR7k7Cy8M1xDTBmVKswSbWtXC6DPMIAt&new=1)
+ > Hello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【消息称苹果仍在开发类 AirPower 充电器】彭博社记者 Mark Gurman 称，苹果仍在开发它的无线充电器，其功能类似于现已放弃的 AirPower。在一份...
+ ## [\[报告\]2021汽车车灯行业深度研究(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=p7dBjA5Z4B2ZckFdLWuiO7mhpMpUBEicYiAs1mDU7Fd6PnMLob7QamAaDXzVGn-5P6NaGTBu5q6rDM9z*hx2Ek9fkLa8EoWvJFBylQPZVHLJ9jrlpqmc2yjQuHgWe-pf&new=1)
+ > 车灯价值量具备“起点高、弹性大、持续长”三大特征，短期LED、长期智能车灯和激光大灯等渗透，是零部件细分优质赛道。本文主要研究了车灯行业LED、ADB渗透率及市场空间、核心车企车灯配置，并对造车新势力车灯...
+ ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47xAlEiDu*1xBtdtnKVGKxvwW7d5Yg*R*Qx7Dsr8ta-kce86zy4Y9LGvbNXWhGhJn1QBbawJiijctgTDvAhFcmOQ&new=1)
+ > 说“VR元年”是个被炒烂的概念，都算是客气了。2012年Oculus Rift惊艳亮相的时候，是人们第一次意识到消费级VR产品的可能性。一时间，像是HTC Vive这样的早期产品一窝蜂涌入市场，市场营销活动铺天盖地，看起来...
+ ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h6n7cnipPp5DnpGpzGmEj9StoY8swtouxQ3k1U2k2vkHRxNinoqKdI0owl9k2T3cVFVSRrCvmrlpn7Iw3czBuRk&new=1)
+ > 摘要：上汽智己的数据交易模式是否能成为行业趋势？在用户数据安全和智能驾驶技术发展需求之间，是否还有其他可行的数据共享模式？留给整个行业寻找解决方案的时间已经不多了。 文 | 周菊像一粒石子，网信办在今...
+ ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbEHjVovPPCpQfFIHPf4Zwjiio-AjMyu6Y8Mp9QKK1FwgJnsAd3xUpXiHkpH5CpDhArhAlJ3e7m5rwVqa*BQNRGd&new=1)
  > 鸿蒙操作系统日前惊艳问世全国高校第一门鸿蒙系统课程也有了就在武汉大学！武汉大学计算机学院软件工程系讲师赵小刚博士主要研究方向为云计算、绿色计算和移动计算他在武汉大学率先开设全国高校第一个鸿蒙移动编...
- ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLghUSYA6H5X1KZUx0Q3VQnnAcJMrNDSkGPsfI5uOOeCn*b4N6TiI82iS3dQ8LmgPVixWvD826VPkRMPJzETyBsq&new=1)
+ ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLjDKcwx76WAxV9Z6CaBLZuXonWKsM5BJgOZ2STjUVhCHDolcZO3dVvuPF0oLiNUS1SkU06kzm*kMDppfPpzVKZF&new=1)
  > 工信部发布《“5G+工业互联网”十个典型应用场景和五个重点行业实践》的通知工信部郑重发声十大场景、五个行业5G应用已经成熟全国可以推广了！ 值得注意的是全部20个样板案例中9个由中国联通打造，占到45%，8个...
 # IT 技术 
  ## [师妹从我这里白嫖了这些网站，直呼差点错过](https://blog.csdn.net/weixin_41635750/article/details/117178547)
  > 师妹从我这里白嫖了这些网站，直呼差点错过
- ## [新手编程入门语言选哪个？Python如日中天，C、Java正在失去普及性](https://blog.csdn.net/zlk4524718/article/details/117375993)
- > 新手编程入门语言选哪个？Python如日中天，C、Java正在失去普及性
- ## [travel 学习分享](https://blog.csdn.net/daddykei/article/details/116565257)
- > travel 学习分享
- ## [C WinForm程序 PDF文档分割代码实现](https://blog.csdn.net/gmaaa123/article/details/117574079)
- > C WinForm程序 PDF文档分割代码实现
- ## [『PHP代码审计』PHPOK存在文件上传漏洞](https://blog.csdn.net/Xxy605/article/details/117512930)
- > 『PHP代码审计』PHPOK存在文件上传漏洞
- ## [淘宝、阿里、京东、腾讯等一线大厂都在用的搜索引擎技术，你确定不来看看？](https://blog.csdn.net/weixin_43896643/article/details/117374349)
- > 淘宝、阿里、京东、腾讯等一线大厂都在用的搜索引擎技术，你确定不来看看？
- ## [字节跳动二面面试官问：JVM垃圾回收器和回收算法，我全靠这个逆天改命！](https://blog.csdn.net/ILOVEMYDEAR/article/details/117399152)
- > 字节跳动二面面试官问：JVM垃圾回收器和回收算法，我全靠这个逆天改命！
- ## [想谈甜甜的恋爱时，可以用Python来绘画唯美的飘落银杏树来安抚自己](https://blog.csdn.net/yunyun889901/article/details/117366517)
- > 想谈甜甜的恋爱时，可以用Python来绘画唯美的飘落银杏树来安抚自己
+ ## [go 1.16.4 指定下载的第三方库的存储路径(ubuntu 21.04)](https://blog.csdn.net/weixin_43881017/article/details/117252123)
+ > go 1.16.4 指定下载的第三方库的存储路径(ubuntu 21.04)
+ ## [盘点golang中的开发神器](https://blog.csdn.net/lkxiaolou/article/details/117436131)
+ > 盘点golang中的开发神器
+ ## [Nest框架（一）](https://blog.csdn.net/weixin_55685975/article/details/117557372)
+ > Nest框架（一）
+ ## [深度学习—近年来流行的卷积神经网络（一）](https://blog.csdn.net/DIPDWC/article/details/117436454)
+ > 深度学习—近年来流行的卷积神经网络（一）
+ ## [小白问哪种编程语言最好，二当家呵呵一笑，当然是......](https://blog.csdn.net/leyi520/article/details/117418543)
+ > 小白问哪种编程语言最好，二当家呵呵一笑，当然是......
+ ## [python爬取英雄联盟皮肤结合多线程的方法](https://blog.csdn.net/weixin_54733110/article/details/117294289)
+ > python爬取英雄联盟皮肤结合多线程的方法
+ ## [PHP学习笔记](https://blog.csdn.net/qq_44159028/article/details/116895883)
+ > PHP学习笔记
  ## [爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】](https://blog.csdn.net/lland5201314/article/details/117522739)
  > 爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】
  ## [用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访](https://blog.csdn.net/zhiguigu/article/details/117557899)
  > 用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访
  ## [手把手教你做出数据可视化项目（四）动态模拟航班飞行路线](https://blog.csdn.net/diviner_s/article/details/117340420)
  > 手把手教你做出数据可视化项目（四）动态模拟航班飞行路线
- ## [当下最受欢迎的编辑器，赶紧用起来！](https://blog.csdn.net/u011074149/article/details/117556655)
- > 当下最受欢迎的编辑器，赶紧用起来！
+ ## [学习python的第一步，记住这些单词，一周就能上手敲代码](https://blog.csdn.net/lland5201314/article/details/117472629)
+ > 学习python的第一步，记住这些单词，一周就能上手敲代码
+ ## [java基础大总结](https://blog.csdn.net/Augenstern_QXL/article/details/117482673)
+ > java基础大总结
  ## [我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！](https://blog.csdn.net/AI19970205/article/details/117417156)
  > 我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！
  ## [快速学完OpenCV+python计算机视觉图像处理（四）](https://blog.csdn.net/weixin_41529012/article/details/117479111)
  > 快速学完OpenCV+python计算机视觉图像处理（四）
- ## [java基础大总结](https://blog.csdn.net/Augenstern_QXL/article/details/117482673)
- > java基础大总结
 # 人工智能 
  ## [细谈Go变量的内存分布](https://blog.csdn.net/i6448038/article/details/116854699)
  > 细谈Go变量的内存分布
@@ -81,8 +87,6 @@ categories: IT NEWS
  ## [百度飞桨顶会论文复现营DETR解读笔记](https://blog.csdn.net/weixin_39707121/article/details/117486417)
  > 百度飞桨顶会论文复现营DETR解读笔记
 # PM 
- ## [哪个行业的产品经理薪资最高？应该如何抓住机遇？](http://www.chanpin100.com/article/116167)
- > 谈薪资是一个很敏感的话题，由于每个人的实际收入都不一样，所以不管是高还是低，总有人会提出质疑。当提到产品经理的薪资时，首先要对产品经理进行分类。因为到目前为止，产品经理已有十年历史，发生了许多变化，并产生了细分，所以产品经理的薪资有多少，不能一概而论。
  ## [应届生在面试产品经理岗位时有什么技巧？](http://www.chanpin100.com/article/116208)
  > 很多即将毕业的应届生都想进入产品经理这个行当，实现自己的职业梦想。那么对于应届生来说，在面试产品经理岗位时有没有什么技巧呢？别急，下面小编就来给大家分享几个小技巧吧！
  ## [互联网产品经理30岁之后 该如何继续发展？（下）](http://www.chanpin100.com/article/116207)
