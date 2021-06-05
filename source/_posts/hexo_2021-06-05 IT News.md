@@ -1,46 +1,48 @@
 ---
 title: 2021-06-05 IT News
 copyright: true
-date: 2021-06-05 09:01:00
+date: 2021-06-05 10:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h7mICWeRWssJKKnjJVUg8fygLENIVsaJ4HqIUJpineEQ9X76K5gw-YBkT6ey101roSVHWWux5LTksPnQRq7Nbjw&new=1)
- > 摘要：上汽智己的数据交易模式是否能成为行业趋势？在用户数据安全和智能驾驶技术发展需求之间，是否还有其他可行的数据共享模式？留给整个行业寻找解决方案的时间已经不多了。 文 | 周菊像一粒石子，网信办在今...
- ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLghUSYA6H5X1KZUx0Q3VQnny3iE6kmdsWMcD2FQSbj0J96e8*HQzCVNq0Biz-FvAtOJMwp9ub1sUo0Mhidh*pC8&new=1)
- > 工信部发布《“5G+工业互联网”十个典型应用场景和五个重点行业实践》的通知工信部郑重发声十大场景、五个行业5G应用已经成熟全国可以推广了！ 值得注意的是全部20个样板案例中9个由中国联通打造，占到45%，8个...
- ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbGZKtKvNTP4BPjFmj8aBiDZxCbwoKRm6qTDmn9pc27gEDSrbGF16fk3e9MEGtzdgagWsaF-6rMDMwDoimSIyQXI&new=1)
- > 鸿蒙操作系统日前惊艳问世全国高校第一门鸿蒙系统课程也有了就在武汉大学！武汉大学计算机学院软件工程系讲师赵小刚博士主要研究方向为云计算、绿色计算和移动计算他在武汉大学率先开设全国高校第一个鸿蒙移动编...
- ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeZ9FSb8yytUSu-K1PYmgS9LisJ6HrJJlwKvUYbTZFlZVHvOigZ*Cog7qiqphugl3iK7j*ruXqCSIHXJ5ABm5Yty&new=1)
+ ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeZ9FSb8yytUSu-K1PYmgS9Ll5-sy3*SxEJNB0wTauyzbqqzBiE6nugmX-drsGUV5firb8V*3ZQF35aiT1c05Kt9&new=1)
  > 做为半导体工艺生产的核心装备，光刻机这几年成为热点，华为最大的难题就是先进芯片无法生产出来，这需要解决光刻机的问题。日前华为旗下的哈勃投资公司开始投资这个领域了，入股了科益虹源公司。从企查查信息来...
- ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47wgjlvU6QIC-q6IhSKV85mELWqk0c10o23Gs5u-PB21CSfYGc09XaRXWSi1K9jERwp*1nRWPRtTTvI-ws8Ms8o0&new=1)
+ ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47wgjlvU6QIC-q6IhSKV85mE770POAEqfADt7FgQL*x2izrILEdN7xthxZLjsMrBeXoec0gsRbvO7v8fbScPAI*p&new=1)
  > 说“VR元年”是个被炒烂的概念，都算是客气了。2012年Oculus Rift惊艳亮相的时候，是人们第一次意识到消费级VR产品的可能性。一时间，像是HTC Vive这样的早期产品一窝蜂涌入市场，市场营销活动铺天盖地，看起来...
+ ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h7mICWeRWssJKKnjJVUg8fy9n0hCKQcEvvNyOr6ExFTqqDX0ozb0rUj*OxS3-cnIq9hAUEwA9a8CO9qzoa-ZqTA&new=1)
+ > 摘要：上汽智己的数据交易模式是否能成为行业趋势？在用户数据安全和智能驾驶技术发展需求之间，是否还有其他可行的数据共享模式？留给整个行业寻找解决方案的时间已经不多了。 文 | 周菊像一粒石子，网信办在今...
+ ## [美国“不小心”泄露了一件武器，全球百万人都……](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=dOTfrEgd4t0rBgcclaKxKAU*RVUe0IFj-LBFd*7PZvkixfjODqq0WTpLiPZ6fIIrxDdUbpnv3R6HdIOSNEgCbKu12OPrBySDjpdCJqJvu7WZGJ4x8X6fJH2UUFt9yhSj&new=1)
+ > 近日，美国联邦调查局（FBI）发布安全通告指出，勒索软件团伙Conti试图攻击破坏十多家美国医疗和应急机构的网络。近年来，勒索软件组织危害席卷全球，诸多国家、企业机构受到重创。 就在5月初，美国多个州进入紧...
+ ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbGZKtKvNTP4BPjFmj8aBiDZhVqxsPn681QOT70QB2IXtCDhXLnYLEPiRVcjvAJdgVRhlE5B4j*pVpRveITmN78D&new=1)
+ > 鸿蒙操作系统日前惊艳问世全国高校第一门鸿蒙系统课程也有了就在武汉大学！武汉大学计算机学院软件工程系讲师赵小刚博士主要研究方向为云计算、绿色计算和移动计算他在武汉大学率先开设全国高校第一个鸿蒙移动编...
+ ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622856604&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLghUSYA6H5X1KZUx0Q3VQnnAcJMrNDSkGPsfI5uOOeCn*b4N6TiI82iS3dQ8LmgPVixWvD826VPkRMPJzETyBsq&new=1)
+ > 工信部发布《“5G+工业互联网”十个典型应用场景和五个重点行业实践》的通知工信部郑重发声十大场景、五个行业5G应用已经成熟全国可以推广了！ 值得注意的是全部20个样板案例中9个由中国联通打造，占到45%，8个...
 # IT 技术 
  ## [师妹从我这里白嫖了这些网站，直呼差点错过](https://blog.csdn.net/weixin_41635750/article/details/117178547)
  > 师妹从我这里白嫖了这些网站，直呼差点错过
- ## [go 1.16.4 指定下载的第三方库的存储路径(ubuntu 21.04)](https://blog.csdn.net/weixin_43881017/article/details/117252123)
- > go 1.16.4 指定下载的第三方库的存储路径(ubuntu 21.04)
- ## [盘点golang中的开发神器](https://blog.csdn.net/lkxiaolou/article/details/117436131)
- > 盘点golang中的开发神器
- ## [Nest框架（一）](https://blog.csdn.net/weixin_55685975/article/details/117557372)
- > Nest框架（一）
- ## [深度学习—近年来流行的卷积神经网络（一）](https://blog.csdn.net/DIPDWC/article/details/117436454)
- > 深度学习—近年来流行的卷积神经网络（一）
- ## [小白问哪种编程语言最好，二当家呵呵一笑，当然是......](https://blog.csdn.net/leyi520/article/details/117418543)
- > 小白问哪种编程语言最好，二当家呵呵一笑，当然是......
- ## [python爬取英雄联盟皮肤结合多线程的方法](https://blog.csdn.net/weixin_54733110/article/details/117294289)
- > python爬取英雄联盟皮肤结合多线程的方法
- ## [PHP学习笔记](https://blog.csdn.net/qq_44159028/article/details/116895883)
- > PHP学习笔记
+ ## [新手编程入门语言选哪个？Python如日中天，C、Java正在失去普及性](https://blog.csdn.net/zlk4524718/article/details/117375993)
+ > 新手编程入门语言选哪个？Python如日中天，C、Java正在失去普及性
+ ## [travel 学习分享](https://blog.csdn.net/daddykei/article/details/116565257)
+ > travel 学习分享
+ ## [C WinForm程序 PDF文档分割代码实现](https://blog.csdn.net/gmaaa123/article/details/117574079)
+ > C WinForm程序 PDF文档分割代码实现
+ ## [『PHP代码审计』PHPOK存在文件上传漏洞](https://blog.csdn.net/Xxy605/article/details/117512930)
+ > 『PHP代码审计』PHPOK存在文件上传漏洞
+ ## [淘宝、阿里、京东、腾讯等一线大厂都在用的搜索引擎技术，你确定不来看看？](https://blog.csdn.net/weixin_43896643/article/details/117374349)
+ > 淘宝、阿里、京东、腾讯等一线大厂都在用的搜索引擎技术，你确定不来看看？
+ ## [字节跳动二面面试官问：JVM垃圾回收器和回收算法，我全靠这个逆天改命！](https://blog.csdn.net/ILOVEMYDEAR/article/details/117399152)
+ > 字节跳动二面面试官问：JVM垃圾回收器和回收算法，我全靠这个逆天改命！
+ ## [想谈甜甜的恋爱时，可以用Python来绘画唯美的飘落银杏树来安抚自己](https://blog.csdn.net/yunyun889901/article/details/117366517)
+ > 想谈甜甜的恋爱时，可以用Python来绘画唯美的飘落银杏树来安抚自己
  ## [爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】](https://blog.csdn.net/lland5201314/article/details/117522739)
  > 爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】
  ## [用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访](https://blog.csdn.net/zhiguigu/article/details/117557899)
  > 用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访
  ## [手把手教你做出数据可视化项目（四）动态模拟航班飞行路线](https://blog.csdn.net/diviner_s/article/details/117340420)
  > 手把手教你做出数据可视化项目（四）动态模拟航班飞行路线
- ## [C语言的奇技淫巧（1-50）](https://blog.csdn.net/lianyunyouyou/article/details/117534039)
- > C语言的奇技淫巧（1-50）
+ ## [当下最受欢迎的编辑器，赶紧用起来！](https://blog.csdn.net/u011074149/article/details/117556655)
+ > 当下最受欢迎的编辑器，赶紧用起来！
  ## [我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！](https://blog.csdn.net/AI19970205/article/details/117417156)
  > 我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！
  ## [快速学完OpenCV+python计算机视觉图像处理（四）](https://blog.csdn.net/weixin_41529012/article/details/117479111)
