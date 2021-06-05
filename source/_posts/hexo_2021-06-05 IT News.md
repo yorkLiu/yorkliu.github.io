@@ -1,21 +1,21 @@
 ---
 title: 2021-06-05 IT News
 copyright: true
-date: 2021-06-05 08:01:58
+date: 2021-06-05 09:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622851204&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h7mICWeRWssJKKnjJVUg8fyAI05Yf-2yHo3M7S1FOHFKzylrOmCzRUhqPIcmO7hFoFJQq1d3y-p-otKifwW926B&new=1)
+ ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h7mICWeRWssJKKnjJVUg8fygLENIVsaJ4HqIUJpineEQ9X76K5gw-YBkT6ey101roSVHWWux5LTksPnQRq7Nbjw&new=1)
  > 摘要：上汽智己的数据交易模式是否能成为行业趋势？在用户数据安全和智能驾驶技术发展需求之间，是否还有其他可行的数据共享模式？留给整个行业寻找解决方案的时间已经不多了。 文 | 周菊像一粒石子，网信办在今...
- ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622851204&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLghUSYA6H5X1KZUx0Q3VQnn0GkCVXGBQDIGIVZ9iuxU9rYRUyb6epDMORvFWxBLjA2a2BjbBSMqyVeUTBcRB5PK&new=1)
+ ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLghUSYA6H5X1KZUx0Q3VQnny3iE6kmdsWMcD2FQSbj0J96e8*HQzCVNq0Biz-FvAtOJMwp9ub1sUo0Mhidh*pC8&new=1)
  > 工信部发布《“5G+工业互联网”十个典型应用场景和五个重点行业实践》的通知工信部郑重发声十大场景、五个行业5G应用已经成熟全国可以推广了！ 值得注意的是全部20个样板案例中9个由中国联通打造，占到45%，8个...
- ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622851204&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47wgjlvU6QIC-q6IhSKV85mECzQjI7NPd0Iv9DBhL7W5heRWRo2iqBV5m0p1mBcgbK0A*veuRyt2VsBtK21fS19r&new=1)
- > 说“VR元年”是个被炒烂的概念，都算是客气了。2012年Oculus Rift惊艳亮相的时候，是人们第一次意识到消费级VR产品的可能性。一时间，像是HTC Vive这样的早期产品一窝蜂涌入市场，市场营销活动铺天盖地，看起来...
- ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622851204&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbGZKtKvNTP4BPjFmj8aBiDZ9HNFq7ratt47oSb-X1gBJWZotzGJ3JX4*r98NUnY1mV0Rs5YiBJ5E1wQm3BwLdnA&new=1)
+ ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbGZKtKvNTP4BPjFmj8aBiDZxCbwoKRm6qTDmn9pc27gEDSrbGF16fk3e9MEGtzdgagWsaF-6rMDMwDoimSIyQXI&new=1)
  > 鸿蒙操作系统日前惊艳问世全国高校第一门鸿蒙系统课程也有了就在武汉大学！武汉大学计算机学院软件工程系讲师赵小刚博士主要研究方向为云计算、绿色计算和移动计算他在武汉大学率先开设全国高校第一个鸿蒙移动编...
- ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622851204&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeZ9FSb8yytUSu-K1PYmgS9LTr0343cGCxmoZrebxZRf*GIsRbr4l91vqgTFelit7QQUU7zvPeqv1p9SzCAL8Z3d&new=1)
+ ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeZ9FSb8yytUSu-K1PYmgS9LisJ6HrJJlwKvUYbTZFlZVHvOigZ*Cog7qiqphugl3iK7j*ruXqCSIHXJ5ABm5Yty&new=1)
  > 做为半导体工艺生产的核心装备，光刻机这几年成为热点，华为最大的难题就是先进芯片无法生产出来，这需要解决光刻机的问题。日前华为旗下的哈勃投资公司开始投资这个领域了，入股了科益虹源公司。从企查查信息来...
+ ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622853004&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47wgjlvU6QIC-q6IhSKV85mELWqk0c10o23Gs5u-PB21CSfYGc09XaRXWSi1K9jERwp*1nRWPRtTTvI-ws8Ms8o0&new=1)
+ > 说“VR元年”是个被炒烂的概念，都算是客气了。2012年Oculus Rift惊艳亮相的时候，是人们第一次意识到消费级VR产品的可能性。一时间，像是HTC Vive这样的早期产品一窝蜂涌入市场，市场营销活动铺天盖地，看起来...
 # IT 技术 
  ## [师妹从我这里白嫖了这些网站，直呼差点错过](https://blog.csdn.net/weixin_41635750/article/details/117178547)
  > 师妹从我这里白嫖了这些网站，直呼差点错过
@@ -37,10 +37,10 @@ categories: IT NEWS
  > 爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】
  ## [用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访](https://blog.csdn.net/zhiguigu/article/details/117557899)
  > 用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访
- ## [C语言的奇技淫巧（1-50）](https://blog.csdn.net/lianyunyouyou/article/details/117534039)
- > C语言的奇技淫巧（1-50）
  ## [手把手教你做出数据可视化项目（四）动态模拟航班飞行路线](https://blog.csdn.net/diviner_s/article/details/117340420)
  > 手把手教你做出数据可视化项目（四）动态模拟航班飞行路线
+ ## [C语言的奇技淫巧（1-50）](https://blog.csdn.net/lianyunyouyou/article/details/117534039)
+ > C语言的奇技淫巧（1-50）
  ## [我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！](https://blog.csdn.net/AI19970205/article/details/117417156)
  > 我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！
  ## [快速学完OpenCV+python计算机视觉图像处理（四）](https://blog.csdn.net/weixin_41529012/article/details/117479111)
