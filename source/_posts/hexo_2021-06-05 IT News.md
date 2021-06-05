@@ -1,60 +1,68 @@
 ---
 title: 2021-06-05 IT News
 copyright: true
-date: 2021-06-05 12:00:57
+date: 2021-06-05 17:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeYwA-cO4XC*xz8pZvnamxLsqmJ3jUenJGGku1c2WxLPRZT1Zdl6GlA8VJhb4JgWY-4-dJtyWnEkr26NDoNZjpUJ&new=1)
- > 做为半导体工艺生产的核心装备，光刻机这几年成为热点，华为最大的难题就是先进芯片无法生产出来，这需要解决光刻机的问题。日前华为旗下的哈勃投资公司开始投资这个领域了，入股了科益虹源公司。从企查查信息来...
- ## [美国“不小心”泄露了一件武器，全球百万人都……](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=dOTfrEgd4t0rBgcclaKxKAU*RVUe0IFj-LBFd*7PZvmZulSIlcRfLI0DMBKE7ccCoHyh6fDn1nDrEjuAlMCyIZHflF19z*nOTRoOOV8Ep1txCu*Dy1i13GiBTwFcS9ef&new=1)
- > 近日，美国联邦调查局（FBI）发布安全通告指出，勒索软件团伙Conti试图攻击破坏十多家美国医疗和应急机构的网络。近年来，勒索软件组织危害席卷全球，诸多国家、企业机构受到重创。 就在5月初，美国多个州进入紧...
- ## [专访阿博格：精确控制液滴，打通3D打印原型与注塑生产](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=VXzpX1G-lSw9eQM2r8wp5P9ZCoIufBL0aWFP*T*Y71lZLHTo0tLJa1YaUCwNfvcwVGfC2vuMQ79Ptkhr95pg51omtQbzEi*A3oI0HAqoulHsiXZCHgwy3MfPV8GTSUuZ&new=1)
- > 导读：你是否也曾设想过拥有这样一台3D打印机，可以缩短原型验证和注塑生产之间的距离，没错，阿博格提供的就是这样一款设备，可以直接用注塑的颗粒材料来打印，让你轻松打通打样和批量生产。2021年5月27日，在2...
- ## [苹果仍未放弃类 AirPower 充电器；BOSS直聘更新招股书；武汉建成中国首个全5G接入开放道路自动驾驶示范区|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=szNWJyuKJ4vff71Ix83sxG01vMUVlniXGapg3Qe4sS2mZ8YIz37rpLnN4JVWJ41XasEZbSUV0u4Cr2XBhLGr1hY9BHfQ-nTqpR7k7Cy8M1xDTBmVKswSbWtXC6DPMIAt&new=1)
+ ## [滁州市机关事务管理处主任、党组书记周成东一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=4lKqdPTSSzvCuARnq*x5a4orb6luotIUBDha5QGdrtCaX*gd6b6GhDTDUH5S6MQhE*pDjEeSD*YxM8uRbENpWvgOPu6KySySMx-6M2geHQ-ZvfytCQkM5RvYCoYY9dvM&new=1)
+ > 6月4日，滁州市机关事务管理处主任、党组书记周成东，滁州高教科创城副主任张峰，滁州市机关事务管理处二级调研员李骏、办公室主任马健、公务保障二科科长欧宁，滁州高教科创城建设投资发展集团有限公司促进部经...
+ ## [芯片能够参与竞争的任何技术，最终都不可避免地成为失败者|魏少军——科学讲坛](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=ve-NwqlxUI1mc-kjXcjF-eQJL4Y3t65Tz9cwUkX6UWmESAQ9a1cSwsAnIfKO627pQGKzd-I0zNokMliuPDY96QIDpArgu3nywe8aH1A4mP4Xo8x1scZ0n95EqH3xrYO5&new=1)
+ > “我们每天都在接触芯片，但是我们看不见芯片，我们看到的只是一个整机。”魏少军清华大学集成电路学院教授大家好，我是来自清华大学集成电路学院的魏少军，今天我分享的内容是《小小芯片改变我们的生活》。一颗...
+ ## [数字社会公益直播预告丨翟尤：产业科技趋势与安全新图景](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=2iQ9EbyMJeHOwgUdjFPqlsZO*MsobPHIvhNFBLE04Qt4KK3*JsS2mVhHkwNZwfRl0Mf*3iTXQBq-Axtt-lR25ElT4VdEsIOJiur-LyUydi9XjXXsm-lsuD-vah2NEvZc&new=1)
+ > 点击进入“腾讯研究院”视频号，预约观看直播后疫情时代数字化进程加快，数字经济成为推动经济高质量发展的重要推动力。同时，十四五规划把科技创新和数字经济放在突出地位，如何把握科技产业发展出现新的趋势、...
+ ## [化工园区拥抱数字化转型：通过新连接技术将不同的子业务系统打通，实现智慧化管理](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=GXx7IllTMJvucdSqDVFYurTTzK0lyTu1IH6-bHWViFGgmMjl4BKTQKUL9Ynd70v2vKZkhBOZPiW**Om2W6LPFrQgl5Vk6DzpdE09qP9ooRs=&new=1)
+ > 经济观察网 记者 李靖恒 6月4日，在2021中国化工园区与产业发展论坛的“智慧化工园区”分论坛上，国内的化工园区代表以及相关企业就数字化技术在化工园区中的应用进行了讨论。 江苏滨海经济开发区沿海工业园管委...
+ ## [苹果仍未放弃类 AirPower 充电器；BOSS直聘更新招股书；武汉建成中国首个全5G接入开放道路自动驾驶示范区|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=szNWJyuKJ4vff71Ix83sxG01vMUVlniXGapg3Qe4sS3tP8F24LKO3KzPynQDbQ-KpJVo0yODVWPS8xBTaqvpe3L85HFoEqHx7hWkNytTeKFHnIC3HnkBI-72sfiegNNw&new=1)
  > Hello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【消息称苹果仍在开发类 AirPower 充电器】彭博社记者 Mark Gurman 称，苹果仍在开发它的无线充电器，其功能类似于现已放弃的 AirPower。在一份...
- ## [\[报告\]2021汽车车灯行业深度研究(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=p7dBjA5Z4B2ZckFdLWuiO7mhpMpUBEicYiAs1mDU7Fd6PnMLob7QamAaDXzVGn-5P6NaGTBu5q6rDM9z*hx2Ek9fkLa8EoWvJFBylQPZVHLJ9jrlpqmc2yjQuHgWe-pf&new=1)
+ ## [专访阿博格：精确控制液滴，打通3D打印原型与注塑生产](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=VXzpX1G-lSw9eQM2r8wp5P9ZCoIufBL0aWFP*T*Y71kklU8AwxXmJispwUgY9NnzjG2hzcAUkyCWUeWcM5jyqFSPWG-6GcZDtsoW9ZdT39nOK9OSov5su-DbKP*UgE2c&new=1)
+ > 导读：你是否也曾设想过拥有这样一台3D打印机，可以缩短原型验证和注塑生产之间的距离，没错，阿博格提供的就是这样一款设备，可以直接用注塑的颗粒材料来打印，让你轻松打通打样和批量生产。2021年5月27日，在2...
+ ## [华为加速布局光刻机领域：哈勃投资国产ArF激光器公司](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=upBCuj1eFYANBKyYQr9E1hdJmuuOJ5anLG2dSFH6NeZU5JieJcrrwwCtdk781IlQH54kG5j5IiDI0v*XWNwYnAwtPeK0RcI09deaElvrz*GS-IhNyVrSHR8sXzfTogfX&new=1)
+ > 做为半导体工艺生产的核心装备，光刻机这几年成为热点，华为最大的难题就是先进芯片无法生产出来，这需要解决光刻机的问题。日前华为旗下的哈勃投资公司开始投资这个领域了，入股了科益虹源公司。从企查查信息来...
+ ## [美国“不小心”泄露了一件武器，全球百万人都……](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=dOTfrEgd4t0rBgcclaKxKAU*RVUe0IFj-LBFd*7PZvk1OAu3HX1Z9hTElSFpFZFhKC8*PfE89AKTOfVK229OR0JQ3iBmukh20eArmxZsvuPypvw95EQQR-iGSPQES4-K&new=1)
+ > 近日，美国联邦调查局（FBI）发布安全通告指出，勒索软件团伙Conti试图攻击破坏十多家美国医疗和应急机构的网络。近年来，勒索软件组织危害席卷全球，诸多国家、企业机构受到重创。 就在5月初，美国多个州进入紧...
+ ## [\[报告\]2021汽车车灯行业深度研究(附35页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=p7dBjA5Z4B2ZckFdLWuiO7mhpMpUBEicYiAs1mDU7FfbyFoxVFc*lmPiQBRYKfsgL2sWa66GVd26WwyqY07*5RcgjXl6PMqqg8wu*Ks7O4e7wuOFiTurLjGJ8xe88mv*&new=1)
  > 车灯价值量具备“起点高、弹性大、持续长”三大特征，短期LED、长期智能车灯和激光大灯等渗透，是零部件细分优质赛道。本文主要研究了车灯行业LED、ADB渗透率及市场空间、核心车企车灯配置，并对造车新势力车灯...
- ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47xAlEiDu*1xBtdtnKVGKxvwW7d5Yg*R*Qx7Dsr8ta-kce86zy4Y9LGvbNXWhGhJn1QBbawJiijctgTDvAhFcmOQ&new=1)
+ ## [到底哪年才是“VR元年”?](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=xWLDKxUQVBvwPp1wdMjqY-JooxICoiwyOFNwsd0G47yDghDwTE6mt24x1gB5xI10PDc*yevo243bIFcLLL*G11l120eDvFnGxa3G02nc2pOrGsw0YqODSoDXhSk5bQL4&new=1)
  > 说“VR元年”是个被炒烂的概念，都算是客气了。2012年Oculus Rift惊艳亮相的时候，是人们第一次意识到消费级VR产品的可能性。一时间，像是HTC Vive这样的早期产品一窝蜂涌入市场，市场营销活动铺天盖地，看起来...
- ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h6n7cnipPp5DnpGpzGmEj9StoY8swtouxQ3k1U2k2vkHRxNinoqKdI0owl9k2T3cVFVSRrCvmrlpn7Iw3czBuRk&new=1)
+ ## [自动驾驶或受困于数据采集“紧箍咒”!隐私数据难界定，车企向用户“买数据”成首选方案|经观汽车](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=Q34ZQFgbE2TjYqmsvbHS8UH5kmRy8sfzzvl5mpTd4h5H1XifcJYPB2OXzj7PTXE5OcUp2rCvy9YhQu2a1yDcJr-PIJ79TAXfv7JrWgqht6eX7XU8zAgxTMaH-6pNDIkO&new=1)
  > 摘要：上汽智己的数据交易模式是否能成为行业趋势？在用户数据安全和智能驾驶技术发展需求之间，是否还有其他可行的数据共享模式？留给整个行业寻找解决方案的时间已经不多了。 文 | 周菊像一粒石子，网信办在今...
- ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbEHjVovPPCpQfFIHPf4Zwjiio-AjMyu6Y8Mp9QKK1FwgJnsAd3xUpXiHkpH5CpDhArhAlJ3e7m5rwVqa*BQNRGd&new=1)
+ ## [武大联手华为，又拿下个全国第一!网友：馋哭了](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=IlGDAxw3qXui7PlP5pj8Rvr2AoCFcJRFR72fs4IbmbFJq82jVzI737nuAe4OKqk8vFMchhxwm6x6DRAqaqtV-9Tch5a1O*HZzOSgikECO4I7wX6fBqmttSAMEtsMf-Px&new=1)
  > 鸿蒙操作系统日前惊艳问世全国高校第一门鸿蒙系统课程也有了就在武汉大学！武汉大学计算机学院软件工程系讲师赵小刚博士主要研究方向为云计算、绿色计算和移动计算他在武汉大学率先开设全国高校第一个鸿蒙移动编...
- ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622863804&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLjDKcwx76WAxV9Z6CaBLZuXonWKsM5BJgOZ2STjUVhCHDolcZO3dVvuPF0oLiNUS1SkU06kzm*kMDppfPpzVKZF&new=1)
+ ## [工信部发文推荐20个5G样板应用，联通数量排第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1622881804&ver=3111&signature=tDPLi3K1QwEODBlQ0xAOl8WrwmAN5TMYOd3D68caDLjfjyDEgJkeZ3htrk6cQ6Edbxd17qh4iWuYfAvTu2X59WEcRkbZOBmV2HwR6toIq4JVgiPUCbQ3ZwiXt0LkN*VK&new=1)
  > 工信部发布《“5G+工业互联网”十个典型应用场景和五个重点行业实践》的通知工信部郑重发声十大场景、五个行业5G应用已经成熟全国可以推广了！ 值得注意的是全部20个样板案例中9个由中国联通打造，占到45%，8个...
 # IT 技术 
  ## [师妹从我这里白嫖了这些网站，直呼差点错过](https://blog.csdn.net/weixin_41635750/article/details/117178547)
  > 师妹从我这里白嫖了这些网站，直呼差点错过
- ## [go 1.16.4 指定下载的第三方库的存储路径(ubuntu 21.04)](https://blog.csdn.net/weixin_43881017/article/details/117252123)
- > go 1.16.4 指定下载的第三方库的存储路径(ubuntu 21.04)
- ## [盘点golang中的开发神器](https://blog.csdn.net/lkxiaolou/article/details/117436131)
- > 盘点golang中的开发神器
- ## [Nest框架（一）](https://blog.csdn.net/weixin_55685975/article/details/117557372)
- > Nest框架（一）
- ## [深度学习—近年来流行的卷积神经网络（一）](https://blog.csdn.net/DIPDWC/article/details/117436454)
- > 深度学习—近年来流行的卷积神经网络（一）
- ## [小白问哪种编程语言最好，二当家呵呵一笑，当然是......](https://blog.csdn.net/leyi520/article/details/117418543)
- > 小白问哪种编程语言最好，二当家呵呵一笑，当然是......
- ## [python爬取英雄联盟皮肤结合多线程的方法](https://blog.csdn.net/weixin_54733110/article/details/117294289)
- > python爬取英雄联盟皮肤结合多线程的方法
- ## [PHP学习笔记](https://blog.csdn.net/qq_44159028/article/details/116895883)
- > PHP学习笔记
+ ## [新手编程入门语言选哪个？Python如日中天，C、Java正在失去普及性](https://blog.csdn.net/zlk4524718/article/details/117375993)
+ > 新手编程入门语言选哪个？Python如日中天，C、Java正在失去普及性
+ ## [travel 学习分享](https://blog.csdn.net/daddykei/article/details/116565257)
+ > travel 学习分享
+ ## [C WinForm程序 PDF文档分割代码实现](https://blog.csdn.net/gmaaa123/article/details/117574079)
+ > C WinForm程序 PDF文档分割代码实现
+ ## [『PHP代码审计』PHPOK存在文件上传漏洞](https://blog.csdn.net/Xxy605/article/details/117512930)
+ > 『PHP代码审计』PHPOK存在文件上传漏洞
+ ## [淘宝、阿里、京东、腾讯等一线大厂都在用的搜索引擎技术，你确定不来看看？](https://blog.csdn.net/weixin_43896643/article/details/117374349)
+ > 淘宝、阿里、京东、腾讯等一线大厂都在用的搜索引擎技术，你确定不来看看？
+ ## [字节跳动二面面试官问：JVM垃圾回收器和回收算法，我全靠这个逆天改命！](https://blog.csdn.net/ILOVEMYDEAR/article/details/117399152)
+ > 字节跳动二面面试官问：JVM垃圾回收器和回收算法，我全靠这个逆天改命！
+ ## [想谈甜甜的恋爱时，可以用Python来绘画唯美的飘落银杏树来安抚自己](https://blog.csdn.net/yunyun889901/article/details/117366517)
+ > 想谈甜甜的恋爱时，可以用Python来绘画唯美的飘落银杏树来安抚自己
  ## [爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】](https://blog.csdn.net/lland5201314/article/details/117522739)
  > 爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】
+ ## [用Python编程识别手势数字](https://blog.csdn.net/lh9987/article/details/117573482)
+ > 用Python编程识别手势数字
  ## [用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访](https://blog.csdn.net/zhiguigu/article/details/117557899)
  > 用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访
+ ## [linux可爱的小命令](https://blog.csdn.net/weixin_46789316/article/details/117480821)
+ > linux可爱的小命令
+ ## [《C++面向对象程序设计》✍千处细节、万字总结（建议收藏）](https://blog.csdn.net/weixin_44368437/article/details/117563488)
+ > 《C++面向对象程序设计》✍千处细节、万字总结（建议收藏）
  ## [手把手教你做出数据可视化项目（四）动态模拟航班飞行路线](https://blog.csdn.net/diviner_s/article/details/117340420)
  > 手把手教你做出数据可视化项目（四）动态模拟航班飞行路线
  ## [学习python的第一步，记住这些单词，一周就能上手敲代码](https://blog.csdn.net/lland5201314/article/details/117472629)
  > 学习python的第一步，记住这些单词，一周就能上手敲代码
- ## [java基础大总结](https://blog.csdn.net/Augenstern_QXL/article/details/117482673)
- > java基础大总结
- ## [我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！](https://blog.csdn.net/AI19970205/article/details/117417156)
- > 我用Python修改了班花的开机密码，重新登录后竟然发现了她的秘密！
- ## [快速学完OpenCV+python计算机视觉图像处理（四）](https://blog.csdn.net/weixin_41529012/article/details/117479111)
- > 快速学完OpenCV+python计算机视觉图像处理（四）
 # 人工智能 
  ## [细谈Go变量的内存分布](https://blog.csdn.net/i6448038/article/details/116854699)
  > 细谈Go变量的内存分布
@@ -117,11 +125,5 @@ categories: IT NEWS
  > 蓝牙技术应该大多数人都知道，很多年前我们用蓝牙传文件，传歌曲。现在用蓝牙耳机听歌，苹果的Air Pod就是用的蓝牙技术，蓝牙是一种近场通讯的技术，也就是说通过蓝牙可以感知到周围都有哪些手机。而这个技术刚好可以用到用来解决你是否曾经接触过新冠病人。
  ## [互联网医疗产品经理的角色划分（上）](http://www.chanpin100.com/article/116194)
  > 随着互联网的发展，医疗产品经理这个岗位也非常吃香。这篇文章跟大家聊聊互联网医疗产品经理的角色划分，帮助大家对于这个职业有更好的了解。
- ## [对标WeTool 藤匠企微SCRM如何高效运营私域流量？](http://www.chanpin100.com/article/116115)
- > 对私域运营来说，WeTool运营模式早已经是过去式，越来越多基于企业微信建立的私域运营工具如雨后春笋般争相出现，为推动企业营销增长增添动力。
- ## [俞军：一流的产品经理 心中都有份蓝图](http://www.chanpin100.com/article/116193)
- > 今天来聊一聊《俞军产品方法论》这本书。在产品圈，很少有人不知道俞军老师，他是百度的第一任产品经理，也是著名的「产品军规12条」的提出者。加入滴滴之后，任产品高级副总裁，2019年离开滴滴时出了一本书，系统讲了他对产品的理解和实践，也就是今天我们要聊的《俞军产品方法论》。
- ## [我是怎么管理时间的](http://www.chanpin100.com/article/116192)
- > 最近不少同学让我谈谈自己怎么管理时间的，这个问题确实比较有价值。因为某种意义上说，时间是一个人最稀缺的资产，无论一个人多富有、多勤奋，时间本身的总数其实并不会有什么变化。而对于年轻人来讲，时间本身就是最大的资产和财富，如何管理好自己的时间，是未来能有更大收益的关键要素。
 
     
