@@ -1,26 +1,26 @@
 ---
 title: 2021-06-06 IT News
 copyright: true
-date: 2021-06-06 10:01:00
+date: 2021-06-06 12:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为宣布捐赠鸿蒙](http://mp.weixin.qq.com/s?src=11&timestamp=1622943005&ver=3113&signature=yB3Q1eZmViGMNzidNc5Qtf5Yb-I3AfWLzl1jAcNsEpkOqpHbe2mZB91wInmERn2h73voYcRMm8Y8ktFbo0J9RgjMO0ELAmFkXEGEjXx7Dzj81pis0N4g7WPmZS1b-mL5&new=1)
+ ## [华为宣布捐赠鸿蒙](http://mp.weixin.qq.com/s?src=11&timestamp=1622950204&ver=3113&signature=yB3Q1eZmViGMNzidNc5Qtf5Yb-I3AfWLzl1jAcNsEplRb1Gx8Ka00pGLUKl3MfLI2n*atuingFYEwWsg2WdsY7lsJl2P764HRZ1nS5B6plCXVxtg0T-YD4PVbHjIxKPO&new=1)
  > 近日，由华为自主研发的鸿蒙系统正式发布，自此，中国宣告打破安卓在国内的长期垄断。这原本是一件可喜的事，但鸿蒙系统的诞生却遭到了友商的冷嘲热讽。OPPO表示：在手机业务上，华为是竞争对手，不能将自己的命...
- ## [\[报告\]2021汽车智能驾驶深度研究：市场、政策、技术与产业链分析(附74页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622943005&ver=3113&signature=-QKVkh3iCEIzzv*xkLLuRrHWmsStjuU*Mhs*LrrSHFgvNOXmmMloVkRLkcvxxgJ7GP59vR9aqL0z0KS348RauQggKbcieZwrRyeyYnwQGtMJt3nwN6BmLudhX06l1N4r&new=1)
+ ## [\[报告\]2021汽车智能驾驶深度研究：市场、政策、技术与产业链分析(附74页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1622950204&ver=3113&signature=-QKVkh3iCEIzzv*xkLLuRrHWmsStjuU*Mhs*LrrSHFgrLll0*VLhHd93X1JmC9zIglM*PBBiBeSfVVy4-OMfjZwVJfgisy1y72Cl55rhEtEIPssxM-9rl6IPjWfvHk4c&new=1)
  > 智能驾驶以“服务人”、“替代人”为目标，价值包含：安全、高效、舒适。智能驾驶产品可分为两类：辅助驾驶产品由人对驾驶行为负责；自动(无人)驾驶产品由系统承担部分或者全部责任。当前，我们依然处在辅助驾驶...
- ## [5G成鸡肋?运营商可能冷处理，中国移动则加快建设4G的FDD900](http://mp.weixin.qq.com/s?src=11&timestamp=1622943005&ver=3113&signature=mY6rvjR-FIB9DWG4GaswLm7gtTvJOTp8pfgOpmfq2CumnqNNFBKknUIBSoYvjXKsT7gYxvhhm6tUQfmVBaP2MVXcd8tEtjzTBs3S1x8PmFch6nzcPNmQ*jkoL-WGDKt1&new=1)
+ ## [5G成鸡肋?运营商可能冷处理，中国移动则加快建设4G的FDD900](http://mp.weixin.qq.com/s?src=11&timestamp=1622950204&ver=3113&signature=mY6rvjR-FIB9DWG4GaswLm7gtTvJOTp8pfgOpmfq2CsebBJWC7SkvV*rYrbp6J*iWMJcJNQw4RoYzs8KHq3aej9e84gAJA1cfPhO6lsOTxUKddquxQZgm8q0-llx0uwu&new=1)
  > 业界人士指出三大运营商今年可能都在放缓5G建设，对5G的热情正在冷却，就在运营商冷处理5G的时候，中国移动却在加快建设4G的FDD900，以进一步完善4G网络覆盖强化物联网业务。5G成鸡肋截至4月份中国的5G基站数量...
- ## [华为号召力太吓人!鸿蒙系统发布短短两天，主流应用已开始适配](http://mp.weixin.qq.com/s?src=11&timestamp=1622943005&ver=3113&signature=jUasRIS-dglX8pBRDvvH7O3KE40gY72jPamkicdpSIkOO2ztGTkKkz0nK2DBx2djQSQduHTURJBLxfXqNoPDTcy*kWRiaSJnMSp895GTkSvNFAnCNvjiSOxT0zzdKZNV&new=1)
- > 从华为鸿蒙系统曝光到正式发布的这段时间，对于鸿蒙系统是否能成功外界有两种说法，一种是绝对的悲观失望，持这部分意见的人认为，华为鸿蒙系统企图挑战安卓和iOS不太现实，而且之前也并非没有过先例，三星和微...
- ## [融合创新，注智赋能|浙江移动全面发力高质量助推数字化改革](http://mp.weixin.qq.com/s?src=11&timestamp=1622943005&ver=3113&signature=Jh*G5YSyKgNcJK-*qYHOEI-G*xQ0C37eCCxnb6XWUdkyd9WmtXwsAEzLDXkf2c27CCLOX8eIxSXQ-s2Q8qcN2RFUCV74syujukieWPfUtSIo5i0h68TIlePoozS-4Kkz&new=1)
+ ## [融合创新，注智赋能|浙江移动全面发力高质量助推数字化改革](http://mp.weixin.qq.com/s?src=11&timestamp=1622950204&ver=3113&signature=Jh*G5YSyKgNcJK-*qYHOEI-G*xQ0C37eCCxnb6XWUdmgJYa0nbJeYilvXOoQIPYjlKnCo18jwnPp-VM7C0KJ2fi5CJDN0YWcQ1p4q2J9aU8qhXr5lNOPXXREeSRNmwgK&new=1)
  > 迈入“十四五”，浙江忠实践行“八八战略”，奋力打造“重要窗口”，大力推进数字化改革工作，着力打造全球数字变革高地，为经济社会高质量发展插上数字化翅膀。为进一步落实省委省政府数字化改革工作部署，6月4...
- ## [浙江移动发布5G消息自服务平台 已签约客户超过100家](http://mp.weixin.qq.com/s?src=11&timestamp=1622943005&ver=3113&signature=cFpBxeCF8eIkBtV96mWKe6PUAIjXcE4Y-O-qy*L87hYaN0rYTa6FYl3OQk8*5VpZEYkc4C*PLaOqcorFjUPZwF4c7qkonaH9fVC4enj9u2uCI6Elag*Y9Yrp*3lB7FfO&new=1)
+ ## [华为号召力太吓人!鸿蒙系统发布短短两天，主流应用已开始适配](http://mp.weixin.qq.com/s?src=11&timestamp=1622950204&ver=3113&signature=jUasRIS-dglX8pBRDvvH7O3KE40gY72jPamkicdpSIkJMU3yDGMXfhNDynLLM1KfB4UARLn50iQLj12P94zX*lLXEYjmTghgqoth97auIRfmFozqNRTBQ9SzmGDf0YYM&new=1)
+ > 从华为鸿蒙系统曝光到正式发布的这段时间，对于鸿蒙系统是否能成功外界有两种说法，一种是绝对的悲观失望，持这部分意见的人认为，华为鸿蒙系统企图挑战安卓和iOS不太现实，而且之前也并非没有过先例，三星和微...
+ ## [浙江移动发布5G消息自服务平台 已签约客户超过100家](http://mp.weixin.qq.com/s?src=11&timestamp=1622950204&ver=3113&signature=cFpBxeCF8eIkBtV96mWKe6PUAIjXcE4Y-O-qy*L87hY25pUvRBSxulXy4Tsr2xQY6DBQw0MehzPSSRGok60CVNEAAm3vxFVGEOHAIdSBNwA3YDYDb5TCWckWRDe28TSD&new=1)
  > 昨日，中国移动浙江公司在杭州举办“新基建 新要素 新动能 新安全——助力高质量推进数字化改革行动大会”。本次大会上，浙江移动发布了助力数字化改革的三项成果，即“智云领航”政企客户专属品牌和SMART产品服...
 # IT 技术 
- ## [师妹从我这里白嫖了这些网站，直呼差点错过](https://blog.csdn.net/weixin_41635750/article/details/117178547)
- > 师妹从我这里白嫖了这些网站，直呼差点错过
+ ## [JavaWeb图书管理系统，老程序员花一天一夜回忆学生时代！](https://blog.csdn.net/dkm123456/article/details/117536930)
+ > JavaWeb图书管理系统，老程序员花一天一夜回忆学生时代！
  ## [线性模型-机器学习](https://blog.csdn.net/u012535132/article/details/117575542)
  > 线性模型-机器学习
  ## [n-gram语言模型LM](https://blog.csdn.net/weixin_39529413/article/details/117604864)
@@ -35,20 +35,20 @@ categories: IT NEWS
  > vue 项目创建
  ## [Windows 使用Vue-Cli或@Vue/Cli(Vue脚手架)创建Vue项目](https://blog.csdn.net/a71468293a/article/details/117554096)
  > Windows 使用Vue-Cli或@Vue/Cli(Vue脚手架)创建Vue项目
+ ## [毕业设计So Easy：基于Java Web学生选课系统](https://blog.csdn.net/m0_38106923/article/details/117608133)
+ > 毕业设计So Easy：基于Java Web学生选课系统
+ ## [\[原创\] 用Unity等比例制作广州地铁，广州加油，战胜疫情（Unity | 地图 | 第三人称视角）](https://blog.csdn.net/linxinfa/article/details/117536057)
+ > \[原创\] 用Unity等比例制作广州地铁，广州加油，战胜疫情（Unity | 地图 | 第三人称视角）
  ## [34岁毫无原则的卑微求职者：要15K还被砍5K，宁愿不入职也不能委屈求全！](https://blog.csdn.net/m0_56736369/article/details/117565730)
  > 34岁毫无原则的卑微求职者：要15K还被砍5K，宁愿不入职也不能委屈求全！
  ## [学习python的第一步，记住这些单词，一周就能上手敲代码](https://blog.csdn.net/lland5201314/article/details/117472629)
  > 学习python的第一步，记住这些单词，一周就能上手敲代码
- ## [\[原创\] 用Unity等比例制作广州地铁，广州加油，战胜疫情（Unity | 地图 | 第三人称视角）](https://blog.csdn.net/linxinfa/article/details/117536057)
- > \[原创\] 用Unity等比例制作广州地铁，广州加油，战胜疫情（Unity | 地图 | 第三人称视角）
  ## [《C++面向对象程序设计》✍千处细节、万字总结（建议收藏）](https://blog.csdn.net/weixin_44368437/article/details/117563488)
  > 《C++面向对象程序设计》✍千处细节、万字总结（建议收藏）
  ## [用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访](https://blog.csdn.net/zhiguigu/article/details/117557899)
  > 用Python帮老哥选出好基金，稳赚一笔，老哥专门提着茅台登门拜访
- ## [用Python编程识别手势数字](https://blog.csdn.net/lh9987/article/details/117573482)
- > 用Python编程识别手势数字
- ## [全网最全面的python的讲解，讲的无可挑剔《记得收藏》](https://blog.csdn.net/weixin_46931877/article/details/117513385)
- > 全网最全面的python的讲解，讲的无可挑剔《记得收藏》
+ ## [C语言的奇技淫巧（1-50）](https://blog.csdn.net/lianyunyouyou/article/details/117534039)
+ > C语言的奇技淫巧（1-50）
 # 人工智能 
  ## [曹大带我学 Go（2）—— 迷惑的 goroutine 执行顺序](https://blog.csdn.net/qcrao/article/details/117235921)
  > 曹大带我学 Go（2）—— 迷惑的 goroutine 执行顺序
