@@ -1,52 +1,52 @@
 ---
 title: 2021-06-07 IT News
 copyright: true
-date: 2021-06-07 08:01:33
+date: 2021-06-07 09:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [英伟达和Valve合作将DLSS引入Linux](http://mp.weixin.qq.com/s?src=11&timestamp=1623022205&ver=3115&signature=DJTlmxHtxJPszZUQv4L-62LNnB33V-UZVJm2lOQqu*3xXLyROepdo7FU8QWNaOELlSrcLo1iKt8Q5b0oVpl1ID25so-RWuuZZ0W90jHWfpHLfO7leAOGv-q-T8f-wWcq&new=1)
- > 英伟达宣布将和Valve合作将RTX显卡的“深度学习超级采样”（DLSS）技术引入Linux中，该技术可以通过牺牲细微画质来提升高分辨率游戏流畅度，改善光线追踪技术使用体验。英伟达发言人称本次公告仅与通过Proton运...
- ## [在中国5G商用两周年之际 6G也来了](http://mp.weixin.qq.com/s?src=11&timestamp=1623022205&ver=3115&signature=sWaExKyzBMyujb1egOKCPACk5U3jbAqzcRJ3i6TSz48Pw0AX2zLul6iAf8ZaIoB43I1MBZgHX*2eCIpuQR7o19KZ-TvzIWhyQjnqfMWorEU=&new=1)
+ ## [在中国5G商用两周年之际 6G也来了](http://mp.weixin.qq.com/s?src=11&timestamp=1623027604&ver=3115&signature=sWaExKyzBMyujb1egOKCPACk5U3jbAqzcRJ3i6TSz4926lWB4IZrZJ5Ta9CLgBO-0AwtOHxyL9d*UcBSHHfGUZbsdGmtSkRL7JDcz8cvnE0=&new=1)
  > 经济观察网 记者 沈怡然 在中国5G商用牌照发布两周年之际，关于6G的规划也来了。6月6日，IMT-2030(6G)推进组（下称“推进组”）发布了《6G总体愿景与潜在关键技术》白皮书（下称“白皮书”），指出6G时代的8个业...
- ## [没有超卓的人才管理 华为凭什么“开辟鸿蒙”](http://mp.weixin.qq.com/s?src=11&timestamp=1623022205&ver=3115&signature=ZivNE1oDKkh17yn09M5cX0CLIojXII1Julk9Ij2PSdzoIZpb9TJ3iGymxCK*Do5cCYKMwVAo*NlL*oSg8wngj-sd9MnFQW2phFjK5nvOY297MiP7LEWQFFGBy2rST3vh&new=1)
+ ## [英伟达和Valve合作将DLSS引入Linux](http://mp.weixin.qq.com/s?src=11&timestamp=1623027604&ver=3115&signature=DJTlmxHtxJPszZUQv4L-62LNnB33V-UZVJm2lOQqu*3xXLyROepdo7FU8QWNaOELYIuI49haNOzf0D5LHTJd3Dti0bJEpxOv7oXDg33-24l0PGsfhUTOv1xuSJQ95D1Z&new=1)
+ > 英伟达宣布将和Valve合作将RTX显卡的“深度学习超级采样”（DLSS）技术引入Linux中，该技术可以通过牺牲细微画质来提升高分辨率游戏流畅度，改善光线追踪技术使用体验。英伟达发言人称本次公告仅与通过Proton运...
+ ## [没有超卓的人才管理 华为凭什么“开辟鸿蒙”](http://mp.weixin.qq.com/s?src=11&timestamp=1623027604&ver=3115&signature=ZivNE1oDKkh17yn09M5cX0CLIojXII1Julk9Ij2PSdzoIZpb9TJ3iGymxCK*Do5clV2p7oVzVM0xk*twLLFZkkIBkGBmn7*nEBsK0lVg5BhagJj0Xvj67jon7vEmC8Cr&new=1)
  > 令世人惊叹的鸿蒙系统于6 月2日正式发布，华为EMUI微博也正式更名为@HarmonyOS，覆盖手机等移动终端的鸿蒙操作系统。这也是继2019年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。 据了解，目前华为正在与...
- ## [华为牺牲自有利益，免费送出鸿蒙系统，助力国产手机抗衡谷歌](http://mp.weixin.qq.com/s?src=11&timestamp=1623022205&ver=3115&signature=I16Xyl3O77wjt-7pbLdKYUksOJaoQNIOGYPtqMyOrcz7yMzV*y0Z0YlNkMGlUjEumxFTVV*dSKXuaX5S5DBDZ38rf*9w3BePibKOjW5*nyxEsQRO4s9sHGFASKIuya3i&new=1)
+ ## [华为牺牲自有利益，免费送出鸿蒙系统，助力国产手机抗衡谷歌](http://mp.weixin.qq.com/s?src=11&timestamp=1623027604&ver=3115&signature=I16Xyl3O77wjt-7pbLdKYUksOJaoQNIOGYPtqMyOrcz7yMzV*y0Z0YlNkMGlUjEuZ9TVDPpfm3AWJ2wzzV*0jdff0M7yPU2ITAdQySj1v2RUkTs0MaveTNOtnxaDA9Kp&new=1)
  > 为了支持中国手机行业的发展，华为将鸿蒙系统的基础能力捐给工信部主导的开放原子开源基金会，希望借此吸引中国手机企业放弃成见，共同推动中国手机操作系统的发展，摆脱对美国谷歌的依赖，这对于安卓系统将是一...
- ## [\[本周小结\]HarmonyOS 2.0正式登陆手机；光模块供应商10年变迁；中国广电突围宽带市场](http://mp.weixin.qq.com/s?src=11&timestamp=1623022205&ver=3115&signature=yvMABjSgIz056-uA-AoGvtQg*vD9OhQyhKuwbYFLnP9sD-YnsNEd3QuAwBpRbKYBoF29PUpl3qPCt2s5Ap5u6g*wN9swfA-VR*x9qdrt4XKPLvGjvnFTIifa-YijchP2&new=1)
+ ## [\[本周小结\]HarmonyOS 2.0正式登陆手机；光模块供应商10年变迁；中国广电突围宽带市场](http://mp.weixin.qq.com/s?src=11&timestamp=1623027604&ver=3115&signature=yvMABjSgIz056-uA-AoGvtQg*vD9OhQyhKuwbYFLnP9sD-YnsNEd3QuAwBpRbKYBL4AXkfzroVUmv2lK7bhXReQ1drZIUuGd64G8ZGCqfpVftskiBVXSFO2F5P60mcQ9&new=1)
  > 周报WEEKLY本周热点有HarmonyOS 2.0正式登陆手机；光模块供应商10年变迁；中国广电突围宽带市场• 第142期 •HarmonyOS 2.0正式登陆手机6月2日“鸿蒙（HarmonyOS）”已经是个家喻户晓的名字，并且在很长一
 # IT 技术 
- ## [Linux知识点总结（思维导图，建议收藏）](https://blog.csdn.net/m0_46374969/article/details/117291842)
- > Linux知识点总结（思维导图，建议收藏）
- ## [LAMP架构搭建明细，源码编译安装](https://blog.csdn.net/weixin_55611415/article/details/117486450)
- > LAMP架构搭建明细，源码编译安装
- ## [Java中的设计模式和算法](https://blog.csdn.net/qq_45656077/article/details/117486017)
- > Java中的设计模式和算法
- ## [golang的切片和数组](https://blog.csdn.net/Destiny_shine/article/details/117572050)
- > golang的切片和数组
- ## [go与go mod命令使用及遇到的问题](https://blog.csdn.net/love666666shen/article/details/117445968)
- > go与go mod命令使用及遇到的问题
- ## [webpack优化实践-个人笔记](https://blog.csdn.net/Amnesiac666/article/details/117407453)
- > webpack优化实践-个人笔记
- ## [3-1 Python语言基础常考题](https://blog.csdn.net/u014257214/article/details/117407882)
- > 3-1 Python语言基础常考题
- ## [在 JavaScript 中如何克隆对象？](https://blog.csdn.net/qq449245884/article/details/117510809)
- > 在 JavaScript 中如何克隆对象？
+ ## [STM32入门开发: 介绍IIC总线、读写AT24C02(EEPROM)(采用模拟时序)](https://blog.csdn.net/xiaolong1126626497/article/details/117586108)
+ > STM32入门开发: 介绍IIC总线、读写AT24C02(EEPROM)(采用模拟时序)
+ ## [c++ 调用c的dll 简单实验（虚拟化方式调用（clr））](https://blog.csdn.net/xie__jin__cheng/article/details/117521324)
+ > c++ 调用c的dll 简单实验（虚拟化方式调用（clr））
+ ## [六一节，赋诗一首](https://blog.csdn.net/ki1381/article/details/117484851)
+ > 六一节，赋诗一首
+ ## [自动化测试面试会被问到的东西](https://blog.csdn.net/weixin_50829653/article/details/117606045)
+ > 自动化测试面试会被问到的东西
+ ## [【02】水果蔬菜识别系统-基于tensorflow2.3开发](https://blog.csdn.net/ECHOSON/article/details/117600329)
+ > 【02】水果蔬菜识别系统-基于tensorflow2.3开发
+ ## [《Web安全渗透全套教程（40集）》学习笔记 | XSS跨站脚本攻击](https://blog.csdn.net/guolianggsta/article/details/117405961)
+ > 《Web安全渗透全套教程（40集）》学习笔记 | XSS跨站脚本攻击
+ ## [创建iOS应用HelloWorld](https://blog.csdn.net/cnjsyzgl/article/details/117578563)
+ > 创建iOS应用HelloWorld
+ ## [10、Swift闭包](https://blog.csdn.net/SharkToping/article/details/117339443)
+ > 10、Swift闭包
  ## [再见了，学术硕士！](https://blog.csdn.net/qing_gee/article/details/117625777)
  > 再见了，学术硕士！
  ## [用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~](https://blog.csdn.net/yunyun889901/article/details/117606176)
  > 用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~
+ ## [【热搜】想卷深度学习必会的10题【最全AI面经】](https://blog.csdn.net/qq_46098574/article/details/117636744)
+ > 【热搜】想卷深度学习必会的10题【最全AI面经】
  ## [爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】](https://blog.csdn.net/lland5201314/article/details/117522739)
  > 爆肝熬夜整理了Python最新学习资料和视频，分享给学弟学妹们【全站最新】
+ ## [软件测试入职一年多薪资正常应该有多少?](https://blog.csdn.net/weixin_50829653/article/details/117606515)
+ > 软件测试入职一年多薪资正常应该有多少?
+ ## [【学相伴】微信支付V3版实战课上线](https://blog.csdn.net/qq_33369905/article/details/117608867)
+ > 【学相伴】微信支付V3版实战课上线
  ## [C语言—实现扫雷游戏（注释详解）](https://blog.csdn.net/weixin_50302770/article/details/117574675)
  > C语言—实现扫雷游戏（注释详解）
- ## [学习python的第一步，记住这些单词，一周就能上手敲代码](https://blog.csdn.net/lland5201314/article/details/117472629)
- > 学习python的第一步，记住这些单词，一周就能上手敲代码
- ## [34岁毫无原则的卑微求职者：要15K还被砍5K，宁愿不入职也不能委屈求全！](https://blog.csdn.net/m0_56736369/article/details/117565730)
- > 34岁毫无原则的卑微求职者：要15K还被砍5K，宁愿不入职也不能委屈求全！
- ## [php文件包含](https://blog.csdn.net/weixin_54252904/article/details/117573092)
- > php文件包含
 # 人工智能 
  ## [曹大带我学 Go（2）—— 迷惑的 goroutine 执行顺序](https://blog.csdn.net/qcrao/article/details/117235921)
  > 曹大带我学 Go（2）—— 迷惑的 goroutine 执行顺序
