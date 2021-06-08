@@ -1,58 +1,64 @@
 ---
 title: 2021-06-08 IT News
 copyright: true
-date: 2021-06-08 10:01:41
+date: 2021-06-08 12:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [专访光隆科技：立足自有光芯片产业化半导体全制程工艺平台“中国芯”任重道远](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=QbvTj69rETiuQzyOJVpFdikthw9ToMAvD6zgfiV3kP7rI2l8xGkvGbRSI78f1RuvEMhkeqOWLzKevnlJO-jDmdwMqcURz*z6Fv4*EE5oaStV45r0sb9-M6qaeHAYsRue&new=1)
+ ## [白宫针对企业发布避免勒索软件备忘录](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=xoIWfZiiZKT0BP59h74878tIAvcVSoG2qc4OSNWEHEaDtlphI05kzVupq-Y2y9Ck9ZQsK6gqkOeHoTvRmW9znN1tySIVDvGE1-Gi*rRn6qN3r6tJTd8m0*RNJZAjK*E8&new=1)
+ > 前情提要     美国拜登政府旨在通过一系列安全指令实践来阻止勒索软件感染、数据盗窃和向网络犯罪集团支付巨额款项等措施。具体内容     白宫近日发布了一份备忘录，旨在帮助越来越多的公司避免卷入勒索软件感染...
+ ## [2021年金属3D打印粉末材料简报.PDF](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=TpvL8rBK4Hqn8iwWFLXfgsDcZfCOQ9zWrsj59Pxwbv1XyLdhA*7kloKxfNaob7Xgj36VinUuGhpmOqwG9-xY3nx*NfGYdJH1P4iMTJTysBvnhrJi1xuAmqXeedohCWkQ&new=1)
+ > 在当前3D打印产业当中，金属3D打印占据了相当大一部分比例，而且随着金属3D打印技术的日益成熟和成本大幅下降，其应用范围、深度和规模都在不断突破。比如在航空航天领域，金属3D打印已经从制造测试样件进入到批...
+ ## [苹果宣布正式发布iOS 15；贝佐斯本人将参加蓝色起源的太空飞行；《摩尔庄园》连续一周霸榜|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=O4ORqh*zBb*j*i9ZmyovVPver62O3Pj80ddYOkUYedcy8w74ba5Fp-3T38vbuVUah93LfDv4TozgWHjcXqmCpSWRm8UNQtMEyorTTsoBSyv6C1Ix2cHdl-Jaz7EcDiUn&new=1)
+ > 图/IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【苹果宣布正式发布iOS 15】苹果宣布正式发布iOS 15，用户安装iOS 15后，可实现SharePlay跨设备使用，并增加Focus模式、LifeT
+ ## [专访光隆科技：立足自有光芯片产业化半导体全制程工艺平台“中国芯”任重道远](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=QbvTj69rETiuQzyOJVpFdikthw9ToMAvD6zgfiV3kP4SuwsRxJzdtXJYEMlQGFogN9slhkCDlfjSbUh4tgs9dSPBsX8ydTr4sMrkblD0UxslExf6H29SqX7K1d19XuEW&new=1)
  > 导读讯石专访集团董事长彭晖先生，公司基于自有的光芯片产业化半导体全制程工艺平台优势，在科技产业技术创新道路上奋力追赶，力争为中国芯片的崛起贡献自身力量。ICC讯 5月28日，在桂林光隆科技集团股份有限公...
- ## [\[报告\]比亚迪乘用车的布局演变与战术分析(附52页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=apsS3azlc14HyPqUrLP4p3oCrY5PjzlWtj76VZUDojIKKDtD3mea*EEvA4YpCUzTAfdLXBlFchaKqayvRqPAFwTi7*xAqp0b03ZKRvsRnWb9lP1*297bdaEnn6hKGgNi&new=1)
+ ## [\[报告\]比亚迪乘用车的布局演变与战术分析(附52页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=apsS3azlc14HyPqUrLP4p3oCrY5PjzlWtj76VZUDojJger4lvyAtGLPRrHLSQ4C0WVXtGHk9PMIja-HMuqRxWxWff*jWGouANtJ*2oFIMr94-yXrl1P0PkFlsGdBs1wz&new=1)
  > 对于比亚迪这种产业链垂直整合的龙头企业，抓住其核心产品、明确其核心业务是深入研究的首要前提。我们认为，研究比亚迪的关键，就在于它的乘用车业务：1)体量即是实力：整车具有全面的规模优势；2)产品即是广告...
- ## [中国制造300多家企业齐心支持，华为鸿蒙将击败美国的安卓系统](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=9fsYAFNd4OxJvHMcx9SoL4UZcY8iZFrs6SboTmeteMhS5VJ4E59fB15CX-arTNPV9WWqM9CCbNuA1nfWi4TjkekvxqzBzL6Nv*ynP-nft09oN4EbLWlFdDwKruhvppEq&new=1)
+ ## [中国制造300多家企业齐心支持，华为鸿蒙将击败美国的安卓系统](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=9fsYAFNd4OxJvHMcx9SoL4UZcY8iZFrs6SboTmeteMgelwGnV91pVbmH2VFag98Ti1REE54PEmBSC8Fybo7XHsuZhFyC6VMfC-ixjxPRIuhes4ACPqwGZjVV6**uig*W&new=1)
  > 随着鸿蒙系统的发布，中国各方同心协力，决心支持华为的鸿蒙系统击败美国的安卓系统，这体现了中国企业的万众一心，这是中国企业面对谷歌的蛮横首次发出的呐喊。美国的安卓系统已垄断了移动操作系统市场，占有移...
- ## [30亿元设立数字能源公司 华为掘金“比特管理瓦特”](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=0L-3D7d*AOZyzgnNMDiR1WKdXgxuu78b0NL03pdPoSZ0uWbQ2nnquORaxdjWaJhhkUWGAp9sePkJsNeZ6kXObGUYoRbdKYsybDEBQhGHRF8=&new=1)
+ ## [30亿元设立数字能源公司 华为掘金“比特管理瓦特”](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=0L-3D7d*AOZyzgnNMDiR1WKdXgxuu78b0NL03pdPoSac94Mq0SqWVIMaYNO5RJvWV-aeCUYvvvrl8i7-NTnkcBTkUSzdo5ufWg9spC6z9zU=&new=1)
  > □ 凭借30亿元的注册资本，华为数字能源技术有限公司成为华为25家全资子公司中投资数额最大的一家。　　□ 华为判断未来世界将有两大驱动力，一是全球的数字化转型，二是代表着能源革命的“碳中和”，前者必...
- ## [醉翁之意：美国承诺开源5G SA软件堆栈](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=Je8fco1S7RbX9VXps4qxeh*BxAxpgLIsswH*0c5WBIcbRHLUTIArnQ4FTac0L31lwEfOZPzMK5fjYGMF0U5w18EeH2oCXNUV-3pIJLFFWNx-7tbqbo2XoSGO4IZxyhiB&new=1)
+ ## [醉翁之意：美国承诺开源5G SA软件堆栈](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=Je8fco1S7RbX9VXps4qxeh*BxAxpgLIsswH*0c5WBIebKzIVX45vB*MlsESKrG72Vq27hshfIWblKhhBHonoy*RwolVE0OY3cYYqevEM7wgupPW82jsycSIKQWKClW4L&new=1)
  > 据报道，美国先进无线研究平台（Platforms for Advanced Wireless Research,PAWR）近日宣布推出OpenAirX-Labs (OAX) ，这是PAWR项目的一部分。PAWR项目由美国国家科学基金会（NS
- ## [第22届电子封装技术国际会议投稿数量创历史记录](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=dad7-Rxw4oz-wNRpfCul81p-tUgVt*KQJStETZ3*UG81pjHTGS9YmQ6tpi3V1e*Rtgsp2lY44K6YwWyDMlZdURG9lDHyv0HRRxXKC48hdkF6mBxcxffyhNnjl4Q-U*iO&new=1)
+ ## [第22届电子封装技术国际会议投稿数量创历史记录](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=dad7-Rxw4oz-wNRpfCul81p-tUgVt*KQJStETZ3*UG8Mkcbs7Pi5TR6e265tSl73aE1veraggd86IdbRObFCsMydQV5Tn9I7NEYk3lkc9QwQH9*rDbM5pMrqhLBcwTGP&new=1)
  > 广告栏     2021年6月4日，第22届电子封装技术国际会议（ICEPT 2021）预备会议在厦门海沧万豪酒店举行。厦门大学、北京菲尔斯信息咨询有限公司以及厦门半导体投资集团有限公司、中科院微电子所代表以及会议技术...
- ## [发布5日后，华为鸿蒙又有大动作!](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=9i1Be4mcQEHe72DLyFzjPF3uSqt*Z26bYjs9Yg2dbeCXnzhSdujWuyDgQKOorLq7xPW6UY2DB*l3GpOa2R*LWnrTh3Uu9-IN929X1QegjnR2D2DHYE8cp6yGZrHrnL0y&new=1)
+ ## [发布5日后，华为鸿蒙又有大动作!](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=9i1Be4mcQEHe72DLyFzjPF3uSqt*Z26bYjs9Yg2dbeBvkS45MLlA09HUW5PeI7iz6ry2KbLI1KF2y2dhcpuCXlMnETstcYrZn5mRsLAWeSreY-lueZwrnNw6pVAgXSWR&new=1)
  > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨TSknight鸿蒙开源吗？这个问题其实早已有了定论，早在2020年，部分鸿蒙系统的代码就已经在开放原子开源基金会中公开，任何开发者都可以...
- ## [一文读懂700M 5G](http://mp.weixin.qq.com/s?src=11&timestamp=1623117604&ver=3117&signature=dMUI9CZsarNeIkf3Voie8IOR4w9NL4A0WbX-cv0b0PEYJupO5je6J0UjGvc9h2NNSQZPvXycrwD8t4jl9LWLs6RefZpMZV0luFS1l6lQgPzeHviYp7NRcix2uoz-tQ4R&new=1)
+ ## [一文读懂700M 5G](http://mp.weixin.qq.com/s?src=11&timestamp=1623124804&ver=3117&signature=dMUI9CZsarNeIkf3Voie8IOR4w9NL4A0WbX-cv0b0PHf0DuGw8HpGC19NtSB-2GUijZVsyJ1bv3dQgT-1PTvu5NS*so-SXDLhIjvwrsBfbHui18lkRzFTWue9sAQtu*D&new=1)
  > 什么是700MHz频段？2020年4月，中国工信部发布《关于调整700MHz频段频率使用规划的通知》，通知指出将702-798MHz频段频率使用规划调整用于移动通信系统，并将703-743/758-798MHz（2*40MHz）频段规划用于
 # IT 技术 
  ## [花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！](https://blog.csdn.net/zhangay1998/article/details/117648208)
  > 花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！
- ## [我丢，去面试初级Java开发岗位，被问到泛型？](https://blog.csdn.net/wj1314250/article/details/117674889)
- > 我丢，去面试初级Java开发岗位，被问到泛型？
- ## [JavaScript--DOM--JavaScript--DOM里常用的一些方法和属性](https://blog.csdn.net/norang/article/details/117575131)
- > JavaScript--DOM--JavaScript--DOM里常用的一些方法和属性
- ## [『PHP代码审计』PHPOK存在文件上传漏洞](https://blog.csdn.net/Xxy605/article/details/117512930)
- > 『PHP代码审计』PHPOK存在文件上传漏洞
- ## [使用条件委托 ?. 调用 (IDE1005)](https://blog.csdn.net/weixin_38531633/article/details/117403772)
- > 使用条件委托 ?. 调用 (IDE1005)
- ## [面试--查缺补漏](https://blog.csdn.net/qq_36291747/article/details/115408601)
- > 面试--查缺补漏
- ## [6月10日赛灵思系列研讨会火热报名中，帮助您快速上手使用 Kria SOM。！](https://t.csdnimg.cn/Vzlu)
- > 6月10日赛灵思系列研讨会火热报名中，帮助您快速上手使用 Kria SOM。！
- ## [深度学习—近年来流行的卷积神经网络（一）](https://blog.csdn.net/DIPDWC/article/details/117436454)
- > 深度学习—近年来流行的卷积神经网络（一）
- ## [接口测试 — 接口自动化框架的发送邮件实现](https://blog.csdn.net/weixin_50829653/article/details/117671979)
- > 接口测试 — 接口自动化框架的发送邮件实现
+ ## [C++ 一篇文章让你知道智能指针的魅力](https://blog.csdn.net/qq_44443986/article/details/117415950)
+ > C++ 一篇文章让你知道智能指针的魅力
+ ## [C++ 工厂模式 类模板实现](https://blog.csdn.net/qq_44664843/article/details/117620563)
+ > C++ 工厂模式 类模板实现
+ ## [python表白玫瑰花绘制——情人节表白](https://blog.csdn.net/weixin_44044161/article/details/117338282)
+ > python表白玫瑰花绘制——情人节表白
+ ## [C和C++内存管理（new、malloc和free、delete）](https://blog.csdn.net/qq_37857219/article/details/117573255)
+ > C和C++内存管理（new、malloc和free、delete）
+ ## [Android的Handler的常见面试问题总结](https://blog.csdn.net/u012845099/article/details/117563547)
+ > Android的Handler的常见面试问题总结
+ ## [Mil学习之Mapp](https://blog.csdn.net/kakiebu/article/details/117389389)
+ > Mil学习之Mapp
+ ## [软件开发流程知识概括](https://blog.csdn.net/weixin_41005188/article/details/117437354)
+ > 软件开发流程知识概括
  ## [再见了，学术硕士！](https://blog.csdn.net/qing_gee/article/details/117625777)
  > 再见了，学术硕士！
  ## [用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~](https://blog.csdn.net/yunyun889901/article/details/117606176)
  > 用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~
- ## [为了验证自己Java学的如何，爆肝了10万字面试题，开源给大家](https://blog.csdn.net/m0_37907797/article/details/117672460)
- > 为了验证自己Java学的如何，爆肝了10万字面试题，开源给大家
+ ## [基于STM32的机智云平台控制设备开关(物联网)](https://blog.csdn.net/lllmeimei/article/details/117662950)
+ > 基于STM32的机智云平台控制设备开关(物联网)
+ ## [分析了200W行开源鸿蒙源码后，我发现……](https://blog.csdn.net/River_ly/article/details/117673956)
+ > 分析了200W行开源鸿蒙源码后，我发现……
  ## [记录一次真实的接单记录：猫眼电影数据可视化，三个小时完成收入1000](https://blog.csdn.net/lland5201314/article/details/117606268)
  > 记录一次真实的接单记录：猫眼电影数据可视化，三个小时完成收入1000
- ## [【热搜】想卷深度学习必会的10题【最全AI面经】](https://blog.csdn.net/qq_46098574/article/details/117636744)
- > 【热搜】想卷深度学习必会的10题【最全AI面经】
- ## [C语言—实现扫雷游戏（注释详解）](https://blog.csdn.net/weixin_50302770/article/details/117574675)
- > C语言—实现扫雷游戏（注释详解）
+ ## [Python超越Java语言，跃居世界编程语言第2位了！你却还在犹豫学不学Python？](https://blog.csdn.net/dongjinkun/article/details/117555745)
+ > Python超越Java语言，跃居世界编程语言第2位了！你却还在犹豫学不学Python？
+ ## [教你用python爬英雄联盟官网：①掌握爬虫技术；②学会数据可视化](https://blog.csdn.net/weixin_39032019/article/details/117606160)
+ > 教你用python爬英雄联盟官网：①掌握爬虫技术；②学会数据可视化
 # 人工智能 
  ## [曹大带我学 Go（4）—— 初识 ast 的威力](https://blog.csdn.net/qcrao/article/details/117457909)
  > 曹大带我学 Go（4）—— 初识 ast 的威力
@@ -85,6 +91,16 @@ categories: IT NEWS
  ## [Flutter之跨组件状态共享Provider剖析（2）](https://blog.csdn.net/chunqiuwei/article/details/117509458)
  > Flutter之跨组件状态共享Provider剖析（2）
 # PM 
+ ## [社区电商的核心逻辑是什么？如何打造爆款电商APP？](http://www.chanpin100.com/article/116266)
+ > 近几年，社区电商非常火爆，各大互联网巨头也纷纷涌入，阿里、拼多多、京东以及抖音、小红书、快手等等，他们都加入了赛道，开启了激烈的竞争。
+ ## [苹果iOS15正式发布 未来或放宽系统升级限制](http://www.chanpin100.com/article/116269)
+ > 六月八日凌晨，苹果公司举行了全球开发者大会，并正式宣布全新的iOS15系统。苹果在iOS15系统上引入了全新的FaceTime和通知界面，并改进了照片，天气，钱包，地图等应用。
+ ## [助你通关的产品经理面试技巧分享（三）](http://www.chanpin100.com/article/116268)
+ > 你知道产品经理面试中有哪些小技巧可以帮助你过关面试吗？想知道的小伙伴，可以来看看本文“助你通关的产品经理面试技巧分享（三）”中分享的内容！
+ ## [助你通关的产品经理面试技巧分享（二）](http://www.chanpin100.com/article/116263)
+ > 产品经理面试中有哪些小技巧可以帮助面试者通关面试呢？想知道这个问题答案的小伙伴，请看本文“助你通关的产品经理面试技巧分享（二）”中的内容吧！
+ ## [【产品经理免费公开课】社区价值x商业化 小红书内容电商启示录](http://www.chanpin100.com/article/116262)
+ > 小红书，想必各位都不陌生吧！各位产品经理对于它的商业底层和壁垒有没有研究过呢？还有小红书这类产品的社区电商核心逻辑又是什么呢？想知道答案的小伙伴可以报名本期免费公开课“社区价值x商业化 小红书内容电商启示录”，来详细了解一下！
  ## [高度怀疑！印象笔记的产品经理是运营出身](http://www.chanpin100.com/article/116257)
  > 一直以来，产品和运营都是两个独立的工种，可生生被卷成了界限模糊。就连产品面试时，似乎不懂点运营，不会看点数据，都不好意思说是应聘产品经理，甚至面试官都会怀疑，这孙子是不是填错了应聘岗位。
  ## [竞品分析的四个常见错误 你是否有过？（四）](http://www.chanpin100.com/article/116255)
@@ -111,15 +127,5 @@ categories: IT NEWS
  > 在过去的几周中，Nati A​sher一直在工作的初创公司领导高级产品设计师的招聘工作。 这次，她将跳过有关简历和作品集的介绍，为大家讲述一个你经常在面试里遇到，但的确很考验人的情况应该怎样应对，一起来看看吧！
  ## [数据产品经理求职面试回答技巧（四）](http://www.chanpin100.com/article/116243)
  > 要想成为一名产品经理，需要通关的第一步就是通过面试，那么数据产品经理也不例外，我们今天就继续来聊一聊数据产品经理求职面试的一些回答技巧，希望大家都可以把技巧掌握！
- ## [互联网医疗产品经理必须了解的知识之住院业务流程（六）](http://www.chanpin100.com/article/116242)
- > 查房之后紧跟着就是治疗计划了，这部分也是住院业务流程中非常重要的，而且不允许出差错。下面各位医疗产品经理就简单了解一下，熟悉一下治疗计划的内容。
- ## [产品经理技能培训的必要性体现在哪里](http://www.chanpin100.com/article/116241)
- > 市场产品的销售过程看似简单，其实一款好的产品从研发到销售是一个复杂长期过程，只有掌握整个过程和了解市场需求才能达到产品销售目标，而产品经理就是负责这样工作的人群，所以很多这类人都会参加产品经理技能培训，那么这个培训重要性体现在哪里？
- ## [互联网医疗产品经理必须了解的知识之住院业务流程（五）](http://www.chanpin100.com/article/116240)
- > 前面介绍了医嘱的具体内容，这篇文章给大家分享查房的内容。在入院之后，查房是一项非常重要的工作，所以医疗产品经理必须要了解。接下来，我们就具体的看看。
- ## [数据产品经理求职面试回答技巧（三）](http://www.chanpin100.com/article/116239)
- > 根据数据产品经理的能力要求，形成相对固定的面试流程，可以更加结构化，提问问题主线清晰明确，减少东一榔头西一棒子式的提问。那么数据产品经理求职面试的回答技巧都有哪些？下面请看小编的分享。
- ## [职业教育市场不断增长 在线职业培训需求逐渐提升](http://www.chanpin100.com/article/116135)
- > 职业教育是对受教育者施以从事某种职业或生产劳动所必需的知识、技能和职业道德的教育活动，一般分为学历职业教育和非学历职业培训两大类。
 
     
