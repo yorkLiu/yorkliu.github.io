@@ -1,38 +1,38 @@
 ---
 title: 2021-06-08 IT News
 copyright: true
-date: 2021-06-08 08:02:29
+date: 2021-06-08 09:02:31
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国制造300多家企业齐心支持，华为鸿蒙将击败美国的安卓系统](http://mp.weixin.qq.com/s?src=11&timestamp=1623110404&ver=3117&signature=9fsYAFNd4OxJvHMcx9SoL4UZcY8iZFrs6SboTmeteMhS5VJ4E59fB15CX-arTNPVKloIHa8ToRJHhyV2WLKRAYOJB2JMf8NJsGq8STFCREuivEhCLYBXZa3N-nwttsqg&new=1)
- > 随着鸿蒙系统的发布，中国各方同心协力，决心支持华为的鸿蒙系统击败美国的安卓系统，这体现了中国企业的万众一心，这是中国企业面对谷歌的蛮横首次发出的呐喊。美国的安卓系统已垄断了移动操作系统市场，占有移...
- ## [醉翁之意：美国承诺开源5G SA软件堆栈](http://mp.weixin.qq.com/s?src=11&timestamp=1623110404&ver=3117&signature=Je8fco1S7RbX9VXps4qxeh*BxAxpgLIsswH*0c5WBIcbRHLUTIArnQ4FTac0L31lbMea61PbHymNaxqwxxZfGUmwSD4YBG4WylT0ZXwNcMHkY8BJY*ElYCPAd7SQoftX&new=1)
- > 据报道，美国先进无线研究平台（Platforms for Advanced Wireless Research,PAWR）近日宣布推出OpenAirX-Labs (OAX) ，这是PAWR项目的一部分。PAWR项目由美国国家科学基金会（NS
- ## [第22届电子封装技术国际会议投稿数量创历史记录](http://mp.weixin.qq.com/s?src=11&timestamp=1623110404&ver=3117&signature=dad7-Rxw4oz-wNRpfCul81p-tUgVt*KQJStETZ3*UG81pjHTGS9YmQ6tpi3V1e*RxfVfvuSnYjw8E*T5X8OsVA05dgsRQTHfd6Iq1ckCcVX8V4CD1lv87nRfwr6nCgLf&new=1)
+ ## [第22届电子封装技术国际会议投稿数量创历史记录](http://mp.weixin.qq.com/s?src=11&timestamp=1623114005&ver=3117&signature=dad7-Rxw4oz-wNRpfCul81p-tUgVt*KQJStETZ3*UG81pjHTGS9YmQ6tpi3V1e*RjV04WQEMrfjGHBsMZVEiIbFPZyuA2ELOdo055BAXKg1pRI7HVs-u1t1xKODdk*8w&new=1)
  > 广告栏     2021年6月4日，第22届电子封装技术国际会议（ICEPT 2021）预备会议在厦门海沧万豪酒店举行。厦门大学、北京菲尔斯信息咨询有限公司以及厦门半导体投资集团有限公司、中科院微电子所代表以及会议技术...
- ## [发布5日后，华为鸿蒙又有大动作!](http://mp.weixin.qq.com/s?src=11&timestamp=1623110404&ver=3117&signature=9i1Be4mcQEHe72DLyFzjPF3uSqt*Z26bYjs9Yg2dbeCXnzhSdujWuyDgQKOorLq7CW1bLdqR266K2WOCaeJ-Xk874gbyWmhheleEASCrBuvogsmt0fTRROn0d72pfLAe&new=1)
+ ## [发布5日后，华为鸿蒙又有大动作!](http://mp.weixin.qq.com/s?src=11&timestamp=1623114005&ver=3117&signature=9i1Be4mcQEHe72DLyFzjPF3uSqt*Z26bYjs9Yg2dbeCXnzhSdujWuyDgQKOorLq7aVNYIYmntIw4Tnb5Kc--YewXqIeu8Iv21VHVkB1s-upA7FUxOAZvdvRHJekHSY3k&new=1)
  > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容雷科技互联网组编辑丨TSknight鸿蒙开源吗？这个问题其实早已有了定论，早在2020年，部分鸿蒙系统的代码就已经在开放原子开源基金会中公开，任何开发者都可以...
- ## [一文读懂700M 5G](http://mp.weixin.qq.com/s?src=11&timestamp=1623110404&ver=3117&signature=dMUI9CZsarNeIkf3Voie8IOR4w9NL4A0WbX-cv0b0PEYJupO5je6J0UjGvc9h2NNKsfM3-U10FG5rC4qwxNSjIfrizkn5VZvxwgskVQtYEwYSXqenpzS8VWPzX1Lenij&new=1)
+ ## [一文读懂700M 5G](http://mp.weixin.qq.com/s?src=11&timestamp=1623114005&ver=3117&signature=dMUI9CZsarNeIkf3Voie8IOR4w9NL4A0WbX-cv0b0PEYJupO5je6J0UjGvc9h2NNlq0IfxoKzubNh8uWA0Th2TPefQn5PZWebhm8aoJyR3xLk7LprJffiIsz*eHVHCya&new=1)
  > 什么是700MHz频段？2020年4月，中国工信部发布《关于调整700MHz频段频率使用规划的通知》，通知指出将702-798MHz频段频率使用规划调整用于移动通信系统，并将703-743/758-798MHz（2*40MHz）频段规划用于
+ ## [醉翁之意：美国承诺开源5G SA软件堆栈](http://mp.weixin.qq.com/s?src=11&timestamp=1623114005&ver=3117&signature=Je8fco1S7RbX9VXps4qxeh*BxAxpgLIsswH*0c5WBIcbRHLUTIArnQ4FTac0L31llqtjqzFB9jL6rCfOXkZpeViBOoUftTdENpr2RbXjUyb*QSA3DYxSnF3SDYp4e7jn&new=1)
+ > 据报道，美国先进无线研究平台（Platforms for Advanced Wireless Research,PAWR）近日宣布推出OpenAirX-Labs (OAX) ，这是PAWR项目的一部分。PAWR项目由美国国家科学基金会（NS
+ ## [中国制造300多家企业齐心支持，华为鸿蒙将击败美国的安卓系统](http://mp.weixin.qq.com/s?src=11&timestamp=1623114005&ver=3117&signature=9fsYAFNd4OxJvHMcx9SoL4UZcY8iZFrs6SboTmeteMhS5VJ4E59fB15CX-arTNPVgbbLvIfF4-R3eLAf-RF30dM0Nifxyg6PGyeju1UDhcWNBMQusssUMhGQSIGicELn&new=1)
+ > 随着鸿蒙系统的发布，中国各方同心协力，决心支持华为的鸿蒙系统击败美国的安卓系统，这体现了中国企业的万众一心，这是中国企业面对谷歌的蛮横首次发出的呐喊。美国的安卓系统已垄断了移动操作系统市场，占有移...
 # IT 技术 
  ## [花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！](https://blog.csdn.net/zhangay1998/article/details/117648208)
  > 花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！
- ## [盘点golang中的开发神器](https://blog.csdn.net/lkxiaolou/article/details/117436131)
- > 盘点golang中的开发神器
- ## [【力扣笔记62】不同路径](https://blog.csdn.net/bestzy6/article/details/117398351)
- > 【力扣笔记62】不同路径
- ## [Jetpack Compose 架构比较：MVP & MVVM & MVI](https://blog.csdn.net/vitaviva/article/details/117433393)
- > Jetpack Compose 架构比较：MVP &amp; MVVM &amp; MVI
- ## [【python学习】正则表达式入门](https://blog.csdn.net/woodwhale/article/details/117676716)
- > 【python学习】正则表达式入门
- ## [C--运算符（三）](https://blog.csdn.net/weixin_44570949/article/details/117650897)
- > C--运算符（三）
- ## [Z 轴倾斜矫正](https://blog.csdn.net/poorkick/article/details/117532348)
- > Z 轴倾斜矫正
- ## [Vuex状态机快速了解与应用](https://blog.csdn.net/luo1831251387/article/details/117536679)
- > Vuex状态机快速了解与应用
+ ## [C++ 一篇文章让你知道智能指针的魅力](https://blog.csdn.net/qq_44443986/article/details/117415950)
+ > C++ 一篇文章让你知道智能指针的魅力
+ ## [C++ 工厂模式 类模板实现](https://blog.csdn.net/qq_44664843/article/details/117620563)
+ > C++ 工厂模式 类模板实现
+ ## [python表白玫瑰花绘制——情人节表白](https://blog.csdn.net/weixin_44044161/article/details/117338282)
+ > python表白玫瑰花绘制——情人节表白
+ ## [C和C++内存管理（new、malloc和free、delete）](https://blog.csdn.net/qq_37857219/article/details/117573255)
+ > C和C++内存管理（new、malloc和free、delete）
+ ## [Android的Handler的常见面试问题总结](https://blog.csdn.net/u012845099/article/details/117563547)
+ > Android的Handler的常见面试问题总结
+ ## [Mil学习之Mapp](https://blog.csdn.net/kakiebu/article/details/117389389)
+ > Mil学习之Mapp
+ ## [软件开发流程知识概括](https://blog.csdn.net/weixin_41005188/article/details/117437354)
+ > 软件开发流程知识概括
  ## [再见了，学术硕士！](https://blog.csdn.net/qing_gee/article/details/117625777)
  > 再见了，学术硕士！
  ## [用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~](https://blog.csdn.net/yunyun889901/article/details/117606176)
