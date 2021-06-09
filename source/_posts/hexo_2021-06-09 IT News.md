@@ -1,22 +1,28 @@
 ---
 title: 2021-06-09 IT News
 copyright: true
-date: 2021-06-09 09:07:18
+date: 2021-06-09 10:04:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美满电子推出业内首款1.6T以太网PHY](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=ziowoeGxUHMDfkKAQx7JlKKXhFDK4BmOTnsoHj8StCaB*LO4GE0rgK9zpqCqasBT2yZAbIDAt8SM1WSlWP-vr3IzOSkm3YucxSw0fYu954ExlJy5P6kUnihhfJ81051k&new=1)
+ ## [大咖探讨重构的光通讯行业!免费观看2021中华光电学会年度研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=Ug657TMqcF7V38fYr6F44hWIf3krlPvPpA68FmcXJ23MxRLJZSziww2013WCQCPRpgJpBAcLZUE0Iz7K0OewBYU4Imgt*6GS66a1ZbSuGmmiDmfFuet1TZ0C35bKuHcE&new=1)
+ > 导读北京时间6月10日周四早上8点-10点，中华光电学会(PSC)将在OFC2021展会期间，举办2021年度线上研讨会，会议免费注册！诚邀光通讯、光电子行业的企业人士、高校学者观看。ICC讯 2021年6月-10日，第46届光网络...
+ ## [“独角兽”快速成长的奥秘——专访云徙科技CEO包志刚](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=*Bt7DDxYyLwXG6RTVJJ2QEgfg7qyU4cxJuEdc3MmjuQfWGPMWRVNyNTTDvjWcWASN6Qdmk1cwOyu6apEuhfUGCvavst1xypIDTcvJvQmBt16rYzg2kixBGy-hiu*KY3M&new=1)
+ > 2016年成立的云徙科技用一年半时间将营业额做到一个亿，2021年进入独角兽企业。本音频由绘声人工智能技术机器合成作为一家驱动智能商业的中台服务商，云徙科技CEO包志刚在接受《企业管理》杂志专访时表示：前30...
+ ## [美满电子推出业内首款1.6T以太网PHY](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=ziowoeGxUHMDfkKAQx7JlKKXhFDK4BmOTnsoHj8StCaB*LO4GE0rgK9zpqCqasBTGIMnrojEjak5uJRxIr-hk9Woy28lEslyYQ3FCMyIHdJB1SO5gMWkwLBugtwsSiuP&new=1)
  > 近日，美满电子（Marvell）发布了一款基于5nm制程的1.6T以太网PHY解决方案（基于Alaska 88X93160芯片平台），其支持十万兆（100 G）级别的PAM4输入/输出。除了以更节能的方式跨计算、网络、存储移动数据，该新方...
- ## [高通推出强大的领先物联网解决方案组合，专为推动全球众多行业数字化转型打造](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=R-9GKFv40p3VSgsES4OUTzMD9BMO84O5LWSSe6pH2PPapv5n*z81XFNVhF*r-2q-yNm558OXbOUgQo8k8SlVbNfcUvJNzM71ZDg428sSaV72*Y05ECdN-zMIOJ5Lu8DL&new=1)
- > Qualcomm要闻—从入门级至顶级的下一代物联网解决方案，提供先进的边缘AI性能、创新的能效、5G连接功能以及增强的处理与安全特性实现万物互联的愿景，创造了前所未有的机遇。当前，高通技术公司正赋能超过13,000...
- ## [重磅!中国联通又有重要人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=70bIyRUSk8PFIgACMs8WHhcEYlblmU*UDpit5VwEUwCn3Trros7nd5-ljaJ9E0AZR8zWQjKb-I-FSDj3lBcvuyaf1JWFw0*jRtHA9EU21FwiL-eWSmaEIw7*VNKiUbHk&new=1)
+ ## [\[报告\]华为汽车产业链深度研究(附54页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=PX6ObU0D0sl2yRTZUvMAwKyrCtDIrDhUHTDADwoSz6hKPOAVLJrudT4BQGFspP*umdFzjjN-uZ3wiSxBFe37h-9rGKSGQGjb8dqjIqW0cQeCD7vedGfgVoqg4ezm9G8b&new=1)
+ > 智能电动车是未来5-10年汽车行业黄金赛道，电动化先行，智能化紧随，将重塑汽车产业链上下游关系和价值分配，也将培养中国一批具备全球竞争力的优秀企业，带动中国汽车产业链全球崛起。华为凭借30年ICT技术积累...
+ ## [重磅!中国联通又有重要人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=70bIyRUSk8PFIgACMs8WHhcEYlblmU*UDpit5VwEUwCn3Trros7nd5-ljaJ9E0AZYMikOjA2kicxc*nCvFlCGdHhusknH*ipIfvTWuwfgwgtSuBYbUp1qPNqg*p-pSmm&new=1)
  > 据相关信息了解到，中国联通集团处长白福柱、张海涛处长升任集团办公室副主任、党组办公室副主任。吉林联通副总叶晓昱调任联通研究院副院长。白福柱，生于1975年2月，1998年7月毕业于长春邮电学院，2005年4月获...
- ## [智能时代，品牌营销应该做出哪些改变?](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=YIGxawSSqEdjVobftVQlOdEzBzOdMMCy9XjdMt4yS4bApmvfrc6e2T-pZYPZckjB71UaMAQIWx9qEsfdQZ-B7QWKutGfYCLsXPbbzcAe-ftOGuOIjCgErIDlZXT3zYuy&new=1)
+ ## [高通推出强大的领先物联网解决方案组合，专为推动全球众多行业数字化转型打造](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=R-9GKFv40p3VSgsES4OUTzMD9BMO84O5LWSSe6pH2PPapv5n*z81XFNVhF*r-2q-LnCPuYeb*Op8xFh8Gi2fCrxwtLIMsYKDJNrn1piEX1Tvk3SEnnX30OV-6GPpXtnY&new=1)
+ > Qualcomm要闻—从入门级至顶级的下一代物联网解决方案，提供先进的边缘AI性能、创新的能效、5G连接功能以及增强的处理与安全特性实现万物互联的愿景，创造了前所未有的机遇。当前，高通技术公司正赋能超过13,000...
+ ## [智能时代，品牌营销应该做出哪些改变?](http://mp.weixin.qq.com/s?src=11&timestamp=1623204004&ver=3119&signature=YIGxawSSqEdjVobftVQlOdEzBzOdMMCy9XjdMt4yS4bApmvfrc6e2T-pZYPZckjBENA*D9WuIhiICvlhF0QMYTRUM9xCfKgVrG-FSqobQiz6cTWjsRLid8NWfaugPYf3&new=1)
  > &quot;未来，智能化将会颠覆所有过往的传统商业经验。今年来，各大互联网品牌纷纷造车，进入智能造车混战，足以证明未来智能将会成为一种新的商业模式。而且，多个创业者、投资者、品牌管理者都纷纷看好智能产业的发...
 # IT 技术 
- ## [花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！](https://blog.csdn.net/zhangay1998/article/details/117648208)
- > 花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！
+ ## [【前端开发】代码及性能优化大总结 | 请收藏面试看~](https://blog.csdn.net/weixin_43853746/article/details/117593836)
+ > 【前端开发】代码及性能优化大总结 | 请收藏面试看~
  ## [C 各种函数介绍](https://blog.csdn.net/Liu_ChangC/article/details/117416709)
  > C 各种函数介绍
  ## [学习使用Vue必须掌握的开发技巧](https://blog.csdn.net/qq_41402809/article/details/117671910)
@@ -79,6 +85,8 @@ categories: IT NEWS
 # PM 
  ## [社区电商的核心逻辑是什么？如何打造爆款电商APP？](http://www.chanpin100.com/article/116266)
  > 近几年，社区电商非常火爆，各大互联网巨头也纷纷涌入，阿里、拼多多、京东以及抖音、小红书、快手等等，他们都加入了赛道，开启了激烈的竞争。
+ ## [中国国际电子商务中心与易观联合发布全国网络零售发展指数](http://www.chanpin100.com/article/116215)
+ > 中国国际电子商务中心与易观联合发布了2021年一季度“全国网络零售发展指数”，我国网络零售市场规范不断强化，电商各业态持续提质增效，用内容互动提升用户黏性。
  ## [社区电商的未来发展趋势是什么？（二）](http://www.chanpin100.com/article/116295)
  > 在上一篇文章中， 我们给大家分析了一部分有关社区电商未来的发展趋势，接下来本文会继续与大家谈一谈这个话题，希望能给各位想走电商产品经理道路的同学一点指引与帮助。
  ## [社区电商的未来发展趋势是什么？（一）](http://www.chanpin100.com/article/116294)
@@ -111,7 +119,5 @@ categories: IT NEWS
  > 在数字化转型的这个前期阶段过程中，政府往往是相对来说拥有比较多的的数据来源，而且也有比较多的数据应用的场景，然后也有相关的一些数据应用的一些标准等等先倒性的优势
  ## [社区电商平台的发展历程](http://www.chanpin100.com/article/116296)
  > 这篇文章给大家简单介绍一下社区电商平台的发展历程，大家仅作了解，拓展一下知识面也是不错的。
- ## [2021年在线教育热度不减](http://www.chanpin100.com/article/116191)
- > 在线教育是教育行业发展的必然趋势，疫情只是起到了“催化剂”的作用，加速了在线教育行业的发展，推动了在线教育发展的步伐。
 
     
