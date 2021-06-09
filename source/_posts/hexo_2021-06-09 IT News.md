@@ -1,50 +1,50 @@
 ---
 title: 2021-06-09 IT News
 copyright: true
-date: 2021-06-09 08:07:32
+date: 2021-06-09 09:07:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美满电子推出业内首款1.6T以太网PHY](http://mp.weixin.qq.com/s?src=11&timestamp=1623196804&ver=3119&signature=ziowoeGxUHMDfkKAQx7JlKKXhFDK4BmOTnsoHj8StCY3dYaLjBjDi-q6oDyPDzkcVyc2V-tb34virUQ24cjCDyoiDNPQFOW*IFO3ArA9*6O359GN4ltRFjOzU58lB0nN&new=1)
+ ## [美满电子推出业内首款1.6T以太网PHY](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=ziowoeGxUHMDfkKAQx7JlKKXhFDK4BmOTnsoHj8StCaB*LO4GE0rgK9zpqCqasBT2yZAbIDAt8SM1WSlWP-vr3IzOSkm3YucxSw0fYu954ExlJy5P6kUnihhfJ81051k&new=1)
  > 近日，美满电子（Marvell）发布了一款基于5nm制程的1.6T以太网PHY解决方案（基于Alaska 88X93160芯片平台），其支持十万兆（100 G）级别的PAM4输入/输出。除了以更节能的方式跨计算、网络、存储移动数据，该新方...
- ## [高通推出强大的领先物联网解决方案组合，专为推动全球众多行业数字化转型打造](http://mp.weixin.qq.com/s?src=11&timestamp=1623196804&ver=3119&signature=R-9GKFv40p3VSgsES4OUTzMD9BMO84O5LWSSe6pH2PPDj-GFX6q6WaTkCg3ylaw6TitupbeEsnNA0JMWRDY2x4gME0YHdg-mHhO05LRC2cyIbC5hVc2zebSPtlYYVdWu&new=1)
+ ## [高通推出强大的领先物联网解决方案组合，专为推动全球众多行业数字化转型打造](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=R-9GKFv40p3VSgsES4OUTzMD9BMO84O5LWSSe6pH2PPapv5n*z81XFNVhF*r-2q-yNm558OXbOUgQo8k8SlVbNfcUvJNzM71ZDg428sSaV72*Y05ECdN-zMIOJ5Lu8DL&new=1)
  > Qualcomm要闻—从入门级至顶级的下一代物联网解决方案，提供先进的边缘AI性能、创新的能效、5G连接功能以及增强的处理与安全特性实现万物互联的愿景，创造了前所未有的机遇。当前，高通技术公司正赋能超过13,000...
- ## [重磅!中国联通又有重要人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1623196804&ver=3119&signature=70bIyRUSk8PFIgACMs8WHhcEYlblmU*UDpit5VwEUwDhUvG*ZunHwWNVR68OI2dl3EYu-HEcCMmegAz4qDo6aOg8fDiyvWwxpFQesXoK0i4XYiptMKyJgJy1yFUAvzmV&new=1)
+ ## [重磅!中国联通又有重要人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=70bIyRUSk8PFIgACMs8WHhcEYlblmU*UDpit5VwEUwCn3Trros7nd5-ljaJ9E0AZR8zWQjKb-I-FSDj3lBcvuyaf1JWFw0*jRtHA9EU21FwiL-eWSmaEIw7*VNKiUbHk&new=1)
  > 据相关信息了解到，中国联通集团处长白福柱、张海涛处长升任集团办公室副主任、党组办公室副主任。吉林联通副总叶晓昱调任联通研究院副院长。白福柱，生于1975年2月，1998年7月毕业于长春邮电学院，2005年4月获...
- ## [智能时代，品牌营销应该做出哪些改变?](http://mp.weixin.qq.com/s?src=11&timestamp=1623196804&ver=3119&signature=YIGxawSSqEdjVobftVQlOdEzBzOdMMCy9XjdMt4yS4aP6Z7to7bxgY-uH0y5vq6-kz1IPhaZ6HThhCNgu-SshZsnZDPUYRn1NAQK9eOY56SxbTiBdZPsZWupZ8lvSXUg&new=1)
+ ## [智能时代，品牌营销应该做出哪些改变?](http://mp.weixin.qq.com/s?src=11&timestamp=1623200404&ver=3119&signature=YIGxawSSqEdjVobftVQlOdEzBzOdMMCy9XjdMt4yS4bApmvfrc6e2T-pZYPZckjB71UaMAQIWx9qEsfdQZ-B7QWKutGfYCLsXPbbzcAe-ftOGuOIjCgErIDlZXT3zYuy&new=1)
  > &quot;未来，智能化将会颠覆所有过往的传统商业经验。今年来，各大互联网品牌纷纷造车，进入智能造车混战，足以证明未来智能将会成为一种新的商业模式。而且，多个创业者、投资者、品牌管理者都纷纷看好智能产业的发...
 # IT 技术 
  ## [花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！](https://blog.csdn.net/zhangay1998/article/details/117648208)
  > 花一天时间做一个高逼格打飞机游戏，过万字Unity完整教程！漂亮学妹看了直呼打飞机666！
- ## [教妹学Java：从源码来看字符串的不可变性](https://blog.csdn.net/qing_gee/article/details/117591961)
- > 教妹学Java：从源码来看字符串的不可变性
- ## [Linux必知必会的基本命令和部署项目流程](https://blog.csdn.net/qq_43941925/article/details/117379051)
- > Linux必知必会的基本命令和部署项目流程
- ## [【PHP代码审计】MVC开发框架类-审计文件上传](https://blog.csdn.net/weixin_44032232/article/details/113975234)
- > 【PHP代码审计】MVC开发框架类-审计文件上传
- ## [React UI 组件库 Chakra UI - 04全局组件样式配置](https://blog.csdn.net/u012961419/article/details/117660524)
- > React UI 组件库 Chakra UI - 04全局组件样式配置
- ## [Android进阶知识——Android的消息机制](https://blog.csdn.net/ABded/article/details/117372717)
- > Android进阶知识——Android的消息机制
- ## [Node.js+Vue+mysql项目实战入门之环境搭建，项目创建-附github地址](https://blog.csdn.net/weixin_42565135/article/details/117398528)
- > Node.js+Vue+mysql项目实战入门之环境搭建，项目创建-附github地址
- ## [C语言的奇技淫巧（1-50）](https://blog.csdn.net/lianyunyouyou/article/details/117534039)
- > C语言的奇技淫巧（1-50）
+ ## [C 各种函数介绍](https://blog.csdn.net/Liu_ChangC/article/details/117416709)
+ > C 各种函数介绍
+ ## [学习使用Vue必须掌握的开发技巧](https://blog.csdn.net/qq_41402809/article/details/117671910)
+ > 学习使用Vue必须掌握的开发技巧
+ ## [postman的基础操作](https://blog.csdn.net/weixin_44548394/article/details/117449884)
+ > postman的基础操作
+ ## [如何将dede织梦搭建的网站首页index.html去掉？](https://blog.csdn.net/Chihider/article/details/117532193)
+ > 如何将dede织梦搭建的网站首页index.html去掉？
+ ## [【Vue3】优雅地使用 element-ui 中的 table 组件＜一＞](https://blog.csdn.net/qinglingLS/article/details/117521383)
+ > 【Vue3】优雅地使用 element-ui 中的 table 组件＜一＞
+ ## [机器学习期末复习](https://blog.csdn.net/weixin_43638873/article/details/117663815)
+ > 机器学习期末复习
+ ## [C++引用的进一步深入学习](https://blog.csdn.net/feng19870412/article/details/117672314)
+ > C++引用的进一步深入学习
  ## [再见了，学术硕士！](https://blog.csdn.net/qing_gee/article/details/117625777)
  > 再见了，学术硕士！
- ## [鸿蒙到底是不是安卓？](https://blog.csdn.net/daocaokafei/article/details/117676315)
- > 鸿蒙到底是不是安卓？
  ## [13 万字 C 语言从入门到精通保姆级教程2021 年版 （建议收藏）](https://blog.csdn.net/weixin_44617968/article/details/117656810)
  > 13 万字 C 语言从入门到精通保姆级教程2021 年版 （建议收藏）
+ ## [鸿蒙到底是不是安卓？](https://blog.csdn.net/daocaokafei/article/details/117676315)
+ > 鸿蒙到底是不是安卓？
  ## [用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~](https://blog.csdn.net/yunyun889901/article/details/117606176)
  > 用Python找回微信撤回信息，（来自程序员的小骄傲）就算你撤回我也看的到~
  ## [记录一次真实的接单记录：猫眼电影数据可视化，三个小时完成收入1000](https://blog.csdn.net/lland5201314/article/details/117606268)
  > 记录一次真实的接单记录：猫眼电影数据可视化，三个小时完成收入1000
  ## [30 个重要数据结构和算法完整介绍(建议收藏保存)](https://blog.csdn.net/qq_44273429/article/details/117647481)
  > 30 个重要数据结构和算法完整介绍(建议收藏保存)
- ## [【热搜】想卷深度学习必会的10题【最全AI面经】](https://blog.csdn.net/qq_46098574/article/details/117636744)
- > 【热搜】想卷深度学习必会的10题【最全AI面经】
+ ## [教你用python爬英雄联盟官网：①掌握爬虫技术；②Python数据可视化](https://blog.csdn.net/weixin_39032019/article/details/117606160)
+ > 教你用python爬英雄联盟官网：①掌握爬虫技术；②Python数据可视化
 # 人工智能 
  ## [盘点2021年PHP开发工程师遇到的面试题](https://blog.csdn.net/qq175023117/article/details/117281450)
  > 盘点2021年PHP开发工程师遇到的面试题
