@@ -1,20 +1,20 @@
 ---
 title: 2021-06-11 IT News
 copyright: true
-date: 2021-06-11 08:02:52
+date: 2021-06-11 09:01:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [云创大数据携智慧路灯伴侣亮相南京国际半导体博览会](http://mp.weixin.qq.com/s?src=11&timestamp=1623369604&ver=3123&signature=YwQjIK2MvX5Y-CJOOLFuFFbGO6udpucqbQt-jwg52DttJE2kcGuMocj8eHjXdEEmnyBUVhdRQSu-ZN5SRCprLU2u8Xecxr0oLUkLFp9xhbLduCUT7JrktjTrjbkDwAqD&new=1)
+ ## [云创大数据携智慧路灯伴侣亮相南京国际半导体博览会](http://mp.weixin.qq.com/s?src=11&timestamp=1623373204&ver=3123&signature=YwQjIK2MvX5Y-CJOOLFuFFbGO6udpucqbQt-jwg52DurWUK*-NnkctF4tBM611O4Hn89cuyz-5PXvScWGnlFjAM3VFYtpvVxln-2aA2SgJSMSI0R8WbGuydbtwvu*mDu&new=1)
  > 6月9日上午，2021世界半导体大会暨南京国际半导体博览会在南京国际博览中心举行。江苏省委常委、南京市委书记韩立明，工业和信息化部电子信息司司长乔跃山，中国半导体行业协会常务副理事长、中国电子信息产业发...
- ## [智美天府 蜀赢未来：懂行2021·华为四川数字峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1623369604&ver=3123&signature=aDhA-NvR6vhpkNOK6Ub47z*DAD85mtTyjPGJqwtXy3MehdA3tOnFRE5PeK2LHqHjPiSV0M9h*9ye4piA7ICkdfORyZURqB7ucx8E5Pgl7qNVsAmJT2FtgMFw6CCHQBTS&new=1)
+ ## [智美天府 蜀赢未来：懂行2021·华为四川数字峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1623373204&ver=3123&signature=aDhA-NvR6vhpkNOK6Ub47z*DAD85mtTyjPGJqwtXy3Pr3AAGMkH9qFwpnai*L28EYMCARSpM3nvF58wATi5PaTzmmZQA8HCfL-smbWeE4TOHPfElyIL9iuylV*vfWJZd&new=1)
  > 6月10日，以“智美天府 蜀赢未来”为主题，懂行2021·华为四川数字峰会在成都成功举办。省委常委、副省长李云泽，省政府有关副秘书长出席峰会。来自四川各界的政企代表、专家学者、合作伙伴相聚锦绣天府、美丽蓉...
- ## [华为独自硬扛谷歌和特斯拉两家美国企业](http://mp.weixin.qq.com/s?src=11&timestamp=1623369604&ver=3123&signature=BYV3Dq6FMYiEtZ7s6O-VLA*xI6LgyVZ9SClgVg7yvW5FAiEZrk*wNrIC1WmG-66RkJDldNPWJ5bmK5YkJkOpHw1WIAZUyixOU32QwgDNAw9vtaOIM4r6rXODvubRIUre&new=1)
+ ## [华为独自硬扛谷歌和特斯拉两家美国企业](http://mp.weixin.qq.com/s?src=11&timestamp=1623373204&ver=3123&signature=BYV3Dq6FMYiEtZ7s6O-VLA*xI6LgyVZ9SClgVg7yvW4hquZzoV5qgoDD5ZVpAQIIAdae6oEM5sBBEDZoFnornxtj4VTW647179VMrt1G5DvJDud3sUNzSHq3yaFOoKlS&new=1)
  > 第十三届中国汽车蓝皮书论坛6月10日在合肥举行，在此次论坛上披露了搭载鸿蒙车机系统的北汽极狐阿尔法S的HI版，这是全球第一款商用鸿蒙车机系统的车型，此前鸿蒙系统已用于华为智慧屏和华为手机上。华为的鸿蒙系...
- ## [长安链重大突破!推全球首款自主可控 96 核区块链芯片，50家央国企等机构共建长安链协作网络](http://mp.weixin.qq.com/s?src=11&timestamp=1623369604&ver=3123&signature=JpzFHtLa0oFa3uqUt3L0DpgcM-5e5l5kadJnXhOe*U5*1gahTkzPx-dNcPo44t0cDmtsNljYdnV9RPteJlSTRXaAOyEgUB6b0H3cAmyajtxdjBIZUfSW8SA1q9tLysUv&new=1)
+ ## [长安链重大突破!推全球首款自主可控 96 核区块链芯片，50家央国企等机构共建长安链协作网络](http://mp.weixin.qq.com/s?src=11&timestamp=1623373204&ver=3123&signature=JpzFHtLa0oFa3uqUt3L0DpgcM-5e5l5kadJnXhOe*U7xyBMr1-2XVm*tf4DUvztK-U4urHjV1IjUlhjrkOfNDtlorP2JmhzH0y7IH2bFyeasBhQI31qsp3BNq5VPa2AG&new=1)
  > 区块链交易性能提升50倍。作者 | 高歌编辑 | 漠影中国人何时能有自己的“芯”和“链”？今天有了答案。智东西6月10日报道，今天上午，全球首款96核区块链专用加速芯片在北京首次亮相。一同亮相的还有多个重要社...
- ## [大科技王者归来，还可以买什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1623369604&ver=3123&signature=-qoC43xV2S6ctJdo0GOp70c3wfHkbZq72-PTwJBOK4Ld4PhPmLu9Iw8IYbWOCfdxrrgoyhECxapboRM09vH*ns4Twy3M*6IzgZuCA7ONfD8dtl16xI3UOi-GmOYFS*AP&new=1)
+ ## [大科技王者归来，还可以买什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1623373204&ver=3123&signature=-qoC43xV2S6ctJdo0GOp70c3wfHkbZq72-PTwJBOK4LHRmF3OL7B4Krg2jD5EVvaSBpBpk0uCZw5qFsgz4N05kEIR2mTas91CedAcP8LSUXjC5zMSZ4*RVB-zNMg5si4&new=1)
  > 大家好，我是二姐，一个每天捶你起来赚钱的女人。今年的上半年，属于碳中和引领下的周期&amp;公用事业板块。今年的下半年，属于鸿蒙引领下的信创科软&amp;大军工。这两周跟大家吹过的高端制造牛皮，都逐步得到了兑现～  ...
 # IT 技术 
  ## [奉劝那些刚参加工作的学弟学妹们：要想进大厂，这些核心技能是你必须要掌握的！完整学习路线！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/116081409)
@@ -35,10 +35,10 @@ categories: IT NEWS
  > 一个普通java程序员的10年...泪奔 o(╥﹏╥)o o(╥﹏╥)o
  ## [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）](https://blog.csdn.net/weixin_44318830/article/details/116402369)
  > 00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 8 条人生建议（建议收藏）
- ## [在校大学生如何用编程赚钱？| 我的大学赚钱之路](https://blog.csdn.net/harvic880925/article/details/117748448)
- > 在校大学生如何用编程赚钱？| 我的大学赚钱之路
  ## [作为计算机专业学生，最应该学习的课程前五位是什么？](https://blog.csdn.net/kexuanxiu1163/article/details/117783246)
  > 作为计算机专业学生，最应该学习的课程前五位是什么？
+ ## [在校大学生如何用编程赚钱？| 我的大学赚钱之路](https://blog.csdn.net/harvic880925/article/details/117748448)
+ > 在校大学生如何用编程赚钱？| 我的大学赚钱之路
  ## [如果编程语言是一门武功绝学](https://blog.csdn.net/weixin_41055260/article/details/117164747)
  > 如果编程语言是一门武功绝学
  ## [10行代码集2000张美女图，Python爬虫120例，再上征途](https://blog.csdn.net/hihell/article/details/117024328)
